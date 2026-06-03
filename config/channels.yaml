@@ -856,6 +856,18 @@ channels:
       - tivibu:ch00000000000000001230
       - tvyayinakisi:show-tv
 
+  tr.showmax:
+    name: "Show Max"
+    sources:
+      - yayinakisi:https://www.showmax.com.tr/yayin-akisi
+      - tvyayinakisi:show-max
+
+  tr.showturk:
+    name: "Show Turk"
+    sources:
+      - yayinakisi:https://www.showturk.com.tr/yayin-akisi
+      - tvyayinakisi:show-turk
+
   tr.sinema1001:
     name: "Sinema 1001"
     sources:
@@ -1560,9 +1572,6 @@ channels:
     name: "Kanal 6"
     sources:
       - staticschedule:tr.kanal6
-  tr.nowtv:
-    name: "Nowtv"
-    sources: []
   tr.tgrtbelgesel:
     name: "Tgrtbelgesel"
     sources: []

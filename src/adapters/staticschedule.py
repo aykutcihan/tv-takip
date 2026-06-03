@@ -21,7 +21,7 @@ from adapters.base import BaseAdapter
 from models import Programme
 from normalize import ist
 
-DE_TZ = tz.gettz("Europe/Berlin")    # Almanya saati (yaz/kış otomatik)
+DE_TZ  = tz.tzoffset("CET", 3600)    # Sabit UTC+1 (Kanal Avrupa yayın saati)
 IST_TZ = tz.gettz("Europe/Istanbul")
 
 # Gün numarası: 0=Pazartesi, 1=Salı, ..., 6=Pazar

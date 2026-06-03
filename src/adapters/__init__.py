@@ -12,6 +12,7 @@ from adapters.dosttv import DostTvAdapter
 from adapters.powerapp import PowerAppAdapter
 from adapters.dreamturk import DreamTurkAdapter
 from adapters.trtradyo import TRTRadyoAdapter
+from adapters.yayin_akisi import YayinAkisiAdapter
 
 
 def build_registry(session=None):
@@ -29,6 +30,7 @@ def build_registry(session=None):
         PowerAppAdapter(session),
         DreamTurkAdapter(session),
         TRTRadyoAdapter(),
+        YayinAkisiAdapter(session),
     ]
     return {a.prefix: a for a in insts}
 
