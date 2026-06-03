@@ -117,10 +117,16 @@ def main():
         all_progs = [p for p in all_progs if p.channel_id in playlist_ids]
         print(f"Playlist filtresi: {len(channels)} kanal, {len(all_progs)} program kaldi")
 
+    logos_path = ROOT / "config" / "logos.yaml"
+    logo_map = {}
+    if logos_path.exists():
+        logo_map = yaml.safe_load(logos_path.read_text(encoding="utf-8")).get("logos", {})
+
     xml = write_xmltv(
         channels, all_progs,
         tz_offset=settings.get("tz_offset", "+0300"),
-        generator=settings.get("generator_name", "kisisel-epg"))
+        generator=settings.get("generator_name", "kisisel-epg"),
+        logo_map=logo_map)
 
     out = ROOT / settings.get("output_path", "epg.xml")
     out.write_text(xml, "utf-8")

@@ -33,9 +33,6 @@ jobs:
       - name: YouTube stream güncelle
         run: python3 src/refresh_youtube.py
 
-      - name: Logo sync
-        run: python3 src/sync_logos.py
-
       - name: EPG üret
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}

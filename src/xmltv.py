@@ -14,7 +14,9 @@ def _el(tag, text, lang="tr"):
 def write_xmltv(channels: List[Channel],
                 programmes: List[Programme],
                 tz_offset: str = "+0300",
-                generator: str = "kisisel-epg") -> str:
+                generator: str = "kisisel-epg",
+                logo_map: dict | None = None) -> str:
+    logo_map = logo_map or {}
     lines = ['<?xml version="1.0" encoding="UTF-8"?>\n']
     lines.append(f'<tv generator-info-name="{escape(generator)}">\n')
 
@@ -22,6 +24,9 @@ def write_xmltv(channels: List[Channel],
     for ch in sorted(channels, key=lambda c: c.id):
         lines.append(f'  <channel id="{escape(ch.id)}">\n')
         lines.append(f'    <display-name>{escape(ch.name)}</display-name>\n')
+        logo = logo_map.get(ch.id, '')
+        if logo:
+            lines.append(f'    <icon src="{escape(logo)}"/>\n')
         lines.append('  </channel>\n')
 
     # programlar (kanal, start'a göre sıralı -> deterministik)
