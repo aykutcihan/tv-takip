@@ -214,7 +214,7 @@ https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=u27fChT8b9fjpfQ2P7jt8g&e=17
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536861/ei/vYEgau3vCu2H6dsP6rvZmAc/ip/31.21.186.28/id/5ovykCkBWfU.10/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwrTLsnqKjCzGUEUvZwfCt6y9oPNkExdWkrh1SqFy8tBzNVxQxiZwA-lK3j_PGXmmAHlvjXXUCWQ/spc/96Xrv0iea7U9i-K4JS7akf5N5NiqiFRnaVnXxpBFFgc5M8ok-Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515261,/mh/S8/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgG_eg4owtoM190HrmgDDLFbsrU0Sd46Bl7LFPTsTs1B0CICmgczwlOb0mR0AJzCx6oYR9cwe5ACzfyLyFnNPwXzSS/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgOyv-006k9c_s6xx-h9vNaOD0zPincrZvI4JhdNtylnACIQCNjfjAYB0mUUGeh_8_IY7Uy6sXoY6GVKVWEVrd26qgbA%3D%3D/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="",FİNANSTÜRK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" tvg-id="",FİNANSTÜRK
 # source: diger
 https://yayin30.haber100.com/live/finansturk/chunklist_w377520896.m3u8
 
@@ -251,13 +251,13 @@ https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?app=c98ab0b0-50cc-
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 
 
-#EXTINF:-1 tvg-id="",Mavi Kadeniz Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/mavi-karadeniz-tr.png" tvg-id="",Mavi Kadeniz Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/mavikaradeniz.m3u8?tkn=yy0Uy8rCZOImiij-_AsUYw&tms=1780533105&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=mavi-kadeniz-tv
 
 
 
-#EXTINF:-1 tvg-id="",MK HABER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrMn5rgQ/mktv.png" tvg-id="",MK HABER
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 
@@ -287,7 +287,7 @@ https://cdn506.tvkulesi.com/trthaber.m3u8?tkn=G4U3smClS2Izbf-y6ITWEw&tms=1780532
 # source: trt
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="",TÜRK HABER
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/7b8dbf43-064f-4458-9c93-71089eaf493b.png" tvg-id="",TÜRK HABER
 # source: socialsmart
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
@@ -361,12 +361,12 @@ https://cdn900.tvkulesi.com/tvnet.m3u8?tkn=4YzFrtiN6bLKNAB1as4few&tms=1780533049
 
 
 
-#EXTINF:-1 tvg-id="",CAN
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f648574b-3fcd-4e1e-b1ea-22c65e4906a9.png" tvg-id="",CAN
 # source: diger
 http://canbroadcast.com:7000/canlican/tv.m3u8
 
 
-#EXTINF:-1 tvg-id="",HABER61 TRABZON
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/d1369b16-75de-49dd-893f-8a197d7b1130.png" tvg-id="",HABER61 TRABZON
 # source: yayin
 https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 
@@ -461,11 +461,11 @@ https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536931/ei/A4Igas_rL_LZi9oPuY7iyAo/ip/31.21.186.28/id/GRLd2oYZFnM.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwopnPHecB-SB5iie0s8aalAxCrlHBUjrHk1xllL_ryKiXmS4Bd9t4-G4xsUr8DP5ImKez8KWQp-/spc/96Xrv1RtGHfZC8SIiFO6wV_ktoWgyiYnDGatJ6tkARVP_VA0yw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515331,/mh/cX/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgfPsrTz6ZEEoN49oVxaUMAQK67qUoiHOynlm8ZMSsEfECIQCcPUio3-p3hcsBzbUXWp3assvhyvNubK8qGoQ5V1pYpQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgE_ZalwVzYTDMyflEUx_6QEvMRuhQRstJYJia554svtgCIHX0KM5oFiSIOTjF9FzdnJxFmgVCke6DaZNFFgQIx45i/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="",KANAL-53
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/9eb1d0e2-2e57-468d-ae02-c208d98d55d9.png" tvg-id="",KANAL-53
 # source: diger
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="",MOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png" tvg-id="",MOR
 # source: euromedia
 https://live.euromediacenter.com/tvmor/index.m3u8
 
@@ -475,11 +475,11 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536877/ei/
 
 
 
-#EXTINF:-1 tvg-id="",TOPRAK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" tvg-id="",TOPRAK
 # source: diger
 http://188.245.211.255:1935/canlitv/topraktv.stream/playlist.m3u8?hash=b2af21dbc448fa5061951177c2a92134
 
-#EXTINF:-1 tvg-id="",KÖY
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png" tvg-id="",KÖY
 # source: diger
 http://188.245.211.255:1935/canlitv/koytv.stream/playlist.m3u8?hash=b2af21dbc448fa5061951177c2a92134
 
@@ -558,7 +558,7 @@ http://54.36.110.140/live3/live3.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_sutv/sutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Yıldız En Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/yildiz-en-tv-tr.png" tvg-id="",Yıldız En Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/yildiztv.m3u8?tkn=qhaPcNT2SjFf5xw8U-1HzA&tms=1780533033&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=yildiz-en-tv
 
@@ -571,7 +571,7 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",Ekin Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ekin-tv-turk-tr.png" tvg-id="",Ekin Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/ekintv.m3u8?tkn=L_148CsynigaFmg8fRj4vw&tms=1780533078&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ekin-tv
 
@@ -638,7 +638,7 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 
 # ── FILM ────────────────────────────
-#EXTINF:-1 tvg-id="",RİZE TÜRK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/3ffb891c-b700-4d7a-8c47-b9aaa732caa5.jpeg" tvg-id="",RİZE TÜRK
 # source: diger
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
@@ -660,7 +660,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536914/ei/
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536909/ei/7YEgavrCOZHZi9oP-_yvgA4/ip/31.21.186.28/id/tWWFY5lf1U0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwru9cSbxBP_PXbFB4zp6uuPoTwgakel19vGnQaB1o3oaaGlwWRirqM0Xyw8PU9OjeW28yLJyzDb/spc/96Xrv6s6JZfT3bBC7WhwU-iOvk0GHZEAWqbe-MJD-gJibkPfeA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3962500/met/1780515310,/mh/q5/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/1/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAJTq-wb9pwzzYMMQj0ZhryCwkbztZRcJNWbAzhqoRXbnAiEA9lrzrTlqfEowlUCRjxtwtUClbjgCb4sDWnbYHF_fzTU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgCQ9Z_Mbchv-almnj70GLlWl8eDkrAUcEpvmJl9jK1-wCIDiKn38mTceGPrtSUQEJEgXt52u91J7Sw2_4YeFgPXQm/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="",Şaban Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/Kemal_Sunal_logo.svg/200px-Kemal_Sunal_logo.svg.png" tvg-id="",Şaban Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/sabantv.m3u8?tkn=vxw1h-abkEZlDtrp9clksg&tms=1780532926&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=saban-tv
 
@@ -728,15 +728,15 @@ http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=b2af21db
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 
 # ── DINI ────────────────────────────
-#EXTINF:-1 tvg-id="",Mekke Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",Mekke Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kabetv.m3u8?tkn=YUs5TogAzRPS7MoPgLI4vw&tms=1780533068&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=mekke-tv
 
-#EXTINF:-1 tvg-id="",Kabe Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",Kabe Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kabetv.m3u8?tkn=lyTeGWHnEXcQu8Bor07-qw&tms=1780533062&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kabe-tv
 
-#EXTINF:-1 tvg-id="",Sunnah tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",Sunnah tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/sunnahtv.m3u8?tkn=NzWMiNSpDiAwMvtQlPHZAw&tms=1780533065&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=sunnah-tv
 
@@ -756,15 +756,15 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 # source: mediatriple
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Gonca Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lalegül_TV_logo.svg/200px-Lalegül_TV_logo.svg.png" tvg-id="",Gonca Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/goncatv.m3u8?tkn=dHkT2eLgxJCVmLxQ07tjvw&tms=1780533110&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=gonca-tv
 
-#EXTINF:-1 tvg-id="",İKRA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",İKRA
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ILAHI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",ILAHI
 # source: diger
 https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8
 
@@ -784,44 +784,44 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",ADIYAMAN MERCAN
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/acbd241d-4a57-47b0-997c-d82e6f869e98.png" tvg-id="",ADIYAMAN MERCAN
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="",AFRO TURK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/dream-turk-tr.png" tvg-id="",AFRO TURK
 # source: socialsmart
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",AFYONKARAHİSAR KANAL 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eXErSv0.png" tvg-id="",AFYONKARAHİSAR KANAL 3
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="",Aksaray ART Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Aksaray ART Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/aksarayart.m3u8?tkn=9qMaTzsvTQQwOAcpw3p_Nw&tms=1780533095&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=aksaray-art-tv
 
-#EXTINF:-1 tvg-id="",AKSU KAHRAMANMARAŞ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/d81bdb8a-5ba3-4eb9-bbae-f3b323c79f60.png" tvg-id="",AKSU KAHRAMANMARAŞ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ALANYA POSTA ANTALYA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/e1e20ac4-fc50-4c80-87a8-c85f100f5cfb.png" tvg-id="",ALANYA POSTA ANTALYA
 # source: yayin
 https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ALTAS ORDU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",ALTAS ORDU
 # source: socialsmart
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ANADOLU NET KAYSERİ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/2befe401-b51c-42f5-b750-a8e4d8b085a4.png" tvg-id="",ANADOLU NET KAYSERİ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 
-#EXTINF:-1 tvg-id="",ANTALYA DİM ALANYA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/ce326dc3-6050-4712-a4cd-d056e835b1c7.png" tvg-id="",ANTALYA DİM ALANYA
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ANTALYA KANAL V
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/0c455b18-ce0f-435f-be77-4416d112918e.png" tvg-id="",ANTALYA KANAL V
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 
@@ -833,15 +833,15 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",AYDIN TV-DEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",AYDIN TV-DEN
 # source: diger
 https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1 tvg-id="",BALKAN TÜRK İZMİR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",BALKAN TÜRK İZMİR
 # source: euromedia
 https://live.euromediacenter.com/balkanturktv/index.m3u8
 
-#EXTINF:-1 tvg-id="",BİR İZMİR
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/2c328b60-0d49-4bfd-b5df-a7528957ae6c.png" tvg-id="",BİR İZMİR
 # source: socialsmart
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 
@@ -849,7 +849,7 @@ https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",BRTV KARABÜK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/5702a0f6-7b78-4645-bacf-516f63fed0b7.png" tvg-id="",BRTV KARABÜK
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 
@@ -862,12 +862,12 @@ https://cdn900.tvkulesi.com/brt1.m3u8?tkn=4Rg9gYTEZ6NLSi4J7KPiGQ&tms=1780533019&
 # source: tvkulesi
 https://cdn900.tvkulesi.com/brt2.m3u8?tkn=lvxUkFtH47Je6Hh3iseUCA&tms=1780533116&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=brt-2-tv
 
-#EXTINF:-1 tvg-id="",ÇAY RİZE
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/0539d847-8740-42dc-be86-8e1fe7bc5aa2.png" tvg-id="",ÇAY RİZE
 # source: socialsmart
 https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="",DENİZ POSTASI KAYSERİ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",DENİZ POSTASI KAYSERİ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
@@ -876,17 +876,17 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",BURDUR KANAL-15
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/906cf95e-e70e-4fb2-b03c-fee6f0d292ad.png" tvg-id="",BURDUR KANAL-15
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",ELAZIĞ KANAL FIRAT
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f00f1472-e8e7-4f30-b9e3-fb4376a43aac.png" tvg-id="",ELAZIĞ KANAL FIRAT
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",Er Tv Malatya
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="",Er Tv Malatya
 # source: tvkulesi
 https://cdn900.tvkulesi.com/ertv.m3u8?tkn=m0qoIQh8nxzp2-OfmopizA&tms=1780437856&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=malatya-er-tv
 
@@ -894,19 +894,19 @@ https://cdn900.tvkulesi.com/ertv.m3u8?tkn=m0qoIQh8nxzp2-OfmopizA&tms=1780437856&
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ERCİYES KAYSERİ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8cbd6897-e2bd-479d-adbc-dca66071adea.PNG" tvg-id="",ERCİYES KAYSERİ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ERT Erbaa TOKAT
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1dfac191-0690-45a8-8696-ae9117cb3cb4.png" tvg-id="",ERT Erbaa TOKAT
 # source: diger
 http://stream.tvcdn.net/yerel/ert-erbaa.m3u8
 
-#EXTINF:-1 tvg-id="",ERZINCAN GURBET-24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",ERZINCAN GURBET-24
 # source: yayin
 http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ES ESKİŞEHİR
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/b72fcc30-33ee-4b0f-a941-74a2c3502fb9.png" tvg-id="",ES ESKİŞEHİR
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
 
@@ -915,46 +915,46 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ESENLER ŞEHİR İSTANBUL
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/d2c0564b-1b54-4309-bcdd-431f17f66e8d.jpg" tvg-id="",ESENLER ŞEHİR İSTANBUL
 # source: diger
 https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ETV KAYSERİ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/537bd1f7-01d3-4afc-93ea-819a4ee26393.png" tvg-id="",ETV KAYSERİ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="",ETV MANISA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/215cb110-1ffa-4f64-923f-b3969e482ced.png" tvg-id="",ETV MANISA
 # source: socialsmart
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",Edessa Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/edessa-tv-tr.png" tvg-id="",Edessa Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/edessatv.m3u8?tkn=KkWbCLYiWAyc14cNvIGO3w&tms=1780533119&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=edessa-tv
 
 
-#EXTINF:-1 tvg-id="",FRT FETHİYE MUĞLA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" tvg-id="",FRT FETHİYE MUĞLA
 # source: socialsmart
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",GÖLÜ VAN
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/563b6c56-aa50-4c1b-a202-8024c43d5ed1.png" tvg-id="",GÖLÜ VAN
 # source: yayin
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="",BRÜKSEL TÜRK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",BRÜKSEL TÜRK
 # source: euromedia
 https://live.euromediacenter.com/brukselturk/index.m3u8
 
-#EXTINF:-1 tvg-id="",KARDEŞ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",KARDEŞ
 # source: diger
 http://yayin25.canliyayin.org:1935/live/kardestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",EU VİYANA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",EU VİYANA
 # source: diger
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
@@ -964,11 +964,11 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",Gözde Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Gözde Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/gozdetv.m3u8?tkn=P_KBwhuJI4HdU0MXV4Ms4w&tms=1780533089&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=gozde-tv
 
-#EXTINF:-1 tvg-id="",GRT GAZİANTEP
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8364e951-2aa7-4e58-9579-69eac7d56cd2.png" tvg-id="",GRT GAZİANTEP
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 
@@ -976,7 +976,7 @@ https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",GÜNEYDOĞU ŞANLIURFA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",GÜNEYDOĞU ŞANLIURFA
 # source: socialsmart
 https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 
@@ -987,33 +987,33 @@ http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",HRT hatay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/hrt-akdeniz-tr.png" tvg-id="",HRT hatay
 # source: tvkulesi
 https://cdn900.tvkulesi.com/hrtv.m3u8?tkn=dqWUeO6BKmCletvLPGIArA&tms=1780442029&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=hr-live
 
 
 
 
-#EXTINF:-1 tvg-id="",HUNAT KAYSERİ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/107b5f4f-3336-4d15-8dba-1a4529e40301.webp" tvg-id="",HUNAT KAYSERİ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="",İÇEL MERSİN
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/7213d1c6-5110-4d15-908a-ae917d76418a.jpg" tvg-id="",İÇEL MERSİN
 # source: socialsmart
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",İZMİR TIME-35
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",İZMİR TIME-35
 # source: yayin
 https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",K+ KAYSERİ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",K+ KAYSERİ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 
@@ -1050,7 +1050,7 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",Kanal 42
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png" tvg-id="",Kanal 42
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv42.m3u8?tkn=96Fjg_48z_eo3HPpFvf1hg&tms=1780533086&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-42
 
@@ -1067,7 +1067,7 @@ https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KANAL URFA ŞANLIURFA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8ef995b2-0b34-4541-b396-bfe826d4f271.png" tvg-id="",KANAL URFA ŞANLIURFA
 # source: socialsmart
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 
@@ -1079,45 +1079,45 @@ https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KANAL-26 ESKİŞEHİR
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/fc74dba3-be84-48bd-a1fc-06a06e7037cc.png" tvg-id="",KANAL-26 ESKİŞEHİR
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 
-#EXTINF:-1 tvg-id="",KANAL-32 ISPARTA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8f937d9e-b63c-4110-b734-fc6cfc11a6e8.png" tvg-id="",KANAL-32 ISPARTA
 # source: socialsmart
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KANAL-33 MERSİN
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/3045a8ca-99c6-45ac-835f-44e99e3f0e6b.png" tvg-id="",KANAL-33 MERSİN
 # source: socialsmart
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KANAL-34 İSTANBUL
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/dd542b6c-6472-4661-90af-016c86db6aca.png" tvg-id="",KANAL-34 İSTANBUL
 # source: euromedia
 https://live.euromediacenter.com/kanal34/index.m3u8
 
 
-#EXTINF:-1 tvg-id="",KANAL-58 SİVAS
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/61ca9d01-b1cc-4163-8ceb-4e51ad1d4f70.png" tvg-id="",KANAL-58 SİVAS
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KARDELEN ERZURUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",KARDELEN ERZURUM
 # source: socialsmart
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KAY KAYSERİ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/c9bb4b89-2609-45ca-9f3b-01c66084a559.png" tvg-id="",KAY KAYSERİ
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",KAYSERİ LIFE
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/9a5fc361-21cb-40f8-afa9-bf3ca70a5caf.png" tvg-id="",KAYSERİ LIFE
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KAYSERİ OLAY TÜRK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/50ce8374-a8fe-477a-8bb0-d9001967148a.png" tvg-id="",KAYSERİ OLAY TÜRK
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KAYSERİ TV-1
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/f843631d-b47b-4476-8cad-914f2adc4133.png" tvg-id="",KAYSERİ TV-1
 # source: socialsmart
 https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 
@@ -1131,7 +1131,7 @@ https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kibrisgenctv.m3u8?tkn=uPHs7OEgv9xDV64-HZCuWg&tms=1780532948&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kibris-genc-tv
 
-#EXTINF:-1 tvg-id="",KIBRIS KK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" tvg-id="",KIBRIS KK
 # source: diger
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
@@ -1139,11 +1139,11 @@ http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kibristv.m3u8?tkn=2jp1nyY9Li1ZasyjXv-VLA&tms=1780532951&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kibris-tv
 
-#EXTINF:-1 tvg-id="",KOCAELİ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/af084b20-c036-4884-91ff-3ca3accec3ab.png" tvg-id="",KOCAELİ
 # source: socialsmart
 https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="",KOCAELİ TV-41
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/de6c8885-b1ca-41d8-8e96-67e32cc7a881.png" tvg-id="",KOCAELİ TV-41
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
 
@@ -1151,11 +1151,11 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kontv.m3u8?tkn=wMjCRcD1If5cqGHD6ttEEw&tms=1780532954&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kon-tv
 
-#EXTINF:-1 tvg-id="",KONYA KTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",KONYA KTV
 # source: yayin
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",KONYA OLAY
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/fda805fb-82ec-493a-9d92-6b7cc6eaeb48.jpg" tvg-id="",KONYA OLAY
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
@@ -1169,11 +1169,11 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",LINE BURSA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/bf3f550c-2235-4bb1-a842-6d0a38df0a90.png" tvg-id="",LINE BURSA
 # source: socialsmart
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Manisa Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/manisa-tv-tr.png" tvg-id="",Manisa Tv
 # source: tvkulesi
 https://cdn505.tvkulesi.com/manisatv.m3u8?tkn=62zSryq4Gd2ns1RBw50-4Q&tms=1780533084&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=manisa-tv
 
@@ -1193,7 +1193,7 @@ https://cdn505.tvkulesi.com/manisatv.m3u8?tkn=62zSryq4Gd2ns1RBw50-4Q&tms=1780533
 
 
 
-#EXTINF:-1 tvg-id="",MUĞLA TÜRK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/47deb27a-c05d-42b1-9622-4cfed00f6f9b.png" tvg-id="",MUĞLA TÜRK
 # source: socialsmart
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
@@ -1201,32 +1201,32 @@ https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",MERSİN SUN RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",MERSİN SUN RTV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="",METROPOL DENİZLİ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/4201374b-528e-4f2b-b4ee-5b13091766b6.png" tvg-id="",METROPOL DENİZLİ
 # source: socialsmart
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ŞANLIURFA UR FANATİK
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/232aa8e5-a3c8-49b3-b54d-2a4a21ef04d1.png" tvg-id="",ŞANLIURFA UR FANATİK
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",OBB ORDU
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/dcde5345-2b03-4146-9952-06bc60ef5238.png" tvg-id="",OBB ORDU
 # source: yayin
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ON4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6B8M20v/on422.png" tvg-id="",ON4
 # source: socialsmart
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ORDU TV-52
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1c27dd5e-0bd9-4928-8b1e-20c5da6118c3.png" tvg-id="",ORDU TV-52
 # source: socialsmart
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",TON ÇANAKKALE
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/783364fa-298e-4a56-a602-ba34f50392e6.png" tvg-id="",TON ÇANAKKALE
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 
@@ -1250,23 +1250,23 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",TV Kayseri
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv-kayseri-tr.png" tvg-id="",TV Kayseri
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tvkayseri.m3u8?tkn=v_E7hbdWFZI6caSql5Cn1g&tms=1780533108&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv-kayseri
 
-#EXTINF:-1 tvg-id="",TV Kayseri
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv-kayseri-tr.png" tvg-id="",TV Kayseri
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tvkayseri.m3u8?tkn=v_E7hbdWFZI6caSql5Cn1g&tms=1780533108&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv-kayseri
 
-#EXTINF:-1 tvg-id="",Tv Manisa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/manisa-tv-tr.png" tvg-id="",Tv Manisa
 # source: tvkulesi
 https://cdn501.tvkulesi.com/manisatv.m3u8?tkn=I34QxVodQOIlthKHPFxY6A&tms=1780437834&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=manisa-tv
 
-#EXTINF:-1 tvg-id="",TV-264 SAKARYA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" tvg-id="",TV-264 SAKARYA
 # source: mediatriple
 http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",TV-DEN AYDIN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="",TV-DEN AYDIN
 # source: diger
 http://canli.tvden.com.tr/hls/live.m3u8
 
@@ -1279,15 +1279,15 @@ https://cdn900.tvkulesi.com/tv1.m3u8?tkn=SgmnN4OE8Qsc0yfxWcP7lA&tms=1780532884&h
 https://cdn900.tvkulesi.com/tv1.m3u8?tkn=SgmnN4OE8Qsc0yfxWcP7lA&tms=1780532884&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv1
 
 
-#EXTINF:-1 tvg-id="",TV3 Afyonkarahisar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kanal3_logo.svg/200px-Kanal3_logo.svg.png" tvg-id="",TV3 Afyonkarahisar
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv3afyon.m3u8?tkn=O6BtFG6IcpcAW3ILVqlKug&tms=1780533102&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv3-afyon
 
-#EXTINF:-1 tvg-id="",VUSLAT MALATYA
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/6c8deaff-d8cb-478d-82df-8335dd66ddf8.png" tvg-id="",VUSLAT MALATYA
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",WEB ERZURUM
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/aa47edbe-2f8d-4db2-ba25-cdbe46d6fef8.png" tvg-id="",WEB ERZURUM
 # source: yayin
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
 
