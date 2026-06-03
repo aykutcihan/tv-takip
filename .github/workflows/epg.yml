@@ -48,4 +48,4 @@ jobs:
           git add epg.xml 2>/dev/null || true
           git add playlist.m3u 2>/dev/null || true
           git add cache/tmdb.json 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "EPG güncellendi" && git pull --rebase -X ours origin main && git push)
+          git diff --cached --quiet || (git commit -m "EPG güncellendi" && git stash && git pull --rebase -X ours origin main && git stash pop && git push || git push --force-with-lease)
