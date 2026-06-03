@@ -6407,8 +6407,7 @@ sorumlu tutan Noyan, Memduh'un kızı Dünya'yı konağında hapsedip küçük k
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604011500 +0300" channel="tr.bikanal">
-    <title lang="tr">Yeşil Vadi'nin Kızı</title>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Yeşil Vadi'nin Kızı Dizi •</title>
   </programme>
   <programme start="20260603001000 +0300" stop="20260603003500 +0300" channel="tr.bizimevtv">
     <title lang="tr">Mobilya Dünyası</title>
@@ -6696,7 +6695,7 @@ sorumlu tutan Noyan, Memduh'un kızı Dünya'yı konağında hapsedip küçük k
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604000500 +0300" stop="20260604014000 +0300" channel="tr.bizimevtv">
-    <title lang="tr">Dost Dünyam Magazin</title>
+    <title lang="tr">Dost Dünyam Magazin •</title>
   </programme>
   <programme start="20260603004000 +0300" stop="20260603013000 +0300" channel="tr.bloomberght">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -11796,7 +11795,7 @@ gelişmeler...</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604010000 +0300" channel="tr.ciftcitv">
-    <title lang="tr">Üreticinin Gözünden Magazin</title>
+    <title lang="tr">Üreticinin Gözünden Magazin •</title>
   </programme>
   <programme start="20260603000000 +0300" stop="20260603005000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
@@ -11972,7 +11971,7 @@ gelişmeler...</desc>
     <title lang="tr">Saba Tümer'le</title>
   </programme>
   <programme start="20260604001000 +0300" stop="20260604004000 +0300" channel="tr.cnbce">
-    <title lang="tr">The Tonight Show with Jimmy Fallon Eğlence</title>
+    <title lang="tr">The Tonight Show with Jimmy Fallon Eğlence •</title>
   </programme>
   <programme start="20260604004000 +0300" stop="20260604021000 +0300" channel="tr.cnbce">
     <title lang="tr">Sefiller</title>
@@ -34649,9 +34648,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260609235500 +0300" stop="20260610000000 +0300" channel="tr.htspor">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20260603200000 +0300" stop="20260603220000 +0300" channel="tr.ilketv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260603220000 +0300" stop="20260604000000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -34901,7 +34897,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260603200000 +0300" stop="20260603220000 +0300" channel="tr.jintv">
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260603220000 +0300" stop="20260604000000 +0300" channel="tr.jintv">
@@ -35153,6 +35149,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.jintv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.jintv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260603000000 +0300" stop="20260603003000 +0300" channel="tr.kadirgatv">
     <title lang="tr">Haberler</title>
     <desc lang="tr">Kadırga TV Haberler, güncel olayları tarafsız ve hızlı biçimde ekrana taşıyor. Bölgesel ve ulusal gelişmeleri anında öğrenmek için bizi izlemeye devam edin.</desc>
@@ -35330,7 +35329,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604010000 +0300" channel="tr.kanal23">
-    <title lang="tr">Görüş Alanı Tartışma</title>
+    <title lang="tr">Görüş Alanı Tartışma •</title>
   </programme>
   <programme start="20260603000000 +0300" stop="20260603073000 +0300" channel="tr.kanal26">
     <title lang="tr">Gece Haberleri</title>
@@ -47497,9 +47496,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Çeşitli sanatçılardan Kürtçe müzik yayını</desc>
   </programme>
-  <programme start="20260603200000 +0300" stop="20260603220000 +0300" channel="tr.medyahabertv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260603220000 +0300" stop="20260604000000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -47747,6 +47743,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.medyahabertv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260603065500 +0300" stop="20260603075500 +0300" channel="tr.meltemtv">
@@ -66601,7 +66600,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604010000 +0300" channel="tr.semerkand">
-    <title lang="tr">Aziz İstanbul Röportaj</title>
+    <title lang="tr">Aziz İstanbul Röportaj •</title>
   </programme>
   <programme start="20260603001500 +0300" stop="20260603011500 +0300" channel="tr.showtv">
     <title lang="tr">Gece Hattı</title>
