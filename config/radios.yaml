@@ -1,0 +1,90 @@
+# ============================================================
+# RADYO YAPILANDIRMASI
+# ============================================================
+# Her radyo: tvg-id, isim, EPG kaynağı, logo
+
+radios:
+
+  trt.radyo.radyo-1-radyo-programlari:
+    name: "Radyo 1"
+    logo: "https://cdn-i.pr.trt.com.tr/trtdinle/12467415.jpeg"
+    sources:
+      - trtradyo:trt.radyo.radyo-1-radyo-programlari
+
+  trt.radyo.trt-fm-turkce-pop:
+    name: "TRT FM"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.trt-fm-turkce-pop
+
+  trt.radyo.radyo-3-klasik-caz-rock-pop-ve-dunya-muzigi:
+    name: "TRT Radyo 3"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.radyo-3-klasik-caz-rock-pop-ve-dunya-muzigi
+
+  trt.radyo.trt-nagme-turk-sanat-muzigi:
+    name: "TRT Nağme"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.trt-nagme-turk-sanat-muzigi
+
+  trt.radyo.trt-turku-turk-halk-muzigi:
+    name: "TRT Türkü"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.trt-turku-turk-halk-muzigi
+
+  trt.radyo.trt-radyo-haber:
+    name: "TRT Radyo Haber"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.trt-radyo-haber
+
+  trt.radyo.memleketim-fm:
+    name: "Memleketim FM"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.memleketim-fm
+
+  trt.radyo.turkiyenin-sesi-radyosu:
+    name: "Türkiye'nin Sesi"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.turkiyenin-sesi-radyosu
+
+  trt.radyo.trt-radyo-kurdi:
+    name: "TRT Radyo Kurdî"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.trt-radyo-kurdi
+
+  trt.radyo.antalya-radyosu:
+    name: "Antalya Radyosu"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.antalya-radyosu
+
+  trt.radyo.cukurova-radyosu:
+    name: "Çukurova Radyosu"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.cukurova-radyosu
+
+  trt.radyo.erzurum-radyosu:
+    name: "Erzurum Radyosu"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.erzurum-radyosu
+
+  trt.radyo.gap-diyarbakir-radyosu:
+    name: "GAP Diyarbakır Radyosu"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.gap-diyarbakir-radyosu
+
+  trt.radyo.trabzon-radyosu:
+    name: "Trabzon Radyosu"
+    logo: ""
+    sources:
+      - trtradyo:trt.radyo.trabzon-radyosu

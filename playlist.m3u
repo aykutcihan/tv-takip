@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/aykutcihan/epg-data/master/epg.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/aykutcihan/tv-takip/main/epg.xml,https://raw.githubusercontent.com/aykutcihan/tv-takip/main/radios.xml,https://epg.pw/xmltv/epg_TR.xml"
 # ── ULUSAL ────────────────────────────
 #EXTINF:-1 tvg-id="tr.mceutv",MCEU TV
 # source: diger

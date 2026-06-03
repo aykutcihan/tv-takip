@@ -1,0 +1,26 @@
+# Genel ayarlar
+timezone: "Europe/Istanbul"   # sabit +0300, DST yok
+tz_offset: "+0300"
+
+# Rehber penceresi (placeholder ve kırpma için)
+window_days: 7                # kaç günlük placeholder üretilsin (kaynaksız kanallar)
+
+# Merge ayarları
+min_gap_minutes: 2            # bu kadar küçük boşlukları doldurma
+overlap_tolerance_minutes: 5 # alan-zenginleştirmede aynı program eşleştirme toleransı
+
+# TMDb film zenginleştirme
+tmdb:
+  enabled: true
+  api_key_env: "TMDB_API_KEY"   # anahtar ortam değişkeninden okunur (repoya yazma!)
+  language: "tr-TR"
+  cache_path: "cache/tmdb.json"
+  # Sadece bu kategorilerdeki + açıklaması zayıf programlara uygulanır
+  film_categories: ["Film", "Sinema", "Movie"]
+  min_desc_len: 40              # bundan kısa açıklama "zayıf" sayılır
+  skip_desc_sources: ["tvplus"] # bu kaynaklarda açıklama ZENGİNLEŞTİRİLMEZ (kendi açıklamaları yeterli)
+  max_actors: 3                 # başrol sayısı (0 = başrol çekme)
+
+# Çıktı
+output_path: "epg.xml"
+generator_name: "kisisel-epg"
