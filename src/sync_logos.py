@@ -1,6 +1,6 @@
 """
-channels.yaml'daki logo: alanlarını playlist.m3u'ya tvg-id üzerinden uygular.
-EPG workflow'undan veya tek başına çalıştırılabilir.
+channels.yaml'daki logo: alanlarini playlist.m3u'ya uygular.
+Once tvg-id ile eslestirir, tvg-id bos ise kanal adiyla fallback yapar.
 """
 from __future__ import annotations
 import re
@@ -14,35 +14,48 @@ CHANNELS_YAML = ROOT / 'config' / 'channels.yaml'
 PLAYLIST = ROOT / 'playlist.m3u'
 
 
-def load_logo_map() -> dict[str, str]:
+def load_maps() -> tuple[dict[str, str], dict[str, str]]:
     data = yaml.safe_load(CHANNELS_YAML.read_text(encoding='utf-8'))
-    return {
-        ch_id: ch.get('logo', '')
-        for ch_id, ch in data.get('channels', {}).items()
-        if ch.get('logo')
-    }
+    by_id: dict[str, str] = {}
+    by_name: dict[str, str] = {}
+    for ch_id, ch in data.get('channels', {}).items():
+        logo = ch.get('logo', '')
+        if not logo:
+            continue
+        by_id[ch_id] = logo
+        name = ch.get('name', '')
+        if name:
+            by_name[name] = logo
+    return by_id, by_name
 
 
 def sync(dry_run: bool = False) -> int:
-    logo_map = load_logo_map()
+    by_id, by_name = load_maps()
     lines = PLAYLIST.read_text(encoding='utf-8').splitlines()
     updated = 0
 
     for i, line in enumerate(lines):
         if not line.startswith('#EXTINF:'):
             continue
-        tvg_id_m = re.search(r'tvg-id="([^"]*)"', line)
-        if not tvg_id_m:
-            continue
-        ch_id = tvg_id_m.group(1)
-        if ch_id not in logo_map:
-            continue
 
-        new_logo = logo_map[ch_id]
+        # Mevcut logoyu kontrol et
         logo_m = re.search(r'tvg-logo="([^"]*)"', line)
         current = logo_m.group(1) if logo_m else ''
+        if current:
+            continue  # zaten logosu var, dokunma
 
-        if current == new_logo:
+        # tvg-id ile eslestir
+        id_m = re.search(r'tvg-id="([^"]*)"', line)
+        ch_id = id_m.group(1) if id_m else ''
+        new_logo = by_id.get(ch_id, '') if ch_id else ''
+
+        # tvg-id yoksa veya eslesmiyorsa isimle dene
+        if not new_logo:
+            name_m = re.search(r',(.+)$', line)
+            name = name_m.group(1).strip() if name_m else ''
+            new_logo = by_name.get(name, '')
+
+        if not new_logo:
             continue
 
         if 'tvg-logo=' in line:

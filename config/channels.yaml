@@ -14,6 +14,7 @@ channels:
 
   tr.360:
     name: "360"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png"
     sources:
       - tvplus:360-hd--86
       - turksatkablo:360
@@ -1538,6 +1539,7 @@ channels:
 
   tr.gurbet24tv:
     name: "Gurbet24 TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - gurbet24:gurbet24
 
@@ -1549,6 +1551,7 @@ channels:
 
   tr.dosttv:
     name: "Dost TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/diyanet-tv-tr.png"
     sources:
       - dosttv:dosttv
 
@@ -1638,11 +1641,13 @@ channels:
 
   tr.tempotv:
     name: "Tempo TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - staticschedule:tr.tempotv
 
   tr.chilltv:
     name: "Chill TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - staticschedule:tr.chilltv
   tr.toppop:
@@ -1653,11 +1658,13 @@ channels:
 
   tr.finest:
     name: "Finest TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - staticschedule:tr.finest
 
   tr.guclutv:
     name: "Guclu TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - staticschedule:tr.guclutv
 
@@ -1674,6 +1681,7 @@ channels:
 
   tr.armatv:
     name: "Arma TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - staticschedule:tr.armatv
 
@@ -1691,16 +1699,19 @@ channels:
 
   tr.ezotv:
     name: "Ezo TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - staticschedule:tr.ezotv
 
   tr.ezgitv:
     name: "Ezgi TV"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
     sources:
       - staticschedule:tr.ezgitv
 
   tr.slowkaradeniz:
     name: "Slow Karadeniz"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-tv-tr.png"
     sources:
       - staticschedule:tr.slowkaradeniz
   tr.kanal6:
@@ -1708,3 +1719,179 @@ channels:
     logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal3-tr.png"
     sources:
       - staticschedule:tr.kanal6
+  tr.nowtv:
+    name: "Nowtv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/now-tr.png"
+    sources: []
+  tr.tgrtbelgesel:
+    name: "Tgrtbelgesel"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-belgesel-tr.png"
+    sources: []
+  tr.beinsporthaber:
+    name: "Beinsporthaber"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png"
+    sources: []
+  tr.cemtv:
+    name: "Cemtv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cem-tv-tr.png"
+    sources: []
+  tr.kralakustik:
+    name: "Kralakustik"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-tv-tr.png"
+    sources: []
+  tr.brt1tv:
+    name: "Brt1Tv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/brt-1-tr.png"
+    sources: []
+  tr.brt2tv:
+    name: "Brt2Tv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/brt-2-tr.png"
+    sources: []
+  tr.erciyestv:
+    name: "Erciyestv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv-kayseri-tr.png"
+    sources: []
+  tr.estv:
+    name: "Estv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/es-tv-tr.png"
+    sources: []
+  tr.kanal3:
+    name: "Kanal3"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal3-tr.png"
+    sources: []
+  tr.kanal58:
+    name: "Kanal58"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-58-tr.png"
+    sources: []
+  tr.kanalfirat:
+    name: "Kanalfirat"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-firat-tr.png"
+    sources: []
+  tr.kentturktv:
+    name: "Kentturktv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kent-turk-tr.png"
+    sources: []
+  tr.konyaolaytv:
+    name: "Konyaolaytv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kon-tv-tr.png"
+    sources: []
+  tr.lifetv:
+    name: "Lifetv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tele1-tr.png"
+    sources: []
+  tr.mercantv:
+    name: "Mercantv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/mercan-tv-tr.png"
+    sources: []
+  tr.tv3:
+    name: "Tv3"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal3-tr.png"
+    sources: []
+  tr.tv41:
+    name: "Tv41"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
+    sources: []
+  tr.sunrtv:
+    name: "Sunrtv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-23-tr.png"
+    sources: []
+  tr.tele2haber:
+    name: "Tele2Haber"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tvnet-tr.png"
+    sources: []
+  tr.teleon:
+    name: "Teleon"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png"
+    sources: []
+  tr.tontv:
+    name: "Tontv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-tv-tr.png"
+    sources: []
+  tr.kanal12:
+    name: "Kanal12"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal3-tr.png"
+    sources: []
+  tr.dimtv:
+    name: "Dimtv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
+    sources: []
+  tr.sutv:
+    name: "Sutv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-23-tr.png"
+    sources: []
+  tr.van65:
+    name: "Van65"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
+    sources: []
+  tr.astv2:
+    name: "Astv2"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png"
+    sources: []
+  tr.brtv:
+    name: "Brtv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-42-tr.png"
+    sources: []
+  tvku.kanal23:
+    name: "Kanal23"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-23-tr.png"
+    sources: []
+  tvku.kanal24:
+    name: "Kanal24"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png"
+    sources: []
+  tvku.tv1:
+    name: "Tv1"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv1-tr.png"
+    sources: []
+  tvku.diyanettv:
+    name: "Diyanettv"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/diyanet-tv-tr.png"
+    sources: []
+  tr.arzufilm:
+    name: "Arzufilm"
+    logo: "https://www.arzufilm.com/wp-content/uploads/2019/03/arzu-film.png"
+    sources: []
+  tr.yesilcam:
+    name: "Yesilcam"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.kemalsunal:
+    name: "Kemalsunal"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.gulsahkemal:
+    name: "Gulsahkemal"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.sabana2:
+    name: "Sabana2"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.guldurguldur:
+    name: "Guldurguldur"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.cicektaksi:
+    name: "Cicektaksi"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.yedinumara:
+    name: "Yedinumara"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.leylaileMecnun:
+    name: "Leylailemecnun"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  tr.seksenler:
+    name: "Seksenler"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png"
+    sources: []
+  EuroStar.tr:
+    name: "Tr"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/euro-star-tr.png"
+    sources: []
+  tr.powerdance::
+    name: "Powerdance:"
+    logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/powerturk-tr.png"
+    sources: []
