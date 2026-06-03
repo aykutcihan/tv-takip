@@ -45,5 +45,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/aykutcihan/tv-takip.git
-          git add epg.xml playlist.m3u cache/tmdb.json || true
+          git add epg.xml 2>/dev/null || true
+          git add playlist.m3u 2>/dev/null || true
+          git add cache/tmdb.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "EPG güncellendi" && git pull --rebase -X ours origin main && git push)
