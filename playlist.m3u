@@ -1,160 +1,160 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/aykutcihan/tv-takip/main/epg.xml,https://raw.githubusercontent.com/aykutcihan/tv-takip/main/radios.xml,https://epg.pw/xmltv/epg_TR.xml"
 # ── ULUSAL ────────────────────────────
-#EXTINF:-1 tvg-id="tr.mceutv",MCEU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.mceutv",MCEU TV
 # source: diger
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.trt1",TRT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/200px-TRT_1_logo_%282021-%29.svg.png" tvg-id="tr.trt1",TRT 1
 # source: kavuntv
 https://cdn509.kavuntv.net/trt1.m3u8?tkn=4U4VvkLYhPEdyzaEIMtIdw&tms=1780532839&hst=amp.kavuntv.net&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-1
 
 
 
-#EXTINF:-1 tvg-id="tr.startv",Star TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV.svg/200px-Logo_Star_TV.svg.png" tvg-id="tr.startv",Star TV
 # source: daioncdn
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 
-#EXTINF:-1 tvg-id="tr.startv",Star Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV.svg/200px-Logo_Star_TV.svg.png" tvg-id="tr.startv",Star Tv
 # source: tvkulesi
 https://cdn508.tvkulesi.com/startv.m3u8?tkn=PyTIjpdCR-iEQdOoli0qNg&tms=1780532845&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=star-tv
 
-#EXTINF:-1 tvg-id="tr.startv",Star TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV.svg/200px-Logo_Star_TV.svg.png" tvg-id="tr.startv",Star TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439065/ei/uQMfatyUKJC9zPsP8MGSkA4/ip/31.21.186.28/id/82O6yOy_XwE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AbKmrwrhXw7wZNgJj6KCYuOImB2pPrvHIJwGHrbwHQApWxZnQdfURVeaZIrJYuKRhnHY0hQuBwzT8Fvc/spc/96Xrv1kI1kmgW-r550Ukh78d7-qFmC7cS4QyUJENVX8V_37UlQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4333750/met/1780417465,/mh/DY/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/6/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAO_hgn1QuM8JB1GAyOOkBeQK9mn-glkOCmmAurcy9-4zAiAaTgbP-bTUQer1Ens-9xYaF_ZvYXZUBbLr28djRfyziA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgdmeNTCurmTYndvSu9IfT7P9z3FQqvLXke9WDvqC5sosCIQCfLffU5_tUgr9hB_hW_jNSUU5ZiL0zjYSwyKAEAsr3qQ%3D%3D/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.showtv",Show TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Show_TV_logo.png/200px-Show_TV_logo.png" tvg-id="tr.showtv",Show TV
 # source: ciner
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 
-#EXTINF:-1 tvg-id="tr.showtv",Show TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Show_TV_logo.png/200px-Show_TV_logo.png" tvg-id="tr.showtv",Show TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439067/ei/uwMfapuBGIKh6dsP5_S22QI/ip/31.21.186.28/id/ouuCjEjyKVI.542/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/nl/bui/AbKmrwoRRA122ETL4OwNpusNZ9daSoeMOV9CVvtP-FzE2lSfRjgKVaONpeGYun4rCe__l3ZDy0GcRoPu/spc/96Xrv2jchK9WK38CEQIYXEddm1DTxrXSandRqOvrOcletXxrfQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4473750/met/1780417467,/mh/qP/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/8/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAIjHT4TMtLaBZGF384p3U2FIclzFT_Upi5qTYkWxpz85AiBOheZ4hskW_eUUlssYiCTSu14R5mcRx0NEkW4CRVmq8A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAL1vAJZb-7Ng0jQ-bkZZmwL_2XUwmKtb-w0Dl7l5cpZQAiB3-4SJE7uMIHBNght5L3-UtUPKah59eopoVX2lX2uNQQ%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.now",Now TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/FOX_TV_logo_%28Turkey%29.svg/200px-FOX_TV_logo_%28Turkey%29.svg.png" tvg-id="tr.now",Now TV
 # source: tvkulesi
 https://cdn504.tvkulesi.com/foxtv.m3u8?tkn=qCooT8djT5r79-lxSLdAaw&tms=1780532848&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=now-tv
 
-#EXTINF:-1 tvg-id="tr.nowtv",Now TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/FOX_TV_logo_%28Turkey%29.svg/200px-FOX_TV_logo_%28Turkey%29.svg.png" tvg-id="tr.nowtv",Now TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439069/ei/vQMfarHoAoaiw-APua-86Ag/ip/31.21.186.28/id/8vlyTcrcchc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/nl/bui/AbKmrwrUwuVc3FJlgXr-wK73rL362DpvPusyotrB9s_Bes_DPkh-Cy1v2lDO4Yzzkos7zMLD-t2jb23p/spc/96Xrv_0of6oMVu4-cWSWnw_tauIL74Inh2ORAolghsoXzlLCwA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4473750/met/1780417469,/mh/uN/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/6/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMG85ki6tP1YdoV0YaajA85XCdQz0__f0KgEIpy3eEgoAiBkVzpezAOTSiphAZ-Uaj5YryzQ0MoLtEF_YqhyOLGv0Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALZLMTGxTq6yvB87fFCgx7qsrJB26usJTlSspDwncxxnAiABuzMuYV4vfKIAcmm63DSDKNLFnTggF8G9QgNL7DeI_Q%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.atv",ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2015.svg/200px-Atv_logo_2015.svg.png" tvg-id="tr.atv",ATV
 # source: kavuntv
 https://cdn505.kavuntv.net/atv.m3u8?tkn=wO52bb9plxfiNe3kyZkUQg&tms=1780532856&hst=amp.kavuntv.net&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=atv
 
-#EXTINF:-1 tvg-id="tr.atv",ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2015.svg/200px-Atv_logo_2015.svg.png" tvg-id="tr.atv",ATV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439064/ei/twMfavuiPNuOi9oPhYSqmA4/ip/31.21.186.28/id/n7HUV-KUDfE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AbKmrwpnO5d2IBkL26x7bEjnAF8d5MrGKoVSIjKzBNEqa6fqVNCmM2WwvLcoqwvd9KxVGPlkaWzx6h0R/spc/96Xrv1ElVYCEw7G7qIMgR8yhhMt8ZwoQaqspb2bWqBmpLvhiVg/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/4510000/met/1780417464,/mh/64/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pl/21/rmhost/rr5---sn-uhvcpaxoa-5hne.googlevideo.com/rms/lva,lva/smhost/rr1---sn-uhvcpaxoa-xpoe.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgbtO6tNHsT0IkEaWSAZcMdNqPkw12IT6vnWPrKLcyXOgCIBqzLTD9-HoI2ZcGtq9wLKfpBUxbMYklCtRN1J1XRESh/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRgIhAMHIIYUBYaVpjnrhzQRv3Pd-siCecMz1EPP6n1-RTDrfAiEA6ypVK3Iiby-5-GL_WmU7ZZwpOb7M8tl0vyyiyZ5ONyI%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.kanald",Kanal D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" tvg-id="tr.kanald",Kanal D
 # source: daioncdn
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
-#EXTINF:-1 tvg-id="tr.kanald",Kanal D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" tvg-id="tr.kanald",Kanal D
 # source: tvkulesi
 https://cdn504.tvkulesi.com/kanald.m3u8?tkn=7t0oQu9bk8SYKnLb_YqlrA&tms=1780532850&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-d
 
-#EXTINF:-1 tvg-id="tr.tv8",TV 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV8_logo_%28Turkey%29.svg/200px-TV8_logo_%28Turkey%29.svg.png" tvg-id="tr.tv8",TV 8
 # source: tvkulesi
 https://cdn508.tvkulesi.com/tv8.m3u8?tkn=DF7g__viUzW6lhht0-uDkQ&tms=1780532859&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv8
 
 
 
-#EXTINF:-1 tvg-id="tr.tv85",Tv8,5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV8%C2%BD_logo.svg/200px-TV8%C2%BD_logo.svg.png" tvg-id="tr.tv85",Tv8,5
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv85.m3u8?tkn=bnDgHgQWWAdQ2OxIMBgbUw&tms=1780533124&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv85
 
-#EXTINF:-1 tvg-id="tr.tytturk",TYT Türk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TYT_T%C3%BCrk_logo.svg/200px-TYT_T%C3%BCrk_logo.svg.png" tvg-id="tr.tytturk",TYT Türk
 # source: ercdn
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 
-#EXTINF:-1 tvg-id="tr.beyaztv",Beyaz TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Beyaz_TV_logo.svg/200px-Beyaz_TV_logo.svg.png" tvg-id="tr.beyaztv",Beyaz TV
 # source: daioncdn
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="tr.360",360
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.360",360
 # source: ercdn
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="tr.teleon",Tele On
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.teleon",Tele On
 # source: rumble
 https://hugh.cdn.rumble.cloud/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 
-#EXTINF:-1 tvg-id="tr.kanal6",Kanal 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kanal6_logo.svg/200px-Kanal6_logo.svg.png" tvg-id="tr.kanal6",Kanal 6
 # source: yayin
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.tivi6",Tivi6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tivi_6_logo.svg/200px-Tivi_6_logo.svg.png" tvg-id="tr.tivi6",Tivi6
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.kanal7",Kanal 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kanal_7_logo.svg/200px-Kanal_7_logo.svg.png" tvg-id="tr.kanal7",Kanal 7
 # source: daioncdn
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-#EXTINF:-1 tvg-id="tr.a2",A2 TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2015.svg/200px-Atv_logo_2015.svg.png" tvg-id="tr.a2",A2 TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439070/ei/vgMfaoSJLYjQi9oP58m1-Qk/ip/31.21.186.28/id/HtnytvwXi5o.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AbKmrwofv7p31MMk3eYtK7ftxz1u7sn5HwibJ9JDS8z5YMeUqvrMjOGKhMFI4FtRQ4Xge65e5mlpq9SN/spc/96Xrv6AHzFUN8ufSBDhUCPiqCRs3Nyi0gK7X_5TJAH61h_s/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4510000/met/1780417470,/mh/9E/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51946838/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIyUZubC2DerK2naNjWP_1KYvHAZgLe-7kZ3Ko2_tuZlAiEA6ZbRIlp0VgkVEEdWBm2IsgoTi0xCwuFsl3GU4i7qYeQ%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMxQ7NmaDr5X_UiRPr6fRigA8l2YUW7XWsA3oRrKjDVWAiB8S2Br5MKaxYxQ-2ouLfpkkwJCJ4VMszSHjD3sWVjW7Q%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.a2",A2 Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2015.svg/200px-Atv_logo_2015.svg.png" tvg-id="tr.a2",A2 Tv
 # source: tvkulesi
 https://cdn504.tvkulesi.com/a2tv.m3u8?tkn=1WAnwrxdJ1zZu4OM82vYMA&tms=1780532876&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=a2-tv
 
-#EXTINF:-1 tvg-id="tr.teve2",Teve2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Teve2_logo.svg/200px-Teve2_logo.svg.png" tvg-id="tr.teve2",Teve2
 # source: kavuntv
 https://cdn506.kavuntv.net/teve2.m3u8?tkn=l3P1JA5gzs7aYuiwwN2vaw&tms=1780532867&hst=amp.kavuntv.net&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=teve2
 
-#EXTINF:-1 tvg-id="tr.teve2",TV2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Teve2_logo.svg/200px-Teve2_logo.svg.png" tvg-id="tr.teve2",TV2
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439072/ei/wAMfaualHfGI6dsPhbzQwAo/ip/31.21.186.28/id/A32ePdlFt7U.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/nl/bui/AbKmrwqG3lfd0UbGWmE-d2c0CKWDWFllxUGHpzr4ANgYqAoF2-EYTdpqP3fUM56C5dHDA9i_uI-L9bKz/spc/96Xrv095RcqfJbFAehcQ6TiTmFUb_-YVac0nXhIvD3-SdKbicA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4473750/met/1780417472,/mh/Xe/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/6/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAO55nyoBsVet58GMi7qRe7Oyv4qpq6sH_VeitrsQwPyLAiEA-3x_2EFdLsZFln99tj3OwA_hfqmk_nIpdM-qqeVtP4A%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANAiCVnBj9kQUuAmxWf35wbcxAMXCRFbrM2LIfgJ4HnAAiBW-gWRMGC5Cq4oJ9F3rozquQu7m0_GgkN_rIp0S6Qm6A%3D%3D/playlist/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tr.trtturk",TRT Turk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TRT_T%C3%BCrk_logo.svg/200px-TRT_T%C3%BCrk_logo.svg.png" tvg-id="tr.trtturk",TRT Turk
 # source: trt
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="",Show Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ShowMax_logo.svg/200px-ShowMax_logo.svg.png" tvg-id="",Show Max
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439074/ei/wgMfarjPFtSr6dsPrKqpqAY/ip/31.21.186.28/id/Y3vGHFrsqrs.2011/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AbKmrwqbRFB9DJujKewL59T4My--TCaR4umQwVzRmFvyaEbUFWYe4mhzpGYGvXR0dXZKojI7UW2Twj-3/spc/96Xrv2ySYynkuktWZWPSUqPgzLNwnQMJpo1R0VKhUEAqajVW6A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4336250/met/1780417474,/mh/pk/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/3/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgUH_y1h2zYv0S-t7MevGy2v5nHyU1nsm7TERkr-283LMCIQCwslHfOa0GQ1Ad88WUlQu54l7BbSUcwqQ4pURyBLvfdw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgeK6c_VGZz_X-YPKfZlPYBf5k3t8p3Ka3s9FCjq_ZbjICIQDTChLepyCqze8ci-VsQZ-8Mw_2jPOAgHwhgsQ0jYQBzw%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="",Show Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ShowMax_logo.svg/200px-ShowMax_logo.svg.png" tvg-id="",Show Max
 # source: tvkulesi
 https://cdn900.tvkulesi.com/showmax.m3u8?tkn=bZNZ2b2xRxsGFF9fdywlsA&tms=1780533027&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=show-max
 
-#EXTINF:-1 tvg-id="tr.bikanal",Bi Kanal TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.bikanal",Bi Kanal TV
 # source: ercdn
 https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
 
-#EXTINF:-1 tvg-id="tr.tv4",TV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TV4_logo_%28Turkey%29.svg/200px-TV4_logo_%28Turkey%29.svg.png" tvg-id="tr.tv4",TV 4
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv4.m3u8?tkn=y91pHjgz5sO5j-eWdgTOhw&tms=1780532870&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv4
 
-#EXTINF:-1 tvg-id="tr.tv4",TV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TV4_logo_%28Turkey%29.svg/200px-TV4_logo_%28Turkey%29.svg.png" tvg-id="tr.tv4",TV 4
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv4.m3u8?tkn=y91pHjgz5sO5j-eWdgTOhw&tms=1780532870&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv4
 
 
-#EXTINF:-1 tvg-id="tr.ekoltv",Ekol Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ekol_TV_logo.svg/200px-Ekol_TV_logo.svg.png" tvg-id="tr.ekoltv",Ekol Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/ekoltv.m3u8?tkn=-1R2Oim-JxMaDFFlrC2A6Q&tms=1780532878&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ekol-tv
 
-#EXTINF:-1 tvg-id="tr.kanalavrupatv",Kanal Avrupa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kanal_7_logo.svg/200px-Kanal_7_logo.svg.png" tvg-id="tr.kanalavrupatv",Kanal Avrupa
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kanalavrupa.m3u8?tkn=QZygl0pjUGfsuP2dVCNjzg&tms=1780532938&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-avrupa
 
 
 
-#EXTINF:-1 tvg-id="",Euro D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euro_D_logo.svg/200px-Euro_D_logo.svg.png" tvg-id="",Euro D
 # source: tvkulesi
 https://cdn503.tvkulesi.com/eurod.m3u8?tkn=hztWn3YMVgTNUfQDTn50vg&tms=1780533009&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=euro-d
 
-#EXTINF:-1 tvg-id="",Euro D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euro_D_logo.svg/200px-Euro_D_logo.svg.png" tvg-id="",Euro D
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439062/ei/tgMfaoG0GpyDi9oPsq-boQQ/ip/31.21.186.28/id/DWTZdz4LQbY.1~45728541/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/nl/bui/AbKmrwoDId-1Ftyg1p0eOnR1Sax31_iNQ8nlVBG22WZw3XbrLXcUbpJaPJBfBt83BFsbOFil1XXZtnj9/spc/96Xrv2kXq4DmAkBxV9luXQJnRewgpLX4nSW9wW-pRcLFr2QhGw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4333750/met/1780417462,/mh/wb/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/8/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhALlrLXeiRkvBOFduKf-WuqjXiouET1Embknb-x_kHNgaAiEA-x72o20WDncZ1VqbQ_5isWV_ewPGyFq7hQVeKwM3UnE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALFbfjPBM-5KoOvDSC503sP1IJg2M7WCv_ojSL36TgZ2AiAV7BFjcpNTlViV4P_4n70EVP3e6DjA_mHU8cSklmY6gg%3D%3D/playlist/index.m3u8
 
@@ -167,40 +167,40 @@ https://cdn504.tvkulesi.com/eurostar.m3u8?tkn=4ZlqJG9z7feXjgNHBdxavQ&tms=1780532
 https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=0ZgQIZcSPX9MrFpXIXIVKA&e=1780378516
 
 
-#EXTINF:-1 tvg-id="tr.atvavrupa",ATV Avrupa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2015.svg/200px-Atv_logo_2015.svg.png" tvg-id="tr.atvavrupa",ATV Avrupa
 # source: tvkulesi
 https://cdn504.tvkulesi.com/atvavrupa.m3u8?tkn=-B15Zc5ez7FtRezb-gGUwA&tms=1780532932&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=atv-avrupa
 
-#EXTINF:-1 tvg-id="tr.atvavrupa",Atv Avrupa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2015.svg/200px-Atv_logo_2015.svg.png" tvg-id="tr.atvavrupa",Atv Avrupa
 # source: ercdn
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=Ii2GGA0kjffTvtb623nYTQ&e=1780351341
 
-#EXTINF:-1 tvg-id="",Show Türk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Show_TV_logo.png/200px-Show_TV_logo.png" tvg-id="",Show Türk
 # source: tvkulesi
 https://cdn508.tvkulesi.com/showturk.m3u8?tkn=Jbq73ZMWvv6nXf5EsmnqjQ&tms=1780533025&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=show-turk
 
-#EXTINF:-1 tvg-id="",Kanal 7 Avrupa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kanal_7_logo.svg/200px-Kanal_7_logo.svg.png" tvg-id="",Kanal 7 Avrupa
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kanal7avrupa.m3u8?tkn=96JksuyidkZZ5dS7LBL0ZQ&tms=1780532935&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-7-avrupa
 
-#EXTINF:-1 tvg-id="",TGRT EU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TGRT_Haber_logo.svg/200px-TGRT_Haber_logo.svg.png" tvg-id="",TGRT EU
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tgrteu.m3u8?tkn=sQDTfFCChQ82Uahn72nEGQ&tms=1780533038&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tgrt-eu
 
 
 
-#EXTINF:-1 tvg-id="",TV8 Int
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV8_logo_%28Turkey%29.svg/200px-TV8_logo_%28Turkey%29.svg.png" tvg-id="",TV8 Int
 # source: tvkulesi
 https://cdn507.tvkulesi.com/tv8int.m3u8?tkn=VxqP2mO9yluGR5VmZIKzEA&tms=1780533011&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv8-int
 
 
 
 # ── HABER ────────────────────────────
-#EXTINF:-1 tvg-id="tr.cnbce",CNBC-e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CNBC-e_logo.svg/200px-CNBC-e_logo.svg.png" tvg-id="tr.cnbce",CNBC-e
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536863/ei/v4EgasvXGvfni9oPs-fMmAw/ip/31.21.186.28/id/aZ3ycSbSYBA.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwodvTIIQq47YcFYHt5E2UyrriAUJZQ2xUvHUMHUEnb5BJeXoBBXDrQSMlkaiLbbPO1PkHPFR-L3/spc/96XrvxlqZ8RSEfU6Ko817d7ShOQwIDwmRL1-qh_kwgKU3SqbEg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3962500/met/1780515263,/mh/JZ/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgCRzTeKhufxhcA4wnoZaIDGS8Fq84G9RVMQG3nKBYtg8CIQD_p3teTmgpsowCacievm24tfs5HhKY3trdKY4dTZwwqA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANGK5oQZGuI3RGZXi4V-dr4OldkEzi88HgguFN_o6I1_AiBOT5H3eiT9MsAE7cWwuMBt1li6cDwjwVXaZmAZP3Pe2g%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.bloomberght",Bloomberg HT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bloomberg_HT_logo.svg/200px-Bloomberg_HT_logo.svg.png" tvg-id="tr.bloomberght",Bloomberg HT
 # source: ciner
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?ce=2&app=201b9556-b11c-4d92-b264-f21fd24e9aaf
 
@@ -209,7 +209,7 @@ https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=MIKAHeBIVBhbhISrp3HYqg&e=17
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=u27fChT8b9fjpfQ2P7jt8g&e=1780430131
 
 
-#EXTINF:-1 tvg-id="tr.ekoturk",Ekoturk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ekotürk_TV_logo.svg/200px-Ekotürk_TV_logo.svg.png" tvg-id="tr.ekoturk",Ekoturk
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536861/ei/vYEgau3vCu2H6dsP6rvZmAc/ip/31.21.186.28/id/5ovykCkBWfU.10/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwrTLsnqKjCzGUEUvZwfCt6y9oPNkExdWkrh1SqFy8tBzNVxQxiZwA-lK3j_PGXmmAHlvjXXUCWQ/spc/96Xrv0iea7U9i-K4JS7akf5N5NiqiFRnaVnXxpBFFgc5M8ok-Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515261,/mh/S8/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgG_eg4owtoM190HrmgDDLFbsrU0Sd46Bl7LFPTsTs1B0CICmgczwlOb0mR0AJzCx6oYR9cwe5ACzfyLyFnNPwXzSS/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgOyv-006k9c_s6xx-h9vNaOD0zPincrZvI4JhdNtylnACIQCNjfjAYB0mUUGeh_8_IY7Uy6sXoY6GVKVWEVrd26qgbA%3D%3D/playlist/index.m3u8
 
@@ -218,40 +218,40 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536861/ei/
 # source: diger
 https://yayin30.haber100.com/live/finansturk/chunklist_w377520896.m3u8
 
-#EXTINF:-1 tvg-id="tr.ntv",NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.ntv",NTV
 # source: tvkulesi
 https://cdn502.tvkulesi.com/ntv.m3u8?tkn=G_ycAbfgr7djR3O8hTlfCw&tms=1780532897&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ntv
 
-#EXTINF:-1 tvg-id="tr.ntv",NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.ntv",NTV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439089/ei/0QMfavqwFJe56dsPkrTTUA/ip/31.21.186.28/id/pqq5c6k70kk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwogxnodbEfbMjos5M1wPDVZo-sveLcl69nRPmWl91arNLYJv_Op2j9pBieQoQyEBwrLZDlZiInB/spc/96XrvyBc3--h4Co54tyLpw3nlQ-b-mTrBSFNsiqW7m5FVTjQ4A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4473750/met/1780417489,/mh/Ok/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/2/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhANqUOT_OwZgBKwheQPChO0ptthdav6rup90IufENIs7TAiEA1UkrOL3PDW2avlL-zABMQu9tI21tp5ZjLI7CGD0Q8m0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKmNHFRju-r492ELWOd_bXI5YJq8hfkhJob6zq35i4D5AiEAtXaeC4NUedOBo_0IEcIW3vAlHSHHxBsixm6CwnYVqUw%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.sozcutv",Sözcü TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/S%C3%B6zc%C3%BC_TV_logo.svg/200px-S%C3%B6zc%C3%BC_TV_logo.svg.png" tvg-id="tr.sozcutv",Sözcü TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439091/ei/0wMfap-hC-HIi9oP_4_I-AM/ip/31.21.186.28/id/ztmY_cCtUl0.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwrb-OUyBV0RTvgqQbIcAnRIhNhmY8wLo44QsU9lW_1-JzhVsOIUyW6MyxEgBHSNLqJB25OfoS0Q/spc/96Xrv592eQrFe8CLx1q95C9bGLYAdzcPoFKVsvu1ei6QA5eq6g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4336250/met/1780417491,/mh/2L/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgUTV1-bpoukQWD5OH9xScW7Pk2XnHuFTbf1bBrjiiJTMCIQDT5-33grZha3V_SSLnpa_cSwdvbCn5XSoVevt5kFQBwQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgETzOoZFuYN0d1ppw_nlRn0NDVtXWGBSBHEmdW8umPj4CIQDUwF5y0TREtdMxgor-A8eTqeWYZh8i_fs1ENX20FK5Og%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.sozcutv",Sözcü Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/S%C3%B6zc%C3%BC_TV_logo.svg/200px-S%C3%B6zc%C3%BC_TV_logo.svg.png" tvg-id="tr.sozcutv",Sözcü Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/sozcutv.m3u8?tkn=TKog6ZGnwewZZ55pGTNNDw&tms=1780533014&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=sozcu-tv
 
 
 
 
-#EXTINF:-1 tvg-id="tr.tele2haber",Tele2 Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TVNET_logo.svg/200px-TVNET_logo.svg.png" tvg-id="tr.tele2haber",Tele2 Haber
 # source: youtube
 https://rr1---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1780536929&ei=AYIgasGMF5-XzPsP5Yq3uQo&ip=31.21.186.28&id=o-AHEh8n1IaYaSxydkpEhd9fpZjWTtRaZsCe8l9vI2ihn5&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=506&met=1780515329%2C&mh=oL&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-4g5ednk6&ms=au%2Crdu&mv=m&mvi=1&pl=21&rms=au%2Cau&initcwndbps=3932500&bui=AbKmrwp89wFDZVGxzqCoBOpW2NubbXjE8_c3uvQErcxMwFe0jiUyRSpuNd6SsS8DAbcB86AZq8PeiPAb&spc=96Xrv1dSj69XjFtj3KjvksHSILPKh4uxgHqXTbJf6XEAjV-eWk1y&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=152830181&ratebypass=yes&dur=3424.246&lmt=1780490701140782&mt=1780515029&fvip=2&fexp=51565115%2C51565681&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRQIgN-KMUoUKZc0aIuOyibcDT_NbbjB3_LHJngByA4DIkQMCIQDH4PTOgjZfSw2CUYYISG1A6olMF6nXLMT4i26XMbSdIA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIO1eoeonns9L21kw90DxxT_zv7KNhZsQ6pVEslpQbbKAiBuADyaA2oQxSfJN_KpxXfv5MrG3PWqabfkThhVGPd9_w%3D%3D
 
 
-#EXTINF:-1 tvg-id="tr.haberturk",Haberturk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Habertürk_TV_logo.svg/200px-Habertürk_TV_logo.svg.png" tvg-id="tr.haberturk",Haberturk
 # source: ciner
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
-#EXTINF:-1 tvg-id="tr.haberglobal",Haber Global
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haber_Global_logo.svg/200px-Haber_Global_logo.svg.png" tvg-id="tr.haberglobal",Haber Global
 # source: diger
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 
 
-#EXTINF:-1 tvg-id="",Mavi Kadeniz Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="",Mavi Kadeniz Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/mavikaradeniz.m3u8?tkn=yy0Uy8rCZOImiij-_AsUYw&tms=1780533105&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=mavi-kadeniz-tv
 
@@ -262,28 +262,28 @@ https://cdn900.tvkulesi.com/mavikaradeniz.m3u8?tkn=yy0Uy8rCZOImiij-_AsUYw&tms=17
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.ilketv",Ilke TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="tr.ilketv",Ilke TV
 # source: ilketv
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 
-#EXTINF:-1 tvg-id="tr.halktv",Halk Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Halk_TV_logo.svg/200px-Halk_TV_logo.svg.png" tvg-id="tr.halktv",Halk Tv
 # source: tvkulesi
 https://cdn506.tvkulesi.com/halktv-master.m3u8?tkn=W_JlQRjoLsCQ95GK3jkfMA&tms=1780532968&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=halk-tv
 
-#EXTINF:-1 tvg-id="tr.halktv",Halk TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Halk_TV_logo.svg/200px-Halk_TV_logo.svg.png" tvg-id="tr.halktv",Halk TV
 # source: daioncdn
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
-#EXTINF:-1 tvg-id="tr.neohabertv",Neo Haber TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TVNET_logo.svg/200px-TVNET_logo.svg.png" tvg-id="tr.neohabertv",Neo Haber TV
 # source: diger
 https://edge.taksimbilisim.com/neohaber/bant1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.trthaber",TRT Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TRT_Haber_logo.svg/200px-TRT_Haber_logo.svg.png" tvg-id="tr.trthaber",TRT Haber
 # source: tvkulesi
 https://cdn506.tvkulesi.com/trthaber.m3u8?tkn=G4U3smClS2Izbf-y6ITWEw&tms=1780532970&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-haber
 
-#EXTINF:-1 tvg-id="tr.trthaber",TRT Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TRT_Haber_logo.svg/200px-TRT_Haber_logo.svg.png" tvg-id="tr.trthaber",TRT Haber
 # source: trt
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
@@ -291,7 +291,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 # source: socialsmart
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.tv100",Tv100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/TV100_logo.svg/200px-TV100_logo.svg.png" tvg-id="tr.tv100",Tv100
 # source: tvkulesi
 https://cdn501.tvkulesi.com/tv100.m3u8?tkn=0DdrH0W-Zq59jH5AEwbpJw&tms=1780532881&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv100
 
@@ -299,63 +299,63 @@ https://cdn501.tvkulesi.com/tv100.m3u8?tkn=0DdrH0W-Zq59jH5AEwbpJw&tms=1780532881
 
 
 
-#EXTINF:-1 tvg-id="tvku.kanal24",Kanal 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanal_24_logo.svg/200px-Kanal_24_logo.svg.png" tvg-id="tvku.kanal24",Kanal 24
 # source: tvkulesi
 https://cdn503.tvkulesi.com/24tv.m3u8?tkn=hREmh0dB0WpxojWcaL0C4Q&tms=1780533035&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-24
 
-#EXTINF:-1 tvg-id="tr.cnnturk",CNN Turk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CNN_T%C3%BCrk_logo.svg/200px-CNN_T%C3%BCrk_logo.svg.png" tvg-id="tr.cnnturk",CNN Turk
 # source: diger
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=7IndO3lo1vuBydvPYI-hlA&e=1780312533
 
-#EXTINF:-1 tvg-id="tr.krttv",KRT TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/KRT_TV_logo.svg/200px-KRT_TV_logo.svg.png" tvg-id="tr.krttv",KRT TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536933/ei/BYIgatfINcf_i9oP-cKkAQ/ip/31.21.186.28/id/LBffKHlCx8U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpo60A0BzsCYtnBzJ6lCw-fo2AG6bAeqN9NskFBouHA49GdT-8nlqf48PjMxmDZyea5_sCwwFQU/spc/96Xrv4CU1HH8iORUcFy5dWAqVycmsuWpo0zA87FbnVlofZoi4g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3900000/met/1780515334,/mh/B3/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/7/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgK7fFrnKZMC5KzQChvJszvZpH5Bu6bWdW_wBvV8d0qGICIQDIuN4SBtT9SCm8Gbyo4coSVVQ32ny52YvZhSzFqTqSuw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgFVoVBS3o4XZ0KNtIA-IqqzWrqpXK7GDPNPzP7Pb2FQICIC9w5fZW9BEyNFHVgfy-OJdFc5sBEeN2Z5_9DtClJXFw/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.ahaber",A Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/A_Haber_logo.svg/200px-A_Haber_logo.svg.png" tvg-id="tr.ahaber",A Haber
 # source: tvkulesi
 https://cdn505.tvkulesi.com/ahaber.m3u8?tkn=kTyTjOXSRN16518AiRHfxg&tms=1780532887&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=a-haber
 
-#EXTINF:-1 tvg-id="tr.flashhaber",Flash Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flash_TV_logo.svg/200px-Flash_TV_logo.svg.png" tvg-id="tr.flashhaber",Flash Haber
 # source: ercdn
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
-#EXTINF:-1 tvg-id="tr.meltemtv",Meltem Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Meltem_TV_logo.svg/200px-Meltem_TV_logo.svg.png" tvg-id="tr.meltemtv",Meltem Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/meltemtv.m3u8?tkn=Mta9Hn3E3BhoqjjZ00SzNA&tms=1780532957&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=meltem-tv
 
 
 
 
-#EXTINF:-1 tvg-id="tr.akittv",Akit TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Akit_TV_logo.svg/200px-Akit_TV_logo.svg.png" tvg-id="tr.akittv",Akit TV
 # source: kavuntv
 https://cdn900.kavuntv.net/akittv.m3u8?tkn=RIU2-mHhrI95Io2V6
 
-#EXTINF:-1 tvg-id="tr.benguturk",Benguturk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Beng%C3%BCt%C3%BCrk_TV_logo.svg/200px-Beng%C3%BCt%C3%BCrk_TV_logo.svg.png" tvg-id="tr.benguturk",Benguturk
 # source: diger
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1 tvg-id="tr.medyahabertv",Medya Haber TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.medyahabertv",Medya Haber TV
 # source: diger
 https://canliyayin.b-cdn.net/medyahaber.m3u8
 
-#EXTINF:-1 tvg-id="tr.jintv",Jin TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Halk_TV_logo.svg/200px-Halk_TV_logo.svg.png" tvg-id="tr.jintv",Jin TV
 # source: diger
 https://live.jintv.org/medialive/jintv.m3u8
 
-#EXTINF:-1 tvg-id="tr.ulusalkanal",Ulusal Kanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ulusal_Kanal_logo.svg/200px-Ulusal_Kanal_logo.svg.png" tvg-id="tr.ulusalkanal",Ulusal Kanal
 # source: tvkulesi
 https://cdn900.tvkulesi.com/ulusal.m3u8?tkn=5Q2eHxRVzdmKLw-bYcIWYQ&tms=1780533017&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ulusal-kanal
 
-#EXTINF:-1 tvg-id="tr.ulketv",Ülke Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ulusal_Kanal_logo.svg/200px-Ulusal_Kanal_logo.svg.png" tvg-id="tr.ulketv",Ülke Tv
 # source: tvkulesi
 https://cdn506.tvkulesi.com/ulketv.m3u8?tkn=q1NsnskUPOhtXfUTGkc9EA&tms=1780532963&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ulke-tv
 
-#EXTINF:-1 tvg-id="tr.ulketv",Ulke TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ulusal_Kanal_logo.svg/200px-Ulusal_Kanal_logo.svg.png" tvg-id="tr.ulketv",Ulke TV
 # source: trtdinle
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.tvnet",TVNET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TVNET_logo.svg/200px-TVNET_logo.svg.png" tvg-id="tr.tvnet",TVNET
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tvnet.m3u8?tkn=4YzFrtiN6bLKNAB1as4few&tms=1780533049&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tvnet
 
@@ -370,11 +370,11 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 # source: yayin
 https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.kanalb",Kanal B
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanal_B_logo.svg/200px-Kanal_B_logo.svg.png" tvg-id="tr.kanalb",Kanal B
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kanalb.m3u8?tkn=EhRyA6J0HORbIvzQY4wHkQ&tms=1780533046&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-b
 
-#EXTINF:-1 tvg-id="tr.liderhabertv",Lider Haber TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haber_Global_logo.svg/200px-Haber_Global_logo.svg.png" tvg-id="tr.liderhabertv",Lider Haber TV
 # source: diger
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
@@ -383,20 +383,20 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.tgrthaber",TGRT Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TGRT_Haber_logo.svg/200px-TGRT_Haber_logo.svg.png" tvg-id="tr.tgrthaber",TGRT Haber
 # source: diger
 https://canli.tgrthaber.com/tgrt.m3u8
 
 # ── SPOR ────────────────────────────
-#EXTINF:-1 tvg-id="tr.fbtv",FB TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/35/Fenerbah%C3%A7e_TV_logo.png/200px-Fenerbah%C3%A7e_TV_logo.png" tvg-id="tr.fbtv",FB TV
 # source: rocketcdn
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.trtspor",TRT Spor
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" tvg-id="tr.trtspor",TRT Spor
 # source: tvkulesi
 https://cdn503.tvkulesi.com/trtspor.m3u8?tkn=SzQiVbkp8oVqQkDmBn63kw&tms=1780532913&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-spor
 
-#EXTINF:-1 tvg-id="tr.htspor",HT Spor
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HT_Spor_logo.svg/200px-HT_Spor_logo.svg.png" tvg-id="tr.htspor",HT Spor
 # source: tvkulesi
 https://cdn501.tvkulesi.com/htspor.m3u8?tkn=bmkZMuSUZofIC-ZV5WHgAQ&tms=1780533059&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ht-spor
 
@@ -404,60 +404,60 @@ https://cdn501.tvkulesi.com/htspor.m3u8?tkn=bmkZMuSUZofIC-ZV5WHgAQ&tms=178053305
 https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=i7Tf3m94mD1KvlirNPk5yg&e=1780564549
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439087/ei/zwMfar1hkqWL2g-P3trBCg/ip/31.21.186.28/id/mgeW8Qm8-SY.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwqKUDOaRLroLTqMdP0ZOOMojlZSwDavjWAPTUkiz3vLHGjigp4KTIleljU_4QEYlHRR2OACnEDn/spc/96Xrv-nSbdnWyTy8yt_fWDdTcoC4nRFLJuBipy7n8-fg_bR0Cw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4510000/met/1780417487,/mh/49/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgNwb9q8TzBgaxdg2NquijhoEYBEzZ8yHnLG1spoaWhrsCIBQ-u6L_cUudHPRjtIPpoYi-POw5grMaJaGpZDICmD0I/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgUymTrbvvkZaRdoaR-JSYJAPhPJI_L0PTqKb9OOTrK-ACIEKR-FUGEh6BsIYN1AKVi6q7cwrr8ewTqNw3m89DaDNl/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.beinsporthaber",beIN Sports Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" tvg-id="tr.beinsporthaber",beIN Sports Haber
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439085/ei/zQMfav-tE-uVsvQPy7qCgQo/ip/31.21.186.28/id/i7UpPgxfZZ8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwrnhzoxFTkE9fWVf_N_9KkgCwU59gQI7ewR4up7Pltg3aRN_wyk9nqfso3o1ePJkjUZ6Xgd7ZK-/spc/96Xrvy9TE7DBVlk9QUP8xUfpYXq55vG572mk78nmDQDpKf7KGA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4510000/met/1780417485,/mh/FN/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAI1dgNovMUY7yuHMTtVMzx2p8VBGWIiTEXFrsT2m-SbtAiEAsQLj1h213jPO-3ZqZGnrFmEuCNB-u9RqUibD5Pj26qY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgEY7uWpQYAs1WbFm-dpjHpE4Ym9rZG-92Qv5vvYExtE0CIEXI6ps0eQVi5PA-ASD6o2rWJMSrKz3vIB2-_kzEoR7y/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.beinsportshaber",Bein Sports Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" tvg-id="tr.beinsportshaber",Bein Sports Haber
 # source: tvkulesi
 https://cdn503.tvkulesi.com/beinsporthaber.m3u8?tkn=Nxw9apcgZ3vTbsga3n0J5A&tms=1780532908&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=bein-sports-haber
 
 
-#EXTINF:-1 tvg-id="tr.tivibuspor",Tivibu Spor
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tivibu_Spor_logo.svg/200px-Tivibu_Spor_logo.svg.png" tvg-id="tr.tivibuspor",Tivibu Spor
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tivibuspor.m3u8?tkn=PkKBp0Yy06WOe6-jF5zxww&tms=1780532910&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tivibu-spor
 
-#EXTINF:-1 tvg-id="tr.trtsporyildiz",TRT Spor Yildiz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TRT_Spor_logo.svg/200px-TRT_Spor_logo.svg.png" tvg-id="tr.trtsporyildiz",TRT Spor Yildiz
 # source: tvkulesi
 https://cdn504.tvkulesi.com/trtspor2.m3u8?tkn=N-yn-opPdVQW_qwncBvsKA&tms=1780442116&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-spor-2
 
 
 
-#EXTINF:-1 tvg-id="tr.ekolsports",Ekol Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ekol_TV_logo.svg/200px-Ekol_TV_logo.svg.png" tvg-id="tr.ekolsports",Ekol Sports
 # source: tvkulesi
 https://cdn900.tvkulesi.com/ekolsports.m3u8?tkn=ktzMYvkybFYv5NIqDPx_6Q&tms=1780532916&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ekol-sports
 
 
 
 # ── BELGESEL ────────────────────────────
-#EXTINF:-1 tvg-id="tr.trt2",TRT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TRT_2_logo.svg/200px-TRT_2_logo.svg.png" tvg-id="tr.trt2",TRT 2
 # source: trt
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="tr.tlc",TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TLC_logo.svg/200px-TLC_logo.svg.png" tvg-id="tr.tlc",TLC
 # source: tvkulesi
 https://cdn505.tvkulesi.com/tlctv.m3u8?tkn=KNIX45QhqMvCgZQRryye6g&tms=1780533137&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tlc-tv
 
 
-#EXTINF:-1 tvg-id="tr.dmax",D Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dmax_logo.svg/200px-Dmax_logo.svg.png" tvg-id="tr.dmax",D Max
 # source: tvkulesi
 https://cdn508.tvkulesi.com/dmax.m3u8?tkn=ZfCb2R1WAEn11WnAS8hA4w&tms=1780533135&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=d-max
 
-#EXTINF:-1 tvg-id="tr.trtavaz",TRT Avaz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TRT_Avaz_logo.svg/200px-TRT_Avaz_logo.svg.png" tvg-id="tr.trtavaz",TRT Avaz
 # source: trt
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="tr.trtbelgesel",TRT Belgesel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TRT_Belgesel_logo.svg/200px-TRT_Belgesel_logo.svg.png" tvg-id="tr.trtbelgesel",TRT Belgesel
 # source: tvkulesi
 https://cdn900.tvkulesi.com/trtbelgesel.m3u8?tkn=rOkXq6RUV8M17lWpy7o3FQ&tms=1780533132&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-belgesel
 
 
-#EXTINF:-1 tvg-id="tr.gzttv",Gzt TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.gzttv",Gzt TV
 # source: diger
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.bizimevtv",Bizimev TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Beyaz_TV_logo.svg/200px-Beyaz_TV_logo.svg.png" tvg-id="tr.bizimevtv",Bizimev TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536931/ei/A4Igas_rL_LZi9oPuY7iyAo/ip/31.21.186.28/id/GRLd2oYZFnM.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwopnPHecB-SB5iie0s8aalAxCrlHBUjrHk1xllL_ryKiXmS4Bd9t4-G4xsUr8DP5ImKez8KWQp-/spc/96Xrv1RtGHfZC8SIiFO6wV_ktoWgyiYnDGatJ6tkARVP_VA0yw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515331,/mh/cX/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgfPsrTz6ZEEoN49oVxaUMAQK67qUoiHOynlm8ZMSsEfECIQCcPUio3-p3hcsBzbUXWp3assvhyvNubK8qGoQ5V1pYpQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgE_ZalwVzYTDMyflEUx_6QEvMRuhQRstJYJia554svtgCIHX0KM5oFiSIOTjF9FzdnJxFmgVCke6DaZNFFgQIx45i/playlist/index.m3u8
 
@@ -469,7 +469,7 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 # source: euromedia
 https://live.euromediacenter.com/tvmor/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.tgrtbelgesel",TGRT Belgesel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TGRT_Haber_logo.svg/200px-TGRT_Haber_logo.svg.png" tvg-id="tr.tgrtbelgesel",TGRT Belgesel
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536877/ei/zYEgaqqFJfzx6dsPoeCl2QY/ip/31.21.186.28/id/32y7IEtD5OU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwqdBsXay4_yHQVwOgka_1hlsst-jAXvKqE9JQk5jD3lcvnKracdfoPneZj7ectQQjKFMCwfUIKv/spc/96XrvxFfCRk7rU9ANlrmdJZkmfo2_8mnBuY-d5U3Ohl1b-HWcg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515277,/mh/jn/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgbTfxfI4wV9YpBP2N915VUT7xvEv4yI5oRhjwfnaabEECIE_EPzrWGCdzxb9pDSMQFsPRlFb79hAlfw1iVe0A34QF/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPTDFfdQgfDGuPq6GGoH2f2-Mp8PHnWZPOg5Vvd9RmJwAiAt57TYQ23hds1xDH8NwTjlOWN9w4-VuIbslidAILXvZg%3D%3D/playlist/index.m3u8
 
@@ -485,14 +485,14 @@ http://188.245.211.255:1935/canlitv/koytv.stream/playlist.m3u8?hash=b2af21dbc448
 
 
 
-#EXTINF:-1 tvg-id="tr.ciftcitv",Ciftci TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.ciftcitv",Ciftci TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 
 
 
 # ── MUSIC ────────────────────────────
-#EXTINF:-1 tvg-id="tr.cemtv",Cem TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cem_TV_logo.svg/200px-Cem_TV_logo.svg.png" tvg-id="tr.cemtv",Cem TV
 # source: cemtv
 https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 
@@ -500,11 +500,11 @@ https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 # source: fasttvcdn
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.trtmuzik",TRT Muzik
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/TRT_M%C3%BCzik_logo.svg/200px-TRT_M%C3%BCzik_logo.svg.png" tvg-id="tr.trtmuzik",TRT Muzik
 # source: trt
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="tr.kralakustik",Kral Akustik TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kral_TV_logo.svg/200px-Kral_TV_logo.svg.png" tvg-id="tr.kralakustik",Kral Akustik TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536875/ei/y4Egarb1IbaC6dsP0uaToAM/ip/31.21.186.28/id/O_-NjHABJIg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwrEHSnQrD0gMlWzGKfnnlsPnxqeTwAWfIbTDB0YtdSqMDRCDqUU3oqy_fyT01-hzFND6BBO4pNu/spc/96XrvyeF2AEEV8d4QErjfEz2ITnyJdE6_cz-RxKkW9454b6T2g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3962500/met/1780515275,/mh/J1/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgFa-8iksrKPawy0DEoUWQtt-URvBhOaFB1A5-pplz_J0CIQCrwRLqI16GuJjjJJIAPR2jReLxVrKwNRGStxOYAJebAQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMA7HDGhBd3b7kqcNkUo58j86ptYKivW2jTs9nOSwM0sAiEAjS2jw5fNdUobEYlhhY3iAwKTO6hJ2Vxzcz842d89DK4%3D/playlist/index.m3u8
 
@@ -550,15 +550,15 @@ https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 http://media.finest.tv/hls/live.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.medmuziktv",Med Muzik TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kral_TV_logo.svg/200px-Kral_TV_logo.svg.png" tvg-id="tr.medmuziktv",Med Muzik TV
 # source: diger
 http://54.36.110.140/live3/live3.m3u8
 
-#EXTINF:-1 tvg-id="tr.sutv",Su TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="tr.sutv",Su TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_sutv/sutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Yıldız En Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Yıldız En Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/yildiztv.m3u8?tkn=qhaPcNT2SjFf5xw8U-1HzA&tms=1780533033&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=yildiz-en-tv
 
@@ -571,7 +571,7 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",Ekin Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kral_TV_logo.svg/200px-Kral_TV_logo.svg.png" tvg-id="",Ekin Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/ekintv.m3u8?tkn=L_148CsynigaFmg8fRj4vw&tms=1780533078&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ekin-tv
 
@@ -603,7 +603,7 @@ https://yayin.santraltr.com/hls/zeynotv.m3u8
 # source: tvsms
 https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
 
-#EXTINF:-1 tvg-id="tr.damartv",Damar TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kral_TV_logo.svg/200px-Kral_TV_logo.svg.png" tvg-id="tr.damartv",Damar TV
 # source: tvsms
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
 
@@ -643,11 +643,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.arzufilm",Arzu Film TV
+#EXTINF:-1 tvg-logo="https://www.arzufilm.com/wp-content/uploads/2019/03/arzu-film.png" tvg-id="tr.arzufilm",Arzu Film TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536907/ei/64EgaoSWE8DYi9oPr-_QiQM/ip/31.21.186.28/id/RqegY0WKtZA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwpQAxJRwAOpbEx0fCk6hcdy5jabhNSrYAVW3vUv-wHkiH65nZCgPlmSB4mEFp0G6nYhVdlWSC4v/spc/96Xrv7iILUeeaZXza7DZhGA9AW-P1xwMxpqMDz-u7iOM1voRMA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515307,/mh/R0/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/1/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAM8gxsYdNhDifrFdc0H3IbFeB4a-TyRUCPUYrbJbDVCuAiEAxhNqOYEa1nCtyKqyr8oymxiCqGSXKMTJhtIE4567mfk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMuR7vDBRibembBczaSqgAGd_9gi0qVbHEQvlxNOh1b9AiEAhKXkJ0vIcl8FLcyBves3U-CG4mJhgZ0r0YjEIsCcC7o%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.yesilcam",Yeşilçam TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ye%C5%9Fil%C3%A7am_logo.svg/200px-Ye%C5%9Fil%C3%A7am_logo.svg.png" tvg-id="tr.yesilcam",Yeşilçam TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536914/ei/8oEgauDvJcKL6dsPn-K-aA/ip/31.21.186.28/id/cKVuxje7YqA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwqBt7RCgzNXFgFtbsdhhZF4UxhUdlCXPfjoX-R4j53HlErjezIxw6d8I8tJA-YWhpALr7lxTEFW/spc/96Xrv7izWbKQznB0pgqQJtIxZhcZQIjM1GsWgbdXxR2BxrT0pw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515314,/mh/Bs/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAKxN5pogaF3lg6opL-_9Vc9mJ-HSu9O09liJaWuT2utGAiBLIJiO5mxB9fI-E2irhztJuBDemUGPnE3-yflKTSnC8Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgHpnNMthGRNFKbnBVMjELPBmzxAL7jy8Tc3JQ6rD2jA0CIQCgvrFIjik44mUCSSycj8OqzHgOgyny7N_Vn20cftMy7w%3D%3D/playlist/index.m3u8
 
@@ -655,88 +655,88 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536914/ei/
 
 
 
-#EXTINF:-1 tvg-id="tr.gulsahkemal",Gülşah Kemal Sunal TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/Kemal_Sunal_logo.svg/200px-Kemal_Sunal_logo.svg.png" tvg-id="tr.gulsahkemal",Gülşah Kemal Sunal TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536909/ei/7YEgavrCOZHZi9oP-_yvgA4/ip/31.21.186.28/id/tWWFY5lf1U0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwru9cSbxBP_PXbFB4zp6uuPoTwgakel19vGnQaB1o3oaaGlwWRirqM0Xyw8PU9OjeW28yLJyzDb/spc/96Xrv6s6JZfT3bBC7WhwU-iOvk0GHZEAWqbe-MJD-gJibkPfeA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3962500/met/1780515310,/mh/q5/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/1/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAJTq-wb9pwzzYMMQj0ZhryCwkbztZRcJNWbAzhqoRXbnAiEA9lrzrTlqfEowlUCRjxtwtUClbjgCb4sDWnbYHF_fzTU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgCQ9Z_Mbchv-almnj70GLlWl8eDkrAUcEpvmJl9jK1-wCIDiKn38mTceGPrtSUQEJEgXt52u91J7Sw2_4YeFgPXQm/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="",Şaban Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/Kemal_Sunal_logo.svg/200px-Kemal_Sunal_logo.svg.png" tvg-id="",Şaban Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/sabantv.m3u8?tkn=vxw1h-abkEZlDtrp9clksg&tms=1780532926&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=saban-tv
 
-#EXTINF:-1 tvg-id="tr.sabana2",Şaban 2 TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/Kemal_Sunal_logo.svg/200px-Kemal_Sunal_logo.svg.png" tvg-id="tr.sabana2",Şaban 2 TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536912/ei/8IEgauefHN-Ai9oPlOrnkQ4/ip/31.21.186.28/id/VkXvDzJyUQs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpA1VAMbqV4R9lZKuD9i3DO1E3yJ14YK1qS5hmKNz-MEQtMlckqAc6BxZtQDVU9a0cSXq6p5p3Y/spc/96Xrv20rUq4jC9IVOewumodvUHeQXZO7-bfloYEa0X4Ra8pBpA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1780515312,/mh/z7/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/1/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgFu32fbMg9m8lEpUh2ZxU6P7gPA56irc929NPkplA4awCIEWSROxsRJAMqku4QpbwJrTe8wIuP1HU3u5rIy5GJJRE/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANokbbi8jjDx7mP7yeSv8QPIoIQHN0XmxkbFGKYgQwaJAiAPNP3Z-KpY_Ms5QXGgRRFY_YANJgALRUbptjmpiAVJZA%3D%3D/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.kemalsunal",Kemal Sunal TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/Kemal_Sunal_logo.svg/200px-Kemal_Sunal_logo.svg.png" tvg-id="tr.kemalsunal",Kemal Sunal TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536873/ei/yYEgatP6EbTUi9oP2IXRmAo/ip/31.21.186.28/id/mq4GiHzxZwk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwoRQ5N_LJrszCZvnTJC04FhYLnsjRWqs5jnihOS5j_F_8A5_Ev333FsA1AfTOdUUbPzOMsRkAdl/spc/96Xrv-iuTbCJHkDNqfTDZ7FTdxY_kQU7mrtaW8pDQi_3Gj02hw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3900000/met/1780515273,/mh/u7/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/3/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgCaMLpmxBV9tcEJ7iANY0DIZipl2Z0kCqIgfTXQ6x9OkCIG3c-59QgCYeye_-TSx-fxW1fxaa1HYLVF_Vrc5wTr6x/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgOtgGqua85tbwWy2IOJR1hGGhmxf-wJkH7nXINDSoId8CIC9CnbTiOH5WxxkpPhr0zXyabc15Q2HGP6b1P-WEjOii/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.yedinumara",Yedi Numara TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV.svg/200px-Logo_Star_TV.svg.png" tvg-id="tr.yedinumara",Yedi Numara TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536870/ei/xoEgasXKObWCi9oPufWj8A8/ip/31.21.186.28/id/rS5dHYQsSxs.30/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwpgbBNyw-dRN_NZeJlkB6tr-LJtPtNLMYMIdvVpsUAXsRSbc3kMztVVBlIDbUxbKh6x87J3kEVO/spc/96XrvwrS3-AGZEHqYi6XbvvMJ6KT5gUOn2QGfwcJ8DN5jnKQ0g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3932500/met/1780515271,/mh/0L/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMfINLBluURSqOTG38r2jIw_U05llR8rXXoqKuptknbPAiBH4KoXiVWWmtI6Uf7QUPMZAVX1o193nr0apJRiYIx4fg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALmEb5PIEjj08D7UHFlctCPCOIL72PDcJNchjGFq8a0DAiBfPDYTMkdLWXyhvSUXHqY1OiRc4GTaSniFwlptdK7MqQ%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.leylaileMecnun",Leyla ile Mecnun TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.leylaileMecnun",Leyla ile Mecnun TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536868/ei/xIEgaqDAIZvJ6dsPoK3pkQE/ip/31.21.186.28/id/3nlND4audLg.23/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwqbI71p8oMW6YhCKZ9mzREjz2qIpMRbzFLS2fTdse5D6ZkT0U8qiZZZ5kqTlBcgNHAelLbjBJ7H/spc/96Xrv1Ri8qfqsJZ6rbxXoUyhxMoVIvZ7Q_1cZfFDVhXeY-peBg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3932500/met/1780515268,/mh/f0/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAMwrMRcGYTBzSbOVxxYe5s6YBFNdsGetntD3czacsteOAiEAonrL1-XUWiXsDp4FUwOjpD1m3GfbOcI4GK01ecq6B0k%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgRiWHestfrZa0BuUsfJHmDZFRkB5jD8G4Q4cXD5tqPS4CIQCceGXB4-tGgbAS3lxhkTil2TsPU9IqKY_-2CySav2TJw%3D%3D/playlist/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.guldurguldur",Güldür Güldür TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV.svg/200px-Logo_Star_TV.svg.png" tvg-id="tr.guldurguldur",Güldür Güldür TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536904/ei/6IEgarGmMdiI6dsPzMyjaA/ip/31.21.186.28/id/Jv8HS8gqV78.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwqF1OwE8jin5s_mM5Xi3I4Vjx9Y7S6XKV3TFrS2sA5Dw0yp8Tgb2H9YhPVPfuRon7yLu7iQaroF/spc/96Xrv4xtsJuH1gI4pkhr-UJq7OmaziGJb9PRH0wZB-R4sj_0jA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3900000/met/1780515304,/mh/MX/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/4/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgBk00dk1G_eaWZXtI16ehfq9Q3RQbflNNTRrqP-53O9YCIQDlNuEs1BMJkSoTR4aXshCzkG0r3lG7M_TYXy77o5v6Ug%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPX4TsiKeRSThddJq74Jjd8XTQOZzKS7bGm7FwjPQSPfAiA_9YTXMIpOVFCqV4YkrP162cO05Hhje5wgZBZHc_2Q_w%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.cicektaksi",Çiçek Taksi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV.svg/200px-Logo_Star_TV.svg.png" tvg-id="tr.cicektaksi",Çiçek Taksi TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536927/ei/_oEgatCQO-e-i9oPtJ_DiA4/ip/31.21.186.28/id/6SkIsrCIPfQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwqAsgxMM9V_fz-bA_IXfsPEpw5RVUAHvywQiaMHmE3uMlm_8BQM0NeCJ9N_TlGMc3DjZ2lsnlq4/spc/96XrvxayQFSIWlvx-3uYc9RtbluFT3WuLH99cr7FBOQOZns/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3962500/met/1780515327,/mh/ym/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51946838/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgCwsz9K-BSKEPJ0ZNegGgwckeFRN7-62WjgO9xivtjQcCIFSurWJVhd_ecpcLE2R5eg0w9xf1AHaPBtISz5usVh3b/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMiuhOYIEpdTkqLjT_u-UR3s5285sUC1RCrjjC2KTK6_AiEAoijORz9aemcJk2J-v-5HP6cp-gnc_xy4QaBQRw1rveE%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="tr.seksenler",Seksenler TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Seksenler_logo.svg/200px-Seksenler_logo.svg.png" tvg-id="tr.seksenler",Seksenler TV
 # source: youtube
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536866/ei/woEgasbHEu7Pi9oPwPqhkQo/ip/31.21.186.28/id/qGYlF1MiMxw.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpb1H4nZWMW3dFzyrg-pokWvZEn7WR62YOgyhPIiZN5e6zDqR-5WBbuczoMMyTG18gigOqoSUef/spc/96Xrv7rjHUMkS2sfTnvXp3FCtqcmL6QUDsJxOzWUC0Zqbjd7TA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3900000/met/1780515266,/mh/zt/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/5/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780514939/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgdPok5Gh1fsqIoS2E6QDQI273JUAH29n63hjX727d02sCIQCmjxu1IGreVjBeU9u7z8gqIVisYUXkAFpRzCGRdN55cA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOhAPaB_EfXd8jbEJdmUJYZtPUEhWUshHdBZEzhpUYWmAiBoXXj6DZyyg8dtW4B4YNAaZTgkR5YSvh4GcIPvgI5wqg%3D%3D/playlist/index.m3u8
 
 # ── COCUK ────────────────────────────
-#EXTINF:-1 tvg-id="tr.trtdiyanetcocuk",TRT Diyanet Cocuk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="tr.trtdiyanetcocuk",TRT Diyanet Cocuk
 # source: trt
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.trtcocuk",TRT Çocuk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TRT_%C3%87ocuk_logo.svg/200px-TRT_%C3%87ocuk_logo.svg.png" tvg-id="tr.trtcocuk",TRT Çocuk
 # source: tvkulesi
 https://cdn506.tvkulesi.com/trtcocuk.m3u8?tkn=TDkVwwM1wdipz90BjR9Qgg&tms=1780532924&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-cocuk
 
 
-#EXTINF:-1 tvg-id="tr.trtcocuk",TRT Cocuk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TRT_%C3%87ocuk_logo.svg/200px-TRT_%C3%87ocuk_logo.svg.png" tvg-id="tr.trtcocuk",TRT Cocuk
 # source: trt
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="tr.minikacocuk",Minika Çocuk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Minika_%C3%87ocuk_logo.svg/200px-Minika_%C3%87ocuk_logo.svg.png" tvg-id="tr.minikacocuk",Minika Çocuk
 # source: tvkulesi
 https://cdn501.tvkulesi.com/minikacocuk.m3u8?tkn=aLJ7_beEfJya9DVg06SlsQ&tms=1780532919&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=minika-cocuk
 
-#EXTINF:-1 tvg-id="tr.minikago",Minika GO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Minika_GO_logo.svg/200px-Minika_GO_logo.svg.png" tvg-id="tr.minikago",Minika GO
 # source: tvkulesi
 https://cdn507.tvkulesi.com/minikago.m3u8?tkn=IS3BpYQgpv7IGciLqVKZ7w&tms=1780532921&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=minika-go
 
 
-#EXTINF:-1 tvg-id="tr.cartoonnetwork",Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" tvg-id="tr.cartoonnetwork",Cartoon Network
 # source: diger
 http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=b2af21dbc448fa5061951177c2a92134 
 
-#EXTINF:-1 tvg-id="tr.trtgenc",TRT Genc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TRT_Gen%C3%A7_logo.svg/200px-TRT_Gen%C3%A7_logo.svg.png" tvg-id="tr.trtgenc",TRT Genc
 # source: trt
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 
 # ── DINI ────────────────────────────
-#EXTINF:-1 tvg-id="",Mekke Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",Mekke Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kabetv.m3u8?tkn=YUs5TogAzRPS7MoPgLI4vw&tms=1780533068&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=mekke-tv
 
-#EXTINF:-1 tvg-id="",Kabe Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",Kabe Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kabetv.m3u8?tkn=lyTeGWHnEXcQu8Bor07-qw&tms=1780533062&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kabe-tv
 
-#EXTINF:-1 tvg-id="",Sunnah tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",Sunnah tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/sunnahtv.m3u8?tkn=NzWMiNSpDiAwMvtQlPHZAw&tms=1780533065&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=sunnah-tv
 
@@ -744,19 +744,19 @@ https://cdn900.tvkulesi.com/sunnahtv.m3u8?tkn=NzWMiNSpDiAwMvtQlPHZAw&tms=1780533
 # source: diger
 https://dost.stream.emsal.im/tv/live.m3u8
 
-#EXTINF:-1 tvg-id="tvku.diyanettv",Diyanet Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="tvku.diyanettv",Diyanet Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/trtdiyanet.m3u8?tkn=e1-qHOldFEjEL9hLsQk__w&tms=1780533070&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=diyanet-tv
 
-#EXTINF:-1 tvg-id="tr.diyanettv",TRT Diyanet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="tr.diyanettv",TRT Diyanet
 # source: mediatriple
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.semerkand",Semerkand
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Semerkand_TV_logo.svg/200px-Semerkand_TV_logo.svg.png" tvg-id="tr.semerkand",Semerkand
 # source: mediatriple
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Gonca Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lalegül_TV_logo.svg/200px-Lalegül_TV_logo.svg.png" tvg-id="",Gonca Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/goncatv.m3u8?tkn=dHkT2eLgxJCVmLxQ07tjvw&tms=1780533110&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=gonca-tv
 
@@ -764,22 +764,22 @@ https://cdn900.tvkulesi.com/goncatv.m3u8?tkn=dHkT2eLgxJCVmLxQ07tjvw&tms=17805331
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",ILAHI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_Diyanet_logo.svg/200px-TRT_Diyanet_logo.svg.png" tvg-id="",ILAHI
 # source: diger
 https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.lalegultv",Lalegul TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lalegül_TV_logo.svg/200px-Lalegül_TV_logo.svg.png" tvg-id="tr.lalegultv",Lalegul TV
 # source: diger
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 
 
 # ── YEREL ────────────────────────────
-#EXTINF:-1 tvg-id="tr.trtkurdi",TRT Kurdi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TRT_Kurdî_logo.svg/200px-TRT_Kurdî_logo.svg.png" tvg-id="tr.trtkurdi",TRT Kurdi
 # source: trt
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="tr.van65",65 Van
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.van65",65 Van
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 
@@ -788,7 +788,7 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",AFRO TURK
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png",AFRO TURK
 # source: socialsmart
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 
@@ -797,7 +797,7 @@ https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="",Aksaray ART Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Aksaray ART Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/aksarayart.m3u8?tkn=9qMaTzsvTQQwOAcpw3p_Nw&tms=1780533095&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=aksaray-art-tv
 
@@ -829,7 +829,7 @@ https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="tr.astv2",As TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Halk_TV_logo.svg/200px-Halk_TV_logo.svg.png" tvg-id="tr.astv2",As TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 
@@ -845,7 +845,7 @@ https://live.euromediacenter.com/balkanturktv/index.m3u8
 # source: socialsmart
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.brtv",BR TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.brtv",BR TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 
@@ -853,12 +853,12 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="tr.brt1tv",brt 1 Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BRT_logo.png/200px-BRT_logo.png" tvg-id="tr.brt1tv",brt 1 Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/brt1.m3u8?tkn=4Rg9gYTEZ6NLSi4J7KPiGQ&tms=1780533019&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=brt-1-tv
 
 
-#EXTINF:-1 tvg-id="tr.brt2tv",brt 2 Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BRT_logo.png/200px-BRT_logo.png" tvg-id="tr.brt2tv",brt 2 Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/brt2.m3u8?tkn=lvxUkFtH47Je6Hh3iseUCA&tms=1780533116&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=brt-2-tv
 
@@ -871,7 +871,7 @@ https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.dimtv",Dim TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.dimtv",Dim TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 
@@ -886,11 +886,11 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",Er Tv Malatya
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="",Er Tv Malatya
 # source: tvkulesi
 https://cdn900.tvkulesi.com/ertv.m3u8?tkn=m0qoIQh8nxzp2-OfmopizA&tms=1780437856&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=malatya-er-tv
 
-#EXTINF:-1 tvg-id="tr.erciyestv",Erciyes TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.erciyestv",Erciyes TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
 
@@ -911,7 +911,7 @@ http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.estv",ES TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.estv",ES TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 
@@ -928,7 +928,7 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",Edessa Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="",Edessa Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/edessatv.m3u8?tkn=KkWbCLYiWAyc14cNvIGO3w&tms=1780533119&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=edessa-tv
 
@@ -964,7 +964,7 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",Gözde Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Gözde Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/gozdetv.m3u8?tkn=P_KBwhuJI4HdU0MXV4Ms4w&tms=1780533089&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=gozde-tv
 
@@ -987,7 +987,7 @@ http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",HRT hatay
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="",HRT hatay
 # source: tvkulesi
 https://cdn900.tvkulesi.com/hrtv.m3u8?tkn=dqWUeO6BKmCletvLPGIArA&tms=1780442029&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=hr-live
 
@@ -1019,12 +1019,12 @@ https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.
 
 
 
-#EXTINF:-1 tvg-id="tr.kadirgatv",Kadırga Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.kadirgatv",Kadırga Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kadirgatv.m3u8?tkn=10RKkLfd-ooGnoeJQ6s7sA&tms=1780532929&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kadirga-tv
 
 
-#EXTINF:-1 tvg-id="tr.kanal12",Kanal 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kanal_12_logo.svg/200px-Kanal_12_logo.svg.png" tvg-id="tr.kanal12",Kanal 12
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 
@@ -1033,29 +1033,29 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kanal23.m3u8?tkn=S2dwQe1odd37uKka5TdUsw&tms=1780532979&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-23
 
-#EXTINF:-1 tvg-id="tvku.kanal23",Kanal 23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="tvku.kanal23",Kanal 23
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kanal23.m3u8?tkn=S2dwQe1odd37uKka5TdUsw&tms=1780532979&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-23
 
 
 
-#EXTINF:-1 tvg-id="tr.kanal26",Kanal 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kanal_26_logo.svg/200px-Kanal_26_logo.svg.png" tvg-id="tr.kanal26",Kanal 26
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.kanal3",Kanal 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kanal3_logo.svg/200px-Kanal3_logo.svg.png" tvg-id="tr.kanal3",Kanal 3
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",Kanal 42
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Kanal 42
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv42.m3u8?tkn=96Fjg_48z_eo3HPpFvf1hg&tms=1780533086&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-42
 
 
-#EXTINF:-1 tvg-id="tr.kanal58",Kanal 58
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kanal58_logo.svg/200px-Kanal58_logo.svg.png" tvg-id="tr.kanal58",Kanal 58
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 
@@ -1063,7 +1063,7 @@ https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tr.kanalfirat",Kanal Firat
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="tr.kanalfirat",Kanal Firat
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 
@@ -1071,7 +1071,7 @@ https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u
 # source: socialsmart
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.kanalv",Kanal V
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanal_V_logo.svg/200px-Kanal_V_logo.svg.png" tvg-id="tr.kanalv",Kanal V
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 
@@ -1122,12 +1122,12 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.kentturktv",Kent Turk TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/NTV_Turkey_logo.svg/200px-NTV_Turkey_logo.svg.png" tvg-id="tr.kentturktv",Kent Turk TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="tr.kibrisgenctv",Kıbrıs Genç Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BRT_logo.png/200px-BRT_logo.png" tvg-id="tr.kibrisgenctv",Kıbrıs Genç Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kibrisgenctv.m3u8?tkn=uPHs7OEgv9xDV64-HZCuWg&tms=1780532948&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kibris-genc-tv
 
@@ -1135,7 +1135,7 @@ https://cdn900.tvkulesi.com/kibrisgenctv.m3u8?tkn=uPHs7OEgv9xDV64-HZCuWg&tms=178
 # source: diger
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
-#EXTINF:-1 tvg-id="tr.kibristv",Kıbrıs Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BRT_logo.png/200px-BRT_logo.png" tvg-id="tr.kibristv",Kıbrıs Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kibristv.m3u8?tkn=2jp1nyY9Li1ZasyjXv-VLA&tms=1780532951&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kibris-tv
 
@@ -1147,7 +1147,7 @@ https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
 
-#EXTINF:-1 tvg-id="tr.kontv",Kon Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.kontv",Kon Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kontv.m3u8?tkn=wMjCRcD1If5cqGHD6ttEEw&tms=1780532954&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kon-tv
 
@@ -1159,13 +1159,13 @@ https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="tr.konyaolaytv",Konya Olay TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.konyaolaytv",Konya Olay TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tr.lifetv",Life TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Life_TV_%28Turkey%29_logo.svg/200px-Life_TV_%28Turkey%29_logo.svg.png" tvg-id="tr.lifetv",Life TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
@@ -1173,7 +1173,7 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 # source: socialsmart
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",Manisa Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Manisa Tv
 # source: tvkulesi
 https://cdn505.tvkulesi.com/manisatv.m3u8?tkn=62zSryq4Gd2ns1RBw50-4Q&tms=1780533084&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=manisa-tv
 
@@ -1197,7 +1197,7 @@ https://cdn505.tvkulesi.com/manisatv.m3u8?tkn=62zSryq4Gd2ns1RBw50-4Q&tms=1780533
 # source: socialsmart
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.mercantv",Mercan TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kral_TV_logo.svg/200px-Kral_TV_logo.svg.png" tvg-id="tr.mercantv",Mercan TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 
@@ -1230,35 +1230,35 @@ https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.tontv",Ton TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kral_TV_logo.svg/200px-Kral_TV_logo.svg.png" tvg-id="tr.tontv",Ton TV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.tv3",TV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kanal3_logo.svg/200px-Kanal3_logo.svg.png" tvg-id="tr.tv3",TV 3
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tr.sunrtv",Sun RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kanal23_logo.svg/200px-Kanal23_logo.svg.png" tvg-id="tr.sunrtv",Sun RTV
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="tr.tv41",TV 41
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="tr.tv41",TV 41
 # source: artidijital
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="",TV Kayseri
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",TV Kayseri
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tvkayseri.m3u8?tkn=v_E7hbdWFZI6caSql5Cn1g&tms=1780533108&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv-kayseri
 
-#EXTINF:-1 tvg-id="",TV Kayseri
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",TV Kayseri
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tvkayseri.m3u8?tkn=v_E7hbdWFZI6caSql5Cn1g&tms=1780533108&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv-kayseri
 
-#EXTINF:-1 tvg-id="",Tv Manisa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kanal42_logo.svg/200px-Kanal42_logo.svg.png" tvg-id="",Tv Manisa
 # source: tvkulesi
 https://cdn501.tvkulesi.com/manisatv.m3u8?tkn=I34QxVodQOIlthKHPFxY6A&tms=1780437834&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=manisa-tv
 
@@ -1270,16 +1270,16 @@ http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263f
 # source: diger
 http://canli.tvden.com.tr/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="tr.tv100",TV1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/TV1_%28Turkey%29_logo.svg/200px-TV1_%28Turkey%29_logo.svg.png" tvg-id="tr.tv100",TV1
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv1.m3u8?tkn=SgmnN4OE8Qsc0yfxWcP7lA&tms=1780532884&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv1
 
-#EXTINF:-1 tvg-id="tvku.tv1",TV1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/TV1_%28Turkey%29_logo.svg/200px-TV1_%28Turkey%29_logo.svg.png" tvg-id="tvku.tv1",TV1
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv1.m3u8?tkn=SgmnN4OE8Qsc0yfxWcP7lA&tms=1780532884&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv1
 
 
-#EXTINF:-1 tvg-id="",TV3 Afyonkarahisar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kanal3_logo.svg/200px-Kanal3_logo.svg.png" tvg-id="",TV3 Afyonkarahisar
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv3afyon.m3u8?tkn=O6BtFG6IcpcAW3ILVqlKug&tms=1780533102&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv3-afyon
 
@@ -1412,27 +1412,27 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MYDONOSE_TURK.
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/11_Number1_Ask.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.bestof",NR1 Best Of
+#EXTINF:-1 tvg-logo="https://nr1.com.tr/images/logo.png" tvg-id="number1.bestof",NR1 Best Of
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/29_Number1_BEST_OF.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.dance",NR1 Dance
+#EXTINF:-1 tvg-logo="https://nr1.com.tr/images/logo.png" tvg-id="number1.dance",NR1 Dance
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/06_Number1_Dance.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.deephouse" tvg-logo="",NR1 Deep House
+#EXTINF:-1 tvg-id="number1.deephouse" tvg-logo="https://nr1.com.tr/images/logo.png",NR1 Deep House
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/09_Number1_Deephouse.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.disco" tvg-logo="",NR1 Disco
+#EXTINF:-1 tvg-id="number1.disco" tvg-logo="https://nr1.com.tr/images/logo.png",NR1 Disco
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/28_Number1_Disco.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.fm",NR1 FM
+#EXTINF:-1 tvg-logo="https://nr1.com.tr/images/logo.png" tvg-id="number1.fm",NR1 FM
 # source: numberone
 https://eustr75.mediatriple.net//Number1Media/01_Number1Fm.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.greek" tvg-logo="",NR1 Greek
+#EXTINF:-1 tvg-id="number1.greek" tvg-logo="https://nr1.com.tr/images/logo.png",NR1 Greek
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/13_Number1_Greek.stream/playlist.m3u8
 
@@ -1440,23 +1440,23 @@ https://eustr75.mediatriple.net/Number1Media/13_Number1_Greek.stream/playlist.m3
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/10_Number1_Heart.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.lounge",NR1 Lounge
+#EXTINF:-1 tvg-logo="https://nr1.com.tr/images/logo.png" tvg-id="number1.lounge",NR1 Lounge
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/12_Number1_Lounge.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.rock" tvg-logo="",NR1 Rock
+#EXTINF:-1 tvg-id="number1.rock" tvg-logo="https://nr1.com.tr/images/logo.png",NR1 Rock
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/15_Number1_Rock.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.slow",NR1 Slow
+#EXTINF:-1 tvg-logo="https://nr1.com.tr/images/logo.png" tvg-id="number1.slow",NR1 Slow
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/16_Number1_Slow.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.90lar",NR1 Türk 90lar
+#EXTINF:-1 tvg-logo="https://nr1.com.tr/images/logo.png" tvg-id="number1.90lar",NR1 Türk 90lar
 # source: numberone
 https://eustr75.mediatriple.net/hls/turkce_90lar/aac_hifi.m3u8
 
-#EXTINF:-1 tvg-id="number1.damar",NR1 Türk Damar
+#EXTINF:-1 tvg-logo="https://nr1.com.tr/images/logo.png" tvg-id="number1.damar",NR1 Türk Damar
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/20_Number1_Turk_Damar.stream/playlist.m3u8
 
@@ -1464,7 +1464,7 @@ https://eustr75.mediatriple.net/Number1Media/20_Number1_Turk_Damar.stream/playli
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/05_Number1_Turk_Eller_Havaya.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="number1.turkrap" tvg-logo="",NR1 Türk Rap
+#EXTINF:-1 tvg-id="number1.turkrap" tvg-logo="https://nr1.com.tr/images/logo.png",NR1 Türk Rap
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/30_Number1_Turk_Rap.stream/playlist.m3u8
 
@@ -1476,7 +1476,7 @@ https://eustr75.mediatriple.net/Number1Media/03_Number1_Turk_Slow.stream/playlis
 # source: karnaval
 https://playerservices.streamtheworld.com/api/livestream-redirect/ODEA.mp3
 
-#EXTINF:-1 tvg-id="number1.petrol" tvg-logo="",Petrol Ofisi Radyosu
+#EXTINF:-1 tvg-id="number1.petrol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Petrol_Ofisi_logo.svg/200px-Petrol_Ofisi_logo.svg.png",Petrol Ofisi Radyosu
 # source: numberone
 https://eustr75.mediatriple.net/Number1Media/32_Number1_Petrolofisi.stream/playlist.m3u8
 
