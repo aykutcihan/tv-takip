@@ -493,6 +493,28 @@ SCHEDULES: Dict[str, Dict] = {
         ],
     },
 
+    # ── CAN TV — 2 saatlik müzik döngüsü ────────────────────────
+    "tr.cantv": {
+        "tz": IST_TZ,
+        "daily": [(h, 0, "Müzik Yayını", "Seçme Halk Müziği Yayını") for h in range(0, 24, 2)],
+    },
+
+    # ── CEM TV — 2 saatlik müzik döngüsü ────────────────────────
+    "tr.cemtv": {
+        "tz": IST_TZ,
+        "daily": [(h, 0, "Müzik Yayını", (
+            "KAMUOYUNUN DİKKATİNE…\n\n"
+            "SEVGİNİN, HOŞGÖRÜNÜN VE HAKİKATİN SESİ CEM TELEVİZYONU, YAYIN HAYATINA BAŞLADI.\n\n"
+            "ANADOLU'NUN KADİM KÜLTÜRÜNÜ, SÖNMEYEN BİR MEŞALE GİBİ GELECEĞE TAŞIYAN CEM TELEVİZYONU, "
+            "GEÇMİŞİN MİRASINI MODERN YAYINCILIK ANLAYIŞIYLA BİRLEŞTİREREK, YENİ YÖNETİM KADROSU İLE EKRANLARDAKİ YERİNİ ALDI.\n\n"
+            "TOPLUMUN TÜMÜNÜ KAPSAYAN, YAYINLARIYLA TÜRKİYE'Yİ VE DÜNYAYI KUCAKLAYAN, BİRLİK VE BERABERLİĞİ ÖN PLANA ALMAYI "
+            "HEDEFLEYEN CEM TELEVİZYONU, KÜLTÜREL KARDEŞLİĞİMİZİ PEKİŞTİREN YAPISIYLA İZLEYİCİSİYLE BULUŞUYOR.\n\n"
+            "BÖLEN DEĞİL BİRLEŞTİREN, SEVGİYİ YÜCELTEN, 7'DEN 70'E HERKESİ KUCAKLAYAN YAYINCILIK HEDEFİYLE YOLA ÇIKAN "
+            "CEM TELEVİZYONU, BİRBİRİNDEN ÖZEL PROGRAMLARA DA İMZA ATMAYA HAZIRLANIYOR.\n\n"
+            "ÖZLEM BİTİYOR…\nCEM TV \"SİZİN SESİNİZ\"\n\nSAYGILARIMIZLA,\nCEM TELEVİZYONU YÖNETİM KURULU"
+        )) for h in range(0, 24, 2)],
+    },
+
     # ── NEO HABER — her gün aynı, Türkiye saati ──────────────────
     "tr.neohabertv": {
         "tz": IST_TZ,

@@ -375,7 +375,7 @@ https://cdn900.tvkulesi.com/tvnet.m3u8?tkn=vjWP2vWVUSSVRLGh6tN2cQ&tms=1780544645
 
 
 # CAN,    source: diger
-#EXTINF:-1 tvg-id="",CAN
+#EXTINF:-1 tvg-id="tr.cantv",CAN
 http://canbroadcast.com:7000/canlican/tv.m3u8
 
 
@@ -408,6 +408,10 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 # TRT SPOR,    source: tvkulesi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" tvg-id="tr.trtspor",TRT Spor
 https://cdn509.tvkulesi.com/trtspor.m3u8?tkn=7jy4wYpVsNYghNrSNZtJag&tms=1780544512&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-spor
+
+# HT SPOR,    source: ciner
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/power-tv-tr.png" tvg-id="tr.htspor",HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=78fxtad31ulh&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
 # HT SPOR,    source: tvkulesi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/power-tv-tr.png" tvg-id="tr.htspor",HT Spor
@@ -467,7 +471,7 @@ https://cdn900.tvkulesi.com/trtbelgesel.m3u8?tkn=oJjC5YaoIsona1zRRx7-5g&tms=1780
 
 
 # GZT TV,    source: diger
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" tvg-id="tr.gzttv",Gzt TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/1280px-GZT_logo.svg.png" tvg-id="tr.gzttv",Gzt TV
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 
@@ -480,7 +484,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536931/ei/
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
 # MOR,    source: euromedia
-#EXTINF:-1 tvg-id="",MOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png" tvg-id="tr.mortv",MOR
 https://live.euromediacenter.com/tvmor/index.m3u8
 
 # TGRT BELGESEL,    source: youtube
@@ -490,11 +494,11 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780536877/ei/
 
 
 # TOPRAK,    source: diger
-#EXTINF:-1 tvg-id="",TOPRAK
+#EXTINF:-1 tvg-logo="https://topraktv.com.tr/wp-content/uploads/2023/10/toprak-kucuk-logo.png" tvg-id="tr.topraktv",TOPRAK
 http://188.245.211.255:1935/canlitv/topraktv.stream/playlist.m3u8?hash=b2af21dbc448fa5061951177c2a92134
 
 # KÖY,    source: diger
-#EXTINF:-1 tvg-id="",KÖY
+#EXTINF:-1 tvg-logo="https://koytv.com/oamseess/2025/03/cropped-koytv-logo.png" tvg-id="tr.koytv",KÖY
 http://188.245.211.255:1935/canlitv/koytv.stream/playlist.m3u8?hash=b2af21dbc448fa5061951177c2a92134
 
 

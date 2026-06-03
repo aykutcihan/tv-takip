@@ -1580,9 +1580,20 @@ channels:
   tr.beinsporthaber:
     name: "Beinsporthaber"
     sources: []
+  tr.cantv:
+    name: "Can TV"
+    sources:
+      - staticschedule:tr.cantv
+
+  tr.koytv:
+    name: "Köy TV"
+    sources:
+      - yayinakisi:https://koytv.com/yayin-akisi/
+
   tr.cemtv:
     name: "Cemtv"
-    sources: []
+    sources:
+      - staticschedule:tr.cemtv
   tr.kralakustik:
     name: "Kralakustik"
     sources: []
