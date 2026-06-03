@@ -4,6 +4,9 @@
     <display-name>Tr</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/euro-star-tr.png"/>
   </channel>
+  <channel id="tr.24">
+    <display-name>24</display-name>
+  </channel>
   <channel id="tr.360">
     <display-name>360</display-name>
     <icon src="https://www.turkmedya.com.tr/assets/img/source/png/tv360.png"/>
@@ -176,7 +179,7 @@
   </channel>
   <channel id="tr.flashhaber">
     <display-name>Flash Haber</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/flash-tv-tr.png"/>
+    <icon src="https://flashhabertv.com.tr/assets/img/logo-v4.png"/>
   </channel>
   <channel id="tr.guclutv">
     <display-name>Guclu TV</display-name>
@@ -212,7 +215,7 @@
   </channel>
   <channel id="tr.ilketv">
     <display-name>Ilke TV</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/diyanet-tv-tr.png"/>
+    <icon src="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"/>
   </channel>
   <channel id="tr.jintv">
     <display-name>Jin TV</display-name>
@@ -229,10 +232,6 @@
   <channel id="tr.kanal23">
     <display-name>Kanal23</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-23-tr.png"/>
-  </channel>
-  <channel id="tr.kanal24">
-    <display-name>Kanal24</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png"/>
   </channel>
   <channel id="tr.kanal26">
     <display-name>Kanal 26</display-name>
@@ -311,7 +310,7 @@
   </channel>
   <channel id="tr.krttv">
     <display-name>KRT TV</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/krt-tr.png"/>
+    <icon src="https://i.ibb.co/jZShqBM/Krt24v2.png"/>
   </channel>
   <channel id="tr.lalegultv">
     <display-name>Lalegul TV</display-name>
@@ -338,7 +337,7 @@
   </channel>
   <channel id="tr.medyahabertv">
     <display-name>Medya Haber TV</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png"/>
+    <icon src="https://www.numedya24.com/wp-content/themes/barta/assets/img/tvradios/MedyaHaberLogo.webp"/>
   </channel>
   <channel id="tr.meltemtv">
     <display-name>Meltem TV</display-name>
@@ -357,7 +356,7 @@
   </channel>
   <channel id="tr.neohabertv">
     <display-name>Neo Haber TV</display-name>
-    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png"/>
+    <icon src="https://neotvcanli.com/assets/images/logo.png"/>
   </channel>
   <channel id="tr.now">
     <display-name>Now</display-name>
@@ -856,6 +855,431 @@
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="EuroStar.tr">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604010000 +0300" stop="20260604020000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki önemli gelişmeler, gazetelerde çıkan haberler ve köşe yazıları bu programda ele alınıyor. Farklı bakış açıları ve çarpıcı analizlerle izleyicilere olayların arka planı aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604041500 +0300" channel="tr.24">
+    <title lang="tr">24 Özel</title>
+    <desc lang="tr">24 Özel, günün en önemli gelişmelerini derleyen ve izleyiciye tarafsız, güvenilir bir bakış açısıyla sunan bir haber programıdır. Siyaset, ekonomi, toplum ve güncel olaylardan öne çıkan başlıklar detaylı ancak anlaşılır bir dille aktarılır. Program, izleyiciyi sadece bilgilendirmekle kalmaz; gelişmelerin arka planını ve olası etkilerini de göstererek, günü doğru ve bilinçli takip etmeye olanak sağlar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604041500 +0300" stop="20260604044500 +0300" channel="tr.24">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+    <desc lang="tr">Program, Türkiye ve dünyadan kritik olayları detaylandırıyor ve izleyicilere kapsamlı bir bakış açısı sunuyor. Neler Oluyor Hayatta, uzman analizleri, röportajlar ve olayların perde arkasıyla gündemi takip etmeyi kolaylaştırıyor. İzleyiciler, olayların etkilerini ve sonuçlarını daha iyi anlama fırsatı buluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604044500 +0300" stop="20260604051500 +0300" channel="tr.24">
+    <title lang="tr">Okur Yazar</title>
+    <desc lang="tr">Siyaset, ekonomi ve toplumsal gündemi ele alan analiz programıdır. Güncel gelişmeler, alanında uzman konukların yorumlarıyla değerlendirilirken olayların nedenleri, sonuçları ve topluma etkileri ele alınır. Program, haberin ötesine geçerek izleyiciye çok yönlü bir bakış açısı kazandırmayı amaçlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604051500 +0300" stop="20260604060000 +0300" channel="tr.24">
+    <title lang="tr">An Ve Zaman</title>
+    <desc lang="tr">An ve Zaman, 24 TV ekranlarında tarih boyunca yaşanmış dönüm noktalarını, göz ardı edilmiş olayları ve kültürel gelişmeleri derinlemesine ele alıyor. Uzman konuklarla yapılan tartışmalar, olayların arka planını, nedenlerini ve günümüze etkilerini izleyiciye aktarıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604070000 +0300" channel="tr.24">
+    <title lang="tr">An Ve Zaman</title>
+    <desc lang="tr">An ve Zaman, 24 TV ekranlarında tarih boyunca yaşanmış dönüm noktalarını, göz ardı edilmiş olayları ve kültürel gelişmeleri derinlemesine ele alıyor. Uzman konuklarla yapılan tartışmalar, olayların arka planını, nedenlerini ve günümüze etkilerini izleyiciye aktarıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604070000 +0300" stop="20260604090000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+    <desc lang="tr">Türkiye ve dünyada yaşanan kritik gelişmeleri anbean ekrana taşıyan, siyaset, ekonomi ve diplomasi ekseninde gündemi detaylı analizlerle ele alan bir yayın. Sahadan aktarılan bilgiler ve uzman yorumlarıyla izleyicilere güncel bir bakış sunuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604090000 +0300" stop="20260604100000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+    <desc lang="tr">Türkiye ve dünyada yaşanan kritik gelişmeleri anbean ekrana taşıyan, siyaset, ekonomi ve diplomasi ekseninde gündemi detaylı analizlerle ele alan bir yayın. Sahadan aktarılan bilgiler ve uzman yorumlarıyla izleyicilere güncel bir bakış sunuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604105000 +0300" channel="tr.24">
+    <title lang="tr">Analiz Sentez</title>
+    <desc lang="tr">Finansal piyasalardaki beklentiler, ekonomi başlıkları ve güncel siyasi gelişmeleri uzman yorumlarıyla ele alan özel bir yayın. Gündemin görünmeyen yönlerini ve perde arkasını analizlerle izleyiciye aktarıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604105000 +0300" stop="20260604110000 +0300" channel="tr.24">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Sıcaklık değişimleri yağış ihtimali, rüzgâr ve nem oranları gibi temel bilgilerle birlikte, olası hava olaylarına ilişkin uyarılar ve tahminler detaylı biçimde paylaşılır. Hava durumu analizleri, bölgesel raporlar ve hava koşullarının günlük yaşamı nasıl etkileyeceğine dair açıklamalar izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260604110000 +0300" stop="20260604120000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki önemli gelişmeler, gazetelerde çıkan haberler ve köşe yazıları bu programda ele alınıyor. Farklı bakış açıları ve çarpıcı analizlerle izleyicilere olayların arka planı aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604123500 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki en sıcak ve özel haberler, canlı bağlantılar ve tarafsız analizlerle izleyiciye aktarılıyor. Hafta içi her gün gündemin yoğun akışı programda ekrana geliyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604123500 +0300" stop="20260604130000 +0300" channel="tr.24">
+    <title lang="tr">Reel Ekonomi</title>
+    <desc lang="tr">Teorinin pratikle buluştuğu noktada ekonomi ve piyasalara yön veren tüm gelişmeler, 24 TV Ekonomi Servisi'nin hazırladığı 24 E programında ele alınıyor. Uzman yorumları, analizler ve özel dosyalarla ekonomik kararların perde arkası mercek altına alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604130000 +0300" stop="20260604160000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki sıcak gelişmeler, kritik başlıklar ve merak edilen konular, canlı bağlantılar, özel haberler ve uzman yorumlarıyla izleyiciye aktarılıyor. Program, olayların perde arkasını ve detaylarını da ele alarak güvenilir bir haber kaynağı sunuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki sıcak gelişmeler, kritik başlıklar ve merak edilen konular, canlı bağlantılar, özel haberler ve uzman yorumlarıyla izleyiciye aktarılıyor. Program, olayların perde arkasını ve detaylarını da ele alarak güvenilir bir haber kaynağı sunuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.24">
+    <title lang="tr">Akşam Haberleri</title>
+    <desc lang="tr">Türkiye ve dünyanın gündemindeki önemli haberler, merak edilen sorular ve uzman konuk değerlendirmeleri programda ekrana yansıyor. İzleyiciler, olayların arka planını ve gelişmelerin detaylarını öğrenme imkânı buluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604204500 +0300" channel="tr.24">
+    <title lang="tr">Mercek</title>
+    <desc lang="tr">Mercek, toplumsal, kültürel ve güncel meseleleri uzman konuklar ve tartışmacılarla masaya yatıran bir programdır. Farklı görüşler dengeli bir şekilde ele alınır, izleyiciye olayları çok yönlü değerlendirme olanağı sunar.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260604204500 +0300" stop="20260604230000 +0300" channel="tr.24">
+    <title lang="tr">Temsil Heyeti</title>
+    <desc lang="tr">Görünenlerin ötesine geçerek gündemin perde arkasını mercek altına alan program, kulislerde konuşulanlar, satır aralarında kalan ayrıntılar ve gerçekleri izleyiciyle buluşturuyor. Siyasi, ekonomik ve toplumsal gelişmeler uzman görüşleriyle kapsamlı biçimde ele alınıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604230000 +0300" stop="20260605010000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Gece</title>
+    <desc lang="tr">Günden geceye öne çıkan gelişmeler ve kritik haber başlıkları, uzman konuklar ve deneyimli yorumcuların değerlendirmeleriyle inceleniyor. Program, olayların perde arkasını ve detaylarını izleyiciye aktararak gündemi kapsamlı şekilde sunuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260605010000 +0300" stop="20260605020000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605023000 +0300" channel="tr.24">
+    <title lang="tr">Brifing Saati</title>
+  </programme>
+  <programme start="20260605023000 +0300" stop="20260605041500 +0300" channel="tr.24">
+    <title lang="tr">Arafta Sorular</title>
+  </programme>
+  <programme start="20260605041500 +0300" stop="20260605050000 +0300" channel="tr.24">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20260605050000 +0300" stop="20260605060000 +0300" channel="tr.24">
+    <title lang="tr">Masada Ne Var ?</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605070000 +0300" channel="tr.24">
+    <title lang="tr">Masada Ne Var ?</title>
+  </programme>
+  <programme start="20260605070000 +0300" stop="20260605090000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260605090000 +0300" stop="20260605105000 +0300" channel="tr.24">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260605105000 +0300" stop="20260605110000 +0300" channel="tr.24">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260605110000 +0300" stop="20260605120000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605123500 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260605123500 +0300" stop="20260605130000 +0300" channel="tr.24">
+    <title lang="tr">Kahve Molası</title>
+  </programme>
+  <programme start="20260605130000 +0300" stop="20260605150000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260605150000 +0300" stop="20260605170000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260605170000 +0300" stop="20260605180000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.24">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605204500 +0300" channel="tr.24">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260605204500 +0300" stop="20260605230000 +0300" channel="tr.24">
+    <title lang="tr">Basın Ekspres</title>
+  </programme>
+  <programme start="20260605230000 +0300" stop="20260606010000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260606010000 +0300" stop="20260606020000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606023000 +0300" channel="tr.24">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260606023000 +0300" stop="20260606041500 +0300" channel="tr.24">
+    <title lang="tr">Bu Ülke</title>
+  </programme>
+  <programme start="20260606041500 +0300" stop="20260606044500 +0300" channel="tr.24">
+    <title lang="tr">8. Etap</title>
+  </programme>
+  <programme start="20260606044500 +0300" stop="20260606060000 +0300" channel="tr.24">
+    <title lang="tr">Basın Ekspres</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606070000 +0300" channel="tr.24">
+    <title lang="tr">Basın Ekspres</title>
+  </programme>
+  <programme start="20260606070000 +0300" stop="20260606090000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260606090000 +0300" stop="20260606105000 +0300" channel="tr.24">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260606105000 +0300" stop="20260606110000 +0300" channel="tr.24">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260606110000 +0300" stop="20260606120000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606123500 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260606123500 +0300" stop="20260606130000 +0300" channel="tr.24">
+    <title lang="tr">Kahve Molası</title>
+  </programme>
+  <programme start="20260606130000 +0300" stop="20260606150000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260606150000 +0300" stop="20260606170000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260606170000 +0300" stop="20260606180000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.24">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606230000 +0300" channel="tr.24">
+    <title lang="tr">24 Özel</title>
+  </programme>
+  <programme start="20260606230000 +0300" stop="20260607010000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260607010000 +0300" stop="20260607020000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607041500 +0300" channel="tr.24">
+    <title lang="tr">24 Özel</title>
+  </programme>
+  <programme start="20260607041500 +0300" stop="20260607044500 +0300" channel="tr.24">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20260607044500 +0300" stop="20260607051500 +0300" channel="tr.24">
+    <title lang="tr">Okur Yazar</title>
+  </programme>
+  <programme start="20260607051500 +0300" stop="20260607060000 +0300" channel="tr.24">
+    <title lang="tr">An Ve Zaman</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607070000 +0300" channel="tr.24">
+    <title lang="tr">An Ve Zaman</title>
+  </programme>
+  <programme start="20260607070000 +0300" stop="20260607090000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260607090000 +0300" stop="20260607100000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607105000 +0300" channel="tr.24">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260607105000 +0300" stop="20260607110000 +0300" channel="tr.24">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260607110000 +0300" stop="20260607120000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607123500 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260607123500 +0300" stop="20260607130000 +0300" channel="tr.24">
+    <title lang="tr">Reel Ekonomi</title>
+  </programme>
+  <programme start="20260607130000 +0300" stop="20260607160000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.24">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607204500 +0300" channel="tr.24">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260607204500 +0300" stop="20260607230000 +0300" channel="tr.24">
+    <title lang="tr">Temsil Heyeti</title>
+  </programme>
+  <programme start="20260607230000 +0300" stop="20260608010000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260608010000 +0300" stop="20260608020000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608030000 +0300" channel="tr.24">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260608030000 +0300" stop="20260608040000 +0300" channel="tr.24">
+    <title lang="tr">Bu Ülke</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608050000 +0300" channel="tr.24">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20260608050000 +0300" stop="20260608060000 +0300" channel="tr.24">
+    <title lang="tr">Temsil Heyeti</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608070000 +0300" channel="tr.24">
+    <title lang="tr">Temsil Heyeti</title>
+  </programme>
+  <programme start="20260608070000 +0300" stop="20260608090000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260608090000 +0300" stop="20260608110000 +0300" channel="tr.24">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260608110000 +0300" stop="20260608120000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608130000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260608130000 +0300" stop="20260608140000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.24">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608204500 +0300" channel="tr.24">
+    <title lang="tr">Brifing Saati</title>
+  </programme>
+  <programme start="20260608204500 +0300" stop="20260608230000 +0300" channel="tr.24">
+    <title lang="tr">Esas Mesele</title>
+  </programme>
+  <programme start="20260608230000 +0300" stop="20260609010000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260609010000 +0300" stop="20260609020000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609023000 +0300" channel="tr.24">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260609023000 +0300" stop="20260609041500 +0300" channel="tr.24">
+    <title lang="tr">Bu Ülke</title>
+  </programme>
+  <programme start="20260609041500 +0300" stop="20260609044500 +0300" channel="tr.24">
+    <title lang="tr">8. Etap</title>
+  </programme>
+  <programme start="20260609044500 +0300" stop="20260609060000 +0300" channel="tr.24">
+    <title lang="tr">Basın Ekspres</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609070000 +0300" channel="tr.24">
+    <title lang="tr">Basın Ekspres</title>
+  </programme>
+  <programme start="20260609070000 +0300" stop="20260609090000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260609090000 +0300" stop="20260609105000 +0300" channel="tr.24">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260609105000 +0300" stop="20260609110000 +0300" channel="tr.24">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260609110000 +0300" stop="20260609120000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609123500 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260609123500 +0300" stop="20260609130000 +0300" channel="tr.24">
+    <title lang="tr">Kahve Molası</title>
+  </programme>
+  <programme start="20260609130000 +0300" stop="20260609150000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260609150000 +0300" stop="20260609170000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260609170000 +0300" stop="20260609180000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.24">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609230000 +0300" channel="tr.24">
+    <title lang="tr">Açık Görüş</title>
+  </programme>
+  <programme start="20260609230000 +0300" stop="20260610010000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260610010000 +0300" stop="20260610020000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610041500 +0300" channel="tr.24">
+    <title lang="tr">Açık Görüş</title>
+  </programme>
+  <programme start="20260610041500 +0300" stop="20260610044500 +0300" channel="tr.24">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20260610044500 +0300" stop="20260610051500 +0300" channel="tr.24">
+    <title lang="tr">Okur Yazar</title>
+  </programme>
+  <programme start="20260610051500 +0300" stop="20260610060000 +0300" channel="tr.24">
+    <title lang="tr">An Ve Zaman</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610070000 +0300" channel="tr.24">
+    <title lang="tr">An Ve Zaman</title>
+  </programme>
+  <programme start="20260610070000 +0300" stop="20260610090000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260610090000 +0300" stop="20260610093000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260610093000 +0300" stop="20260610105000 +0300" channel="tr.24">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260610105000 +0300" stop="20260610110000 +0300" channel="tr.24">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260610110000 +0300" stop="20260610120000 +0300" channel="tr.24">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610123500 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260610123500 +0300" stop="20260610130000 +0300" channel="tr.24">
+    <title lang="tr">Reel Ekonomi</title>
+  </programme>
+  <programme start="20260610130000 +0300" stop="20260610160000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.24">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610204500 +0300" channel="tr.24">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260610204500 +0300" stop="20260610230000 +0300" channel="tr.24">
+    <title lang="tr">Temsil Heyeti</title>
+  </programme>
+  <programme start="20260610230000 +0300" stop="20260611010000 +0300" channel="tr.24">
+    <title lang="tr">Moderatör Gece</title>
   </programme>
   <programme start="20260604003000 +0300" stop="20260604004500 +0300" channel="tr.360">
     <title lang="tr">Lezzet Peşinde</title>
@@ -6323,14 +6747,14 @@ Resulullah ahir zaman ile ilgili nelere dikkat çekmiştir?</desc>
     <title lang="tr">Trendyol Süper Lig Maç Özetleri</title>
   </programme>
   <programme start="20260604010000 +0300" stop="20260604011500 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Spor Turu (2026) - Bant Spor •</title>
+    <title lang="tr">Spor Turu (2026) - Bant</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260604011500 +0300" stop="20260604023000 +0300" channel="tr.beinsportshaber">
     <title lang="tr">Skor</title>
   </programme>
   <programme start="20260604023000 +0300" stop="20260604033000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">14. Haftanın Özetleri</title>
+    <title lang="tr">14. Haftanın Özetleri Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260604033000 +0300" stop="20260604034500 +0300" channel="tr.beinsportshaber">
@@ -7026,14 +7450,14 @@ Resulullah ahir zaman ile ilgili nelere dikkat çekmiştir?</desc>
     <title lang="tr">Trendyol Süper Lig Maç Özetleri</title>
   </programme>
   <programme start="20260611010000 +0300" stop="20260611011500 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Spor Turu (2026) - Bant Spor •</title>
+    <title lang="tr">Spor Turu (2026) - Bant</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260611011500 +0300" stop="20260611023000 +0300" channel="tr.beinsportshaber">
     <title lang="tr">Skor</title>
   </programme>
   <programme start="20260611023000 +0300" stop="20260611033000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">14. Haftanın Özetleri</title>
+    <title lang="tr">14. Haftanın Özetleri Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260611033000 +0300" stop="20260611034500 +0300" channel="tr.beinsportshaber">
@@ -36752,7 +37176,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610230000 +0300" stop="20260611010000 +0300" channel="tr.haberturk">
     <title lang="tr">Gece Raporu</title>
   </programme>
-  <programme start="20260604070000 +0300" stop="20260604080000 +0300" channel="tr.halktv">
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.halktv">
     <title lang="tr">Günaydın Türkiye</title>
     <desc lang="tr">Günaydın Türkiye, günün öne çıkan haberlerini, politika ve toplumsal gelişmeleri ele alan bilgilendirici programdır. Uzman yorumları ve analizlerle desteklenen içerikler, izleyiciye olayları farklı açılardan değerlendirme ve bilinçli bir bakış kazandırır. Program gündemi tarafsız ve anlaşılır bir dille sunar.</desc>
     <category lang="tr">Haber</category>
@@ -36763,8 +37187,8 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604110000 +0300" stop="20260604130000 +0300" channel="tr.halktv">
-    <title lang="tr">Seda Selek ile Neden Sonuç</title>
-    <desc lang="tr">Güncel gelişmeler, toplumsal ve siyasi konuları ele alan bilgilendirici bir programdır. Seda Selek'in sunumuyla ekrana gelen programda uzman konuklar analiz ve yorumlarla gündemi tartışır. İzleyici olayları daha iyi anlar, farklı bakış açıları kazanır bilinçli perspektif elde eder.</desc>
+    <title lang="tr">Sinem Fıstıkoğlu İle Neden Sonuç</title>
+    <desc lang="tr">Güncel gelişmeler, toplumsal ve siyasi konuları ele alan bilgilendirici bir programdır. Sinem Fıstıkoğlu'nun sunumuyla ekrana gelen programda uzman konuklar analiz ve yorumlarla gündemi tartışır. İzleyici olayları daha iyi anlar, farklı bakış açıları kazanır bilinçli perspektif elde eder.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604130000 +0300" stop="20260604150000 +0300" channel="tr.halktv">
@@ -36773,13 +37197,13 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604150000 +0300" stop="20260604170000 +0300" channel="tr.halktv">
-    <title lang="tr">Gizem Çetin ile Parantez</title>
-    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
+    <title lang="tr">Remziye Demirkol ile Manşet</title>
+    <desc lang="tr">Remziye Demirkol ile Manşet, gündemin en önemli gelişmelerini ekrana taşıyan bir haber ve yorum programıdır. Siyaset, ekonomi ve toplumsal olaylar uzman konukların değerlendirmeleriyle ele alınır. Günün manşetleri tarafsız ve anlaşılır bir dille izleyiciye sunulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604170000 +0300" stop="20260604180000 +0300" channel="tr.halktv">
-    <title lang="tr">Gözde Şeker ile Kırmızı Çizgi</title>
-    <desc lang="tr">"Gözde Şeker ile Kırmızı Çizgi", Türkiye'nin ve dünyanın en tartışmalı, en kritik konularını tarafsız bir bakışla masaya yatırıyor.</desc>
+    <title lang="tr">Gizem Çetin ile Parantez</title>
+    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.halktv">
@@ -38933,258 +39357,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanal23">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.kanal24">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanal24">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604073000 +0300" channel="tr.kanal26">
@@ -44745,8 +44917,175 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanalfirat">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kanalv">
-    <title lang="tr">Ana Haber Haber •</title>
+  <programme start="20260604000000 +0300" stop="20260604073000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Günün en önemli gelişmelerini hızlı, tarafsız ve anlaşılır bir dille ekrana taşıyan Ana Haber, Türkiye'den ve dünyadan siyaset, ekonomi, sağlık, spor ve kültür-sanat başlıklarını kapsar. Özel dosyalar ve derinlikli analizleriyle izleyiciye güvenilir ve net bir ana gündem sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604073000 +0300" stop="20260604080000 +0300" channel="tr.kanalv">
+    <title lang="tr">Western Film Kuşağı</title>
+    <desc lang="tr">Western Film Kuşağı, sınır kasabalarının sert atmosferinde geçen unutulmaz hikâyeleri bir araya getiriyor. İyi ile kötünün keskin çizgilerle ayrıldığı bu dünyada, yalnız kovboylar, acımasız kanun kaçakları ve onur mücadelesi veren kahramanlar sahne alıyor. Her film, özgürlük, adalet ve intikam temalarıyla izleyiciyi zamansız bir yolculuğa çıkarıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604083000 +0300" channel="tr.kanalv">
+    <title lang="tr">Western Film Kuşağı</title>
+    <desc lang="tr">Western Film Kuşağı, sınır kasabalarının sert atmosferinde geçen unutulmaz hikâyeleri bir araya getiriyor. İyi ile kötünün keskin çizgilerle ayrıldığı bu dünyada, yalnız kovboylar, acımasız kanun kaçakları ve onur mücadelesi veren kahramanlar sahne alıyor. Her film, özgürlük, adalet ve intikam temalarıyla izleyiciyi zamansız bir yolculuğa çıkarıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604083000 +0300" stop="20260604090000 +0300" channel="tr.kanalv">
+    <title lang="tr">Western Film Kuşağı</title>
+    <desc lang="tr">Western Film Kuşağı, sınır kasabalarının sert atmosferinde geçen unutulmaz hikâyeleri bir araya getiriyor. İyi ile kötünün keskin çizgilerle ayrıldığı bu dünyada, yalnız kovboylar, acımasız kanun kaçakları ve onur mücadelesi veren kahramanlar sahne alıyor. Her film, özgürlük, adalet ve intikam temalarıyla izleyiciyi zamansız bir yolculuğa çıkarıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604090000 +0300" stop="20260604093000 +0300" channel="tr.kanalv">
+    <title lang="tr">Western Film Kuşağı</title>
+    <desc lang="tr">Western Film Kuşağı, sınır kasabalarının sert atmosferinde geçen unutulmaz hikâyeleri bir araya getiriyor. İyi ile kötünün keskin çizgilerle ayrıldığı bu dünyada, yalnız kovboylar, acımasız kanun kaçakları ve onur mücadelesi veren kahramanlar sahne alıyor. Her film, özgürlük, adalet ve intikam temalarıyla izleyiciyi zamansız bir yolculuğa çıkarıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604093000 +0300" stop="20260604100000 +0300" channel="tr.kanalv">
+    <title lang="tr">Gözden Kaçmasın</title>
+    <desc lang="tr">Gözden Kaçmasın, günün ve haftanın öne çıkan haber başlıklarını mercek altına alıyor. Kamuoyunda geniş yankı uyandıran gelişmeler, uzman yorumları ve dikkat çeken ayrıntılar programda değerlendiriliyor. İzleyici, gündemi farklı açılardan analiz etme ve gözden kaçan noktaları keşfetme fırsatı buluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604103000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ara Haber</title>
+    <desc lang="tr">Ara Haber, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar özenle derlenir. Canlı bağlantılar ve son dakika bilgileriyle zenginleşen bülten, gündemi yakından takip etmek isteyenler için güvenilir bir durak olur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604103000 +0300" stop="20260604110000 +0300" channel="tr.kanalv">
+    <title lang="tr">Önce Sağlık</title>
+    <desc lang="tr">Önce Sağlık, uzman doktorlar ve alanında yetkin konuklarla izleyiciyi bilinçli yaşamın kapılarına davet eder. Hastalıklardan korunma, beslenme, hareket, ruh sağlığı ve doğru alışkanlıklar gibi başlıklar ele alınır. Karmaşık bilgiler sade bir dille aktarılır, günlük hayatta uygulanabilir öneriler sunulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260604110000 +0300" stop="20260604113000 +0300" channel="tr.kanalv">
+    <title lang="tr">Önce Sağlık</title>
+    <desc lang="tr">Önce Sağlık, uzman doktorlar ve alanında yetkin konuklarla izleyiciyi bilinçli yaşamın kapılarına davet eder. Hastalıklardan korunma, beslenme, hareket, ruh sağlığı ve doğru alışkanlıklar gibi başlıklar ele alınır. Karmaşık bilgiler sade bir dille aktarılır, günlük hayatta uygulanabilir öneriler sunulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260604113000 +0300" stop="20260604120000 +0300" channel="tr.kanalv">
+    <title lang="tr">Önce Sağlık</title>
+    <desc lang="tr">Önce Sağlık, uzman doktorlar ve alanında yetkin konuklarla izleyiciyi bilinçli yaşamın kapılarına davet eder. Hastalıklardan korunma, beslenme, hareket, ruh sağlığı ve doğru alışkanlıklar gibi başlıklar ele alınır. Karmaşık bilgiler sade bir dille aktarılır, günlük hayatta uygulanabilir öneriler sunulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604123000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ara Haber</title>
+    <desc lang="tr">Ara Haber, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar özenle derlenir. Canlı bağlantılar ve son dakika bilgileriyle zenginleşen bülten, gündemi yakından takip etmek isteyenler için güvenilir bir durak olur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604123000 +0300" stop="20260604130000 +0300" channel="tr.kanalv">
+    <title lang="tr">Usta</title>
+    <desc lang="tr">Kendi alanında iz bırakan ustaların hayatını, deneyimlerini ve başarı hikâyelerini ekrana taşıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604130000 +0300" stop="20260604133000 +0300" channel="tr.kanalv">
+    <title lang="tr">Tarihçe</title>
+    <desc lang="tr">İnsanlık tarihinin önemli dönemleri, kırılma noktaları ve toplumsal değişimler kronolojik bir bakışla ele alınır. Savaşlar, keşifler, kültürel dönüşümler ve medeniyetlerin yükselişi ile çöküşü, geçmişin bugüne etkisini anlamaya yardımcı olacak şekilde aktarılır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260604133000 +0300" stop="20260604140000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ara Haber</title>
+    <desc lang="tr">Ara Haber, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar özenle derlenir. Canlı bağlantılar ve son dakika bilgileriyle zenginleşen bülten, gündemi yakından takip etmek isteyenler için güvenilir bir durak olur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604143000 +0300" channel="tr.kanalv">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604143000 +0300" stop="20260604150000 +0300" channel="tr.kanalv">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604150000 +0300" stop="20260604153000 +0300" channel="tr.kanalv">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604153000 +0300" stop="20260604160000 +0300" channel="tr.kanalv">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604163000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ara Haber</title>
+    <desc lang="tr">Ara Haber, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar özenle derlenir. Canlı bağlantılar ve son dakika bilgileriyle zenginleşen bülten, gündemi yakından takip etmek isteyenler için güvenilir bir durak olur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604163000 +0300" stop="20260604170000 +0300" channel="tr.kanalv">
+    <title lang="tr">İslam ve İnsan</title>
+    <desc lang="tr">İslam ve İnsan, İslam düşüncesinin insan anlayışını ve bireyin toplum içindeki konumunu ele alıyor. Programda ahlak, sorumluluk, merhamet ve adalet gibi kavramlar; tarihsel ve düşünsel çerçevede değerlendiriliyor. İnanç ile gündelik hayat arasındaki bağ, sade ve analitik bir anlatımla izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604170000 +0300" stop="20260604173000 +0300" channel="tr.kanalv">
+    <title lang="tr">İslam ve İnsan</title>
+    <desc lang="tr">İslam ve İnsan, İslam düşüncesinin insan anlayışını ve bireyin toplum içindeki konumunu ele alıyor. Programda ahlak, sorumluluk, merhamet ve adalet gibi kavramlar; tarihsel ve düşünsel çerçevede değerlendiriliyor. İnanç ile gündelik hayat arasındaki bağ, sade ve analitik bir anlatımla izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604173000 +0300" stop="20260604180000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ata Sporu</title>
+    <desc lang="tr">Kanal V ekranlarında yayınlanan Ata Sporu, güreşten okçuluğa, ciritten biniciliğe kadar birçok geleneksel spor dalını izleyiciyle buluşturuyor. Bu sporların tarihi kökenleri, kuralları ve günümüzdeki temsilcileri detaylı şekilde ele alınıyor. Program, kültürel mirasın yaşatılmasına katkı sağlarken izleyicilere anlamlı bir yolculuk sunuyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604183000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ata Sporu</title>
+    <desc lang="tr">Kanal V ekranlarında yayınlanan Ata Sporu, güreşten okçuluğa, ciritten biniciliğe kadar birçok geleneksel spor dalını izleyiciyle buluşturuyor. Bu sporların tarihi kökenleri, kuralları ve günümüzdeki temsilcileri detaylı şekilde ele alınıyor. Program, kültürel mirasın yaşatılmasına katkı sağlarken izleyicilere anlamlı bir yolculuk sunuyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260604183000 +0300" stop="20260604190000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Günün en önemli gelişmelerini hızlı, tarafsız ve anlaşılır bir dille ekrana taşıyan Ana Haber, Türkiye'den ve dünyadan siyaset, ekonomi, sağlık, spor ve kültür-sanat başlıklarını kapsar. Özel dosyalar ve derinlikli analizleriyle izleyiciye güvenilir ve net bir ana gündem sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604190000 +0300" stop="20260604193000 +0300" channel="tr.kanalv">
+    <title lang="tr">Dünyadan Ne Haber</title>
+    <desc lang="tr">Kanal V'nin uluslararası gündemi ekrana taşıyan programı "Dünyadan Ne Haber", küresel ölçekte yaşanan en önemli gelişmeleri izleyicilere aktarıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604193000 +0300" stop="20260604200000 +0300" channel="tr.kanalv">
+    <title lang="tr">Tüketici Gündemi</title>
+    <desc lang="tr">Kanal V ekranlarında yayınlanan Tüketici Gündemi, izleyicilere ekonomi, alışveriş, tüketici hakları ve finansal farkındalık konularında rehberlik eder. Temel ihtiyaçlardan teknolojiye, gıda güvenliğinden hizmet sektörüne kadar pek çok başlık ele alınır. Uzman konuklar, tasarruf yöntemleri ve bilinçli tüketim alışkanlıkları hakkında pratik bilgiler paylaşır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604203000 +0300" channel="tr.kanalv">
+    <title lang="tr">Tüketici Gündemi</title>
+    <desc lang="tr">Kanal V ekranlarında yayınlanan Tüketici Gündemi, izleyicilere ekonomi, alışveriş, tüketici hakları ve finansal farkındalık konularında rehberlik eder. Temel ihtiyaçlardan teknolojiye, gıda güvenliğinden hizmet sektörüne kadar pek çok başlık ele alınır. Uzman konuklar, tasarruf yöntemleri ve bilinçli tüketim alışkanlıkları hakkında pratik bilgiler paylaşır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604203000 +0300" stop="20260604210000 +0300" channel="tr.kanalv">
+    <title lang="tr">Tüketici Gündemi</title>
+    <desc lang="tr">Kanal V ekranlarında yayınlanan Tüketici Gündemi, izleyicilere ekonomi, alışveriş, tüketici hakları ve finansal farkındalık konularında rehberlik eder. Temel ihtiyaçlardan teknolojiye, gıda güvenliğinden hizmet sektörüne kadar pek çok başlık ele alınır. Uzman konuklar, tasarruf yöntemleri ve bilinçli tüketim alışkanlıkları hakkında pratik bilgiler paylaşır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604210000 +0300" stop="20260604213000 +0300" channel="tr.kanalv">
+    <title lang="tr">Ara Haber</title>
+    <desc lang="tr">Ara Haber, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar özenle derlenir. Canlı bağlantılar ve son dakika bilgileriyle zenginleşen bülten, gündemi yakından takip etmek isteyenler için güvenilir bir durak olur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260604213000 +0300" stop="20260604220000 +0300" channel="tr.kanalv">
+    <title lang="tr">Anlaşabilirsiniz</title>
+    <desc lang="tr">Anlaşabilirsiniz, birbirinden tamamen farklı hayatlara sahip karakterlerin yollarının kesişmesini konu alıyor. Başlangıçta çatışmalar ve önyargılar ön plandayken, zamanla kurulan diyaloglar ve empati ilişkileri değiştirir. Film, iletişimin gücünü ve ortak bir zeminde buluşmanın mümkün olduğunu samimi bir anlatımla ele alıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260604223000 +0300" channel="tr.kanalv">
+    <title lang="tr">Anlaşabilirsiniz</title>
+    <desc lang="tr">Anlaşabilirsiniz, birbirinden tamamen farklı hayatlara sahip karakterlerin yollarının kesişmesini konu alıyor. Başlangıçta çatışmalar ve önyargılar ön plandayken, zamanla kurulan diyaloglar ve empati ilişkileri değiştirir. Film, iletişimin gücünü ve ortak bir zeminde buluşmanın mümkün olduğunu samimi bir anlatımla ele alıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604223000 +0300" stop="20260604230000 +0300" channel="tr.kanalv">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604230000 +0300" stop="20260604233000 +0300" channel="tr.kanalv">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260604233000 +0300" stop="20260605000000 +0300" channel="tr.kanalv">
+    <title lang="tr">Western Film Kuşağı</title>
+    <desc lang="tr">Western Film Kuşağı, sınır kasabalarının sert atmosferinde geçen unutulmaz hikâyeleri bir araya getiriyor. İyi ile kötünün keskin çizgilerle ayrıldığı bu dünyada, yalnız kovboylar, acımasız kanun kaçakları ve onur mücadelesi veren kahramanlar sahne alıyor. Her film, özgürlük, adalet ve intikam temalarıyla izleyiciyi zamansız bir yolculuğa çıkarıyor.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kemalsunal">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>

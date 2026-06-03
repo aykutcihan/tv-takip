@@ -206,7 +206,7 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?ce=2&app=201b9556-b11c-4
 
 # A PARA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=-UK2Sn3UWXTcmtQOy1FOAg&e=1780573282
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=DSnAu6h7OrpF2QdczkPgjA&e=1780574563
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=u27fChT8b9fjpfQ2P7jt8g&e=1780430131
 
 
@@ -349,7 +349,7 @@ https://www.youtube.com/watch?v=YPC4fsMWUK0
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
 # MEDYA HABER TV,    source: diger
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" tvg-id="tr.medyahabertv",Medya Haber TV
+#EXTINF:-1 tvg-logo="https://www.numedya24.com/wp-content/themes/barta/assets/img/tvradios/MedyaHaberLogo.webp" tvg-id="tr.medyahabertv",Medya Haber TV
 https://canliyayin.b-cdn.net/medyahaber.m3u8
 
 # JIN TV,    source: diger
@@ -415,7 +415,7 @@ https://cdn501.tvkulesi.com/htspor.m3u8?tkn=bmkZMuSUZofIC-ZV5WHgAQ&tms=178053305
 
 # A SPOR
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=uyQyYqnLYDGOin4slfB_DQ&e=1780573282
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=DQ0vjXfHliM_SmgEMJGyiw&e=1780574564
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439087/ei/zwMfar1hkqWL2g-P3trBCg/ip/31.21.186.28/id/mgeW8Qm8-SY.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwqKUDOaRLroLTqMdP0ZOOMojlZSwDavjWAPTUkiz3vLHGjigp4KTIleljU_4QEYlHRR2OACnEDn/spc/96Xrv-nSbdnWyTy8yt_fWDdTcoC4nRFLJuBipy7n8-fg_bR0Cw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4510000/met/1780417487,/mh/49/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgNwb9q8TzBgaxdg2NquijhoEYBEzZ8yHnLG1spoaWhrsCIBQ-u6L_cUudHPRjtIPpoYi-POw5grMaJaGpZDICmD0I/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgUymTrbvvkZaRdoaR-JSYJAPhPJI_L0PTqKb9OOTrK-ACIEKR-FUGEh6BsIYN1AKVi6q7cwrr8ewTqNw3m89DaDNl/playlist/index.m3u8
 
 # BEIN SPORTS HABER,    source: youtube
