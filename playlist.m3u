@@ -299,7 +299,7 @@ https://cdn501.tvkulesi.com/tv100.m3u8?tkn=0DdrH0W-Zq59jH5AEwbpJw&tms=1780532881
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" tvg-id="tvku.kanal24",Kanal 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" tvg-id="tr.kanal24",Kanal 24
 # source: tvkulesi
 https://cdn503.tvkulesi.com/24tv.m3u8?tkn=hREmh0dB0WpxojWcaL0C4Q&tms=1780533035&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-24
 
@@ -744,7 +744,7 @@ https://cdn900.tvkulesi.com/sunnahtv.m3u8?tkn=NzWMiNSpDiAwMvtQlPHZAw&tms=1780533
 # source: diger
 https://dost.stream.emsal.im/tv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/diyanet-tv-tr.png" tvg-id="tvku.diyanettv",Diyanet Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/diyanet-tv-tr.png" tvg-id="tr.diyanettv",Diyanet Tv
 # source: tvkulesi
 https://cdn900.tvkulesi.com/trtdiyanet.m3u8?tkn=e1-qHOldFEjEL9hLsQk__w&tms=1780533070&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=diyanet-tv
 
@@ -1033,7 +1033,7 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kanal23.m3u8?tkn=S2dwQe1odd37uKka5TdUsw&tms=1780532979&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-23
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-23-tr.png" tvg-id="tvku.kanal23",Kanal 23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-23-tr.png" tvg-id="tr.kanal23",Kanal 23
 # source: tvkulesi
 https://cdn900.tvkulesi.com/kanal23.m3u8?tkn=S2dwQe1odd37uKka5TdUsw&tms=1780532979&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-23
 
@@ -1274,7 +1274,7 @@ http://canli.tvden.com.tr/hls/live.m3u8
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv1.m3u8?tkn=SgmnN4OE8Qsc0yfxWcP7lA&tms=1780532884&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv1-tr.png" tvg-id="tvku.tv1",TV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv1-tr.png" tvg-id="tr.tv1",TV1
 # source: tvkulesi
 https://cdn900.tvkulesi.com/tv1.m3u8?tkn=SgmnN4OE8Qsc0yfxWcP7lA&tms=1780532884&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv1
 
