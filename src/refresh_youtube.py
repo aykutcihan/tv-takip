@@ -45,6 +45,8 @@ YOUTUBE_CHANNELS = {
     "tr.tele2haber":       "LXWokI7M9HE",
     "tr.bizimevtv":        "GRLd2oYZFnM",
     "tr.krttv":            "LBffKHlCx8U",
+    "tr.cnnturk":          "6N8_r2uwLEc",
+    "tr.akittv":           "YPC4fsMWUK0",
 }
 
 
@@ -86,14 +88,14 @@ def main():
 
         prev = updated
         for i, line in enumerate(lines):
-            if f'tvg-id="{tvg_id}"' in line:
-                # Sonraki URL satırını bul (# source satırını atla)
+            # "source: youtube" yorumundan sonra gelen URL'yi guncelle
+            if f'tvg-id="{tvg_id}"' in line and 'source: youtube' in (lines[i-1] if i > 0 else ''):
                 j = i + 1
                 while j < len(lines) and lines[j].startswith('#'):
                     j += 1
-                if j < len(lines) and lines[j].startswith('http'):
+                if j < len(lines) and (lines[j].startswith('http') or lines[j].startswith('https')):
                     lines[j] = stream_url
-                updated += 1
+                    updated += 1
 
         if updated > prev:
             print(f"  {tvg_id}: {stream_url[:70]}...")

@@ -685,6 +685,7 @@ channels:
   tr.meltemtv:
     name: "Meltem TV"
     sources:
+      - yayinakisi:https://meltemtv.com.tr/yayin-akisi
       - tvplus:meltem-tv--138
       - tvyayinakisi:meltem-tv
 
@@ -1266,6 +1267,7 @@ channels:
   tr.turkhaber:
     name: "Turkhaber"
     sources:
+      - yayinakisi:https://www.turkhabertv.com/yayin-akisi/
       - tvplus:turkhaber--4335
       - turksatkablo:TH Türk Haber
       - tivibu:ch00000000000000002531
@@ -1658,7 +1660,11 @@ channels:
     sources: []
   tr.kanal24:
     name: "Kanal24"
-    sources: []
+    sources:
+      - tvplus:24-hd--32
+      - turksatkablo:24
+      - tivibu:ch00000000000000001001
+      - tvyayinakisi:24
   tr.tv1:
     name: "Tv1"
     sources: []
