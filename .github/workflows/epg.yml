@@ -1,4 +1,4 @@
-name: EPG update
+name: EPG Güncelle
 
 on:
   schedule:
@@ -17,50 +17,33 @@ jobs:
     runs-on: self-hosted
     env:
       PYTHONUTF8: "1"
-    defaults:
-      run:
-        shell: cmd
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Bagimliliklar
-        run: pip install -r requirements.txt
+      - name: Bağımlılıklar
+        run: pip3 install -r requirements.txt
 
-      - name: Playwright tarayici
-        run: playwright install chromium
-
-      - name: Hazirlik
-        run: |
-          if not exist cache mkdir cache
-          if exist src\__pycache__ rd /s /q src\__pycache__
-          if exist src\adapters\__pycache__ rd /s /q src\adapters\__pycache__
+      - name: Playwright tarayıcı
+        run: python3 -m playwright install chromium
 
       - name: Token yenile
-        run: python src/refresh_tokens.py
+        run: python3 src/refresh_tokens.py
 
-      - name: YouTube stream guncelle
-        run: python src/refresh_youtube.py
+      - name: YouTube stream güncelle
+        run: python3 src/refresh_youtube.py
 
-      - name: EPG uretat
+      - name: EPG üret
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python src/main.py
+        run: python3 src/main.py
 
-      - name: Degistiyse commitle
+      - name: Değiştiyse commit'le
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:%GITHUB_TOKEN%@github.com/aykutcihan/tv-takip.git
-          if exist epg.xml git add epg.xml
-          if exist playlist.m3u git add playlist.m3u
-          if exist cache\tmdb.json git add cache\tmdb.json
-          git diff --cached --quiet
-          if errorlevel 1 (
-            git commit -m "EPG guncellendi"
-            git pull --rebase -X ours origin main
-            git push
-          ) else (
-            echo Degisiklik yok.
-          )
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/aykutcihan/tv-takip.git
+          git add epg.xml playlist.m3u cache/tmdb.json || true
+          git diff --cached --quiet || (git commit -m "EPG güncellendi" && git pull --rebase -X ours origin main && git push)

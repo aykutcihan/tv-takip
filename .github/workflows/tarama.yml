@@ -1,15 +1,15 @@
-name: Stream URL Yenile
+name: Aylık Kanal Tarama
 
 on:
   schedule:
-    - cron: "0 6,14,22 * * *"
+    - cron: "0 3 1 * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: streams
+  group: tarama
   cancel-in-progress: false
 
 jobs:
@@ -27,11 +27,11 @@ jobs:
       - name: Playwright tarayıcı
         run: python3 -m playwright install chromium
 
-      - name: tvkulesi stream güncelle
-        run: python3 src/refresh_tvku.py
+      - name: TRT radyo URL güncelle
+        run: python3 src/refresh_trt_radio.py
 
-      - name: Film listesi güncelle
-        run: python3 src/refresh_films.py
+      - name: Karnaval radyo güncelle
+        run: python3 src/refresh_karnaval.py
 
       - name: Değiştiyse commit'le
         env:
@@ -40,5 +40,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/aykutcihan/tv-takip.git
-          git add playlist.m3u films.m3u || true
-          git diff --cached --quiet || (git commit -m "Stream URL güncellendi" && git pull --rebase -X ours origin main && git push)
+          git add playlist.m3u || true
+          git diff --cached --quiet || (git commit -m "Aylık tarama tamamlandı" && git pull --rebase -X ours origin main && git push)

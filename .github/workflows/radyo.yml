@@ -1,16 +1,16 @@
-name: Stream URL Yenile
+name: Radyo EPG
 
 on:
   schedule:
-    - cron: "0 6,14,22 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: streams
-  cancel-in-progress: false
+  group: radyo
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -27,11 +27,14 @@ jobs:
       - name: Playwright tarayıcı
         run: python3 -m playwright install chromium
 
-      - name: tvkulesi stream güncelle
-        run: python3 src/refresh_tvku.py
+      - name: Radyo EPG güncelle
+        run: python3 src/refresh_radio_epg.py
 
-      - name: Film listesi güncelle
-        run: python3 src/refresh_films.py
+      - name: Karnaval şarkı bilgisi
+        run: python3 src/karnaval_songs.py
+
+      - name: Number1 şarkı bilgisi
+        run: python3 src/number1_songs.py
 
       - name: Değiştiyse commit'le
         env:
@@ -40,5 +43,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/aykutcihan/tv-takip.git
-          git add playlist.m3u films.m3u || true
-          git diff --cached --quiet || (git commit -m "Stream URL güncellendi" && git pull --rebase -X ours origin main && git push)
+          git add radios.xml karnaval-songs.json number1-songs.json || true
+          git diff --cached --quiet || (git commit -m "Radyo EPG güncellendi" && git pull --rebase -X ours origin main && git push)
