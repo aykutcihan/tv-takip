@@ -506,11 +506,11 @@ https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
 
 # KURAN MEAL,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Özgün" tvg-id="radyo7.kuranmeal",Kuran Meal
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Dini" tvg-id="radyo7.kuranmeal",Kuran Meal
 https://ssl4.radyotvonline.com/radyohome/kuranmeal.stream_aac/playlist.m3u8
 
 # TASAVVUF7,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Özgün" tvg-id="radyo7.tasavvuf7",Tasavvuf 7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Dini" tvg-id="radyo7.tasavvuf7",Tasavvuf 7
 https://moondigitaledge2.radyotvonline.net/radyo7tasavvuf/playlist.m3u8
 
 # ANKARA,    source: radyo7
@@ -530,7 +530,7 @@ https://moondigitaledge2.radyotvonline.net/radyo7pophit/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/radyo7nostalji/playlist.m3u8
 
 # KURAN ARAPCA,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Özgün" tvg-id="radyo7.kuranarapca",Kuran Arapça
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Dini" tvg-id="radyo7.kuranarapca",Kuran Arapça
 https://ssl4.radyotvonline.com/radyohome/kuranarapca.stream_aac/playlist.m3u8
 
 # MUHTESEM DORTLU,    source: radyo7
