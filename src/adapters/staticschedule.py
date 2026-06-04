@@ -493,6 +493,263 @@ SCHEDULES: Dict[str, Dict] = {
         ],
     },
 
+    # ── GÜLDÜR GÜLDÜR TV — 2 saatlik döngü, iki farklı EPG ───────
+    "tr.guldurguldur": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Güldür Güldür Show",
+             ("BKM imzalı, 2013'ten bu yana kesintisiz güldüren efsane program. "
+              "Ali Sunal ve güçlü kadrosuyla aile, aşk, teknoloji ve futboldan "
+              "sketçler... Türk mizahının günümüzdeki en parlak yüzü perdede."
+              if (h // 2) % 2 == 0 else
+              "Güldür Güldür Show — gülmek için bin bir neden. "
+              "Ali Sunal'ın liderliğinde kalabalık ve enerjik bir ekip, "
+              "hayatın her köşesinden kesitler sunar. Show TV'nin vazgeçilmezi, "
+              "her yaştan izleyicinin favorisi bu kanalda aralıksız yayında.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── LEYLA İLE MECNUN TV — 2 saatlik döngü, iki farklı EPG ────
+    "tr.leylaileMecnun": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Leyla ile Mecnun",
+             ("2011'de TRT'de başlayan, Ali Atay ve Ezgi Asaroğlu'nun canlandırdığı "
+              "efsane absürt komedi... Beşik kertmesi iki ruhun aşkı, ak sakallı dede "
+              "ve Kireçburnu sokaklarında geçen olağanüstü bir hikaye. "
+              "Onur Ünlü imzasıyla Türk televizyonunun en özgün yapımlarından biri."
+              if (h // 2) % 2 == 0 else
+              "Mecnun seviyor, Leyla biliyor, evren komplo kuruyor. "
+              "Absürt, dokunaklı ve tamamen kendine özgü bir dizi — Leyla ile Mecnun. "
+              "3 sezon, sayısız gülüş ve unutulmaz sahneleriyle bugün de perdede.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── YEDİ NUMARA TV — 2 saatlik döngü, iki farklı EPG ─────────
+    "tr.yedinumara": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Yedi Numara — Komedi Dizisi",
+             ("2000-2003 yılları arasında 92 bölüm yayınlanan sevilen Türk komedi dizisi. "
+              "Üniversite öğrencisi dört kız, taşradan gelen erkek komşuları ve "
+              "7 numaralı ahşap ev... Farklı dünyaların bir arada yarattığı gülmece, "
+              "bugün de taze ve sıcak."
+              if (h // 2) % 2 == 0 else
+              "Zeliha, Vahit, Sabit ve 7 numaralı evin birbirinden renkli sakinleri... "
+              "Türk televizyonunun en sevilen sitcom'larından Yedi Numara, "
+              "gülüşlerimizi geri çağırıyor. Komşuluk, dostluk ve tükenmeyen neşe — "
+              "kesintisiz bölümler bu kanalda.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── ŞABAN TV 3 — 2 saatlik döngü, iki farklı EPG ────────────
+    "tr.kemalsunal": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Şaban'ın Dünyası",
+             ("Üçüncü perde, aynı sevgi. Kemal Sunal'ın yarattığı Şaban evreni "
+              "bu kanalda da yaşıyor. Safiyetin, dürüstlüğün ve halk mizahının "
+              "en güzel örnekleri — Türk sinemasının vazgeçilmez hazineleri perdede."
+              if (h // 2) % 2 == 0 else
+              "Kemal Sunal'sız Türk sineması düşünülemez. "
+              "Şaban TV 3'te o ikonik gülüş, o tanıdık yüz yine karşınızda. "
+              "Gülmek, düşünmek, hatırlamak için — kesintisiz Kemal Sunal filmleri.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── ŞABAN TV 2 — 2 saatlik döngü, iki farklı EPG ────────────
+    "tr.sabana2": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Kemal Sunal Klasikleri",
+             ("Şaban'ın ikinci perdesi açılıyor. Kemal Sunal'ın ustalıkla canlandırdığı "
+              "o masum, saf ve her zaman kazanan karakteriyle dolu filmler burada. "
+              "Güldürürken bir şeyler öğreten, eğlendirirken dokunduran Türk sinemasının incileri."
+              if (h // 2) % 2 == 0 else
+              "Kemal Sunal bir fenomendi — sadece güldürmedi, ayna tuttu. "
+              "Toplumun her kesiminden bir his, her filmde tanıdık bir yüz. "
+              "Şaban TV 2'de gece boyunca devam eden o efsanevi yolculuk sizi bekliyor.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── ŞABAN TV — 2 saatlik döngü, iki farklı EPG ───────────────
+    "tr.sabantv": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Kemal Sunal'ın Şaban'ı",
+             ("Türk sinemasının en sevilen karakteri Şaban, yeniden perdede. "
+              "Kemal Sunal'ın eşsiz komedisi, zamana meydan okuyan o saf ve dürüst bakış... "
+              "Her sahnede güldüren, her replikte içe işleyen bir Şaban filmi sizi bekliyor."
+              if (h // 2) % 2 == 0 else
+              "Şaban sadece bir karakter değil, bir halk masalıdır. "
+              "Kemal Sunal'ın kaleme aldığı o eşsiz yüz ifadesiyle, "
+              "Türkiye'nin dört bir yanında gülücükler yeşerdi. "
+              "Bu gece de Şaban var — perdede, kalpte, hatırada.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── GÜLŞAH FİLM TV — 2 saatlik döngü, iki farklı EPG ────────
+    "tr.gulsahkemal": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Kemal Sunal Filmleri",
+             ("1974'te İstanbul'da kurulan Gülşah Film'in efsanevi yapımları... "
+              "Kemal Sunal'ın Türk sinemasına kazandırdığı unutulmaz karakterler, "
+              "güldürürken düşündüren hikayeler. Şaban'dan İnek Şaban'a, "
+              "Neşeli Günler'den Devlerin Aşkı'na — hep güldük, hep sevdik."
+              if (h // 2) % 2 == 0 else
+              "Gülşah Film imzasıyla Türk sinemasının altın sayfaları... "
+              "Kemal Sunal'ın milyonlara dokunan performansları, zamanın ötesinde yaşayan yapımlar. "
+              "Her filmde bir dönem, her sahnede bir his — Gülşah Film'den seçkin yapımlar perdede.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── YEŞİLÇAM TV — 2 saatlik döngü, iki farklı EPG ───────────
+    "tr.yesilcam": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Yeşilçam'dan Seçmeler" if (h // 2) % 2 == 0 else "Nostaljik Türk Sineması",
+             ("Türk sinemasının efsanevi yapımları... Kemal Sunal'dan Münir Özkul'a, "
+              "İlyas Salman'dan Adile Naşit'e uzanan kadrosuyla Yeşilçam'ın ölümsüz filmleri. "
+              "Güldürürken düşündüren, eğlendirirken dokunduran yapımlar."
+              if (h // 2) % 2 == 0 else
+              "Anadolu'nun sesi, halkın sineması... Yeşilçam'ın renkli dünyasından "
+              "dram, komedi ve macera bir arada. Jenerasyondan jenerasyona aktarılan "
+              "film mirası, bugün de perdede yaşıyor.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── ÇİÇEK TAKSİ TV — 2 saatlik döngü ────────────────────────
+    "tr.cicektaksi": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Çiçek Taksi — Efsane Dizi",
+             ("1995'te ATV'de başlayan, 367 bölümle Türk televizyon tarihine geçen efsane dizi. "
+              "Erol Günaydın'ın Ramazan'ıyla İstanbul'un bir taksi durağında "
+              "güldüren, duygulandıran hayat hikayeleri yeniden perdede."
+              if (h // 2) % 2 == 0 else
+              "Taksi şoförlerinin ailesi, bitmez derdi ve sonsuz neşesiyle "
+              "Çiçek Taksi durağından selamlar. 7 sezon, 367 bölüm, "
+              "binlerce gülümseme — Türk televizyonunun klasiği bu kanalda.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── SEKSENLER TV — 2 saatlik döngü ───────────────────────────
+    "tr.seksenler": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Seksenler — Nostaljik Dönem Dizisi",
+             ("2012'de TRT 1'de başlayan, 9 sezon 655 bölüm süren nostaljik dönem komedisi. "
+              "Rasim Öztekin ve kadrosuyla 1980'lerin İstanbul mahallesinde "
+              "bir ailenin sıcak ve eğlenceli günlük yaşamı."
+              if (h // 2) % 2 == 0 else
+              "Seksenler — o yıllar, o mahalle, o insanlar. "
+              "Birol Güven imzalı yapım, hem bir dönemin belgesel tadındaki aynası "
+              "hem de tüm ailelerin bir arada keyifle izleyeceği sıcak bir komedi.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── AVRUPA YAKASI TV — 2 saatlik döngü ───────────────────────
+    "tr.avrupayakasitv": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Avrupa Yakası — Şehirli Komedi",
+             ("Gülse Birsel'in kaleme aldığı, 2004-2009 yılları arasında 190 bölüm yayınlanan "
+              "efsane sitcom. Gazanfer Özcan, Ata Demirer, Engin Günaydın... "
+              "Nişantaşı'ndan İstanbul'un renkli şehir hayatına alaycı ama sevecen bir bakış."
+              if (h // 2) % 2 == 0 else
+              "Moda, magazin, komşuluk ve şehirli kaosun içinde Avrupa Yakası. "
+              "6 sezon boyunca Türkiye'yi güldüren, ödüller kazanan yapım — "
+              "Gülse Birsel'in tükenmeyen kalemi ve muhteşem kadrosuyla bu kanalda.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── YALAN DÜNYA TV — 2 saatlik döngü ─────────────────────────
+    "tr.yalandunayatv": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Yalan Dünya — Kanal D Klasiği",
+             ("2012-2014 yılları arasında Kanal D'de 90 bölüm yayınlanan sevilen komedi. "
+              "Altan Erkekli, Füsun Demirel ve Olgun Şimşek... "
+              "Cihangir'de bir arada yaşamak zorunda kalan büyük bir ailenin "
+              "birbirinden komik ve dokunaklı hikayeleri."
+              if (h // 2) % 2 == 0 else
+              "Antakya'dan Cihangir'e taşınan Kocabaş ailesi, "
+              "gelenekler ve modern hayat arasında sıkışmış karakterler... "
+              "Yalan Dünya — 4 sezon boyunca güldüren, düşündüren, "
+              "ev halkını bir araya getiren o sıcak dizi bu kanalda.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── ALEMİN KRALI TV — 2 saatlik döngü ────────────────────────
+    "tr.aleminkralitv": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Alemin Kıralı — Şafak Sezer ile",
+             ("Şafak Sezer ve Oya Başar'ın buluştuğu, 2011-2013 yılları arasında "
+              "67 bölüm yayınlanan ATV komedisi. Petshop sahibi Aslan'ın "
+              "altı kadının yaşadığı evde içgüveysi olarak geçen çileli ama eğlenceli hayatı."
+              if (h // 2) % 2 == 0 else
+              "Alemin Kıralı olmak kolay değil — özellikle de kayınvalidenin "
+              "gözüne girmeye çalışırken. Şafak Sezer'in eşsiz komedisiyle, "
+              "Türk sitcom tarihinin en sevilen yapımlarından biri bu kanalda.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── AVŞAR FİLM TV — 2 saatlik döngü, iki farklı EPG ─────────
+    "tr.avsarfilmtv": {
+        "tz": IST_TZ,
+        "daily": [
+            (h, 0,
+             "Avşar Film Seçkisi",
+             ("1984'te Şükrü Avşar tarafından kurulan Avşar Film'in büyüleyici yapımları. "
+              "Babam ve Oğlum'dan Karagül'e, Zalim İstanbul'dan Fazilet Hanım'a uzanan "
+              "Türk televizyonunun en kalburüstü yapımları bu kanalda."
+              if (h // 2) % 2 == 0 else
+              "Duygu, heyecan ve nitelikli anlatım — Avşar Film'in imzası bu. "
+              "Türkiye'nin dört bir yanına dokunan hikâyeler, "
+              "ödüllü yapımlar ve seçkin kadrosuyla Avşar Film yapımları perdede.")
+            ) for h in range(0, 24, 2)
+        ],
+    },
+
+    # ── ARZU FİLM TV — 2 saatlik döngü ──────────────────────────
+    "tr.arzufilm": {
+        "tz": IST_TZ,
+        "daily": [(h, 0, "Arzu Film Yapımı Filmler",
+            "1964'te Ertem Eğilmez tarafından kurulan Arzu Film'in efsanevi yapımları... "
+            "Hababam Sınıfı'ndan Tarkan'a, Maskeli Beşler'den unutulmaz güldürülere uzanan "
+            "Türk sinemasının altın çağından seçkin yapımlar. Arzu Film imzasıyla, "
+            "Anadolu'nun ruhunu yansıtan eserler perdede."
+        ) for h in range(0, 24, 2)],
+    },
+
     # ── RİZE TÜRK — 2 saatlik film döngüsü ──────────────────────
     "tr.rizeturk": {
         "tz": IST_TZ,

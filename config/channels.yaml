@@ -1696,35 +1696,45 @@ channels:
     name: "Diyanettv"
     sources: []
   tr.arzufilm:
-    name: "Arzufilm"
-    sources: []
+    name: "Arzu Film TV"
+    sources:
+      - staticschedule:tr.arzufilm
   tr.yesilcam:
-    name: "Yesilcam"
-    sources: []
+    name: "Yesilcam TV"
+    sources:
+      - staticschedule:tr.yesilcam
   tr.kemalsunal:
-    name: "Kemalsunal"
-    sources: []
+    name: "Saban TV 3"
+    sources:
+      - staticschedule:tr.kemalsunal
   tr.gulsahkemal:
-    name: "Gulsahkemal"
-    sources: []
+    name: "Gulsah Film TV"
+    sources:
+      - staticschedule:tr.gulsahkemal
   tr.sabana2:
-    name: "Sabana2"
-    sources: []
+    name: "Saban TV 2"
+    sources:
+      - staticschedule:tr.sabana2
   tr.guldurguldur:
-    name: "Guldurguldur"
-    sources: []
+    name: "Guldur Guldur TV"
+    sources:
+      - staticschedule:tr.guldurguldur
   tr.cicektaksi:
-    name: "Cicektaksi"
-    sources: []
+    name: "Cicek Taksi TV"
+    sources:
+      - staticschedule:tr.cicektaksi
   tr.yedinumara:
-    name: "Yedinumara"
-    sources: []
+    name: "Yedi Numara TV"
+    sources:
+      - staticschedule:tr.yedinumara
   tr.leylaileMecnun:
-    name: "Leylailemecnun"
-    sources: []
+    name: "Leyla ile Mecnun TV"
+    sources:
+      - staticschedule:tr.leylaileMecnun
   tr.seksenler:
-    name: "Seksenler"
-    sources: []
+    name: "Seksenler TV"
+    sources:
+      - staticschedule:tr.seksenler
   EuroStar.tr:
     name: "Tr"
     sources: []
@@ -1791,3 +1801,28 @@ channels:
     name: "Rize Turk"
     sources:
       - staticschedule:tr.rizeturk
+
+  tr.sabantv:
+    name: "Saban TV"
+    sources:
+      - staticschedule:tr.sabantv
+
+  tr.avsarfilmtv:
+    name: "Avsar Film TV"
+    sources:
+      - staticschedule:tr.avsarfilmtv
+
+  tr.avrupayakasitv:
+    name: "Avrupa Yakasi TV"
+    sources:
+      - staticschedule:tr.avrupayakasitv
+
+  tr.yalandunayatv:
+    name: "Yalan Dunya TV"
+    sources:
+      - staticschedule:tr.yalandunayatv
+
+  tr.aleminkralitv:
+    name: "Alemin Krali TV"
+    sources:
+      - staticschedule:tr.aleminkralitv
