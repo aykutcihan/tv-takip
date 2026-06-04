@@ -44,13 +44,6 @@ CHANNELS = {
     "t4":        ("Tivibu Spor 4", "tr.tivibuspor4"),
     "nbatv":     ("NBA TV",        "tr.nbatv"),
     "eu2":       ("Eurosport 2",   "tr.eurosport2"),
-    "eu1":       ("Eurosport 1",   "tr.eurosport1"),
-    "smarts":    ("Smart Spor",    "tr.sportstv"),
-    "sms2":      ("Smart Spor 2",  "tr.sportstv"),
-    "b5":        ("BeIN Sports 5", "tr.beinsports5"),
-    "ss":        ("S Sport",       "tr.ssport"),
-    "ss2":       ("S Sport 2",     "tr.ssport2"),
-    "t1":        ("Tivibu Spor",   "tr.tivibuspor"),
 }
 
 # Varsayılan config (discover çalışana kadar)

@@ -1487,34 +1487,6 @@ http://192.168.1.141:8888/stream/nbatv
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.eurosport2",Eurosport 2
 http://192.168.1.141:8888/stream/eu2
 
-# EUROSPORT 1,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.eurosport1",Eurosport 1
-http://192.168.1.141:8888/stream/eu1
-
-# SMART SPOR,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" tvg-id="tr.sportstv",Smart Spor
-http://192.168.1.141:8888/stream/smarts
-
-# SMART SPOR 2,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" tvg-id="tr.sportstv",Smart Spor 2
-http://192.168.1.141:8888/stream/sms2
-
-# BEIN SPORTS 5,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" tvg-id="tr.beinsports5",BeIN Sports 5
-http://192.168.1.141:8888/stream/b5
-
-# S SPORT,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-tr.png" tvg-id="tr.ssport",S Sport
-http://192.168.1.141:8888/stream/ss
-
-# S SPORT 2,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-2-tr.png" tvg-id="tr.ssport2",S Sport 2
-http://192.168.1.141:8888/stream/ss2
-
-# TIVIBU SPOR,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor",Tivibu Spor
-http://192.168.1.141:8888/stream/t1
-
 # ── RADYO ────────────────────────────
 
 # ANTALYA RADYOSU,    source: trt
