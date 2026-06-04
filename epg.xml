@@ -19,6 +19,9 @@
     <display-name>A Haber</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber-tr.png"/>
   </channel>
+  <channel id="tr.ailetv">
+    <display-name>Aile TV</display-name>
+  </channel>
   <channel id="tr.akittv">
     <display-name>Akit TV</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/akit-tv-tr.png"/>
@@ -36,6 +39,12 @@
   <channel id="tr.aspor">
     <display-name>A Spor</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png"/>
+  </channel>
+  <channel id="tr.asrisaadettv">
+    <display-name>Asr-i Saadet TV</display-name>
+  </channel>
+  <channel id="tr.asrisheriftv">
+    <display-name>Asr-i Serif TV</display-name>
   </channel>
   <channel id="tr.astv">
     <display-name>As TV</display-name>
@@ -60,6 +69,9 @@
   <channel id="tr.beinsportshaber">
     <display-name>beIN Sports Haber</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png"/>
+  </channel>
+  <channel id="tr.belgiseltv">
+    <display-name>Belgesel TV</display-name>
   </channel>
   <channel id="tr.benguturk">
     <display-name>Benguturk</display-name>
@@ -114,6 +126,9 @@
     <display-name>Ciftci TV</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ciftci-tv-tr.png"/>
   </channel>
+  <channel id="tr.cizgifilmtv">
+    <display-name>Cizgi Film TV</display-name>
+  </channel>
   <channel id="tr.cnbce">
     <display-name>CNBC E</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e-tr.png"/>
@@ -121,6 +136,9 @@
   <channel id="tr.cnnturk">
     <display-name>CNN Turk</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png"/>
+  </channel>
+  <channel id="tr.cocuklaraozeltv">
+    <display-name>Cocuklara Ozel TV</display-name>
   </channel>
   <channel id="tr.damartv">
     <display-name>Damar TV</display-name>
@@ -133,6 +151,9 @@
   <channel id="tr.diyanettv">
     <display-name>Diyanettv</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/diyanet-tv-tr.png"/>
+  </channel>
+  <channel id="tr.dizitv">
+    <display-name>Dizi TV</display-name>
   </channel>
   <channel id="tr.dmax">
     <display-name>DMAX</display-name>
@@ -180,6 +201,9 @@
   </channel>
   <channel id="tr.finest">
     <display-name>Finest TV</display-name>
+  </channel>
+  <channel id="tr.fityasatv">
+    <display-name>Fit Yasa TV</display-name>
   </channel>
   <channel id="tr.flashhaber">
     <display-name>Flash Haber</display-name>
@@ -362,6 +386,9 @@
     <display-name>Minika Go</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/minika-go-tr.png"/>
   </channel>
+  <channel id="tr.mukabeletv">
+    <display-name>Mukabele TV</display-name>
+  </channel>
   <channel id="tr.neohabertv">
     <display-name>Neo Haber TV</display-name>
     <icon src="https://neotvcanli.com/assets/images/logo.png"/>
@@ -460,6 +487,9 @@
   <channel id="tr.sutv">
     <display-name>Sutv</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-23-tr.png"/>
+  </channel>
+  <channel id="tr.tarihtv">
+    <display-name>Tarih TV</display-name>
   </channel>
   <channel id="tr.tele2haber">
     <display-name>Tele2Haber</display-name>
@@ -602,6 +632,9 @@
   <channel id="tr.ulusalkanal">
     <display-name>Ulusal Kanal</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulusal-tv-tr.png"/>
+  </channel>
+  <channel id="tr.vaaztv">
+    <display-name>Vaaz TV</display-name>
   </channel>
   <channel id="tr.van65">
     <display-name>Van65</display-name>
@@ -2613,6 +2646,258 @@ Okullarını bitirmeye çalışırken başlarına gelen bir olay yüzünden, bü
   </programme>
   <programme start="20260610235000 +0300" stop="20260611020000 +0300" channel="tr.ahaber">
     <title lang="tr">Gece Ajansı</title>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604080000 +0300" stop="20260604103000 +0300" channel="tr.akittv">
     <title lang="tr">Gün Başlıyor</title>
@@ -5589,6 +5874,261 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
   <programme start="20260610230000 +0300" stop="20260611020000 +0300" channel="tr.aspor">
     <title lang="tr">Son Sayfa</title>
   </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604000400 +0300" stop="20260604020400 +0300" channel="tr.asrisheriftv">
+    <title lang="tr">AŞR-I ŞERİF</title>
+  </programme>
   <programme start="20260604010000 +0300" stop="20260604070000 +0300" channel="tr.astv">
     <title lang="tr">Tekrar Programlar</title>
     <category lang="tr">Haber</category>
@@ -7612,6 +8152,258 @@ Resulullah ahir zaman ile ilgili nelere dikkat çekmiştir?</desc>
   </programme>
   <programme start="20260611234500 +0300" stop="20260612000000 +0300" channel="tr.beinsportshaber">
     <title lang="tr">Spor Gecesi</title>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604004000 +0300" stop="20260604070000 +0300" channel="tr.benguturk">
     <title lang="tr">Spor Haberleri</title>
@@ -22218,6 +23010,258 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">Tarıma Dair</title>
     <category lang="tr">Magazin</category>
   </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260604000000 +0300" stop="20260604005000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
     <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
@@ -23253,6 +24297,258 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   </programme>
   <programme start="20260610204500 +0300" stop="20260611000000 +0300" channel="tr.cnnturk">
     <title lang="tr">Gece Görüşü</title>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.damartv">
     <title lang="tr">Damar Arabesk Yayını</title>
@@ -25149,6 +26445,78 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   </programme>
   <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.diyanettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604003100 +0300" stop="20260604011400 +0300" channel="tr.dizitv">
+    <title lang="tr">Mimar Sinan I 3. Bölüm</title>
+  </programme>
+  <programme start="20260604011400 +0300" stop="20260604020300 +0300" channel="tr.dizitv">
+    <title lang="tr">Çalıkuşu I 6. Bölüm</title>
+  </programme>
+  <programme start="20260604020300 +0300" stop="20260604024000 +0300" channel="tr.dizitv">
+    <title lang="tr">Ömer Seyfettin I 3. Bölüm</title>
+  </programme>
+  <programme start="20260604024000 +0300" stop="20260604043400 +0300" channel="tr.dizitv">
+    <title lang="tr">Huzur Sokağı I 8. Bölüm</title>
+  </programme>
+  <programme start="20260604043400 +0300" stop="20260604062400 +0300" channel="tr.dizitv">
+    <title lang="tr">Diğer Yarım I 8. Bölüm</title>
+  </programme>
+  <programme start="20260604062400 +0300" stop="20260604071900 +0300" channel="tr.dizitv">
+    <title lang="tr">Acımak I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604071900 +0300" stop="20260604080100 +0300" channel="tr.dizitv">
+    <title lang="tr">Aliş ile Zeynep I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604080100 +0300" stop="20260604090600 +0300" channel="tr.dizitv">
+    <title lang="tr">Hacı Arif Bey I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604090600 +0300" stop="20260604094600 +0300" channel="tr.dizitv">
+    <title lang="tr">Kavanozdaki Adam I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604094600 +0300" stop="20260604103400 +0300" channel="tr.dizitv">
+    <title lang="tr">Kuruluş Osmancık I 8. Bölüm</title>
+  </programme>
+  <programme start="20260604103400 +0300" stop="20260604111400 +0300" channel="tr.dizitv">
+    <title lang="tr">Küçük Ağa I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604111400 +0300" stop="20260604120400 +0300" channel="tr.dizitv">
+    <title lang="tr">Mimar Sinan I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604120400 +0300" stop="20260604125100 +0300" channel="tr.dizitv">
+    <title lang="tr">Çalıkuşu I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604125100 +0300" stop="20260604133600 +0300" channel="tr.dizitv">
+    <title lang="tr">Ömer Seyfettin I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604133600 +0300" stop="20260604153100 +0300" channel="tr.dizitv">
+    <title lang="tr">Huzur Sokağı I 9. Bölüm</title>
+  </programme>
+  <programme start="20260604153100 +0300" stop="20260604172500 +0300" channel="tr.dizitv">
+    <title lang="tr">Diğer Yarım I 9. Bölüm</title>
+  </programme>
+  <programme start="20260604172500 +0300" stop="20260604181700 +0300" channel="tr.dizitv">
+    <title lang="tr">Acımak I 7. Bölüm</title>
+  </programme>
+  <programme start="20260604181700 +0300" stop="20260604185900 +0300" channel="tr.dizitv">
+    <title lang="tr">Aliş ile Zeynep I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604185900 +0300" stop="20260604200400 +0300" channel="tr.dizitv">
+    <title lang="tr">Hacı Arif Bey I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604200400 +0300" stop="20260604204400 +0300" channel="tr.dizitv">
+    <title lang="tr">Kavanozdaki Adam I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604204400 +0300" stop="20260604214400 +0300" channel="tr.dizitv">
+    <title lang="tr">Kuruluş Osmancık I 9. Bölüm</title>
+  </programme>
+  <programme start="20260604214400 +0300" stop="20260604222400 +0300" channel="tr.dizitv">
+    <title lang="tr">Küçük Ağa I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604222400 +0300" stop="20260604231300 +0300" channel="tr.dizitv">
+    <title lang="tr">Mimar Sinan I 4. Bölüm</title>
+  </programme>
+  <programme start="20260604231300 +0300" stop="20260605011300 +0300" channel="tr.dizitv">
+    <title lang="tr">Çalıkuşu I 7. Bölüm</title>
   </programme>
   <programme start="20260604005000 +0300" stop="20260604015000 +0300" channel="tr.dmax">
     <title lang="tr">Altın Peşinde: Kurtarma Operasyonu</title>
@@ -37457,6 +38825,258 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260623040000 +0300" stop="20260623060000 +0300" channel="tr.finest">
     <title lang="tr">Türkçe Pop Yayını</title>
     <desc lang="tr">Türkçe pop müzik video yayını</desc>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604001000 +0300" channel="tr.flashhaber">
     <title lang="tr">Savunma Vizyonu</title>
@@ -52733,143 +54353,91 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   </programme>
   <programme start="20260604000000 +0300" stop="20260604070000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Gece Bülteni</title>
-    <desc lang="tr">Günün önemli gelişmelerini ve son dakika haberlerini izleyiciye aktaran kapsamlı bir haber programıdır. Siyasetten ekonomiye, yerel ve ulusal gelişmelerden dünya haberlerine kadar geniş bir yelpazede bilgi sunar. Günün özetini hızlı ve güvenilir biçimde aktararak, izleyicilerin gün sonunda olup biteni kaçırmamasını sağlar.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604070000 +0300" stop="20260604072500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Çizgi Film</title>
-    <desc lang="tr">Minik izleyiciler için hazırlanan Çizgi Film kuşağı, eğlenceli ve öğretici içerikleriyle çocuklara keyifli anlar yaşatır. Sevimli karakterlerin maceraları; dostluk, paylaşma ve dayanışma gibi değerleri eğlenceli hikâyelerle aktarır.</desc>
-    <category lang="tr">Animasyon</category>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260604072500 +0300" stop="20260604073000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604073000 +0300" stop="20260604100000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Meltem Sonay İle Sabah Genç'te Sabah</title>
-    <desc lang="tr">Güne enerjik ve bilinçli bir başlangıç yapmak isteyen izleyiciler için hazırlanan modern bir sabah haber programı. Meltem Sonay'ın güçlü sunumuyla program; Türkiye ve dünyadan son dakika gelişmelerini, siyaset, ekonomi, kültür-sanat ve teknoloji başlıklarıyla kapsamlı biçimde ekrana taşır.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604100000 +0300" stop="20260604102000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604102000 +0300" stop="20260604112000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Alternatif Gündem</title>
-    <desc lang="tr">Ana akım medyada yer bulamayan konular, cesur sorular ve farklı bakış açıları "Alternatif Gündem"de masaya yatırılıyor. Siyasetten topluma, ekonomiden çevreye alternatif bir gündem için ekran başına! Uzman konuklar, derin analizler ve sorgulayan bir yayın anlayışıyla her hafta Kıbrıs Genç TV'de.</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Gailemiz Gelecek</title>
   </programme>
   <programme start="20260604112000 +0300" stop="20260604114000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604114000 +0300" stop="20260604120000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Bir Zamanlar Kıbrıs</title>
-    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs'ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
-    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604120000 +0300" stop="20260604125000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Gençte Magazin</title>
-    <desc lang="tr">Gençte Magazin, gençlerin ilgi alanlarına ve güncel yaşam tarzlarına odaklanan dinamik bir magazin programıdır. Kültürel ve sosyal konular, röportajlar ve eğlenceli içeriklerle genç izleyicilere hem keyifli hem bilgilendirici bir deneyim sunar.</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Pozitif Haber</title>
   </programme>
   <programme start="20260604125000 +0300" stop="20260604130000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604130000 +0300" stop="20260604135500 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Enise Çağatay İle Birlikte Konuşalım</title>
-    <desc lang="tr">Hayatın içinden konular, güncel gelişmeler ve ilham verici sohbetler… Enise Çağatay ile Birlikte Konuşalım programında; samimi, ve düşündürücü sohbetlerle izleyicilerle buluşuyoruz. Her bölümde farklı konu ve konuklarla hayatı, kültürü ve gündemi birlikte keşfediyoruz.</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Hünerli Ellerden Sıcak Lezzetler</title>
   </programme>
   <programme start="20260604135500 +0300" stop="20260604140000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604140000 +0300" stop="20260604155500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Yağmur Çal İle Perspektif</title>
-    <desc lang="tr">Günümüz gündemini sadece haber olarak değil, anlam ve yorum katarak ele alan bir analiz programıdır. Toplumsal meseleler, siyasi gelişmeler ve sosyal değişimler, uzman görüşleri ve farklı perspektiflerle izleyiciye aktarılır.</desc>
-    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604155500 +0300" stop="20260604160000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604160000 +0300" stop="20260604170000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Rotam 360</title>
-    <desc lang="tr">Rotam 360, güncel gelişmeler, kültürel etkinlikler ve toplumsal konuları ele alan magazin ve bilgi programıdır. Röportajlar, saha çalışmaları ve bilgilendirici içeriklerle izleyiciye hem eğlenceli hem öğretici bir deneyim sunar.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260604160000 +0300" stop="20260604165000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Yeni Kafa</title>
   </programme>
-  <programme start="20260604170000 +0300" stop="20260604171500 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604165000 +0300" stop="20260604170000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604171500 +0300" stop="20260604184500 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Akşam Saati</title>
-    <desc lang="tr">Gün boyunca yaşanan gelişmeleri değerlendiren ve gündemin öne çıkan başlıklarını analiz eden akşam kuşağı programıdır. Siyaset, ekonomi, kültür ve sosyal hayat uzman konuklarla ele alınır.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260604170000 +0300" stop="20260604172500 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Bir Zamanlar Kıbrıs</title>
+  </programme>
+  <programme start="20260604172500 +0300" stop="20260604173000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Reklam</title>
+  </programme>
+  <programme start="20260604173000 +0300" stop="20260604184500 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Neşe Egemen İle Her Şeyi Konuşalım</title>
   </programme>
   <programme start="20260604184500 +0300" stop="20260604190000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604190000 +0300" stop="20260604194500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Ana Haber Bülteni</title>
-    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini tarafsız, doğru ve hızlı bir şekilde izleyiciye ulaştıran haber programıdır. Siyaset, ekonomi, spor ve kültür-sanat haberleri güçlü habercilik anlayışıyla sunulur.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604194500 +0300" stop="20260604200000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604200000 +0300" stop="20260604201500 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Bir Zamanlar Kıbrıs</title>
-    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs'ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260604200000 +0300" stop="20260604205000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Yüzleşme</title>
   </programme>
-  <programme start="20260604201500 +0300" stop="20260604202000 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604205000 +0300" stop="20260604211000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604202000 +0300" stop="20260604212000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Gül Konuralp İle Senin Hikayen</title>
-    <desc lang="tr">Gül Konuralp ile Senin Hikayen, sağlık ve yaşam alanında merak edilen konuları uzman konuklarla ele alan ilham verici bir programdır. Doktorlar, psikologlar ve beslenme uzmanları, günlük hayatta karşılaşılan sorunlara sade ve anlaşılır çözümler sunuyor.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260604211000 +0300" stop="20260604213000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Bahar Heryerde</title>
   </programme>
-  <programme start="20260604212000 +0300" stop="20260604213000 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604213000 +0300" stop="20260604223000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Trendy Uk</title>
+  </programme>
+  <programme start="20260604223000 +0300" stop="20260604224500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604213000 +0300" stop="20260604224500 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604224500 +0300" stop="20260604234500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Bildiklerimizin Ötesi</title>
-    <desc lang="tr">Gündemdeki konuları farklı bakış açılarıyla ele alan bir programdır. Alanında uzman konuklarla bilinmeyenler, merak edilenler ve perde arkası detaylar masaya yatırılır; izleyiciye sorgulatan bir perspektif sunulur.</desc>
-    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260604224500 +0300" stop="20260604225500 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604234500 +0300" stop="20260605000000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260604225500 +0300" stop="20260604235500 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Yeni Kafa</title>
-    <desc lang="tr">Mustafa Abitoğlu ile Yeni Kafa, güncel konuları, kültürel ve toplumsal meseleleri izleyicilere aktaran bir magazin ve bilgi programıdır. Program, röportajlar, söyleşiler ve bilgilendirici içeriklerle hem eğlenceli hem öğretici bir deneyim sunar. Mustafa Abitoğlu'nun sunumuyla, izleyiciler güncel gelişmeler, ilginç hikâyeler ve kültürel olaylar hakkında bilgi sahibi olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260604235500 +0300" stop="20260605000000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Reklam</title>
-    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605070000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Gece Bülteni</title>
@@ -53378,21 +54946,257 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610235500 +0300" stop="20260611000000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kibris TV</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604060000 +0300" stop="20260604120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kibris TV</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604120000 +0300" stop="20260604180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kibris TV</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604180000 +0300" stop="20260605000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kibris TV</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604005000 +0300" channel="tr.kontv">
     <title lang="tr">Gece Haber</title>
@@ -64929,6 +66733,258 @@ macera başlar.</desc>
   </programme>
   <programme start="20260610233000 +0300" stop="20260611000000 +0300" channel="tr.minikago">
     <title lang="tr">Sonic Boom</title>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525080000 +0300" stop="20260525110000 +0300" channel="tr.neohabertv">
     <title lang="tr">Uyanma Servisi</title>
@@ -81596,11 +83652,8 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   <programme start="20260606231500 +0300" stop="20260607020000 +0300" channel="tr.showmax">
     <title lang="tr">Yağmur Zamanı</title>
   </programme>
-  <programme start="20260607020000 +0300" stop="20260607041500 +0300" channel="tr.showmax">
+  <programme start="20260607020000 +0300" stop="20260607070000 +0300" channel="tr.showmax">
     <title lang="tr">Dudaktan Kalbe</title>
-  </programme>
-  <programme start="20260607041500 +0300" stop="20260607070000 +0300" channel="tr.showmax">
-    <title lang="tr">Yeni Gelin</title>
   </programme>
   <programme start="20260607070000 +0300" stop="20260607090000 +0300" channel="tr.showmax">
     <title lang="tr">Gelin Evi</title>
@@ -86218,6 +88271,36 @@ Bir yandan da geçmişiyle ilgili önemli bir bilgiye ulaşan Feride; ona bunu y
   </programme>
   <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.sutv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604014100 +0300" stop="20260604022100 +0300" channel="tr.tarihtv">
+    <title lang="tr">Anadolu İrfanının Köşe Taşları - Doğu'dan Batı'ya Tarih</title>
+  </programme>
+  <programme start="20260604022100 +0300" stop="20260604040700 +0300" channel="tr.tarihtv">
+    <title lang="tr">Mevlana'dan Yunus'a Anadolu'da Psikoloji Tecrübesi - Doğu'dan Batı'ya Tarih</title>
+  </programme>
+  <programme start="20260604040700 +0300" stop="20260604055100 +0300" channel="tr.tarihtv">
+    <title lang="tr">Orta Çağ'da Fransa Tarihi - Doğudan Batıya Tarih</title>
+  </programme>
+  <programme start="20260604055100 +0300" stop="20260604073800 +0300" channel="tr.tarihtv">
+    <title lang="tr">Osmanlı Dünyasında Şehir ve Estetik - Doğu'dan Batı'ya Tarih</title>
+  </programme>
+  <programme start="20260604073800 +0300" stop="20260604092400 +0300" channel="tr.tarihtv">
+    <title lang="tr">Osmanlı İlmiyesi ve İlmiye Sınıfına Verilen İmtiyazlar - Doğu'dan Batı'ya Tarih</title>
+  </programme>
+  <programme start="20260604092400 +0300" stop="20260604111400 +0300" channel="tr.tarihtv">
+    <title lang="tr">Peygamber Efendimizin (SAV) Dönüştürdüğü Toplum - Doğu'dan Batı'ya Tarih</title>
+  </programme>
+  <programme start="20260604111400 +0300" stop="20260604135700 +0300" channel="tr.tarihtv">
+    <title lang="tr">Selçuklu Mimarisinin En Özgün Eserleri: Hanlar ve Kervansaraylar - Doğu'dan Batı'ya Tarih</title>
+  </programme>
+  <programme start="20260604135700 +0300" stop="20260604163500 +0300" channel="tr.tarihtv">
+    <title lang="tr">Selçuklu'dan Osmanlı'ya İrfan İklimi - Doğudan Batıya Tarih</title>
+  </programme>
+  <programme start="20260604163500 +0300" stop="20260604193500 +0300" channel="tr.tarihtv">
+    <title lang="tr">Selçuklularda Şehir ve Medeniyet - Doğudan Batıya Tarih</title>
+  </programme>
+  <programme start="20260604193500 +0300" stop="20260604213500 +0300" channel="tr.tarihtv">
+    <title lang="tr">Tarih ve Kültür Şehri: Tokat - Doğu'dan Batı'ya Tarih</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -109324,6 +111407,258 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
   </programme>
   <programme start="20260610230000 +0300" stop="20260611073000 +0300" channel="tr.ulusalkanal">
     <title lang="tr">Haber Turu</title>
+  </programme>
+  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.vaaztv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.van65">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
