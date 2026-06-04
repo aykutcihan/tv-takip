@@ -13,7 +13,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 FILMS_M3U = ROOT / "films.m3u"
 FILMS_DB  = ROOT / "cache" / "films_db.json"
-SOURCE_URL = "https://www.destanfilm.com/film/en-son-cikan-filmler/"
+SOURCE_URL = "https://www.destanfilm.com/film/aksiyon-filmi-izle/"
+MAX_FILMS  = 10  # Listede her zaman bu kadar film kalir
 
 HEADER = "#EXTM3U\n"
 
@@ -143,7 +144,15 @@ def main():
         # Film listesini al
         print(f"\nKaynak taranıyor: {SOURCE_URL}")
         films = get_film_list(page)
-        print(f"{len(films)} film bulundu")
+        films = films[:MAX_FILMS]
+        print(f"{len(films)} film alinacak (maks {MAX_FILMS})")
+
+        # Listede olmayan eski filmleri sil
+        current_slugs = {f['url'].rstrip('/').split('/')[-1] for f in films}
+        for s in list(db.keys()):
+            if s not in current_slugs:
+                print(f"  -  {db[s]['title']} (cikarildi)")
+                del db[s]
 
         new_count = 0
         updated_count = 0
