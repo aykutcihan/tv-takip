@@ -494,7 +494,7 @@ https://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8
 # -- RADYO 7 ------------------------------------------
 
 # FMO,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Yabancı" tvg-id="radyo7.fmo",FMO
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Fantazi" tvg-id="radyo7.fmo",FMO
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 
 # ARABESK7,    source: radyo7
