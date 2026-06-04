@@ -613,9 +613,6 @@
   <channel id="tr.yesilcam">
     <display-name>Yesilcam</display-name>
   </channel>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="EuroStar.tr">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="EuroStar.tr">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -863,6 +860,9 @@
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="EuroStar.tr">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="EuroStar.tr">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604010000 +0300" stop="20260604020000 +0300" channel="tr.24">
@@ -5046,9 +5046,6 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
     <title lang="tr">Arabesk Müzik Yayını</title>
     <desc lang="tr">Arabesk ve Türk sanat müziği video yayını</desc>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.arzufilm">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.arzufilm">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -5296,6 +5293,9 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.arzufilm">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.arzufilm">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604023000 +0300" channel="tr.aspor">
@@ -5770,9 +5770,6 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
   <programme start="20260610220000 +0300" stop="20260611060000 +0300" channel="tr.astv">
     <title lang="tr">AS TV</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.astv2">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.astv2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -6020,6 +6017,9 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.astv2">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.astv2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604002000 +0300" stop="20260604025000 +0300" channel="tr.atv">
@@ -6492,9 +6492,6 @@ Resulullah ahir zaman ile ilgili nelere dikkat çekmiştir?</desc>
   <programme start="20260611032000 +0300" stop="20260611052000 +0300" channel="tr.atvavrupa">
     <title lang="tr">Kardeşlerim-Tekrar</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.beinsporthaber">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.beinsporthaber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -6744,6 +6741,9 @@ Resulullah ahir zaman ile ilgili nelere dikkat çekmiştir?</desc>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.beinsporthaber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.beinsporthaber">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260604000000 +0300" stop="20260604003000 +0300" channel="tr.beinsportshaber">
     <title lang="tr">14. Haftanın Özetleri</title>
     <category lang="tr">Spor</category>
@@ -6763,11 +6763,11 @@ Resulullah ahir zaman ile ilgili nelere dikkat çekmiştir?</desc>
     <title lang="tr">Skor</title>
   </programme>
   <programme start="20260604023000 +0300" stop="20260604033000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">14. Haftanın Özetleri Spor •</title>
+    <title lang="tr">14. Haftanın Özetleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260604033000 +0300" stop="20260604034500 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">14. Haftanın Özetleri</title>
+    <title lang="tr">14. Haftanın Özetleri Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260604034500 +0300" stop="20260604040000 +0300" channel="tr.beinsportshaber">
@@ -7466,11 +7466,11 @@ Resulullah ahir zaman ile ilgili nelere dikkat çekmiştir?</desc>
     <title lang="tr">Skor</title>
   </programme>
   <programme start="20260611023000 +0300" stop="20260611033000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">14. Haftanın Özetleri Spor •</title>
+    <title lang="tr">14. Haftanın Özetleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260611033000 +0300" stop="20260611034500 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">14. Haftanın Özetleri</title>
+    <title lang="tr">14. Haftanın Özetleri Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260611034500 +0300" stop="20260611040000 +0300" channel="tr.beinsportshaber">
@@ -9245,9 +9245,6 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260610231000 +0300" stop="20260611003000 +0300" channel="tr.bloomberght">
     <title lang="tr">Tarih Keyfi</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.brt1tv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.brt1tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -9497,7 +9494,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.brt1tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.brt2tv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.brt1tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.brt2tv">
@@ -9749,7 +9746,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.brtv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.brtv">
@@ -9999,6 +9996,9 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.brtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.brtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.cantv">
@@ -21908,9 +21908,6 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">Lounge Müzik Yayını</title>
     <desc lang="tr">Sakinleştirici, lounge ve ambient müzik yayını</desc>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.cicektaksi">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.cicektaksi">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -22158,6 +22155,9 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.cicektaksi">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.cicektaksi">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604010000 +0300" channel="tr.ciftcitv">
@@ -24691,9 +24691,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Damar Arabesk Yayını</title>
     <desc lang="tr">Damar arabesk müzik video yayını</desc>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.dimtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.dimtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -24943,7 +24940,7 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.dimtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.diyanettv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.dimtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.diyanettv">
@@ -25193,6 +25190,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.diyanettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.diyanettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604005000 +0300" stop="20260604015000 +0300" channel="tr.dmax">
@@ -32153,9 +32153,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260610233000 +0300" stop="20260611063000 +0300" channel="tr.ekoturk">
     <title lang="tr">Pembe Masa</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.erciyestv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -32405,7 +32402,7 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.estv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.estv">
@@ -32655,6 +32652,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.estv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.estv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.ezgitv">
@@ -41173,9 +41173,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Özgün Müzik Yayını</title>
     <desc lang="tr">Özgün ve yöresel Türk müziği yayını</desc>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.guldurguldur">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.guldurguldur">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -41425,7 +41422,7 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.guldurguldur">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.gulsahkemal">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.guldurguldur">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.gulsahkemal">
@@ -41675,6 +41672,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.gulsahkemal">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.gulsahkemal">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260528000000 +0300" stop="20260528013000 +0300" channel="tr.gurbet24tv">
@@ -45664,9 +45664,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610235500 +0300" stop="20260611000000 +0300" channel="tr.htspor">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.ilketv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -45916,7 +45913,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.jintv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.jintv">
@@ -46168,6 +46165,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.jintv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.jintv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260604000000 +0300" stop="20260604003000 +0300" channel="tr.kadirgatv">
     <title lang="tr">Haberler</title>
     <desc lang="tr">Kadırga TV Haberler, güncel olayları tarafsız ve hızlı biçimde ekrana taşıyor. Bölgesel ve ulusal gelişmeleri anında öğrenmek için bizi izlemeye devam edin.</desc>
@@ -46267,9 +46267,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Belgesel</title>
     <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kanal12">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -46520,7 +46517,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kanal23">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kanal23">
@@ -46772,6 +46769,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanal23">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kanal23">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260604000000 +0300" stop="20260604073000 +0300" channel="tr.kanal26">
     <title lang="tr">Gece Haberleri</title>
     <desc lang="tr">Gece Haberleri, günün sonunda yaşanan tüm önemli gelişmeleri izleyiciye anlaşılır ve tarafsız bir dille sunar. Eskişehir'den başlayan haber akışı; ulusal ve uluslararası gündeme uzanır. Siyaset, ekonomi, spor ve kültür-sanat başlıklarıyla hazırlanan program, izleyiciye günü kapatmadan önce güvenilir bir özet sunar.</desc>
@@ -46839,9 +46839,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   </programme>
   <programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="tr.kanal26">
     <title lang="tr">Belgesel Diğer</title>
-  </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kanal3">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kanal3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -47092,7 +47089,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanal3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kanal58">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kanal3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kanal58">
@@ -47342,6 +47339,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanal58">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kanal58">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525070000 +0300" channel="tr.kanal6">
@@ -52078,9 +52078,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610233000 +0300" stop="20260611020000 +0300" channel="tr.kanald">
     <title lang="tr">Beyaz'la Joker</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kanalfirat">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kanalfirat">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -52330,6 +52327,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kanalfirat">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kanalfirat">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260604000000 +0300" stop="20260604073000 +0300" channel="tr.kanalv">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Günün en önemli gelişmelerini hızlı, tarafsız ve anlaşılır bir dille ekrana taşıyan Ana Haber, Türkiye'den ve dünyadan siyaset, ekonomi, sağlık, spor ve kültür-sanat başlıklarını kapsar. Özel dosyalar ve derinlikli analizleriyle izleyiciye güvenilir ve net bir ana gündem sunar.</desc>
@@ -52499,9 +52499,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Western Film Kuşağı</title>
     <desc lang="tr">Western Film Kuşağı, sınır kasabalarının sert atmosferinde geçen unutulmaz hikâyeleri bir araya getiriyor. İyi ile kötünün keskin çizgilerle ayrıldığı bu dünyada, yalnız kovboylar, acımasız kanun kaçakları ve onur mücadelesi veren kahramanlar sahne alıyor. Her film, özgürlük, adalet ve intikam temalarıyla izleyiciyi zamansız bir yolculuğa çıkarıyor.</desc>
     <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kemalsunal">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kemalsunal">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -52752,7 +52749,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kemalsunal">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kentturktv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kemalsunal">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kentturktv">
@@ -53002,6 +52999,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kentturktv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kentturktv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604070000 +0300" channel="tr.kibrisgenctv">
@@ -54262,9 +54262,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610230000 +0300" stop="20260611000000 +0300" channel="tr.kontv">
     <title lang="tr">Türkü Filmi</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.konyaolaytv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -54514,7 +54511,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.koytv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.koytv">
@@ -54766,7 +54763,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.koytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.kralakustik">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.koytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kralakustik">
@@ -55016,6 +55013,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kralakustik">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kralakustik">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.kraltv">
@@ -57317,9 +57317,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610230000 +0300" stop="20260611000000 +0300" channel="tr.lalegultv">
     <title lang="tr">Yesevi Yolu</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.leylaileMecnun">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.leylaileMecnun">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -57567,6 +57564,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.leylaileMecnun">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.leylaileMecnun">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604010000 +0300" channel="tr.liderhabertv">
@@ -57905,9 +57905,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610193000 +0300" stop="20260611000000 +0300" channel="tr.liderhabertv">
     <title lang="tr">İkna Noktası</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.lifetv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.lifetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -58155,6 +58152,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.lifetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.lifetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525063000 +0300" channel="tr.mceutv">
@@ -61733,9 +61733,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Çeşitli sanatçılardan Kürtçe müzik yayını</desc>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.medyahabertv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -61985,6 +61982,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.medyahabertv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260604065500 +0300" stop="20260604075500 +0300" channel="tr.meltemtv">
     <title lang="tr">Haber Turu</title>
     <desc lang="tr">Türkiye ve dünya gündemindeki dikkat çeken gelişmeler Haber Turu ile kapsamlı şekilde ele alınıyor. Siyaset, ekonomi ve toplumsal olaylara dair başlıklar sade ve anlaşılır bir anlatımla aktarılırken, izleyici günün özetine hızlı ve net biçimde ulaşma imkânı buluyor.</desc>
@@ -62079,9 +62079,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Türkiye ve dünyadan en kritik gelişmeler, politika, ekonomi ve toplumsal olaylar Ana Haber programında detaylı bir şekilde aktarılıyor. Canlı bağlantılar ve uzman yorumlarıyla haberler, izleyiciye güvenilir ve net bir biçimde sunulurken günün öne çıkan başlıkları bütüncül bir bakışla özetleniyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.mercantv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.mercantv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -62330,6 +62327,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.mercantv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.mercantv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604003000 +0300" channel="tr.minikacocuk">
@@ -73370,9 +73370,6 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Yabancı pop müzik video yayını</desc>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.powerdance:">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.powerdance:">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -73620,6 +73617,9 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.powerdance:">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.powerdance:">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.powerlove">
@@ -80899,30 +80899,28 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260604070000 +0300" stop="20260604100000 +0300" channel="tr.powertv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260604100000 +0300" stop="20260604160000 +0300" channel="tr.powertv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260604160000 +0300" stop="20260604230000 +0300" channel="tr.powertv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260604230000 +0300" stop="20260604235900 +0300" channel="tr.powertv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Tüm zamanların hitlerinden, 90'ların efsanevi parçaları, 2000'lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits'te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260604235900 +0300" stop="20260605070000 +0300" channel="tr.powertv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Aşkın en güzel şarkıları Power Love'da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260605070000 +0300" stop="20260605100000 +0300" channel="tr.powertv">
     <title lang="tr">Power Morning</title>
@@ -81239,9 +81237,6 @@ Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden ol
   <programme start="20260625235900 +0300" stop="20260626015900 +0300" channel="tr.powertv">
     <title lang="tr">Power Love</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.sabana2">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.sabana2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -81491,7 +81486,7 @@ Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden ol
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.sabana2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.seksenler">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.sabana2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.seksenler">
@@ -81741,6 +81736,9 @@ Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden ol
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.seksenler">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.seksenler">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604003000 +0300" channel="tr.semerkand">
@@ -82036,9 +82034,6 @@ Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden ol
   <programme start="20260611041500 +0300" stop="20260611061500 +0300" channel="tr.showmax">
     <title lang="tr">Yeni Gelin</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.showturk">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.showturk">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -82286,6 +82281,9 @@ Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden ol
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.showturk">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.showturk">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604001500 +0300" stop="20260604011500 +0300" channel="tr.showtv">
@@ -86044,9 +86042,6 @@ Bir yandan da geçmişiyle ilgili önemli bir bilgiye ulaşan Feride; ona bunu y
   <programme start="20260610200000 +0300" stop="20260611001500 +0300" channel="tr.startv">
     <title lang="tr">Sevdiğim Sensin</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.sunrtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -86296,7 +86291,7 @@ Bir yandan da geçmişiyle ilgili önemli bir bilgiye ulaşan Feride; ona bunu y
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.sutv">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.sutv">
@@ -86548,7 +86543,7 @@ Bir yandan da geçmişiyle ilgili önemli bir bilgiye ulaşan Feride; ona bunu y
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.sutv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.tele2haber">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.sutv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.tele2haber">
@@ -86800,7 +86795,7 @@ Bir yandan da geçmişiyle ilgili önemli bir bilgiye ulaşan Feride; ona bunu y
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.teleon">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.teleon">
@@ -87050,6 +87045,9 @@ Bir yandan da geçmişiyle ilgili önemli bir bilgiye ulaşan Feride; ona bunu y
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.teleon">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.teleon">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.tempotv">
@@ -88751,9 +88749,6 @@ Ancak Akarsu Ailesi’nin hayatı Cemile’nin kocasının ceketinde bulduğu me
   <programme start="20260610234500 +0300" stop="20260611013000 +0300" channel="tr.teve2">
     <title lang="tr">Kanıt</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.tgrtbelgesel">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.tgrtbelgesel">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -89001,6 +88996,9 @@ Ancak Akarsu Ailesi’nin hayatı Cemile’nin kocasının ceketinde bulduğu me
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.tgrtbelgesel">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.tgrtbelgesel">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604053000 +0300" channel="tr.tgrthaber">
@@ -90457,9 +90455,6 @@ Ancak Akarsu Ailesi’nin hayatı Cemile’nin kocasının ceketinde bulduğu me
   <programme start="20260610233000 +0300" stop="20260611013000 +0300" channel="tr.tlc">
     <title lang="tr">Küçük New York</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.tontv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.tontv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -90707,6 +90702,9 @@ Ancak Akarsu Ailesi’nin hayatı Cemile’nin kocasının ceketinde bulduğu me
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.tontv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.tontv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.toppop">
@@ -105699,9 +105697,6 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
   <programme start="20260610233000 +0300" stop="20260611001500 +0300" channel="tr.trtturk">
     <title lang="tr">Teşkilat</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.tv1">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.tv1">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -105951,6 +105946,9 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.tv1">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.tv1">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260604000000 +0300" stop="20260604010000 +0300" channel="tr.tv100">
     <title lang="tr">Gece Haberi</title>
     <desc lang="tr">Gece Haberi, günün öne çıkan gelişmelerini detaylı ve tarafsız biçimde izleyiciyle buluşturur. Siyaset, ekonomi, kültür ve güncel olaylar, deneyimli sunucuların titiz anlatımıyla aktarılır. Program, haberlerin arka planını da ele alarak izleyicinin olayları daha iyi anlamasını sağlar.</desc>
@@ -106180,9 +106178,6 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
   </programme>
   <programme start="20260610203000 +0300" stop="20260611000000 +0300" channel="tr.tv100">
     <title lang="tr">Başak Şengül Ile Doğru Yorum</title>
-  </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.tv3">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.tv3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -106431,6 +106426,9 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.tv3">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.tv3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604004500 +0300" channel="tr.tv4">
@@ -106939,9 +106937,6 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
   <programme start="20260610234500 +0300" stop="20260611000000 +0300" channel="tr.tv4">
     <title lang="tr">Ataman'la Devri Alem</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.tv41">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.tv41">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -107189,6 +107184,9 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.tv41">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.tv41">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604001500 +0300" stop="20260604023000 +0300" channel="tr.tv8">
@@ -109522,9 +109520,6 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
   <programme start="20260610230000 +0300" stop="20260611073000 +0300" channel="tr.ulusalkanal">
     <title lang="tr">Haber Turu</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.van65">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.van65">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -109774,7 +109769,7 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.van65">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.yedinumara">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.van65">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.yedinumara">
@@ -110026,7 +110021,7 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.yedinumara">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260604000000 +0300" stop="20260604020000 +0300" channel="tr.yesilcam">
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.yedinumara">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.yesilcam">
@@ -110276,6 +110271,9 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.yesilcam">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.yesilcam">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
 </tv>
