@@ -486,3 +486,7 @@ https://listen.radyotvonline.net/hls/play/viva_club.m3u8
 # VIVA TURKU,    source: viva
 #EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-turku-21082025-kare-1080x1080-min-INa3iPNs.jpg" group-title="THM" tvg-id="viva.vivaturku",Viva Türkü
 https://listen.radyotvonline.net/hls/play/viva_turku.m3u8
+
+# ULKE RADYO,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Haber/Spor" tvg-id="radyo7.ulkeradyo",Ülke Radyo
+https://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8
