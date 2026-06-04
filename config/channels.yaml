@@ -688,8 +688,8 @@ channels:
   tr.meltemtv:
     name: "Meltem TV"
     sources:
-      - yayinakisi:https://meltemtv.com.tr/yayin-akisi
       - tvplus:meltem-tv--138
+      - yayinakisi:https://meltemtv.com.tr/yayin-akisi
       - tvyayinakisi:meltem-tv
 
   tr.mezzo:
