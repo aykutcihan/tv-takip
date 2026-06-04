@@ -1413,6 +1413,36 @@ https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
 
 
 
+
+# ── INAT TV ────────────────────────────
+# TRT 1,    source: inattv
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" tvg-id="tr.trt1",TRT 1
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8|Referer=https://inattv1311.xyz/&Origin=https://inattv1311.xyz
+
+# TRT SPOR,    source: inattv
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" tvg-id="tr.trtspor",TRT Spor
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8|Referer=https://inattv1311.xyz/&Origin=https://inattv1311.xyz
+
+# TRT SPOR 2,    source: inattv
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" tvg-id="tr.trtsporyildiz",TRT Spor 2
+https://2i4.d72577a9dd0ec71.cfd/trtspor2/mono.m3u8|Referer=https://inattv1311.xyz/&Origin=https://inattv1311.xyz
+
+# ATV,    source: inattv
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" tvg-id="tr.atv",ATV
+https://2i4.d72577a9dd0ec71.cfd/atv/mono.m3u8|Referer=https://inattv1311.xyz/&Origin=https://inattv1311.xyz
+
+# TV 8,    source: inattv
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" tvg-id="tr.tv8",TV 8
+https://2i4.d72577a9dd0ec71.cfd/tv8/mono.m3u8|Referer=https://inattv1311.xyz/&Origin=https://inattv1311.xyz
+
+# TV 8.5,    source: inattv
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" tvg-id="tr.tv85",TV 8.5
+https://2i4.d72577a9dd0ec71.cfd/tv85/mono.m3u8|Referer=https://inattv1311.xyz/&Origin=https://inattv1311.xyz
+
+# A SPOR,    source: inattv
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
+https://2i4.d72577a9dd0ec71.cfd/as/mono.m3u8|Referer=https://inattv1311.xyz/&Origin=https://inattv1311.xyz
+
 # ── RADYO ────────────────────────────
 
 # ANTALYA RADYOSU,    source: trt
