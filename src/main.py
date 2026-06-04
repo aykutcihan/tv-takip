@@ -107,6 +107,20 @@ def main():
     tmdb.enrich(all_progs)
     tmdb.save()
 
+    # Açıklama önbelleği — aynı başlıklı programdan desc/category/sub_title devral
+    _desc_cache: dict[str, tuple] = {}
+    for p in all_progs:
+        key = p.title.strip().lower()
+        if p.desc or p.category or p.sub_title:
+            _desc_cache[key] = (p.desc, p.category, p.sub_title)
+    for p in all_progs:
+        key = p.title.strip().lower()
+        if key in _desc_cache and (not p.desc or not p.category):
+            cached = _desc_cache[key]
+            if not p.desc      and cached[0]: p.desc      = cached[0]
+            if not p.category  and cached[1]: p.category  = cached[1]
+            if not p.sub_title and cached[2]: p.sub_title = cached[2]
+
     # Filtre kaldirildi — channels.yaml'daki tum kanallar EPG'ye dahil
 
     logos_path = ROOT / "config" / "logos.yaml"
