@@ -244,3 +244,83 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC018_SO1.mp3
 # YENI SLOW,    source: karnaval
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Radyo" tvg-id="karnaval.349",Yeni Slow
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC021_SO1.mp3
+
+# POWER FM,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerfmadver",Power FM
+https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
+
+# POWER TURK,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerturk",Power Turk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+
+# POWER PLUS,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerplus",Power Plus
+https://live.powerapp.com.tr/powerplus/abr/playlist.m3u8
+
+# POWER POP,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerpop",Power Pop
+https://live.powerapp.com.tr/powerpop/abr/playlist.m3u8
+
+# POWER LOVE,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerlove",Power Love
+https://live.powerapp.com.tr/powerlove/abr/playlist.m3u8
+
+# POWER SMOOTH,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powersmooth",Power Smooth
+https://live.powerapp.com.tr/powersmooth/abr/playlist.m3u8
+
+# POWER EXTRA LOUNGE,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerextralounge",Power Extra Lounge
+https://live.powerapp.com.tr/powerextralounge/abr/playlist.m3u8
+
+# POWER EARTH,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerearth",Power Earth
+https://live.powerapp.com.tr/powerearth/abr/playlist.m3u8
+
+# POWER DEEP,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerdeep",Power Deep
+https://live.powerapp.com.tr/powerdeep/abr/playlist.m3u8
+
+# POWER TURK SLOW,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerturkslow",Power Turk Slow
+https://live.powerapp.com.tr/powerturkslow/abr/playlist.m3u8
+
+# POWER TURK RAP,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerturkrap",Power Turk Rap
+https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8
+
+# POWER TURK AKUSTIK,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerturkakustik",Power Turk Akustik
+https://live.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+
+# POWER TURK TAPTAZE,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerturktaptaze",Power Turk Taptaze
+https://live.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+
+# POWER TURK DANS,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerturkdans",Power Turk Dans
+https://live.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
+
+# POWER DANCE,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerdance",Power Dance
+https://live.powerapp.com.tr/powerdance/abr/playlist.m3u8
+
+# POWER GREECE,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powergreece",Power Greece
+https://live.powerapp.com.tr/powergreece/abr/playlist.m3u8
+
+# POWER RB HIP HOP,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powerrbhiphop",Power RB Hip Hop
+https://live.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
+
+# POWER SALSA,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powersalsa",Power Salsa
+https://live.powerapp.com.tr/powersalsa/abr/playlist.m3u8
+
+# POWER GOLD,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powergold",Power Gold
+https://live.powerapp.com.tr/powergold/abr/playlist.m3u8
+
+# POWER SMOOTH JAZZ,    source: powerapp
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powersmoothjazz",Power Smooth Jazz
+https://live.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
