@@ -398,3 +398,29 @@ https://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8
 # TV100 HABER RADYO,    source: show
 #EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/09/29/1024x1024-5UkYhrHD.png" group-title="Radyo" tvg-id="show.tv100haber",Tv100 Haber Radyo
 https://ssldyg2.radyotvonline.com/live/tv100radyo.stream/playlist.m3u8
+
+# ── HEPSİBEST RADYO ────────────────────────────
+
+# BEST FM,    source: hepsibest
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/bestFM.jpg" group-title="Radyo" tvg-id="hepsibest.bestfm",Best FM
+https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+
+# BABA RADYO,    source: hepsibest
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/baba.jpg" group-title="Radyo" tvg-id="hepsibest.babaradyo",Baba Radyo
+https://ssldyg.radyotvonline.com/best/babaradyo.stream/playlist.m3u8
+
+# BEST HIT,    source: hepsibest
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/hits.jpg" group-title="Radyo" tvg-id="hepsibest.besthit",Best Hit
+https://hepsibest.radyotvonline.net/besthit
+
+# BEST SLOW,    source: hepsibest
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/slow.jpg" group-title="Radyo" tvg-id="hepsibest.bestslow",Best Slow
+https://hepsibest.radyotvonline.net/bestslow
+
+# BEST KINA,    source: hepsibest
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/Kina.jpg" group-title="Radyo" tvg-id="hepsibest.bestkina",Best Kına
+https://hepsibest.radyotvonline.net/bestkina
+
+# BEST RAP,    source: hepsibest
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/Rap.jpg" group-title="Radyo" tvg-id="hepsibest.bestrap",Best Rap
+https://hepsibest.radyotvonline.net/bestrap
