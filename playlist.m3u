@@ -374,9 +374,6 @@ https://cdn900.tvkulesi.com/tvnet.m3u8?tkn=ahbOmy1r8SYccm-hsQvDSA&tms=1780548055
 
 
 
-# CAN,    source: diger
-#EXTINF:-1 group-title="Haber" tvg-id="tr.cantv",CAN
-http://canbroadcast.com:7000/canlican/tv.m3u8
 
 
 # HABER61 TRABZON,    source: yayin
@@ -517,6 +514,10 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 # CEM TV,    source: cemtv
 #EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cem-tv-tr.png" tvg-id="tr.cemtv",Cem TV
 https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
+
+# CAN,    source: diger
+#EXTINF:-1 group-title="Muzik" tvg-id="tr.cantv",CAN
+http://canbroadcast.com:7000/canlican/tv.m3u8
 
 # CHILL TV,    source: fasttvcdn
 #EXTINF:-1 group-title="Muzik" tvg-id="tr.chilltv",Chill TV
