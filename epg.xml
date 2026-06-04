@@ -108,6 +108,9 @@
   <channel id="tr.cantv">
     <display-name>Can TV</display-name>
   </channel>
+  <channel id="tr.cartoonito">
+    <display-name>Cartoonito</display-name>
+  </channel>
   <channel id="tr.cartoonnetwork">
     <display-name>Cartoon Network</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png"/>
@@ -12163,6 +12166,635 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260623040000 +0300" stop="20260623060000 +0300" channel="tr.cantv">
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Seçme Halk Müziği Yayını</desc>
+  </programme>
+  <programme start="20260604000500 +0300" stop="20260604002000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604002000 +0300" stop="20260604003000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604003000 +0300" stop="20260604004000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604004000 +0300" stop="20260604005500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604005500 +0300" stop="20260604010500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604010500 +0300" stop="20260604011500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604011500 +0300" stop="20260604013000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604013000 +0300" stop="20260604014000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604014000 +0300" stop="20260604015000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604015000 +0300" stop="20260604020500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604020500 +0300" stop="20260604021500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604021500 +0300" stop="20260604023000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604023000 +0300" stop="20260604024000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604024000 +0300" stop="20260604025500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604025500 +0300" stop="20260604030500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604030500 +0300" stop="20260604031500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604031500 +0300" stop="20260604033000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604033000 +0300" stop="20260604034000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604034000 +0300" stop="20260604035000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604035000 +0300" stop="20260604040500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604040500 +0300" stop="20260604041500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604041500 +0300" stop="20260604043000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604043000 +0300" stop="20260604044000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604044000 +0300" stop="20260604045000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604045000 +0300" stop="20260604051000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604051000 +0300" stop="20260604051500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604051500 +0300" stop="20260604052000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604052000 +0300" stop="20260604053000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604053000 +0300" stop="20260604053500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604053500 +0300" stop="20260604054500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604054500 +0300" stop="20260604055000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604055000 +0300" stop="20260604060000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604061000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604061000 +0300" stop="20260604062000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604062000 +0300" stop="20260604063000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604063000 +0300" stop="20260604064500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604064500 +0300" stop="20260604065500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604065500 +0300" stop="20260604071500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Sakin Ol Scooby-Doo!</title>
+    <desc lang="tr">Çete, lise sona erip kafalarına göre yaşayacakları son yazlarında, eğlence ve maceranın peşindegizemli makina içinde yollara düşerler.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604071500 +0300" stop="20260604072500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604072500 +0300" stop="20260604073000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604073000 +0300" stop="20260604074000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604074000 +0300" stop="20260604074500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604074500 +0300" stop="20260604075500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604075500 +0300" stop="20260604080000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604080000 +0300" stop="20260604081000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Ben 10</title>
+    <desc lang="tr">Ben Tennyson, uzay kol saati olan Omnitrixi keşfeder. Bu saat Bene 10 muhteşem ve güçlü uzaylı karakterden bir tanesine dönüşme yeteneği verir!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604081000 +0300" stop="20260604083000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Ben 10</title>
+    <desc lang="tr">Ben Tennyson, uzay kol saati olan Omnitrixi keşfeder. Bu saat Bene 10 muhteşem ve güçlü uzaylı karakterden bir tanesine dönüşme yeteneği verir!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604083000 +0300" stop="20260604084000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bugs Bunny Yapı Ustaları</title>
+    <desc lang="tr">ACME İnşaat Şirketi'nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604084000 +0300" stop="20260604090000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bugs Bunny Yapı Ustaları</title>
+    <desc lang="tr">ACME İnşaat Şirketi'nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604090000 +0300" stop="20260604090500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604090500 +0300" stop="20260604091000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604091000 +0300" stop="20260604092500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604092500 +0300" stop="20260604093500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604093500 +0300" stop="20260604095000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604095000 +0300" stop="20260604100000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl yanında Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604100000 +0300" stop="20260604100500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604100500 +0300" stop="20260604101500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604101500 +0300" stop="20260604102500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604102500 +0300" stop="20260604104000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604104000 +0300" stop="20260604105500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604105500 +0300" stop="20260604110500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604110500 +0300" stop="20260604112500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604112500 +0300" stop="20260604113500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604113500 +0300" stop="20260604114000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604114000 +0300" stop="20260604115500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604115500 +0300" stop="20260604120500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604120500 +0300" stop="20260604122500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604122500 +0300" stop="20260604123500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bugs Bunny Yapı Ustaları</title>
+    <desc lang="tr">ACME İnşaat Şirketi'nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604123500 +0300" stop="20260604125500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bugs Bunny Yapı Ustaları</title>
+    <desc lang="tr">ACME İnşaat Şirketi'nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604125500 +0300" stop="20260604130000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604130000 +0300" stop="20260604131000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604131000 +0300" stop="20260604132500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604132500 +0300" stop="20260604133500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604133500 +0300" stop="20260604135500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604135500 +0300" stop="20260604140500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604140500 +0300" stop="20260604142000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604142000 +0300" stop="20260604143000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604143000 +0300" stop="20260604143500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604143500 +0300" stop="20260604144500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604144500 +0300" stop="20260604150000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604150000 +0300" stop="20260604151000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604151000 +0300" stop="20260604152500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604152500 +0300" stop="20260604154000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bugs Bunny Yapı Ustaları</title>
+    <desc lang="tr">ACME İnşaat Şirketi'nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604154000 +0300" stop="20260604155500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bugs Bunny Yapı Ustaları</title>
+    <desc lang="tr">ACME İnşaat Şirketi'nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604155500 +0300" stop="20260604160500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Ben 10</title>
+    <desc lang="tr">Ben Tennyson, uzay kol saati olan Omnitrixi keşfeder. Bu saat Bene 10 muhteşem ve güçlü uzaylı karakterden bir tanesine dönüşme yeteneği verir!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604160500 +0300" stop="20260604163000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Ben 10</title>
+    <desc lang="tr">Ben Tennyson, uzay kol saati olan Omnitrixi keşfeder. Bu saat Bene 10 muhteşem ve güçlü uzaylı karakterden bir tanesine dönüşme yeteneği verir!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604163000 +0300" stop="20260604164000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604164000 +0300" stop="20260604170000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604170000 +0300" stop="20260604171000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604171000 +0300" stop="20260604172500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604172500 +0300" stop="20260604173500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604173500 +0300" stop="20260604174000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604174000 +0300" stop="20260604175500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <desc lang="tr">Bebek Lemmingler için dünya bir oyun parkıdır. Kanada ormanındaki hayvan dostlarıyla birlikte, neşeleri her zorluğu eğlenceye dönüştürür.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604175500 +0300" stop="20260604180500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604180500 +0300" stop="20260604182500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Batwheels</title>
+    <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri'ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604182500 +0300" stop="20260604183000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604183000 +0300" stop="20260604184000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604184000 +0300" stop="20260604185500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604185500 +0300" stop="20260604190000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604190000 +0300" stop="20260604191000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604191000 +0300" stop="20260604192500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604192500 +0300" stop="20260604193000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604193000 +0300" stop="20260604193500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604193500 +0300" stop="20260604194500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604194500 +0300" stop="20260604200000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604200000 +0300" stop="20260604200500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604200500 +0300" stop="20260604201500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604201500 +0300" stop="20260604203000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Tom ve Jerry Şov</title>
+    <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604203000 +0300" stop="20260604210000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Sakin Ol Scooby-Doo!</title>
+    <desc lang="tr">Çete, lise sona erip kafalarına göre yaşayacakları son yazlarında, eğlence ve maceranın peşindegizemli makina içinde yollara düşerler.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604210000 +0300" stop="20260604211000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604211000 +0300" stop="20260604212000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604212000 +0300" stop="20260604213000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604213000 +0300" stop="20260604214500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604214500 +0300" stop="20260604215500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604215500 +0300" stop="20260604220500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604220500 +0300" stop="20260604221500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604221500 +0300" stop="20260604222500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604222500 +0300" stop="20260604223500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604223500 +0300" stop="20260604225000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604225000 +0300" stop="20260604230000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604230000 +0300" stop="20260604231000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604231000 +0300" stop="20260604232000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604232000 +0300" stop="20260604233000 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604233000 +0300" stop="20260604234500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604234500 +0300" stop="20260604235500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Mr. Bean</title>
+    <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260604235500 +0300" stop="20260605000500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260605000500 +0300" stop="20260605015500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Kral Şakir</title>
+    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604001000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Teen Titans Go!</title>
@@ -54353,91 +54985,143 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   </programme>
   <programme start="20260604000000 +0300" stop="20260604070000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Gece Bülteni</title>
+    <desc lang="tr">Günün önemli gelişmelerini ve son dakika haberlerini izleyiciye aktaran kapsamlı bir haber programıdır. Siyasetten ekonomiye, yerel ve ulusal gelişmelerden dünya haberlerine kadar geniş bir yelpazede bilgi sunar. Günün özetini hızlı ve güvenilir biçimde aktararak, izleyicilerin gün sonunda olup biteni kaçırmamasını sağlar.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604070000 +0300" stop="20260604072500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Çizgi Film</title>
-    <category lang="tr">Film</category>
+    <desc lang="tr">Minik izleyiciler için hazırlanan Çizgi Film kuşağı, eğlenceli ve öğretici içerikleriyle çocuklara keyifli anlar yaşatır. Sevimli karakterlerin maceraları; dostluk, paylaşma ve dayanışma gibi değerleri eğlenceli hikâyelerle aktarır.</desc>
+    <category lang="tr">Animasyon</category>
   </programme>
   <programme start="20260604072500 +0300" stop="20260604073000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604073000 +0300" stop="20260604100000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Meltem Sonay İle Sabah Genç'te Sabah</title>
+    <desc lang="tr">Güne enerjik ve bilinçli bir başlangıç yapmak isteyen izleyiciler için hazırlanan modern bir sabah haber programı. Meltem Sonay'ın güçlü sunumuyla program; Türkiye ve dünyadan son dakika gelişmelerini, siyaset, ekonomi, kültür-sanat ve teknoloji başlıklarıyla kapsamlı biçimde ekrana taşır.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604100000 +0300" stop="20260604102000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604102000 +0300" stop="20260604112000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Gailemiz Gelecek</title>
+    <title lang="tr">Alternatif Gündem</title>
+    <desc lang="tr">Ana akım medyada yer bulamayan konular, cesur sorular ve farklı bakış açıları "Alternatif Gündem"de masaya yatırılıyor. Siyasetten topluma, ekonomiden çevreye alternatif bir gündem için ekran başına! Uzman konuklar, derin analizler ve sorgulayan bir yayın anlayışıyla her hafta Kıbrıs Genç TV'de.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604112000 +0300" stop="20260604114000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604114000 +0300" stop="20260604120000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Bir Zamanlar Kıbrıs</title>
+    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs'ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604120000 +0300" stop="20260604125000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Pozitif Haber</title>
+    <title lang="tr">Gençte Magazin</title>
+    <desc lang="tr">Gençte Magazin, gençlerin ilgi alanlarına ve güncel yaşam tarzlarına odaklanan dinamik bir magazin programıdır. Kültürel ve sosyal konular, röportajlar ve eğlenceli içeriklerle genç izleyicilere hem keyifli hem bilgilendirici bir deneyim sunar.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604125000 +0300" stop="20260604130000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604130000 +0300" stop="20260604135500 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Hünerli Ellerden Sıcak Lezzetler</title>
+    <title lang="tr">Enise Çağatay İle Birlikte Konuşalım</title>
+    <desc lang="tr">Hayatın içinden konular, güncel gelişmeler ve ilham verici sohbetler… Enise Çağatay ile Birlikte Konuşalım programında; samimi, ve düşündürücü sohbetlerle izleyicilerle buluşuyoruz. Her bölümde farklı konu ve konuklarla hayatı, kültürü ve gündemi birlikte keşfediyoruz.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604135500 +0300" stop="20260604140000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604140000 +0300" stop="20260604155500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Yağmur Çal İle Perspektif</title>
+    <desc lang="tr">Günümüz gündemini sadece haber olarak değil, anlam ve yorum katarak ele alan bir analiz programıdır. Toplumsal meseleler, siyasi gelişmeler ve sosyal değişimler, uzman görüşleri ve farklı perspektiflerle izleyiciye aktarılır.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260604155500 +0300" stop="20260604160000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604160000 +0300" stop="20260604165000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Yeni Kafa</title>
+  <programme start="20260604160000 +0300" stop="20260604170000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Rotam 360</title>
+    <desc lang="tr">Rotam 360, güncel gelişmeler, kültürel etkinlikler ve toplumsal konuları ele alan magazin ve bilgi programıdır. Röportajlar, saha çalışmaları ve bilgilendirici içeriklerle izleyiciye hem eğlenceli hem öğretici bir deneyim sunar.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260604165000 +0300" stop="20260604170000 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604170000 +0300" stop="20260604171500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604170000 +0300" stop="20260604172500 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Bir Zamanlar Kıbrıs</title>
-  </programme>
-  <programme start="20260604172500 +0300" stop="20260604173000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Reklam</title>
-  </programme>
-  <programme start="20260604173000 +0300" stop="20260604184500 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Neşe Egemen İle Her Şeyi Konuşalım</title>
+  <programme start="20260604171500 +0300" stop="20260604184500 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Akşam Saati</title>
+    <desc lang="tr">Gün boyunca yaşanan gelişmeleri değerlendiren ve gündemin öne çıkan başlıklarını analiz eden akşam kuşağı programıdır. Siyaset, ekonomi, kültür ve sosyal hayat uzman konuklarla ele alınır.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604184500 +0300" stop="20260604190000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604190000 +0300" stop="20260604194500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Ana Haber Bülteni</title>
+    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini tarafsız, doğru ve hızlı bir şekilde izleyiciye ulaştıran haber programıdır. Siyaset, ekonomi, spor ve kültür-sanat haberleri güçlü habercilik anlayışıyla sunulur.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260604194500 +0300" stop="20260604200000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604200000 +0300" stop="20260604205000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Yüzleşme</title>
+  <programme start="20260604200000 +0300" stop="20260604201500 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Bir Zamanlar Kıbrıs</title>
+    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs'ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260604205000 +0300" stop="20260604211000 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604201500 +0300" stop="20260604202000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604211000 +0300" stop="20260604213000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Bahar Heryerde</title>
+  <programme start="20260604202000 +0300" stop="20260604212000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Gül Konuralp İle Senin Hikayen</title>
+    <desc lang="tr">Gül Konuralp ile Senin Hikayen, sağlık ve yaşam alanında merak edilen konuları uzman konuklarla ele alan ilham verici bir programdır. Doktorlar, psikologlar ve beslenme uzmanları, günlük hayatta karşılaşılan sorunlara sade ve anlaşılır çözümler sunuyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260604213000 +0300" stop="20260604223000 +0300" channel="tr.kibrisgenctv">
-    <title lang="tr">Trendy Uk</title>
-  </programme>
-  <programme start="20260604223000 +0300" stop="20260604224500 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604212000 +0300" stop="20260604213000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260604224500 +0300" stop="20260604234500 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604213000 +0300" stop="20260604224500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Bildiklerimizin Ötesi</title>
+    <desc lang="tr">Gündemdeki konuları farklı bakış açılarıyla ele alan bir programdır. Alanında uzman konuklarla bilinmeyenler, merak edilenler ve perde arkası detaylar masaya yatırılır; izleyiciye sorgulatan bir perspektif sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260604234500 +0300" stop="20260605000000 +0300" channel="tr.kibrisgenctv">
+  <programme start="20260604224500 +0300" stop="20260604225500 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260604225500 +0300" stop="20260604235500 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Yeni Kafa</title>
+    <desc lang="tr">Mustafa Abitoğlu ile Yeni Kafa, güncel konuları, kültürel ve toplumsal meseleleri izleyicilere aktaran bir magazin ve bilgi programıdır. Program, röportajlar, söyleşiler ve bilgilendirici içeriklerle hem eğlenceli hem öğretici bir deneyim sunar. Mustafa Abitoğlu'nun sunumuyla, izleyiciler güncel gelişmeler, ilginç hikâyeler ve kültürel olaylar hakkında bilgi sahibi olur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260604235500 +0300" stop="20260605000000 +0300" channel="tr.kibrisgenctv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV'nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605070000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Gece Bülteni</title>
@@ -54946,257 +55630,21 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260610235500 +0300" stop="20260611000000 +0300" channel="tr.kibrisgenctv">
     <title lang="tr">Reklam</title>
   </programme>
-  <programme start="20260604020000 +0300" stop="20260604040000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604040000 +0300" stop="20260604060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604060000 +0300" stop="20260604080000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604080000 +0300" stop="20260604100000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604100000 +0300" stop="20260604120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604120000 +0300" stop="20260604140000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604140000 +0300" stop="20260604160000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604160000 +0300" stop="20260604180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604180000 +0300" stop="20260604200000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604200000 +0300" stop="20260604220000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260604220000 +0300" stop="20260605000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605000000 +0300" stop="20260605020000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605020000 +0300" stop="20260605040000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605040000 +0300" stop="20260605060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605060000 +0300" stop="20260605080000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605080000 +0300" stop="20260605100000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605100000 +0300" stop="20260605120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605180000 +0300" stop="20260605200000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605200000 +0300" stop="20260605220000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260605220000 +0300" stop="20260606000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606000000 +0300" stop="20260606020000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606020000 +0300" stop="20260606040000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606040000 +0300" stop="20260606060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606060000 +0300" stop="20260606080000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606080000 +0300" stop="20260606100000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606160000 +0300" stop="20260606180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606180000 +0300" stop="20260606200000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260606220000 +0300" stop="20260607000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607020000 +0300" stop="20260607040000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607040000 +0300" stop="20260607060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607060000 +0300" stop="20260607080000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607080000 +0300" stop="20260607100000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607100000 +0300" stop="20260607120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260607220000 +0300" stop="20260608000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608000000 +0300" stop="20260608020000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608020000 +0300" stop="20260608040000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608040000 +0300" stop="20260608060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608060000 +0300" stop="20260608080000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608080000 +0300" stop="20260608100000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608100000 +0300" stop="20260608120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608120000 +0300" stop="20260608140000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608140000 +0300" stop="20260608160000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608160000 +0300" stop="20260608180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608200000 +0300" stop="20260608220000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260608220000 +0300" stop="20260609000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609000000 +0300" stop="20260609020000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609020000 +0300" stop="20260609040000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609040000 +0300" stop="20260609060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609060000 +0300" stop="20260609080000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609080000 +0300" stop="20260609100000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609100000 +0300" stop="20260609120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609120000 +0300" stop="20260609140000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609140000 +0300" stop="20260609160000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609160000 +0300" stop="20260609180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609180000 +0300" stop="20260609200000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609200000 +0300" stop="20260609220000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260609220000 +0300" stop="20260610000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610000000 +0300" stop="20260610020000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610020000 +0300" stop="20260610040000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610040000 +0300" stop="20260610060000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610060000 +0300" stop="20260610080000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610080000 +0300" stop="20260610100000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610100000 +0300" stop="20260610120000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610120000 +0300" stop="20260610140000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610140000 +0300" stop="20260610160000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610160000 +0300" stop="20260610180000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610180000 +0300" stop="20260610200000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610200000 +0300" stop="20260610220000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260610220000 +0300" stop="20260611000000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
-  <programme start="20260611000000 +0300" stop="20260611020000 +0300" channel="tr.kibristv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  <programme start="20260604000000 +0300" stop="20260604060000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260604060000 +0300" stop="20260604120000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260604120000 +0300" stop="20260604180000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260604180000 +0300" stop="20260605000000 +0300" channel="tr.kibristv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260604000000 +0300" stop="20260604005000 +0300" channel="tr.kontv">
     <title lang="tr">Gece Haber</title>
