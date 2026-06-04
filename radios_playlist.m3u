@@ -490,3 +490,49 @@ https://listen.radyotvonline.net/hls/play/viva_turku.m3u8
 # ULKE RADYO,    source: radyo7
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Haber/Spor" tvg-id="radyo7.ulkeradyo",Ülke Radyo
 https://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8
+
+# -- RADYO 7 ------------------------------------------
+
+# FMO,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Yabancı" tvg-id="radyo7.fmo",FMO
+https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
+
+# ARABESK7,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Fantazi" tvg-id="radyo7.arabesk7",Arabesk 7
+https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+
+# SLOW7,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Slow" tvg-id="radyo7.slow7",Slow 7
+https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
+
+# KURAN MEAL,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Özgün" tvg-id="radyo7.kuranmeal",Kuran Meal
+https://ssl4.radyotvonline.com/radyohome/kuranmeal.stream_aac/playlist.m3u8
+
+# TASAVVUF7,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Özgün" tvg-id="radyo7.tasavvuf7",Tasavvuf 7
+https://moondigitaledge2.radyotvonline.net/radyo7tasavvuf/playlist.m3u8
+
+# ANKARA,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="THM" tvg-id="radyo7.ankara",Ankara Radyosu
+https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
+
+# TURKU7,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="THM" tvg-id="radyo7.turku7",Türkü 7
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+
+# POP HIT7,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Türkçe Pop" tvg-id="radyo7.pophit7",Pop Hit 7
+https://moondigitaledge2.radyotvonline.net/radyo7pophit/playlist.m3u8
+
+# NOSTALJI7,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Nostalji" tvg-id="radyo7.nostalji7",Nostalji 7
+https://moondigitaledge2.radyotvonline.net/radyo7nostalji/playlist.m3u8
+
+# KURAN ARAPCA,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Özgün" tvg-id="radyo7.kuranarapca",Kuran Arapça
+https://ssl4.radyotvonline.com/radyohome/kuranarapca.stream_aac/playlist.m3u8
+
+# MUHTESEM DORTLU,    source: radyo7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="TSM" tvg-id="radyo7.muhtesemdortlu",Muhteşem Dörtlü
+https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
