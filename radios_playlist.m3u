@@ -536,3 +536,177 @@ https://ssl4.radyotvonline.com/radyohome/kuranarapca.stream_aac/playlist.m3u8
 # MUHTESEM DORTLU,    source: radyo7
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="TSM" tvg-id="radyo7.muhtesemdortlu",Muhteşem Dörtlü
 https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
+
+# -- RADYOHOME ------------------------------------------
+
+# 90LAR,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/13/logo_square.png" group-title="Nostalji" tvg-id="radyohome.90lar",90lar
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+
+# AKUSTIKLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/14/logo_square.png" group-title="Slow" tvg-id="radyohome.akustikland",Akustikland
+https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+
+# ANKARA-HAVALARI,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/78/logo_square.png" group-title="THM" tvg-id="radyohome.ankarahavalari",Ankara Havalari
+https://moondigitaledge.radyotvonline.net/ankarahavalari/playlist.m3u8
+
+# ARABESKLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/15/logo_square.png" group-title="Fantazi" tvg-id="radyohome.arabeskland",Arabeskland
+https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8
+
+# BABYLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/16/logo_square.png" group-title="Chill" tvg-id="radyohome.babyland",Babyland
+https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8
+
+# CLASSICLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/17/logo_square.png" group-title="Yabancı" tvg-id="radyohome.classicland",Classicland
+https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+
+# CNN-TURK,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/94/logo_square.png" group-title="Haber/Spor" tvg-id="radyohome.cnnturk",CNN Turk Radyo
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
+
+# DANCELAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/18/logo_square.png" group-title="Dans" tvg-id="radyohome.danceland",Danceland
+https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+
+# DISCOLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/19/logo_square.png" group-title="Dans" tvg-id="radyohome.discoland",Discoland
+https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+
+# DOKSANLAR,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/20/logo_square.png" group-title="Nostalji" tvg-id="radyohome.doksanlar",Doksanlar
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+
+# EASYLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/21/logo_square.png" group-title="Yabancı" tvg-id="radyohome.easyland",Easyland
+https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
+
+# EFSANE-4LU,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/22/logo_square.png" group-title="TSM" tvg-id="radyohome.efsane4lu",Efsane 4lu
+https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
+
+# FLOW,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/23/logo_square.png" group-title="Rap" tvg-id="radyohome.flow",Flow
+https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
+
+# GARAJ-RADYO,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/24/logo_square.png" group-title="Rock" tvg-id="radyohome.garajradyo",Garaj Radyo
+https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
+
+# GREEKLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/25/logo_square.png" group-title="Etnik" tvg-id="radyohome.greekland",Greekland
+https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
+
+# HOUSELAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/26/logo_square.png" group-title="Dans" tvg-id="radyohome.houseland",Houseland
+https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8
+
+# JAZZLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/27/logo_square.png" group-title="Chill" tvg-id="radyohome.jazzland",Jazzland
+https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
+
+# KAFA-RADYO,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/28/logo_square.png" group-title="Rock" tvg-id="radyohome.kafaradyo",Kafa Radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+
+# KARADENIZ-FM,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/29/logo_square.png" group-title="THM" tvg-id="radyohome.karadenizfm",Karadeniz FM
+https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
+
+# KLASIK-HOME,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/30/logo_square.png" group-title="Chill" tvg-id="radyohome.klasikhome",Klasik Home
+https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8
+
+# MAZIDEN-BIR-DEMET,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/31/logo_square.png" group-title="Nostalji" tvg-id="radyohome.mazidenbirdemet",Maziden Bir Demet
+https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8
+
+# MELANKOLIK-HOME,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/32/logo_square.png" group-title="Slow" tvg-id="radyohome.melankolikhome",Melankolik Home
+https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8
+
+# MUZEYYEN,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/33/logo_square.png" group-title="TSM" tvg-id="radyohome.muzeyyen",Muzeyyen
+https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
+
+# PAL-DOGA,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/34/logo_square.png" group-title="Chill" tvg-id="radyohome.paldoga",Pal Doga
+https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
+
+# PAL-FM,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/35/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.palfm",Pal FM
+https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
+
+# PAL-NOSTALJI,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/36/logo_square.png" group-title="Nostalji" tvg-id="radyohome.palnostalji",Pal Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+
+# PAL-STATION,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/37/logo_square.png" group-title="Yabancı" tvg-id="radyohome.palstation",Pal Station
+https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
+
+# POP-HOME,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/38/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.pophome",Pop Home
+https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8
+
+# POPLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/39/logo_square.png" group-title="Yabancı" tvg-id="radyohome.popland",Popland
+https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
+
+# RADYO-7,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/40/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.radyo7",Radyo 7 (Home)
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+
+# RADYO-D,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/41/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.radyod",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+
+# RADYO-SPOR,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/95/logo_square.png" group-title="Haber/Spor" tvg-id="radyohome.radyospor",Radyo Spor
+https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+
+# RADYO-TRAFIK,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/65/logo_square.png" group-title="Haber/Spor" tvg-id="radyohome.radyotrafik",Radyo Trafik
+https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8
+
+# RADYO-VOKAL,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/42/logo_square.png" group-title="TSM" tvg-id="radyohome.radyovokal",Radyo Vokal
+https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8
+
+# RELAX-HOME,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/43/logo_square.png" group-title="Chill" tvg-id="radyohome.relaxhome",Relax Home
+https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
+
+# ROCKLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/44/logo_square.png" group-title="Rock" tvg-id="radyohome.rockland",Rockland
+https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
+
+# SARI-TRAMVAY,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/45/logo_square.png" group-title="Nostalji" tvg-id="radyohome.saritramvay",Sari Tramvay
+https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8
+
+# SLOW-HOME,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/46/logo_square.png" group-title="Slow" tvg-id="radyohome.slowhome",Slow Home
+https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8
+
+# TEZENE,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/47/logo_square.png" group-title="THM" tvg-id="radyohome.tezene",Tezene
+https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
+
+# TURKULAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/48/logo_square.png" group-title="THM" tvg-id="radyohome.turkuland",Turkuland
+https://moondigitaledge.radyotvonline.net/turkland/playlist.m3u8
+
+# TURKULERLE-TURKIYE,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/49/logo_square.png" group-title="THM" tvg-id="radyohome.turkulerleturkiye",Turkulerle Turkiye
+https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8
+
+# WORLD-HITS,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/50/logo_square.png" group-title="Yabancı" tvg-id="radyohome.worldhits",World Hits
+https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
+
+# ZENLAND,    source: radyohome
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/51/logo_square.png" group-title="Chill" tvg-id="radyohome.zenland",Zenland
+https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
