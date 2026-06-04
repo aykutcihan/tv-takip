@@ -426,3 +426,37 @@ https://hepsibest.radyotvonline.net/bestrap
 # RADYO OZGUR FM,    source: ozgur
 #EXTINF:-1 tvg-logo="https://radyoozgur.com.tr/uploads/logo/UST-LOGO-3.png" group-title="Özgün" tvg-id="ozgur.radyoozgurfm",Radyo Özgür FM
 https://radyoozgur.kesintisizyayin.com:9898/stream
+
+# -- RADYO FENOMEN ------------------------------------------
+
+# RADYO FENOMEN,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Yabancı" tvg-id="fenomen.radyofenomen",Radyo Fenomen
+https://live.radyofenomen.com/fenomen/256/chunks.m3u8
+
+# FENOMEN POP,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Yabancı" tvg-id="fenomen.fenomenpop",Fenomen Pop
+https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8
+
+# FENOMEN TÜRK,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Türkçe Pop" tvg-id="fenomen.fenomenturk",Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8
+
+# FENOMEN KARISIK,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Türkçe Pop" tvg-id="fenomen.fenomenkarisik",Fenomen Karışık
+https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8
+
+# FENOMEN AKUSTIK,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Slow" tvg-id="fenomen.fenomenakustik",Fenomen Akustik
+https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8
+
+# FENOMEN DANS,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Dans" tvg-id="fenomen.fenomendans",Fenomen Dans
+https://live.radyofenomen.com/fenomendans/256/chunks.m3u8
+
+# FENOMEN CLUBBIN,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Dans" tvg-id="fenomen.fenomenclubbin",Fenomen Clubbin
+https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8
+
+# FENOMEN 2010LAR,    source: fenomen
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/image/300x300/u/Channels/v2/logo_20.png" group-title="Nostalji" tvg-id="fenomen.fenomen2010lar",Fenomen 2010'lar
+https://live.radyofenomen.com/fenomen2010/256/chunks.m3u8
