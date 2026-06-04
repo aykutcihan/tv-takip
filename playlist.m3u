@@ -1417,31 +1417,31 @@ https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
 # ── INAT TV (PROXY) ────────────────────────────
 # TRT 1,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" tvg-id="tr.trt1",TRT 1
-http://192.168.1.232:8888/stream/trt1
+http://192.168.1.141:8888/stream/trt1
 
 # TRT SPOR,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" tvg-id="tr.trtspor",TRT Spor
-http://192.168.1.232:8888/stream/trtspor
+http://192.168.1.141:8888/stream/trtspor
 
 # TRT SPOR 2,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" tvg-id="tr.trtsporyildiz",TRT Spor 2
-http://192.168.1.232:8888/stream/trtspor2
+http://192.168.1.141:8888/stream/trtspor2
 
 # ATV,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" tvg-id="tr.atv",ATV
-http://192.168.1.232:8888/stream/atv
+http://192.168.1.141:8888/stream/atv
 
 # TV 8,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" tvg-id="tr.tv8",TV 8
-http://192.168.1.232:8888/stream/tv8
+http://192.168.1.141:8888/stream/tv8
 
 # TV 8.5,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" tvg-id="tr.tv85",TV 8.5
-http://192.168.1.232:8888/stream/tv85
+http://192.168.1.141:8888/stream/tv85
 
 # A SPOR,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-http://192.168.1.232:8888/stream/as
+http://192.168.1.141:8888/stream/as
 
 # ── RADYO ────────────────────────────
 
