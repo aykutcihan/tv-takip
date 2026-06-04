@@ -448,6 +448,10 @@ https://cdn900.tvkulesi.com/ekolsports.m3u8?tkn=9U29lilZRifjQtnefxzrXw&tms=17805
 
 
 # ── BELGESEL ────────────────────────────
+# TRT 2,    source: kavuntv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" tvg-id="tr.trt2",TRT 2
+https://cdn900.kavuntv.net/trt2.m3u8?tkn=IHu4UMm-bmWMSbpj5tcnGg&tms=1780547606&hst=amp.kavuntv.net&ip=31.21.186.28&utkn=0fc69ed5916eabfbec7ec2d5d6ad7ddf&ch=trt-2
+
 # TRT 2,    source: trt
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" tvg-id="tr.trt2",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
