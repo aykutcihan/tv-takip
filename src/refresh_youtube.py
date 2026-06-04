@@ -43,6 +43,7 @@ YOUTUBE_CHANNELS = {
     "tr.tele2haber":       "LXWokI7M9HE",
     "tr.bizimevtv":        "GRLd2oYZFnM",
     "tr.krttv":            "LBffKHlCx8U",
+    "tr.tv5":              "CYQpUfEEpM4",
     "tr.cnnturk":          "6N8_r2uwLEc",
     "tr.akittv":           "YPC4fsMWUK0",
     "tr.avrupayakasitv":   "NGsjOrzwjZk",
