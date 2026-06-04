@@ -33,6 +33,9 @@ jobs:
       - name: Karnaval radyo güncelle
         run: python3 src/refresh_karnaval.py
 
+      - name: Radyo stream kontrol
+        run: python3 src/check_radios.py
+
       - name: Değiştiyse commit'le
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
