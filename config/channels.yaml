@@ -585,6 +585,7 @@ channels:
   tr.kanalb:
     name: "Kanal B"
     sources:
+      - yayinakisi:https://kanalb.com.tr/yayin_akisi
       - tvyayinakisi:kanal-b
       - turksatkablo:Kanal B
 
@@ -635,6 +636,7 @@ channels:
   tr.kontv:
     name: "Kon TV"
     sources:
+      - yayinakisi:https://www.kontv.com.tr/yayin-akisi
       - tvplus:kontv-hd--63
       - turksatkablo:Kon TV
       - tvyayinakisi:kon-tv
@@ -1612,7 +1614,8 @@ channels:
     sources: []
   tr.kanal3:
     name: "Kanal3"
-    sources: []
+    sources:
+      - yayinakisi:https://www.kanal3.com.tr/yayin-akisi
   tr.kanal58:
     name: "Kanal58"
     sources: []
@@ -1636,7 +1639,8 @@ channels:
     sources: []
   tr.tv41:
     name: "Tv41"
-    sources: []
+    sources:
+      - yayinakisi:https://www.tv41.com.tr/yayin-akisi
   tr.sunrtv:
     name: "Sunrtv"
     sources: []
@@ -1673,6 +1677,8 @@ channels:
   tr.kanal24:
     name: "Kanal24"
     sources:
+      - yayinakisi:https://www.tv41.com.tr/yayin-akisi
+      - yayinakisi:https://www.kanal3.com.tr/yayin-akisi
       - tvplus:24-hd--32
       - turksatkablo:24
       - tivibu:ch00000000000000001001

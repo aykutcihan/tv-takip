@@ -21,7 +21,7 @@ from models import Programme
 from normalize import ist
 
 TIME_RE = re.compile(r"(\d{1,2}):(\d{2})")
-TEXT_RE = re.compile(r"^(\d{1,2}:\d{2})\s+(.+)$")
+TEXT_RE = re.compile(r"^(\d{1,2}:\d{2}(?::\d{2})?)\s+(.+)$")
 
 
 class YayinAkisiAdapter(BaseAdapter):
@@ -44,10 +44,14 @@ class YayinAkisiAdapter(BaseAdapter):
 
         if "showturk" in source_id:
             return self._parse_showturk(content, channel_id)
-        if "turkhabertv" in source_id:
+        if "turkhabertv" in source_id or "tv41" in source_id:
             return self._parse_plaintext(content, channel_id)
         if "turkuvapp" in source_id:
             return self._parse_turkuvapp(content, channel_id)
+        if "kontv" in source_id:
+            return self._parse_kontv(content, channel_id)
+        if "kanalb" in source_id:
+            return self._parse_kanalb(content, channel_id)
         return self._parse_showmax(content, channel_id)
 
     def _parse_showturk(self, html: str, channel_id: str) -> List[Programme]:
@@ -81,6 +85,59 @@ class YayinAkisiAdapter(BaseAdapter):
             )) + timedelta(days=day_offset)
             out.append(Programme(channel_id=channel_id, start=start_dt, title=title, source=self.prefix))
 
+        return out
+
+    def _parse_kontv(self, html: str, channel_id: str) -> List[Programme]:
+        """<h3>HH:MM</h3> sonrasi metin baslik."""
+        soup = BeautifulSoup(html, "lxml")
+        today = ist(datetime.now())
+        out: List[Programme] = []
+        prev_h = -1
+        day_offset = 0
+
+        for h3 in soup.find_all("h3"):
+            m = TIME_RE.match(h3.get_text(strip=True))
+            if not m:
+                continue
+            title = h3.next_sibling
+            if title:
+                title = str(title).strip().lstrip("\n").strip()
+            if not title:
+                continue
+            h, mn = int(m.group(1)), int(m.group(2))
+            if prev_h >= 0 and h < prev_h:
+                day_offset += 1
+            prev_h = h
+            start_dt = ist(datetime(today.year, today.month, today.day, h, mn)) + timedelta(days=day_offset)
+            out.append(Programme(channel_id=channel_id, start=start_dt, title=title, source=self.prefix))
+        return out
+
+    def _parse_kanalb(self, html: str, channel_id: str) -> List[Programme]:
+        """<li><a><span class='time'>HH:MM</span> Baslik</a></li>"""
+        soup = BeautifulSoup(html, "lxml")
+        today = ist(datetime.now())
+        out: List[Programme] = []
+        prev_h = -1
+        day_offset = 0
+
+        for li in soup.select("li"):
+            span = li.select_one(".time, span[class*='time']")
+            if not span:
+                continue
+            m = TIME_RE.match(span.get_text(strip=True))
+            if not m:
+                continue
+            span.extract()
+            a = li.select_one("a")
+            title = (a or li).get_text(strip=True) if (a or li) else ""
+            if not title:
+                continue
+            h, mn = int(m.group(1)), int(m.group(2))
+            if prev_h >= 0 and h < prev_h:
+                day_offset += 1
+            prev_h = h
+            start_dt = ist(datetime(today.year, today.month, today.day, h, mn)) + timedelta(days=day_offset)
+            out.append(Programme(channel_id=channel_id, start=start_dt, title=title, source=self.prefix))
         return out
 
     def _parse_turkuvapp(self, html: str, channel_id: str) -> List[Programme]:
