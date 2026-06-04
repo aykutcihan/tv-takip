@@ -534,7 +534,7 @@ https://moondigitaledge2.radyotvonline.net/radyo7nostalji/playlist.m3u8
 https://ssl4.radyotvonline.com/radyohome/kuranarapca.stream_aac/playlist.m3u8
 
 # MUHTESEM DORTLU,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="TSM" tvg-id="radyo7.muhtesemdortlu",Muhteşem Dörtlü
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="THM" tvg-id="radyo7.muhtesemdortlu",Muhteşem Dörtlü
 https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
 
 # -- RADYOHOME ------------------------------------------
@@ -560,7 +560,7 @@ https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8
 
 # CLASSICLAND,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/17/logo_square.png" group-title="Yabancı" tvg-id="radyohome.classicland",Classicland
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/17/logo_square.png" group-title="Chill" tvg-id="radyohome.classicland",Classicland
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 
 # CNN-TURK,    source: radyohome
@@ -612,7 +612,7 @@ https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 
 # KARADENIZ-FM,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/29/logo_square.png" group-title="THM" tvg-id="radyohome.karadenizfm",Karadeniz FM
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/29/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.karadenizfm",Karadeniz FM
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 
 # KLASIK-HOME,    source: radyohome
@@ -620,11 +620,11 @@ https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8
 
 # MAZIDEN-BIR-DEMET,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/31/logo_square.png" group-title="Nostalji" tvg-id="radyohome.mazidenbirdemet",Maziden Bir Demet
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/31/logo_square.png" group-title="TSM" tvg-id="radyohome.mazidenbirdemet",Maziden Bir Demet
 https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8
 
 # MELANKOLIK-HOME,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/32/logo_square.png" group-title="Slow" tvg-id="radyohome.melankolikhome",Melankolik Home
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/32/logo_square.png" group-title="Özgün" tvg-id="radyohome.melankolikhome",Melankolik Home
 https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8
 
 # MUZEYYEN,    source: radyohome
@@ -632,7 +632,7 @@ https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
 
 # PAL-DOGA,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/34/logo_square.png" group-title="Chill" tvg-id="radyohome.paldoga",Pal Doga
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/34/logo_square.png" group-title="Özgün" tvg-id="radyohome.paldoga",Pal Doga
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 
 # PAL-FM,    source: radyohome
@@ -692,7 +692,7 @@ https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8
 
 # TEZENE,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/47/logo_square.png" group-title="THM" tvg-id="radyohome.tezene",Tezene
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/47/logo_square.png" group-title="TSM" tvg-id="radyohome.tezene",Tezene
 https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
 
 # TURKULAND,    source: radyohome
