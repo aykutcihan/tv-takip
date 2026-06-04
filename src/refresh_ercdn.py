@@ -25,19 +25,19 @@ CHANNELS = [
     },
     {
         "name": "A Para",
-        "source_page": "https://www.apara.com.tr/canli",
+        "source_page": "https://www.apara.com.tr/canli-yayin",
         "cdn_pattern": "ercdn.net/aparahd",
         "playlist_match": "aparahd",
     },
     {
         "name": "A Spor",
-        "source_page": "https://www.aspor.com.tr/canli-yayin",
+        "source_page": "https://www.aspor.com.tr/webtv/canli-yayin",
         "cdn_pattern": "ercdn.net/asporhd",
         "playlist_match": "asporhd",
     },
     {
         "name": "EuroStar",
-        "source_page": "https://www.eurostar.com.tr/canli-izle",
+        "source_page": "https://www.eurostar.com.tr/canli-yayin",
         "cdn_pattern": "mncdn.com/dogusdyg_eurostar",
         "playlist_match": "dogusdyg_eurostar",
     },
