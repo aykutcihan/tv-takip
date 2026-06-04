@@ -107,15 +107,7 @@ def main():
     tmdb.enrich(all_progs)
     tmdb.save()
 
-    # Sadece playlist'teki kanalları dahil et
-    import re as _re
-    playlist_path = ROOT / "playlist.m3u"
-    if playlist_path.exists():
-        playlist_ids = set(_re.findall(r'tvg-id="([^"]+)"', playlist_path.read_text(encoding="utf-8")))
-        playlist_ids.discard("")
-        channels = [c for c in channels if c.id in playlist_ids]
-        all_progs = [p for p in all_progs if p.channel_id in playlist_ids]
-        print(f"Playlist filtresi: {len(channels)} kanal, {len(all_progs)} program kaldi")
+    # Filtre kaldirildi — channels.yaml'daki tum kanallar EPG'ye dahil
 
     logos_path = ROOT / "config" / "logos.yaml"
     logo_map = {}
