@@ -138,8 +138,40 @@ def main():
     out.write_text(xml, "utf-8")
     print(f"\nYazıldı: {out}  ({len(channels)} kanal, {len(all_progs)} program)")
 
-    # Kanal bazli JSON EPG
+    # Kanal bazli JSON EPG (TV kanalları)
     write_json_epg(channels, all_progs, ROOT / "epg")
+
+    # Radyo kanalları için de JSON EPG üret (radios.yaml)
+    radios_cfg_path = ROOT / "config" / "radios.yaml"
+    if radios_cfg_path.exists():
+        radios_cfg = yaml.safe_load(radios_cfg_path.read_text("utf-8")).get("radios", {})
+        radio_channels, radio_progs = [], []
+        for tvg_id, c in radios_cfg.items():
+            rch = Channel(id=tvg_id, name=c.get("name", tvg_id),
+                          sources=c.get("sources", []))
+            radio_channels.append(rch)
+            per_source = []
+            for src in rch.sources:
+                prefix, sid = split_source(src)
+                adapter = registry.get(prefix)
+                if not adapter:
+                    continue
+                try:
+                    progs = adapter.fetch(sid, tvg_id)
+                    progs = derive_stops(progs)
+                    if progs:
+                        per_source.append(progs)
+                        print(f"  [radyo] {tvg_id} <- {src}: {len(progs)} program")
+                except Exception as e:
+                    print(f"  [radyo hata] {tvg_id} <- {src}: {e}")
+            if per_source:
+                merged = merge_sources(per_source,
+                    settings.get("min_gap_minutes", 2),
+                    settings.get("overlap_tolerance_minutes", 5))
+                radio_progs.extend(merged)
+        if radio_progs:
+            write_json_epg(radio_channels, radio_progs, ROOT / "epg")
+            print(f"Radyo JSON EPG yazildi: {len(radio_channels)} kanal")
 
 
 if __name__ == "__main__":
