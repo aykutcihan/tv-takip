@@ -422,3 +422,7 @@ https://hepsibest.radyotvonline.net/bestkina
 # BEST RAP,    source: hepsibest
 #EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/Rap.jpg" group-title="Rap" tvg-id="hepsibest.bestrap",Best Rap
 https://hepsibest.radyotvonline.net/bestrap
+
+# RADYO OZGUR FM,    source: ozgur
+#EXTINF:-1 tvg-logo="https://radyoozgur.com.tr/uploads/logo/UST-LOGO-3.png" group-title="Özgün" tvg-id="ozgur.radyoozgurfm",Radyo Özgür FM
+https://radyoozgur.kesintisizyayin.com:9898/stream
