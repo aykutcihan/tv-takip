@@ -37,6 +37,7 @@ YOUTUBE_CHANNELS = {
     "tr.gulsahkemal":       "tWWFY5lf1U0",
     "tr.sabana2":           "VkXvDzJyUQs",
     "tr.yesilcam":          "cKVuxje7YqA",
+    "tr.avsarfilmtv":     "TNU04a1AbE0",
     "tr.beinsporthaber":    "i7UpPgxfZZ8",
     "tr.ntv":               "pqq5c6k70kk",
     "tr.cicektaksi":        "6SkIsrCIPfQ",
