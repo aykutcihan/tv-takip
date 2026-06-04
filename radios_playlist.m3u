@@ -2,7 +2,7 @@
 # ── RADYO ────────────────────────────
 
 # ANTALYA RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="THM" tvg-id="trt.radyo.antalya-radyosu",Antalya Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.antalya-radyosu",Antalya Radyosu
 https://radio-trtantalya.medya.trt.com.tr/master.m3u8
 
 # BABYJOY,    source: karnaval
@@ -22,11 +22,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC019_SO1.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
 
 # ERZURUM RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="THM" tvg-id="trt.radyo.erzurum-radyosu",Erzurum Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.erzurum-radyosu",Erzurum Radyosu
 https://radio-trterzurum.medya.trt.com.tr/master.m3u8
 
 # GAP DIYARBAKIR RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="THM" tvg-id="trt.radyo.gap-diyarbakir-radyosu",GAP Diyarbakır Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.gap-diyarbakir-radyosu",GAP Diyarbakır Radyosu
 https://radio-trtgap.medya.trt.com.tr/master.m3u8
 
 # GÖNÜL TÜRKÜLERI,    source: karnaval
@@ -46,7 +46,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ.mp3
 
 # JOYTÜRK,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.4",JoyTürk
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Slow" tvg-id="karnaval.4",JoyTürk
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3
 
 # JOYTÜRK AKUSTIK,    source: karnaval
@@ -90,7 +90,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MYDONOSE_TURK.
 https://eustr75.mediatriple.net/Number1Media/11_Number1_Ask.stream/playlist.m3u8
 
 # NR1 BEST OF,    source: numberone
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-tr.png" group-title="Türkçe Pop" tvg-id="number1.bestof",NR1 Best Of
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-tr.png" group-title="Yabancı" tvg-id="number1.bestof",NR1 Best Of
 https://eustr75.mediatriple.net/Number1Media/29_Number1_BEST_OF.stream/playlist.m3u8
 
 # NR1 DANCE,    source: numberone
@@ -158,7 +158,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ODEA.mp3
 https://eustr75.mediatriple.net/Number1Media/32_Number1_Petrolofisi.stream/playlist.m3u8
 
 # POP HITS,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.353",Pop Hits
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Yabancı" tvg-id="karnaval.353",Pop Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC002_SO1.mp3
 
 # POP90,    source: karnaval
@@ -210,7 +210,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_YENI.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2.mp3
 
 # TRABZON RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="THM" tvg-id="trt.radyo.trabzon-radyosu",Trabzon Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.trabzon-radyosu",Trabzon Radyosu
 https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
 
 # TRT ARABI,    source: trt
@@ -348,7 +348,7 @@ https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
 https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 
 # RADYO SOFT,    source: turkuvaz
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Türkçe Pop" tvg-id="turkuvaz.radyosoft",Radyo Soft
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Slow" tvg-id="turkuvaz.radyosoft",Radyo Soft
 https://trkvz-radyolar.ercdn.net/radyosoft/playlist.m3u8
 
 # TÜRKUVAZ ANADOLU,    source: turkuvaz
@@ -408,7 +408,7 @@ https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8
 https://ssldyg.radyotvonline.com/best/babaradyo.stream/playlist.m3u8
 
 # BEST HIT,    source: hepsibest
-#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/hits.jpg" group-title="Türkçe Pop" tvg-id="hepsibest.besthit",Best Hit
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/hits.jpg" group-title="Yabancı" tvg-id="hepsibest.besthit",Best Hit
 https://hepsibest.radyotvonline.net/besthit
 
 # BEST SLOW,    source: hepsibest
