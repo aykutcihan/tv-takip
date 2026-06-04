@@ -1718,3 +1718,58 @@ channels:
   tr.powerdance::
     name: "Powerdance:"
     sources: []
+
+  tr.dizitv:
+    name: "Dizi TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/dizi-tv
+
+  tr.belgiseltv:
+    name: "Belgesel TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/belgesel-tv
+
+  tr.tarihtv:
+    name: "Tarih TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/tarih-tv
+
+  tr.cocuklaraozeltv:
+    name: "Cocuklara Ozel TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/cocuklara-ozel-tv
+
+  tr.cizgifilmtv:
+    name: "Cizgi Film TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/cizgi-film-tv
+
+  tr.ailetv:
+    name: "Aile TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/aile-tv
+
+  tr.asrisheriftv:
+    name: "Asr-i Serif TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/asr-i-serif-tv
+
+  tr.asrisaadettv:
+    name: "Asr-i Saadet TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/asr-i-saadet-tv
+
+  tr.vaaztv:
+    name: "Vaaz TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/vaaz-tv
+
+  tr.mukabeletv:
+    name: "Mukabele TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/mukabele-tv
+
+  tr.fityasatv:
+    name: "Fit Yasa TV"
+    sources:
+      - yayinakisi:https://www.turkuvapp.com/canli-yayin/fit-yasa-tv

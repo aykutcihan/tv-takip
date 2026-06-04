@@ -46,6 +46,8 @@ class YayinAkisiAdapter(BaseAdapter):
             return self._parse_showturk(content, channel_id)
         if "turkhabertv" in source_id:
             return self._parse_plaintext(content, channel_id)
+        if "turkuvapp" in source_id:
+            return self._parse_turkuvapp(content, channel_id)
         return self._parse_showmax(content, channel_id)
 
     def _parse_showturk(self, html: str, channel_id: str) -> List[Programme]:
@@ -77,6 +79,36 @@ class YayinAkisiAdapter(BaseAdapter):
             start_dt = ist(datetime(
                 today.year, today.month, today.day, h, mn
             )) + timedelta(days=day_offset)
+            out.append(Programme(channel_id=channel_id, start=start_dt, title=title, source=self.prefix))
+
+        return out
+
+    def _parse_turkuvapp(self, html: str, channel_id: str) -> List[Programme]:
+        """<li><a>HH:MMBaşlık</a></li> formatı."""
+        soup = BeautifulSoup(html, "lxml")
+        today = ist(datetime.now())
+        out: List[Programme] = []
+        prev_h = -1
+        day_offset = 0
+
+        for li in soup.select("li"):
+            a = li.select_one("a")
+            if not a:
+                continue
+            text = a.get_text(strip=True)
+            m = re.match(r'^(\d{1,2}:\d{2})\s*(.+)$', text)
+            if not m:
+                continue
+            tm = TIME_RE.match(m.group(1))
+            title = m.group(2).strip()
+            if not tm or not title:
+                continue
+
+            h, mn = int(tm.group(1)), int(tm.group(2))
+            if prev_h >= 0 and h < prev_h:
+                day_offset += 1
+            prev_h = h
+            start_dt = ist(datetime(today.year, today.month, today.day, h, mn)) + timedelta(days=day_offset)
             out.append(Programme(channel_id=channel_id, start=start_dt, title=title, source=self.prefix))
 
         return out

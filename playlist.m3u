@@ -813,6 +813,51 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 
 
+# ── TURKUVAPP ────────────────────────────
+# BELGESEL TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.belgiseltv",Belgesel TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/0.m3u8
+
+# TARIH TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.tarihtv",Tarih TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist/0.m3u8
+
+# DIZI TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.dizitv",Dizi TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+# COCUKLARA OZEL TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.cocuklaraozeltv",Cocuklara Ozel TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/0.m3u8
+
+# CIZGI FILM TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.cizgifilmtv",Cizgi Film TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
+
+# AILE TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.ailetv",Aile TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
+
+# ASR-I SERIF TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.asrisheriftv",Asr-i Serif TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
+
+# ASR-I SAADET TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.asrisaadettv",Asr-i Saadet TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
+
+# VAAZ TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.vaaztv",Vaaz TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
+
+# MUKABELE TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.mukabeletv",Mukabele TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8
+
+# FIT YASA TV,    source: turkuvapp
+#EXTINF:-1 group-title="Turkuvapp" tvg-id="tr.fityasatv",Fit Yasa TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.m3u8
+
 # ── YEREL ────────────────────────────
 # TRT KURDI,    source: trt
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-kurdi-tr.png" tvg-id="tr.trtkurdi",TRT Kurdi
