@@ -170,6 +170,31 @@ def status():
     return {"domain": _config["domain"], "cdn": _config["cdn_base"]}
 
 
+@app.route("/power/nowplaying/<slug>")
+def power_nowplaying(slug: str):
+    """PowerApp sarki bilgisi - CORS sorununu proxy ile cozer."""
+    from curl_cffi import requests as cf
+    try:
+        r = cf.post(
+            f"https://api.powergroup.com.tr/v3/Route/get?url=/radios/{slug}",
+            headers={
+                "accept":           "application/json, text/javascript, */*; q=0.01",
+                "content-type":     "application/x-www-form-urlencoded; charset=UTF-8",
+                "origin":           "https://www.powerapp.com.tr",
+                "referer":          "https://www.powerapp.com.tr/",
+                "x-requested-with": "XMLHttpRequest",
+            },
+            data="client=web&lang=tr&version=21&devicePlatform=1&deviceType=0",
+            impersonate="chrome120",
+            timeout=8,
+        )
+        return Response(r.content, mimetype="application/json",
+                        headers={"Access-Control-Allow-Origin": "*"})
+    except Exception as e:
+        return Response(f'{{"error":"{e}"}}', mimetype="application/json",
+                        headers={"Access-Control-Allow-Origin": "*"}, status=500)
+
+
 if __name__ == "__main__":
     import socket
 
