@@ -312,7 +312,7 @@ https://live.powerapp.com.tr/powergreece/abr/playlist.m3u8
 https://live.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
 
 # POWER SALSA,    source: powerapp
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Yabancı" tvg-id="powerapp.powersalsa",Power Salsa
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Etnik" tvg-id="powerapp.powersalsa",Power Salsa
 https://live.powerapp.com.tr/powersalsa/abr/playlist.m3u8
 
 # POWER GOLD,    source: powerapp
@@ -472,7 +472,7 @@ https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
 https://listen.radyotvonline.net/hls/play/viva_pop.m3u8
 
 # VIVA TURKA,    source: viva
-#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-turka-21082025-kare-1080x1080-min-3zohpojd.jpg" group-title="Türkçe Pop" tvg-id="viva.vivaturka",Viva Turka
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-turka-21082025-kare-1080x1080-min-3zohpojd.jpg" group-title="TSM" tvg-id="viva.vivaturka",Viva Turka
 https://listen.radyotvonline.net/hls/play/viva_turca.m3u8
 
 # VIVA EFKAR,    source: viva
