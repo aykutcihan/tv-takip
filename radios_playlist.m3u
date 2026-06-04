@@ -368,3 +368,33 @@ https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
 # A PARA RADYO,    source: turkuvaz
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.aparaRadyo",A Para Radyo
 https://trkvz-radyolar.ercdn.net/aparaRadyo/playlist.m3u8
+
+# ── SHOW RADYO ────────────────────────────
+
+# SHOW RADYO,    source: show
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg" group-title="Radyo" tvg-id="show.showradyo",Show Radyo
+https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
+
+# SHOW SLOW,    source: show
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/30/show-slow-kare-1080x1080-HnWvw8Qi.jpg" group-title="Radyo" tvg-id="show.showslow",Show Slow
+https://listen.radyotvonline.net/hls/play/show_slow.m3u8
+
+# SHOW 90LAR,    source: show
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/11/kSH5uPILqlNptbhdBERf.jpg" group-title="Radyo" tvg-id="show.show90lar",Show 90'lar
+https://listen.radyotvonline.net/hls/play/show_90lar.m3u8
+
+# SHOW TREND,    source: show
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/11/EQc5pUYdY7R5wIf5M43Q.jpg" group-title="Radyo" tvg-id="show.showtrend",Show Trend
+https://listen.radyotvonline.net/hls/play/show_trend.m3u8
+
+# SHOW AKUSTIK,    source: show
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/09/19/sqxg1trd84oy53ec2qqu-fy51DN6A.jpg" group-title="Radyo" tvg-id="show.showakustik",Show Akustik
+https://listen.radyotvonline.net/hls/play/show_akustik.m3u8
+
+# SHOW ELLER HAVAYA,    source: show
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/30/show-eller-havaya-kare-1080x1080-XBLVmJOt.jpg" group-title="Radyo" tvg-id="show.showellerhavaya",Show Eller Havaya
+https://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8
+
+# TV100 HABER RADYO,    source: show
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/09/29/1024x1024-5UkYhrHD.png" group-title="Radyo" tvg-id="show.tv100haber",Tv100 Haber Radyo
+https://ssldyg2.radyotvonline.com/live/tv100radyo.stream/playlist.m3u8
