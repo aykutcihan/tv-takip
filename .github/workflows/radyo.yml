@@ -39,6 +39,9 @@ jobs:
       - name: Power şarkı bilgisi
         run: python3 src/power_songs.py
 
+      - name: Turkuvaz şarkı bilgisi
+        run: python3 src/turkuvaz_songs.py
+
       - name: Değiştiyse commit'le
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -46,5 +49,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/aykutcihan/tv-takip.git
-          git add radios.xml karnaval-songs.json number1-songs.json power-songs.json || true
+          git add radios.xml karnaval-songs.json number1-songs.json power-songs.json turkuvaz-songs.json || true
           git diff --cached --quiet || (git commit -m "Radyo EPG güncellendi" && git pull --rebase -X ours origin main && git push)
