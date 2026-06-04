@@ -22,6 +22,10 @@ https://cdn507.tvkulesi.com/startv.m3u8?tkn=tU1O_cyKnvHq5CUeaJzSow&tms=178058119
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" tvg-id="tr.startv",Star TV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780586954/ei/akUhavXUMYiKgMMPzaPGqQs/ip/31.21.186.28/id/82O6yOy_XwE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AbKmrwqBzYZ7RFMnKZpN5MSegmZS63zRP8SwkFsRT38-ilqFd_g59Y1RqoeOCFdPY8PCCP3zDNU-KTs-/spc/96Xrv7moH6eEoo5oTZ7iRIlBnjw2WjPofRPL7smDULU457jxKQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4326250/met/1780565354,/mh/DY/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/6/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1780564831/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgJ3vJfZEs2XuJB3ARNi14EjrZHc389uPKPlhL7YJIN58CIQD886pnySKRH1tdQyxi7dV34Jh2p988_NEG50ZWlyN6-g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgWw9ECYG1yuXV8RzF3ncZaI-8-6F6-oILflSrLvReplICIQCoLRGHwZwo2Rt9_-_N6BM4b16ChqgLWJ3MjuwfSgWA1g%3D%3D/playlist/index.m3u8
 
+# STAR TV,    source: puhutv-1080p
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" tvg-id="tr.startv",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=SWY3UUx6RDVuSVVWT3Vvb3UrZmtwWGQwZ3UyZE90KzVGd1pVcERTRUtGYz0=&sid=8gxbouk2zdpl&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
+
 
 # SHOW TV,    source: ciner
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" tvg-id="tr.showtv",Show TV
@@ -230,6 +234,10 @@ https://cdn508.tvkulesi.com/ntv.m3u8?tkn=-Lj-URZqOsalIEmn3oAbQw&tms=1780581244&h
 # NTV,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" tvg-id="tr.ntv",NTV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780586983/ei/h0UhatqtO6b6zPsPqfru0Qw/ip/31.21.186.28/id/pqq5c6k70kk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpt2bq2T_LTb-znFbxecRIEv8bYY9_ftvfkX05_LPKykgj54V3EJsqiUKMeBHV4vDbSo1v4pLff/spc/96Xrv4baw1RoHLBfcsRtUkSOg-1b8igi27n3YhQ6v9gp6iQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4317500/met/1780565384,/mh/Ok/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/2/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51946838/mt/1780565070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAKkb3sHsbNV54JoodYx2ApZB_xzRWq0bfuc4U5E9UlfvAiEA_z8PJorm1LqjBzLX7AOU_mngDLSxYhYnlBUFTFPCBf0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgQZmNMSRMvJj5xrH8GvRvcIptCzs7-XjUUo0YzQblWcgCIQDqWNi-yMfIH_BZQGSv5LguKfrrItkS8AD63QmQ5cGKjw%3D%3D/playlist/index.m3u8
+
+# NTV,    source: puhutv-1080p
+#EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" tvg-id="tr.ntv",NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=aS83S21sUnQxZld2WDN4aHNnV1ZGQnBXMnJLSDltd1BTaTI0QmM2WXNROD0=&sid=8gxboeggjl7e&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3
 
 #EXTINF:-1 group-title="Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" tvg-id="tr.sozcutv",Sözcü TV
 # source: youtube
@@ -685,6 +693,10 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-dance-tr.png" tvg-id="tr.nr1dance",NR1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 
+# CGTN DOCUMENTARY,    source: puhutv
+#EXTINF:-1 group-title="Belgesel" tvg-id="tr.cgtn",CGTN Documentary
+https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8?st=VeP4m5NO4G2KwHDb7oq8bQ&e=1732106366&r=16
+
 # ── FILM ────────────────────────────
 # RİZE TÜRK,    source: diger
 #EXTINF:-1 group-title="Film" tvg-id="tr.rizeturk",RİZE TÜRK
@@ -760,6 +772,10 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780587023/ei/
 #EXTINF:-1 group-title="Film" tvg-id="tr.yesilcam",Yeşilçam TV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780586976/ei/gEUhaqTrOKy9zPsPjtZ8/ip/31.21.186.28/id/cKVuxje7YqA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwoxlYXlSR8SL0tIDGWGDb1TqSn4ImvTbChklaf3VrbXvx44KCnhr02Irnc7DdSrUMiSx0CAcYJH/spc/96XrvwBIL2INfq8TThzWFEjz8aobSEwPVp1xCgz3WIBCObirow/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4497500/met/1780565377,/mh/Bs/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/3/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780565070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgGMkh5o_0TGluQPjerslOvH8UoZ5qBl0Q7DCQAlN9qDACIQDg32rL58arUL74Ml0V2DOU9628y955MvVpsN1W3L7fXw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAOoU_O6WCjQL2o2pcV9n3JR0IA5Idq4mmgVRjJ8J4AVoAiEA28gUeKYDUuqahNCuAAtpcelqTyA1VrpDR3ZuANdWO2k%3D/playlist/index.m3u8
 
+
+# KRAL POP TV,    source: puhutv-1080p
+#EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-pop-tr.png" tvg-id="tr.kralpoptv",Kral Pop TV
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?token=Uys0UFBCN0FBQktQQnloV2JCOVNlK2s0c3lqVllUa0xiSTRtRDNxR0NVQT0=&sid=8gxbpbbrxy5t&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2
 
 # ── COCUK ────────────────────────────
 

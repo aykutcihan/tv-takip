@@ -30,6 +30,9 @@ jobs:
       - name: Inat TV domain guncelle
         run: python3 src/inat_discover.py
 
+      - name: Puhu TV stream güncelle
+        run: python3 src/refresh_puhu.py
+
       - name: ercdn/mncdn stream güncelle
         run: python3 src/refresh_ercdn.py
 
