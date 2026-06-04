@@ -460,3 +460,29 @@ https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8
 # FENOMEN 2010LAR,    source: fenomen
 #EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo67.png" group-title="Nostalji" tvg-id="fenomen.fenomen2010lar",Fenomen 2010'lar
 https://live.radyofenomen.com/fenomen2010/256/chunks.m3u8
+
+# -- RADYO VIVA ------------------------------------------
+
+# RADYO VIVA,    source: viva
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-logo-beyaz-21082025-kare-1080x1080-min-RM3w71Pu.jpg" group-title="Türkçe Pop" tvg-id="viva.radyoviva",Radyo Viva
+https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
+
+# VIVA POP,    source: viva
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-trend-pop-21082025-kare-1080x1080-min-oXLGYe7a.jpg" group-title="Türkçe Pop" tvg-id="viva.vivapop",Viva Pop
+https://listen.radyotvonline.net/hls/play/viva_pop.m3u8
+
+# VIVA TURKA,    source: viva
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-turka-21082025-kare-1080x1080-min-3zohpojd.jpg" group-title="Türkçe Pop" tvg-id="viva.vivaturka",Viva Turka
+https://listen.radyotvonline.net/hls/play/viva_turca.m3u8
+
+# VIVA EFKAR,    source: viva
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-efkar-21082025-kare-1080x1080-min-X5y1LpAl.jpg" group-title="Fantazi" tvg-id="viva.vivaefkar",Viva Efkar
+https://listen.radyotvonline.net/hls/play/viva_efkar.m3u8
+
+# VIVA CLUB,    source: viva
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-club-21082025-kare-1080x1080-min-uGclNV6T.jpg" group-title="Dans" tvg-id="viva.vivaclub",Viva Club
+https://listen.radyotvonline.net/hls/play/viva_club.m3u8
+
+# VIVA TURKU,    source: viva
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-turku-21082025-kare-1080x1080-min-INa3iPNs.jpg" group-title="THM" tvg-id="viva.vivaturku",Viva Türkü
+https://listen.radyotvonline.net/hls/play/viva_turku.m3u8
