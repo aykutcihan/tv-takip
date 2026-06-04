@@ -4,3 +4,6 @@ lxml>=5.0
 PyYAML>=6.0
 python-dateutil>=2.9
 playwright>=1.40
+patchright>=1.40
+flask>=3.0
+curl_cffi==0.7.4
