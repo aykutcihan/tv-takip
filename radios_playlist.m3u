@@ -2,7 +2,7 @@
 # ── RADYO ────────────────────────────
 
 # ANTALYA RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.antalya-radyosu",Antalya Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.antalya-radyosu",Antalya Radyosu
 https://radio-trtantalya.medya.trt.com.tr/master.m3u8
 
 # BABYJOY,    source: karnaval
@@ -10,7 +10,7 @@ https://radio-trtantalya.medya.trt.com.tr/master.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC009_SO1.mp3
 
 # BAŞKA,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="karnaval.75",başka
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.75",başka
 https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
 
 # DANCE HITS,    source: karnaval
@@ -22,11 +22,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC019_SO1.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
 
 # ERZURUM RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.erzurum-radyosu",Erzurum Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.erzurum-radyosu",Erzurum Radyosu
 https://radio-trterzurum.medya.trt.com.tr/master.m3u8
 
 # GAP DIYARBAKIR RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.gap-diyarbakir-radyosu",GAP Diyarbakır Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.gap-diyarbakir-radyosu",GAP Diyarbakır Radyosu
 https://radio-trtgap.medya.trt.com.tr/master.m3u8
 
 # GÖNÜL TÜRKÜLERI,    source: karnaval
@@ -82,7 +82,7 @@ https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3
 
 # MYDONOSETÜRK,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="karnaval.19",MydonoseTürk
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.19",MydonoseTürk
 https://playerservices.streamtheworld.com/api/livestream-redirect/MYDONOSE_TURK.mp3
 
 # NR1 AŞK,    source: numberone
@@ -138,7 +138,7 @@ https://eustr75.mediatriple.net/hls/turkce_90lar/aac_hifi.m3u8
 https://eustr75.mediatriple.net/Number1Media/20_Number1_Turk_Damar.stream/playlist.m3u8
 
 # NR1 TÜRK ELLER HAVAYA,    source: numberone
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-tr.png" group-title="Pop" tvg-id="number1.ellerhavaya",NR1 Türk Eller Havaya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-tr.png" group-title="Türkçe Pop" tvg-id="number1.ellerhavaya",NR1 Türk Eller Havaya
 https://eustr75.mediatriple.net/Number1Media/05_Number1_Turk_Eller_Havaya.stream/playlist.m3u8
 
 # NR1 TÜRK RAP,    source: numberone
@@ -174,7 +174,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/POPBESK.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE.mp3
 
 # RADYO 1: RADYO PROGRAMLARI,    source: trtdinle
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.radyo-1-radyo-programlari",Radyo 1: Radyo Programları
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.radyo-1-radyo-programlari",Radyo 1: Radyo Programları
 https://trt.radyotvonline.net/trt_1.aac
 
 # RADYO 3: KLASIK, CAZ, ROCK, POP VE DÜNYA MÜZIĞI,    source: trt
@@ -198,25 +198,25 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC030_SO1.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/SOLE.mp3
 
 # SÜPER FM,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="karnaval.1",Süper FM
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.1",Süper FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3
 
 # SÜPER YENI,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="karnaval.371",Süper Yeni
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.371",Süper Yeni
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_YENI.mp3
 
 # SÜPER2,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="karnaval.16",Süper2
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.16",Süper2
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2.mp3
 
 # TRABZON RADYOSU,    source: trt
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.trabzon-radyosu",Trabzon Radyosu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.trabzon-radyosu",Trabzon Radyosu
 https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
 
 # TRT ARABI,    source: trt
 
 # TRT FM: TÜRKÇE POP,    source: trtdinle
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Pop" tvg-id="trt.radyo.trt-fm-turkce-pop",TRT FM: Türkçe Pop
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Türkçe Pop" tvg-id="trt.radyo.trt-fm-turkce-pop",TRT FM: Türkçe Pop
 https://trt.radyotvonline.net/trt_fm.aac
 
 # TRT NAĞME: TÜRK SANAT MÜZIĞI,    source: trt
@@ -224,7 +224,7 @@ https://trt.radyotvonline.net/trt_fm.aac
 https://rd-trtnagme.medya.trt.com.tr/master.m3u8
 
 # TRT RADYO HABER,    source: trtdinle
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.trt-radyo-haber",TRT Radyo Haber
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber/Spor" tvg-id="trt.radyo.trt-radyo-haber",TRT Radyo Haber
 https://trt.radyotvonline.net/trt_haber.aac
 
 # TRT RADYO KURDÎ,    source: trt
@@ -232,7 +232,7 @@ https://trt.radyotvonline.net/trt_haber.aac
 https://radio-trtradyo6.medya.trt.com.tr/master.m3u8
 
 # VIRGIN RADIO TÜRKIYE,    source: karnaval
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="karnaval.15",Virgin Radio Türkiye
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Türkçe Pop" tvg-id="karnaval.15",Virgin Radio Türkiye
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO.mp3
 
 # YENI RAP,    source: karnaval
@@ -248,7 +248,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC021_SO1.mp3
 https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
 
 # POWER TURK,    source: powerapp
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Pop" tvg-id="powerapp.powerturk",Power Turk
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Türkçe Pop" tvg-id="powerapp.powerturk",Power Turk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 
 # POWER PLUS,    source: powerapp
@@ -256,7 +256,7 @@ https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 https://live.powerapp.com.tr/powerplus/abr/playlist.m3u8
 
 # POWER POP,    source: powerapp
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Pop" tvg-id="powerapp.powerpop",Power Pop
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Türkçe Pop" tvg-id="powerapp.powerpop",Power Pop
 https://live.powerapp.com.tr/powerpop/abr/playlist.m3u8
 
 # POWER LOVE,    source: powerapp
@@ -292,7 +292,7 @@ https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8
 https://live.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
 
 # POWER TURK TAPTAZE,    source: powerapp
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Pop" tvg-id="powerapp.powerturktaptaze",Power Turk Taptaze
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Türkçe Pop" tvg-id="powerapp.powerturktaptaze",Power Turk Taptaze
 https://live.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
 
 # POWER TURK DANS,    source: powerapp
@@ -324,7 +324,7 @@ https://live.powerapp.com.tr/powergold/abr/playlist.m3u8
 https://live.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
 
 # RADYO TÜRKUVAZ,    source: turkuvaz
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Pop" tvg-id="turkuvaz.radyoturkuvaz",Radyo Türkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Türkçe Pop" tvg-id="turkuvaz.radyoturkuvaz",Radyo Türkuvaz
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
 
 # TÜRKUVAZ ROMANTIK,    source: turkuvaz
@@ -336,15 +336,15 @@ https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
 https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
 
 # A HABER RADYO,    source: turkuvaz
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber" tvg-id="turkuvaz.ahaberradyo",A Haber Radyo
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber/Spor" tvg-id="turkuvaz.ahaberradyo",A Haber Radyo
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 
 # A NEWS RADIO,    source: turkuvaz
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber" tvg-id="turkuvaz.anewsradyo",A News Radio
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber/Spor" tvg-id="turkuvaz.anewsradyo",A News Radio
 https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
 
 # A SPOR RADYO,    source: turkuvaz
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber" tvg-id="turkuvaz.asporradyo",A Spor Radyo
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber/Spor" tvg-id="turkuvaz.asporradyo",A Spor Radyo
 https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 
 # RADYO SOFT,    source: turkuvaz
@@ -364,13 +364,13 @@ https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
 https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
 
 # A PARA RADYO,    source: turkuvaz
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber" tvg-id="turkuvaz.aparaRadyo",A Para Radyo
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber/Spor" tvg-id="turkuvaz.aparaRadyo",A Para Radyo
 https://trkvz-radyolar.ercdn.net/aparaRadyo/playlist.m3u8
 
 # ── SHOW RADYO ────────────────────────────
 
 # SHOW RADYO,    source: show
-#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg" group-title="Pop" tvg-id="show.showradyo",Show Radyo
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg" group-title="Türkçe Pop" tvg-id="show.showradyo",Show Radyo
 https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 
 # SHOW SLOW,    source: show
@@ -382,7 +382,7 @@ https://listen.radyotvonline.net/hls/play/show_slow.m3u8
 https://listen.radyotvonline.net/hls/play/show_90lar.m3u8
 
 # SHOW TREND,    source: show
-#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/11/EQc5pUYdY7R5wIf5M43Q.jpg" group-title="Pop" tvg-id="show.showtrend",Show Trend
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/11/EQc5pUYdY7R5wIf5M43Q.jpg" group-title="Türkçe Pop" tvg-id="show.showtrend",Show Trend
 https://listen.radyotvonline.net/hls/play/show_trend.m3u8
 
 # SHOW AKUSTIK,    source: show
@@ -390,17 +390,17 @@ https://listen.radyotvonline.net/hls/play/show_trend.m3u8
 https://listen.radyotvonline.net/hls/play/show_akustik.m3u8
 
 # SHOW ELLER HAVAYA,    source: show
-#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/30/show-eller-havaya-kare-1080x1080-XBLVmJOt.jpg" group-title="Pop" tvg-id="show.showellerhavaya",Show Eller Havaya
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/07/30/show-eller-havaya-kare-1080x1080-XBLVmJOt.jpg" group-title="Türkçe Pop" tvg-id="show.showellerhavaya",Show Eller Havaya
 https://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8
 
 # TV100 HABER RADYO,    source: show
-#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/09/29/1024x1024-5UkYhrHD.png" group-title="Haber" tvg-id="show.tv100haber",Tv100 Haber Radyo
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/images/2025/09/29/1024x1024-5UkYhrHD.png" group-title="Haber/Spor" tvg-id="show.tv100haber",Tv100 Haber Radyo
 https://ssldyg2.radyotvonline.com/live/tv100radyo.stream/playlist.m3u8
 
 # ── HEPSİBEST RADYO ────────────────────────────
 
 # BEST FM,    source: hepsibest
-#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/bestFM.jpg" group-title="Pop" tvg-id="hepsibest.bestfm",Best FM
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/bestFM.jpg" group-title="Türkçe Pop" tvg-id="hepsibest.bestfm",Best FM
 https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8
 
 # BABA RADYO,    source: hepsibest
@@ -438,11 +438,11 @@ https://live.radyofenomen.com/fenomen/256/chunks.m3u8
 https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8
 
 # FENOMEN TÜRK,    source: fenomen
-#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo40.png" group-title="Pop" tvg-id="fenomen.fenomenturk",Fenomen Türk
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo40.png" group-title="Türkçe Pop" tvg-id="fenomen.fenomenturk",Fenomen Türk
 https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8
 
 # FENOMEN KARISIK,    source: fenomen
-#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo43.png" group-title="Pop" tvg-id="fenomen.fenomenkarisik",Fenomen Karışık
+#EXTINF:-1 tvg-logo="https://cdn.radyofenomen.com/artwork/logo43.png" group-title="Türkçe Pop" tvg-id="fenomen.fenomenkarisik",Fenomen Karışık
 https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8
 
 # FENOMEN AKUSTIK,    source: fenomen
@@ -464,11 +464,11 @@ https://live.radyofenomen.com/fenomen2010/256/chunks.m3u8
 # -- RADYO VIVA ------------------------------------------
 
 # RADYO VIVA,    source: viva
-#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-logo-beyaz-21082025-kare-1080x1080-min-RM3w71Pu.jpg" group-title="Pop" tvg-id="viva.radyoviva",Radyo Viva
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-logo-beyaz-21082025-kare-1080x1080-min-RM3w71Pu.jpg" group-title="Türkçe Pop" tvg-id="viva.radyoviva",Radyo Viva
 https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
 
 # VIVA POP,    source: viva
-#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-trend-pop-21082025-kare-1080x1080-min-oXLGYe7a.jpg" group-title="Pop" tvg-id="viva.vivapop",Viva Pop
+#EXTINF:-1 tvg-logo="https://i.radyoviva.com.tr/images/2025/08/21/viva-rev-trend-pop-21082025-kare-1080x1080-min-oXLGYe7a.jpg" group-title="Türkçe Pop" tvg-id="viva.vivapop",Viva Pop
 https://listen.radyotvonline.net/hls/play/viva_pop.m3u8
 
 # VIVA TURKA,    source: viva
@@ -488,7 +488,7 @@ https://listen.radyotvonline.net/hls/play/viva_club.m3u8
 https://listen.radyotvonline.net/hls/play/viva_turku.m3u8
 
 # ULKE RADYO,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Haber" tvg-id="radyo7.ulkeradyo",Ülke Radyo
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Haber/Spor" tvg-id="radyo7.ulkeradyo",Ülke Radyo
 https://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8
 
 # -- RADYO 7 ------------------------------------------
@@ -522,7 +522,7 @@ https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
 
 # POP HIT7,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Pop" tvg-id="radyo7.pophit7",Pop Hit 7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Türkçe Pop" tvg-id="radyo7.pophit7",Pop Hit 7
 https://moondigitaledge2.radyotvonline.net/radyo7pophit/playlist.m3u8
 
 # NOSTALJI7,    source: radyo7
@@ -564,7 +564,7 @@ https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 
 # CNN-TURK,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/94/logo_square.png" group-title="Haber" tvg-id="radyohome.cnnturk",CNN Turk Radyo
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/94/logo_square.png" group-title="Haber/Spor" tvg-id="radyohome.cnnturk",CNN Turk Radyo
 https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
 
 # DANCELAND,    source: radyohome
@@ -612,7 +612,7 @@ https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 
 # KARADENIZ-FM,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/29/logo_square.png" group-title="Pop" tvg-id="radyohome.karadenizfm",Karadeniz FM
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/29/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.karadenizfm",Karadeniz FM
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
 
 # KLASIK-HOME,    source: radyohome
@@ -636,7 +636,7 @@ https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 
 # PAL-FM,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/35/logo_square.png" group-title="Pop" tvg-id="radyohome.palfm",Pal FM
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/35/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.palfm",Pal FM
 https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
 
 # PAL-NOSTALJI,    source: radyohome
@@ -648,7 +648,7 @@ https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
 
 # POP-HOME,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/38/logo_square.png" group-title="Pop" tvg-id="radyohome.pophome",Pop Home
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/38/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.pophome",Pop Home
 https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8
 
 # POPLAND,    source: radyohome
@@ -656,19 +656,19 @@ https://moondigitaledge.radyotvonline.net/pophome/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
 
 # RADYO-7,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/40/logo_square.png" group-title="Pop" tvg-id="radyohome.radyo7",Radyo 7 (Home)
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/40/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.radyo7",Radyo 7 (Home)
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 
 # RADYO-D,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/41/logo_square.png" group-title="Pop" tvg-id="radyohome.radyod",Radyo D
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/41/logo_square.png" group-title="Türkçe Pop" tvg-id="radyohome.radyod",Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 
 # RADYO-SPOR,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/95/logo_square.png" group-title="Haber" tvg-id="radyohome.radyospor",Radyo Spor
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/95/logo_square.png" group-title="Haber/Spor" tvg-id="radyohome.radyospor",Radyo Spor
 https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
 
 # RADYO-TRAFIK,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/65/logo_square.png" group-title="Haber" tvg-id="radyohome.radyotrafik",Radyo Trafik
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/65/logo_square.png" group-title="Haber/Spor" tvg-id="radyohome.radyotrafik",Radyo Trafik
 https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8
 
 # RADYO-VOKAL,    source: radyohome
