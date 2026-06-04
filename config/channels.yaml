@@ -866,6 +866,7 @@ channels:
   tr.showturk:
     name: "Show Turk"
     sources:
+      - tvplus:show-turk--152
       - yayinakisi:https://www.showturk.com.tr/yayin-akisi
       - tvyayinakisi:show-turk
 
