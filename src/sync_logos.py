@@ -11,7 +11,8 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 LOGOS_YAML = ROOT / 'config' / 'logos.yaml'
-PLAYLIST = ROOT / 'playlist.m3u'
+PLAYLIST        = ROOT / 'playlist.m3u'
+RADIO_PLAYLIST  = ROOT / 'radios_playlist.m3u'
 
 
 def load_logos() -> dict[str, str]:
@@ -19,9 +20,10 @@ def load_logos() -> dict[str, str]:
     return {k: v for k, v in data.get('logos', {}).items() if v}
 
 
-def sync(dry_run: bool = False) -> int:
-    logos = load_logos()
-    lines = PLAYLIST.read_text(encoding='utf-8').splitlines()
+def sync_file(playlist_path: Path, logos: dict[str, str], dry_run: bool = False) -> int:
+    if not playlist_path.exists():
+        return 0
+    lines = playlist_path.read_text(encoding='utf-8').splitlines()
     updated = 0
 
     for i, line in enumerate(lines):
@@ -47,9 +49,16 @@ def sync(dry_run: bool = False) -> int:
         updated += 1
 
     if updated and not dry_run:
-        PLAYLIST.write_text('\n'.join(lines), encoding='utf-8')
+        playlist_path.write_text('\n'.join(lines), encoding='utf-8')
 
     return updated
+
+
+def sync(dry_run: bool = False) -> int:
+    logos = load_logos()
+    n1 = sync_file(PLAYLIST, logos, dry_run)
+    n2 = sync_file(RADIO_PLAYLIST, logos, dry_run)
+    return n1 + n2
 
 
 if __name__ == '__main__':
