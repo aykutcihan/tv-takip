@@ -46,7 +46,7 @@ CHANNELS = {
     "eu2":       ("Eurosport 2",   "tr.eurosport2"),
     "eu1":       ("Eurosport 1",   "tr.eurosport1"),
     "smarts":    ("Smart Spor",    "tr.sportstv"),
-    "sms2":      ("Smart Spor 2",  "tr.sportstv"),
+    "sms2":      ("Smart Spor 2",  "tr.sportstv2"),
     "b5":        ("BeIN Sports 5", "tr.beinsports5"),
     "ss":        ("S Sport",       "tr.ssport"),
     "ss2":       ("S Sport 2",     "tr.ssport2"),

@@ -998,6 +998,11 @@ channels:
     sources:
       - tvplus:sports-tv-hd--173
       - turksatkablo:Sports Tv
+
+  tr.sportstv2:
+    name: "Smart Spor 2"
+    sources:
+      - tvplus:spor-smart-2-hd--174
       - tvyayinakisi:sports-tv
 
   tr.startv:
