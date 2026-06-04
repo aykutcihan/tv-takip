@@ -1491,11 +1491,11 @@ http://192.168.1.141:8888/stream/eu2
 http://192.168.1.141:8888/stream/eu1
 
 # SMART SPOR,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" tvg-id="tr.sportstv",Smart Spor
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.smartspor",Smart Spor
 http://192.168.1.141:8888/stream/smarts
 
 # SMART SPOR 2,    source: inattv-proxy
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" tvg-id="tr.sportstv2",Smart Spor 2
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.smartspor2",Smart Spor 2
 http://192.168.1.141:8888/stream/sms2
 
 # BEIN SPORTS 5,    source: inattv-proxy

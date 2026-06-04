@@ -1826,3 +1826,13 @@ channels:
     name: "Alemin Krali TV"
     sources:
       - staticschedule:tr.aleminkralitv
+
+  tr.smartspor:
+    name: "Smart Spor"
+    sources:
+      - tvplus:spor-smart-hd--200
+
+  tr.smartspor2:
+    name: "Smart Spor 2"
+    sources:
+      - tvplus:spor-smart-2-hd--201
