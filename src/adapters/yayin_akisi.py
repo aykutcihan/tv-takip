@@ -56,14 +56,16 @@ class YayinAkisiAdapter(BaseAdapter):
         day_offset = 0
 
         for a in soup.select("a"):
-            time_el = a.select_one("time")
-            h3_el = a.select_one("h3")
-            if not time_el or not h3_el:
+            divs = a.find_all("div", recursive=False)
+            # time ve h3 veya iki div (biri saat biri baslik)
+            time_el = a.select_one("time") or (divs[0] if divs else None)
+            title_el = a.select_one("h3") or (divs[-1] if len(divs) >= 2 else None)
+            if not time_el or not title_el or time_el is title_el:
                 continue
             m = TIME_RE.match(time_el.get_text(strip=True))
             if not m:
                 continue
-            title = h3_el.get_text(strip=True)
+            title = title_el.get_text(strip=True)
             if not title:
                 continue
 
