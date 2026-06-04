@@ -1443,6 +1443,50 @@ http://192.168.1.141:8888/stream/tv85
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
 http://192.168.1.141:8888/stream/as
 
+# BEIN SPORTS 1,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" tvg-id="tr.beinsports1",BeIN Sports 1
+http://192.168.1.141:8888/stream/zirve
+
+# BEIN SPORTS 2,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" tvg-id="tr.beinsports2",BeIN Sports 2
+http://192.168.1.141:8888/stream/b2
+
+# BEIN SPORTS 3,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" tvg-id="tr.beinsports3",BeIN Sports 3
+http://192.168.1.141:8888/stream/b3
+
+# BEIN SPORTS 4,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" tvg-id="tr.beinsports4",BeIN Sports 4
+http://192.168.1.141:8888/stream/b4
+
+# BEIN MAX 1,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" tvg-id="tr.beinsportsmax1",BeIN Max 1
+http://192.168.1.141:8888/stream/bm1
+
+# BEIN MAX 2,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" tvg-id="tr.beinsportsmax2",BeIN Max 2
+http://192.168.1.141:8888/stream/bm2
+
+# TIVIBU SPOR 2,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor2",Tivibu Spor 2
+http://192.168.1.141:8888/stream/t2
+
+# TIVIBU SPOR 3,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor3",Tivibu Spor 3
+http://192.168.1.141:8888/stream/t3
+
+# TIVIBU SPOR 4,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor4",Tivibu Spor 4
+http://192.168.1.141:8888/stream/t4
+
+# NBA TV,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NBA-Finals-Trophy.jpg/200px-NBA-Finals-Trophy.jpg" tvg-id="tr.nbatv",NBA TV
+http://192.168.1.141:8888/stream/nbatv
+
+# EUROSPORT 2,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.eurosport2",Eurosport 2
+http://192.168.1.141:8888/stream/eu2
+
 # ── RADYO ────────────────────────────
 
 # ANTALYA RADYOSU,    source: trt

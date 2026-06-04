@@ -27,9 +27,20 @@ CHANNELS = {
     "trtspor":   ("TRT Spor",   "tr.trtspor"),
     "trtspor2":  ("TRT Spor 2", "tr.trtsporyildiz"),
     "atv":       ("ATV",        "tr.atv"),
-    "tv8":       ("TV 8",       "tr.tv8"),
+    "tv8":       ("TV 8",        "tr.tv8"),
     "tv85":      ("TV 8.5",     "tr.tv85"),
     "as":        ("A Spor",     "tr.aspor"),
+    "zirve":     ("BeIN Sports 1", "tr.beinsports1"),
+    "b2":        ("BeIN Sports 2", "tr.beinsports2"),
+    "b3":        ("BeIN Sports 3", "tr.beinsports3"),
+    "b4":        ("BeIN Sports 4", "tr.beinsports4"),
+    "bm1":       ("BeIN Max 1",    "tr.beinsportsmax1"),
+    "bm2":       ("BeIN Max 2",    "tr.beinsportsmax2"),
+    "t2":        ("Tivibu Spor 2", "tr.tivibuspor2"),
+    "t3":        ("Tivibu Spor 3", "tr.tivibuspor3"),
+    "t4":        ("Tivibu Spor 4", "tr.tivibuspor4"),
+    "nbatv":     ("NBA TV",        "tr.nbatv"),
+    "eu2":       ("Eurosport 2",   "tr.eurosport2"),
 }
 
 HEADERS = {
