@@ -45,8 +45,6 @@ YOUTUBE_CHANNELS = {
     "tr.krttv":            "LBffKHlCx8U",
     "tr.cnnturk":          "6N8_r2uwLEc",
     "tr.akittv":           "YPC4fsMWUK0",
-    "tr.cartoonito":       "FsRq_t322-g",
-    "tr.tomvejerrytv":     "rEKifG2XUZg",
     "tr.avrupayakasitv":   "NGsjOrzwjZk",
     "tr.yalandunayatv":    "Efh06uzzORM",
     "tr.aleminkralitv":    "avDRwKKjeSI",

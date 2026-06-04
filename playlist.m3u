@@ -735,17 +735,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780558541/ei/
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780558521/ei/WdYgaoSwCceBsvQP78us2QI/ip/31.21.186.28/id/cKVuxje7YqA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AbKmrwpdSah9ghBaHSccAjPSAAC_DPOfHo57_BOZLhPR4NEH12paCCL9_jx3w-WpKESWsdUzXD-GpXRA/spc/96Xrv6uzWlPAvhtHv1dsqxqKrXs6f92RW3JGw64h9gNOnd1lcA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3545000/met/1780536921,/mh/Bs/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/3/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1780536520/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhALV64cCn2nfHWTropvD6bsNmnb41r8Hk6lnqWM1KNJPaAiEA1cB6pU2uQABTV1iULy_iBxrcPuoulh8fnhLMsFM-taA%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgY81xS2IULcjDt37GLsV0PlwjYGbpiHmyZNWVthwepiACIA524m8KixNP9t5At_1cFflp9vSEod1elSwrfL8uIj5g/playlist/index.m3u8
 
 # ── COCUK ────────────────────────────
-# CARTOONITO,    source: youtube
-#EXTINF:-1 group-title="Cocuk" tvg-id="tr.cartoonito",Cartoonito TV
-https://www.youtube.com/watch?v=FsRq_t322-g
 
-# TOM VE JERRY TV,    source: youtube
-#EXTINF:-1 group-title="Cocuk" tvg-id="tr.tomvejerrytv",Tom ve Jerry TV
-https://www.youtube.com/watch?v=rEKifG2XUZg
 
-# KRAL SAKIR TV,    source: youtube
-#EXTINF:-1 group-title="Cocuk" tvg-id="tr.kralssakirtv",Kral Sakir TV
-https://www.youtube.com/watch?v=5Whk9MVTpI4
 
 # TRT DIYANET COCUK,    source: trt
 #EXTINF:-1 group-title="Cocuk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" tvg-id="tr.trtdiyanetcocuk",TRT Diyanet Cocuk
