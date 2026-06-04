@@ -493,6 +493,12 @@ SCHEDULES: Dict[str, Dict] = {
         ],
     },
 
+    # ── RİZE TÜRK — 2 saatlik film döngüsü ──────────────────────
+    "tr.rizeturk": {
+        "tz": IST_TZ,
+        "daily": [(h, 0, "Seçkin Film Yayını", "Özenle seçilmiş filmler ve yapımlarla dolu, estetik bir sinema deneyimi.") for h in range(0, 24, 2)],
+    },
+
     # ── CAN TV — 2 saatlik müzik döngüsü ────────────────────────
     "tr.cantv": {
         "tz": IST_TZ,

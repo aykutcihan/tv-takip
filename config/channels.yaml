@@ -1786,3 +1786,8 @@ channels:
     name: "Fit Yasa TV"
     sources:
       - yayinakisi:https://www.turkuvapp.com/canli-yayin/fit-yasa-tv
+
+  tr.rizeturk:
+    name: "Rize Turk"
+    sources:
+      - staticschedule:tr.rizeturk
