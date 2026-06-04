@@ -380,10 +380,6 @@ https://cdn900.tvkulesi.com/tvnet.m3u8?tkn=KhgS8dsxNQnBYTJUp7GZHQ&tms=1780557342
 
 
 
-# HABER61 TRABZON,    source: yayin
-#EXTINF:-1 group-title="Yerel" tvg-id="",HABER61 TRABZON
-https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
-
 # KANAL B,    source: tvkulesi
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-b-tr.png" tvg-id="tr.kanalb",Kanal B
 https://cdn900.tvkulesi.com/kanalb.m3u8?tkn=JahYAYafL5fSggOrINhZBw&tms=1780557339&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-b
@@ -866,6 +862,10 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.m3u8
 
 # ── YEREL ────────────────────────────
+# HABER61 TRABZON,    source: yayin
+#EXTINF:-1 group-title="Yerel" tvg-id="",HABER61 TRABZON
+https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
+
 # TRT KURDI,    source: trt
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-kurdi-tr.png" tvg-id="tr.trtkurdi",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
