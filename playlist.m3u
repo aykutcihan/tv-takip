@@ -1515,6 +1515,22 @@ http://192.168.1.141:8888/stream/ss2
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor",Tivibu Spor
 http://192.168.1.141:8888/stream/t1
 
+# INAT MAC SAATI 1,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-id="tr.inatmac1",Inat Mac Saati 1
+http://192.168.1.141:8888/stream/ex1
+
+# INAT MAC SAATI 2,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-id="tr.inatmac2",Inat Mac Saati 2
+http://192.168.1.141:8888/stream/ex2
+
+# INAT MAC SAATI 3,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-id="tr.inatmac3",Inat Mac Saati 3
+http://192.168.1.141:8888/stream/ex3
+
+# INAT MAC SAATI 4,    source: inattv-proxy
+#EXTINF:-1 group-title="Inat TV" tvg-id="tr.inatmac4",Inat Mac Saati 4
+http://192.168.1.141:8888/stream/ex4
+
 # ── RADYO ────────────────────────────
 
 # ANTALYA RADYOSU,    source: trt

@@ -124,7 +124,7 @@ def rewrite_m3u8(content: str, base_url: str) -> str:
 
 @app.route("/stream/<channel_id>")
 def stream(channel_id: str):
-    if channel_id not in CHANNELS:
+    if channel_id not in CHANNELS and not channel_id.startswith("ex"):
         abort(404)
     m3u8_url = f"{_config['cdn_base']}/{channel_id}/mono.m3u8"
     try:
