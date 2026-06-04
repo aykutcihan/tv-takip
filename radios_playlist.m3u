@@ -324,3 +324,47 @@ https://live.powerapp.com.tr/powergold/abr/playlist.m3u8
 # POWER SMOOTH JAZZ,    source: powerapp
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Radyo" tvg-id="powerapp.powersmoothjazz",Power Smooth Jazz
 https://live.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
+
+# RADYO TÜRKUVAZ,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.radyoturkuvaz",Radyo Türkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+
+# TÜRKUVAZ ROMANTIK,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.turkuvazromantik",Türkuvaz Romantik
+https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
+
+# TÜRKUVAZ EFSANE,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.turkuvazefsane",Türkuvaz Efsane
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+
+# A HABER RADYO,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.ahaberradyo",A Haber Radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+
+# A NEWS RADIO,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.anewsradyo",A News Radio
+https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
+
+# A SPOR RADYO,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.asporradyo",A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+
+# RADYO SOFT,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.radyosoft",Radyo Soft
+https://trkvz-radyolar.ercdn.net/radyosoft/playlist.m3u8
+
+# TÜRKUVAZ ANADOLU,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.turkuvazanadolu",Türkuvaz Anadolu
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+
+# TÜRKUVAZ MUSIKI,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.turkuvazmusiki",Türkuvaz Musiki
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+
+# TÜRKUVAZ NOSTALJI,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.turkuvaznostalji",Türkuvaz Nostalji
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
+
+# A PARA RADYO,    source: turkuvaz
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Radyo" tvg-id="turkuvaz.aparaRadyo",A Para Radyo
+https://trkvz-radyolar.ercdn.net/aparaRadyo/playlist.m3u8
