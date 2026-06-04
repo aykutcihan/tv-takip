@@ -24,30 +24,54 @@ def discover():
         ctx = browser.new_context()
         page = ctx.new_page()
 
-        # 1. Gateway'e git, güncel domain'i bul
-        print(f"Gateway aciliyor: {GATEWAY}")
-        page.goto(GATEWAY, wait_until="networkidle", timeout=30000)
-        page.wait_for_timeout(3000)
-        current_url = page.url
-        print(f"Yonlendirilen URL: {current_url}")
-
-        # Domain'i çıkar
-        m = re.match(r"(https?://[^/]+)", current_url)
-        domain = m.group(1) if m else current_url.rstrip("/")
-        print(f"Guncel domain: {domain}")
-
-        # 2. Kanal sayfasını aç, CDN URL'ini yakala
         cdn_url = None
         def on_request(req):
             nonlocal cdn_url
             if "mono.m3u8" in req.url and cdn_url is None:
                 cdn_url = req.url
-
         page.on("request", on_request)
-        channel_page = f"{domain}/channel.html?id={TEST_CHANNEL}"
-        print(f"Kanal sayfasi: {channel_page}")
-        page.goto(channel_page, wait_until="networkidle", timeout=30000)
-        page.wait_for_timeout(5000)
+
+        # 1. Gateway'e git
+        print(f"Gateway aciliyor: {GATEWAY}")
+        page.goto(GATEWAY, wait_until="networkidle", timeout=30000)
+        page.wait_for_timeout(3000)
+
+        # 2. Sayfadaki ilk kanal/stream linkine tikla
+        links = page.eval_on_selector_all(
+            'a[href*="channel.html"], a[href*="canli"], a[href*="live"], a[href*="id="]',
+            'els => els.map(e => e.href)'
+        )
+        print(f"Bulunan linkler: {links[:5]}")
+
+        domain = None
+        for link in links[:5]:
+            if not link or link == page.url:
+                continue
+            print(f"Link deneniyor: {link}")
+            page.goto(link, wait_until="networkidle", timeout=20000)
+            page.wait_for_timeout(5000)
+            current_url = page.url
+            m = re.match(r"(https?://[^/]+)", current_url)
+            if m:
+                domain = m.group(1)
+                print(f"Domain bulundu: {domain}")
+                if cdn_url:
+                    break
+
+        # 3. Hâlâ CDN yoksa doğrudan test kanalını dene
+        if not cdn_url and domain:
+            channel_page = f"{domain}/channel.html?id={TEST_CHANNEL}"
+            print(f"Direkt kanal: {channel_page}")
+            page.goto(channel_page, wait_until="networkidle", timeout=20000)
+            page.wait_for_timeout(6000)
+
+        if not cdn_url:
+            # Son çare: mevcut domain üzerinde dene
+            domain = domain or "https://inattv1311.xyz"
+            channel_page = f"{domain}/channel.html?id={TEST_CHANNEL}"
+            print(f"Son deneme: {channel_page}")
+            page.goto(channel_page, wait_until="networkidle", timeout=20000)
+            page.wait_for_timeout(6000)
 
         browser.close()
 
