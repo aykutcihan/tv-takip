@@ -195,10 +195,6 @@ https://cdn507.tvkulesi.com/tv8int.m3u8?tkn=SLwtDGE9ntLd2i4T9poWGA&tms=178054801
 
 
 
-# TV 5,    source: youtube
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv5-tr.png" tvg-id="tr.tv5",TV 5
-https://rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1780559709&ei=_dogap_pJ8yFi9oP9IK9-Ak&ip=31.21.186.28&id=o-AEvtYRK17slDqWnR3a-lSMUZy0G2S4xsMIW0gii1f7dc&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=236&met=1780538109%2C&mh=30&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-u15hn5-59&ms=au%2Crdu&mv=m&mvi=5&pl=21&rms=au%2Cau&initcwndbps=3970000&bui=AbKmrwp8NjWXdlZX2jyv3VBU7xQsaaMuk40tE_3dWOcV3L53Ax-ECEB5IhakKmgCow5Ci2t1NffrgMEh&spc=96Xrv0Ts8mVVJ0Z26O4Ox8J9IR9ID_WkCylHeKP1As30C_7rwxL6&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=366339039&ratebypass=yes&dur=6138.961&lmt=1775849201078958&mt=1780537767&fvip=3&fexp=51565115%2C51565681&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRgIhAJtGWbkM6fQhhJYVCuVlsShggJIkZfaAmjnjBW-F66KKAiEAlzCNyNd4-WiXoebVDkE2DKBPMSSmDiGkA4LvRK5D7qw%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJOgIGkSCOVTzlILhLy7nQmSFzrKXiigAQ0RxlBoA2rEAiEAt9e4Ukc88Wc8vcYAstUbTDI5cfoGL5INIHZAgB_VVJ0%3D
-
 # ── HABER ────────────────────────────
 # CNBC-E,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e-tr.png" tvg-id="tr.cnbce",CNBC-e
@@ -278,6 +274,10 @@ https://cdn509.tvkulesi.com/halktv-master.m3u8?tkn=vO4XWQQiPMgT1QVDUwSUIA&tms=17
 # HALK TV,    source: daioncdn
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" tvg-id="tr.halktv",Halk TV
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
+# TV 5,    source: youtube
+#EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv5-tr.png" tvg-id="tr.tv5",TV 5
+https://rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1780559709&ei=_dogap_pJ8yFi9oP9IK9-Ak&ip=31.21.186.28&id=o-AEvtYRK17slDqWnR3a-lSMUZy0G2S4xsMIW0gii1f7dc&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=236&met=1780538109%2C&mh=30&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-u15hn5-59&ms=au%2Crdu&mv=m&mvi=5&pl=21&rms=au%2Cau&initcwndbps=3970000&bui=AbKmrwp8NjWXdlZX2jyv3VBU7xQsaaMuk40tE_3dWOcV3L53Ax-ECEB5IhakKmgCow5Ci2t1NffrgMEh&spc=96Xrv0Ts8mVVJ0Z26O4Ox8J9IR9ID_WkCylHeKP1As30C_7rwxL6&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=366339039&ratebypass=yes&dur=6138.961&lmt=1775849201078958&mt=1780537767&fvip=3&fexp=51565115%2C51565681&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRgIhAJtGWbkM6fQhhJYVCuVlsShggJIkZfaAmjnjBW-F66KKAiEAlzCNyNd4-WiXoebVDkE2DKBPMSSmDiGkA4LvRK5D7qw%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJOgIGkSCOVTzlILhLy7nQmSFzrKXiigAQ0RxlBoA2rEAiEAt9e4Ukc88Wc8vcYAstUbTDI5cfoGL5INIHZAgB_VVJ0%3D
 
 # NEO HABER TV,    source: diger
 #EXTINF:-1 group-title="Haber" tvg-logo="https://neotvcanli.com/assets/images/logo.png" tvg-id="tr.neohabertv",Neo Haber TV
