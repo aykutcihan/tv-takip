@@ -231,6 +231,7 @@ channels:
   tr.beyaztv:
     name: "Beyaz TV"
     sources:
+      - yayinakisi:https://m.beyaztv.com.tr/yayin-akisi/
       - tvplus:beyaz-tv-hd--135
       - turksatkablo:Beyaz TV
       - tivibu:ch00000000000000001064

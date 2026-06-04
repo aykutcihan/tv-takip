@@ -30,11 +30,17 @@ class YayinAkisiAdapter(BaseAdapter):
     def fetch(self, source_id: str, channel_id: str) -> List[Programme]:
         try:
             from playwright.sync_api import sync_playwright
+            # Beyaz TV: myDay parametresini bugünün ISO gün numarasıyla ekle
+            fetch_url = source_id
+            if "beyaztv" in source_id and "myDay" not in source_id:
+                day = datetime.now().isoweekday()
+                sep = "&" if "?" in source_id else "?"
+                fetch_url = f"{source_id}{sep}myDay={day}"
             with sync_playwright() as pw:
                 browser = pw.chromium.launch(headless=True)
                 ctx = browser.new_context(locale="tr-TR")
                 page = ctx.new_page()
-                page.goto(source_id, wait_until="domcontentloaded", timeout=25000)
+                page.goto(fetch_url, wait_until="domcontentloaded", timeout=25000)
                 page.wait_for_timeout(3000)
                 content = page.content()
                 browser.close()
@@ -42,6 +48,8 @@ class YayinAkisiAdapter(BaseAdapter):
             print(f"  [yayinakisi] hata: {e}")
             return []
 
+        if "beyaztv" in source_id:
+            return self._parse_beyaztv(content, channel_id)
         if "showturk" in source_id:
             return self._parse_showturk(content, channel_id)
         if "turkhabertv" in source_id or "tv41" in source_id:
@@ -85,6 +93,32 @@ class YayinAkisiAdapter(BaseAdapter):
             )) + timedelta(days=day_offset)
             out.append(Programme(channel_id=channel_id, start=start_dt, title=title, source=self.prefix))
 
+        return out
+
+    def _parse_beyaztv(self, html: str, channel_id: str) -> List[Programme]:
+        """HH:MM - Program Adı (Tür) formatı."""
+        soup = BeautifulSoup(html, "lxml")
+        today = ist(datetime.now())
+        out: List[Programme] = []
+        prev_h = -1
+        day_offset = 0
+        BEYAZ_RE = re.compile(r"^(\d{1,2}:\d{2})\s*[-–]\s*(.+?)(?:\s*\([^)]+\))?\s*$")
+
+        for line in soup.get_text("\n").splitlines():
+            line = line.strip()
+            m = BEYAZ_RE.match(line)
+            if not m:
+                continue
+            tm = TIME_RE.match(m.group(1))
+            title = m.group(2).strip()
+            if not tm or not title:
+                continue
+            h, mn = int(tm.group(1)), int(tm.group(2))
+            if prev_h >= 0 and h < prev_h:
+                day_offset += 1
+            prev_h = h
+            start_dt = ist(datetime(today.year, today.month, today.day, h, mn)) + timedelta(days=day_offset)
+            out.append(Programme(channel_id=channel_id, start=start_dt, title=title, source=self.prefix))
         return out
 
     def _parse_kontv(self, html: str, channel_id: str) -> List[Programme]:
