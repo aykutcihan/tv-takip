@@ -15,15 +15,27 @@
         }
       })();
     </script>
-    <script type="module" crossorigin src="/tv-takip/assets/index-BRX30fvR.js"></script>
-    <link rel="stylesheet" crossorigin href="/tv-takip/assets/index-SWAa2arC.css">
-    <script type="module">import'data:text/javascript,if(!import.meta.resolve)throw Error("import.meta.resolve not supported")';import.meta.url;import("_").catch(()=>1);(async function*(){})().next();window.__vite_is_modern_browser=true</script>
-    <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+    <script type="module" crossorigin src="/tv-takip/assets/index-Bkk3hdJh.js"></script>
+    <link rel="stylesheet" crossorigin href="/tv-takip/assets/index-BzP8jdIe.css">
   </head>
   <body>
     <div id="root"></div>
-    <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
-    <script nomodule crossorigin id="vite-legacy-polyfill" src="/tv-takip/assets/polyfills-legacy-DBK2hKbF.js"></script>
-    <script nomodule crossorigin id="vite-legacy-entry" data-src="/tv-takip/assets/index-legacy-jjhsaP73.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+    <script>
+      // Hata yakalama - TV debug
+      window.onerror = function(msg, src, line) {
+        var d = document.createElement('div');
+        d.style.cssText = 'position:fixed;top:0;left:0;right:0;background:red;color:white;padding:20px;font-size:24px;z-index:99999';
+        d.textContent = 'HATA: ' + msg + ' (' + line + ')';
+        document.body.appendChild(d);
+      };
+      setTimeout(function() {
+        if (document.getElementById('root').children.length === 0) {
+          var d = document.createElement('div');
+          d.style.cssText = 'position:fixed;top:0;left:0;right:0;background:orange;color:black;padding:20px;font-size:24px;z-index:99999';
+          d.textContent = 'React mount edilemedi';
+          document.body.appendChild(d);
+        }
+      }, 5000);
+    </script>
   </body>
 </html>
