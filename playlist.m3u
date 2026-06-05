@@ -1570,3 +1570,73 @@ http://192.168.1.141:8888/stream/ex3
 # INAT MAC SAATI 4,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-id="tr.inatmac4",Inat Mac Saati 4
 http://192.168.1.141:8888/stream/ex4
+#EXTINF:-1 tvg-id="karnaval.4" tvg-logo="silinecek" group-title="Radyo",JoyTürk
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3
+#EXTINF:-1 tvg-id="karnaval.1" tvg-logo="http://mediacdn.karnaval.com/media/station_media/1/logos/small_logo.png?v=140316110653" group-title="Radyo",Süper FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3
+#EXTINF:-1 tvg-id="karnaval.15" tvg-logo="https://mediacdns.karnaval.com/media/station_media/15/logos/small_logo.png?v=300919030710" group-title="Radyo",Virgin Radio Türkiye
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO.mp3
+#EXTINF:-1 tvg-id="karnaval.2" tvg-logo="silinecek" group-title="Radyo",Metro FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3
+#EXTINF:-1 tvg-id="karnaval.3" tvg-logo="https://mediacdns.karnaval.com/media/station_media/3/logos/small_logo.png?v=310718045938" group-title="Radyo",Joy FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3
+#EXTINF:-1 tvg-id="karnaval.9" tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/small_logo.png?v=271025021707" group-title="Radyo",JoyTürk Akustik
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK.mp3
+#EXTINF:-1 tvg-id="karnaval.41" tvg-logo="http://mediacdn.karnaval.com/media/station_media/41/logos/small_logo.png?v=140316114559" group-title="Radyo",Pop90
+https://playerservices.streamtheworld.com/api/livestream-redirect/POP90.mp3
+#EXTINF:-1 tvg-id="karnaval.371" tvg-logo="https://mediacdns.karnaval.com/media/station_media/371/logos/small_logo.png?v=220426013901" group-title="Radyo",Süper Yeni
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_YENI.mp3
+#EXTINF:-1 tvg-id="karnaval.17" tvg-logo="https://mediacdns.karnaval.com/media/station_media/17/logos/small_logo.png?v=180124091828" group-title="Radyo",Odea Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/ODEA.mp3
+#EXTINF:-1 tvg-id="karnaval.13" tvg-logo="http://mediacdn.karnaval.com/media/station_media/13/logos/small_logo.png?v=150316112325" group-title="Radyo",Efkar
+https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
+#EXTINF:-1 tvg-id="karnaval.16" tvg-logo="https://mediacdns.karnaval.com/media/station_media/16/logos/small_logo.png?v=011019102939" group-title="Radyo",Süper2
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2.mp3
+#EXTINF:-1 tvg-id="karnaval.5" tvg-logo="http://mediacdn.karnaval.com/media/station_media/5/logos/small_logo.png?v=011215043611" group-title="Radyo",Radio Mydonose
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE.mp3
+#EXTINF:-1 tvg-id="karnaval.19" tvg-logo="http://mediacdn.karnaval.com/media/station_media/19/logos/small_logo.png?v=011215070222" group-title="Radyo",MydonoseTürk
+https://playerservices.streamtheworld.com/api/livestream-redirect/MYDONOSE_TURK.mp3
+#EXTINF:-1 tvg-id="karnaval.22" tvg-logo="https://mediacdns.karnaval.com/media/station_media/22/logos/small_logo.png?v=071118032050" group-title="Radyo",JoyTürk Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK.mp3
+#EXTINF:-1 tvg-id="karnaval.356" tvg-logo="https://mediacdns.karnaval.com/media/station_media/356/logos/small_logo.png?v=091024125729" group-title="Radyo",Popbesk
+https://playerservices.streamtheworld.com/api/livestream-redirect/POPBESK.mp3
+#EXTINF:-1 tvg-id="karnaval.312" tvg-logo="https://mediacdns.karnaval.com/media/station_media/312/logos/small_logo.png?v=200123021932" group-title="Radyo",Yol Arkadaşım
+https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM.mp3
+#EXTINF:-1 tvg-id="karnaval.23" tvg-logo="https://mediacdns.karnaval.com/media/station_media/23/logos/small_logo.png?v=151118115102" group-title="Radyo",Gönül Türküleri
+https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI.mp3
+#EXTINF:-1 tvg-id="karnaval.8" tvg-logo="http://mediacdn.karnaval.com/media/station_media/8/logos/small_logo.png?v=140316123304" group-title="Radyo",RetroTürk
+https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK.mp3
+#EXTINF:-1 tvg-id="karnaval.326" tvg-logo="https://mediacdns.karnaval.com/media/station_media/326/logos/small_logo.png?v=150323104839" group-title="Radyo",Literal Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL.mp3
+#EXTINF:-1 tvg-id="karnaval.357" tvg-logo="https://mediacdns.karnaval.com/media/station_media/357/logos/small_logo.png?v=111024035859" group-title="Radyo",Tüm Zamanların En İyileri
+https://playerservices.streamtheworld.com/api/livestream-redirect/GHOAT_TR.mp3
+#EXTINF:-1 tvg-id="karnaval.68" tvg-logo="https://mediacdns.karnaval.com/media/station_media/68/logos/small_logo.png?v=131118035914" group-title="Radyo",Karadeniz
+https://playerservices.streamtheworld.com/api/livestream-redirect/KARADENIZ.mp3
+#EXTINF:-1 tvg-id="karnaval.349" tvg-logo="https://mediacdns.karnaval.com/media/station_media/349/logos/small_logo.png?v=121224031057" group-title="Radyo",Yeni Slow
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC021_SO1.mp3
+#EXTINF:-1 tvg-id="karnaval.241" tvg-logo="https://mediacdns.karnaval.com/media/station_media/241/logos/small_logo.png?v=300620114521" group-title="Radyo",Makam
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAKAM.mp3
+#EXTINF:-1 tvg-id="karnaval.11" tvg-logo="http://mediacdn.karnaval.com/media/station_media/11/logos/small_logo.png?v=140316123719" group-title="Radyo",Borusan Klasik
+https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK.mp3
+#EXTINF:-1 tvg-id="karnaval.42" tvg-logo="https://mediacdns.karnaval.com/media/station_media/42/logos/small_logo.png?v=311024115929" group-title="Radyo",Sole
+https://playerservices.streamtheworld.com/api/livestream-redirect/SOLE.mp3
+#EXTINF:-1 tvg-id="karnaval.12" tvg-logo="https://mediacdns.karnaval.com/media/station_media/12/logos/small_logo.png?v=041219020219" group-title="Radyo",JoyJazz
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ.mp3
+#EXTINF:-1 tvg-id="karnaval.75" tvg-logo="https://mediacdns.karnaval.com/media/station_media/75/logos/small_logo.png?v=010618032836" group-title="Radyo",başka
+https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
+#EXTINF:-1 tvg-id="karnaval.350" tvg-logo="https://mediacdns.karnaval.com/media/station_media/350/logos/small_logo.png?v=121224020721" group-title="Radyo",Yeni Rap
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC018_SO1.mp3
+#EXTINF:-1 tvg-id="karnaval.108" tvg-logo="https://mediacdns.karnaval.com/media/station_media/108/logos/small_logo.png?v=171024032828" group-title="Radyo",Greatest Hits of All Time
+https://playerservices.streamtheworld.com/api/livestream-redirect/GHOAT_EN.mp3
+#EXTINF:-1 tvg-id="karnaval.106" tvg-logo="https://mediacdns.karnaval.com/media/station_media/106/logos/small_logo.png?v=061217105834" group-title="Radyo",Rock Station
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_STATION.mp3
+#EXTINF:-1 tvg-id="karnaval.354" tvg-logo="https://mediacdns.karnaval.com/media/station_media/354/logos/small_logo.png?v=121224105551" group-title="Radyo",Dance Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC019_SO1.mp3
+#EXTINF:-1 tvg-id="karnaval.355" tvg-logo="https://mediacdns.karnaval.com/media/station_media/355/logos/small_logo.png?v=121224111141" group-title="Radyo",Slow Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC030_SO1.mp3
+#EXTINF:-1 tvg-id="karnaval.353" tvg-logo="silinecek" group-title="Radyo",Pop Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC002_SO1.mp3
+#EXTINF:-1 tvg-id="karnaval.18" tvg-logo="http://mediacdn.karnaval.com/media/station_media/18/logos/small_logo.png?v=150316112403" group-title="Radyo",BabyJoy
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC009_SO1.mp3
+#EXTINF:-1 tvg-id="karnaval.362" tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/small_logo.png?v=170725021316" group-title="Radyo",K-Pop
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPOP.mp3
