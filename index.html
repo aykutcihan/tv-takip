@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/tv-takip/favicon.svg" />
-    <meta name="viewport" content="width=1920" />
+    <meta name="viewport" content="width=1920, initial-scale=1" />
     <title>IPTV</title>
     <script>
       (function() {
@@ -13,6 +13,20 @@
             '/' + decodeURIComponent(p[1]).replace(/&/g, '?') + window.location.hash
           );
         }
+        // TV viewport scale fix
+        function fixScale() {
+          var W = 1920, H = 1080;
+          var sw = window.screen.width || window.innerWidth;
+          var sh = window.screen.height || window.innerHeight;
+          var scale = Math.min(sw / W, sh / H);
+          if (scale > 0 && scale < 0.99) {
+            document.documentElement.style.transform = 'scale(' + scale + ')';
+            document.documentElement.style.transformOrigin = 'top left';
+            document.documentElement.style.width = W + 'px';
+            document.documentElement.style.height = H + 'px';
+          }
+        }
+        fixScale();
       })();
     </script>
     <script type="module" crossorigin src="/tv-takip/assets/index-CmnEf-g5.js"></script>
