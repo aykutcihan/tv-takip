@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/tv-takip/favicon.svg" />
-    <meta name="viewport" content="width=1920, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>IPTV</title>
     <script>
       (function() {
@@ -13,24 +13,10 @@
             '/' + decodeURIComponent(p[1]).replace(/&/g, '?') + window.location.hash
           );
         }
-        // TV viewport scale fix
-        function fixScale() {
-          var W = 1920, H = 1080;
-          var sw = window.screen.width || window.innerWidth;
-          var sh = window.screen.height || window.innerHeight;
-          var scale = Math.min(sw / W, sh / H);
-          if (scale > 0 && scale < 0.99) {
-            document.documentElement.style.transform = 'scale(' + scale + ')';
-            document.documentElement.style.transformOrigin = 'top left';
-            document.documentElement.style.width = W + 'px';
-            document.documentElement.style.height = H + 'px';
-          }
-        }
-        fixScale();
       })();
     </script>
-    <script type="module" crossorigin src="/tv-takip/assets/index-BcR6vfbc.js"></script>
-    <link rel="stylesheet" crossorigin href="/tv-takip/assets/index-DOwJ3lnK.css">
+    <script type="module" crossorigin src="/tv-takip/assets/index-D8Mhfx0d.js"></script>
+    <link rel="stylesheet" crossorigin href="/tv-takip/assets/index-DfnjQBGb.css">
   </head>
   <body>
     <div id="root"></div>
