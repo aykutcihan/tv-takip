@@ -1061,9 +1061,6 @@
   <channel id="tr.yoltv">
     <display-name>Yol TV</display-name>
   </channel>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="EuroStar.tr">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="EuroStar.tr">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -1311,6 +1308,9 @@
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="EuroStar.tr">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="EuroStar.tr">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605010000 +0300" stop="20260605020000 +0300" channel="tr.24">
@@ -3788,9 +3788,6 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <desc lang="tr">Haber Global Gece Ajansı gece yarısı ekranlara gelen, geride kalan günün en önemli haber başlıklarını derinlemesine ele alan bir haber programıdır. Siyaset, ekonomi, spor ve gündemdeki tüm gelişmeler sade ve net şekilde izleyiciye aktarılırken ertesi güne dair beklentiler de uzman yorumlarıyla öne çıkarılır.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.ailetv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.ailetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -4038,6 +4035,9 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.ailetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605080000 +0300" stop="20260605090000 +0300" channel="tr.akittv">
@@ -10480,9 +10480,6 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
   <programme start="20260611220000 +0300" stop="20260612000000 +0300" channel="tr.aspor">
     <title lang="tr">Uluslararası Hazırlık Maçı</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.asrisaadettv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.asrisaadettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -10732,6 +10729,9 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.asrisaadettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605000300 +0300" stop="20260605020300 +0300" channel="tr.asrisheriftv">
     <title lang="tr">AŞR-I ŞERİF</title>
   </programme>
@@ -10900,9 +10900,6 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
   </programme>
   <programme start="20260611220000 +0300" stop="20260612060000 +0300" channel="tr.astv">
     <title lang="tr">AS TV</title>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.astv2">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.astv2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -11151,6 +11148,9 @@ Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldı
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.astv2">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.astv2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605013000 +0300" stop="20260605040000 +0300" channel="tr.atv">
@@ -21266,7 +21266,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605151500 +0300" stop="20260605155600 +0300" channel="tr.beingurme">
-    <title lang="tr">Açık Ateş Başında S1 B7 Yaşam</title>
+    <title lang="tr">Açık Ateş Başında S1 B7 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605155600 +0300" stop="20260605164000 +0300" channel="tr.beingurme">
@@ -21398,7 +21398,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606135500 +0300" stop="20260606143600 +0300" channel="tr.beingurme">
-    <title lang="tr">Açık Ateş Başında S1 B7 Yaşam</title>
+    <title lang="tr">Açık Ateş Başında S1 B7 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606143600 +0300" stop="20260606152000 +0300" channel="tr.beingurme">
@@ -21518,7 +21518,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605150100 +0300" stop="20260605155600 +0300" channel="tr.beinhomeentertainment">
-    <title lang="tr">Escape To The Country S31 Ep. 16 Yaşam</title>
+    <title lang="tr">Escape To The Country S31 Ep. 16 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605155600 +0300" stop="20260605170000 +0300" channel="tr.beinhomeentertainment">
@@ -21622,7 +21622,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606130100 +0300" stop="20260606135600 +0300" channel="tr.beinhomeentertainment">
-    <title lang="tr">Escape To The Country S31 Ep. 16 Yaşam</title>
+    <title lang="tr">Escape To The Country S31 Ep. 16 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606135600 +0300" stop="20260606150000 +0300" channel="tr.beinhomeentertainment">
@@ -21750,7 +21750,8 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260605134000 +0300" stop="20260605142500 +0300" channel="tr.beiniz">
-    <title lang="tr">Sudaki İzler: Amerika S1 Ep7 Belgesel •</title>
+    <title lang="tr">Sudaki İzler: Amerika S1 Ep7</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260605142500 +0300" stop="20260605150000 +0300" channel="tr.beiniz">
     <title lang="tr">Başka Hayat Mümkün S1 Ep1</title>
@@ -21761,8 +21762,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260605154000 +0300" stop="20260605161500 +0300" channel="tr.beiniz">
-    <title lang="tr">İmza Peyzajım S1 Ep 8</title>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">İmza Peyzajım S1 Ep 8 Belgesel •</title>
   </programme>
   <programme start="20260605161500 +0300" stop="20260605170000 +0300" channel="tr.beiniz">
     <title lang="tr">Duyulan Şehirler S1 E 4</title>
@@ -21881,7 +21881,8 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260606121500 +0300" stop="20260606130000 +0300" channel="tr.beiniz">
-    <title lang="tr">Sudaki İzler: Amerika S1 Ep7 Belgesel •</title>
+    <title lang="tr">Sudaki İzler: Amerika S1 Ep7</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260606130000 +0300" stop="20260606133500 +0300" channel="tr.beiniz">
     <title lang="tr">Başka Hayat Mümkün S1 Ep1</title>
@@ -21892,8 +21893,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260606141500 +0300" stop="20260606145000 +0300" channel="tr.beiniz">
-    <title lang="tr">İmza Peyzajım S1 Ep 8</title>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">İmza Peyzajım S1 Ep 8 Belgesel •</title>
   </programme>
   <programme start="20260606145000 +0300" stop="20260606153500 +0300" channel="tr.beiniz">
     <title lang="tr">Duyulan Şehirler S1 E 4</title>
@@ -21968,12 +21968,12 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260605131100 +0300" stop="20260605152600 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">Eagles Of The Republic (2025) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Eagles Of The Republic (2025)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260605152600 +0300" stop="20260605170800 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">Save Yourselves! (2020)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Save Yourselves! (2020) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605170800 +0300" stop="20260605185800 +0300" channel="tr.beinmoviesaction2">
     <title lang="tr">My Favourite Cake (2024)</title>
@@ -22012,12 +22012,12 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260606092100 +0300" stop="20260606113600 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">Eagles Of The Republic (2025) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Eagles Of The Republic (2025)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260606113600 +0300" stop="20260606131800 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">Save Yourselves! (2020)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Save Yourselves! (2020) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606131800 +0300" stop="20260606150800 +0300" channel="tr.beinmoviesaction2">
     <title lang="tr">My Favourite Cake (2024)</title>
@@ -22068,12 +22068,12 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260605131100 +0300" stop="20260605152600 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">Eagles Of The Republic (2025) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Eagles Of The Republic (2025)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260605152600 +0300" stop="20260605170800 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">Save Yourselves! (2020)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Save Yourselves! (2020) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605170800 +0300" stop="20260605185800 +0300" channel="tr.beinmoviespremiere">
     <title lang="tr">My Favourite Cake (2024)</title>
@@ -22112,12 +22112,12 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260606092100 +0300" stop="20260606113600 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">Eagles Of The Republic (2025) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Eagles Of The Republic (2025)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260606113600 +0300" stop="20260606131800 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">Save Yourselves! (2020)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Save Yourselves! (2020) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606131800 +0300" stop="20260606150800 +0300" channel="tr.beinmoviespremiere">
     <title lang="tr">My Favourite Cake (2024)</title>
@@ -22160,8 +22160,8 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260605122200 +0300" stop="20260605141000 +0300" channel="tr.beinmoviesstars">
-    <title lang="tr">Heaven (2002) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Heaven (2002)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260605141000 +0300" stop="20260605155500 +0300" channel="tr.beinmoviesstars">
     <title lang="tr">Eliminators (2016)</title>
@@ -22200,8 +22200,8 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260606084000 +0300" stop="20260606102800 +0300" channel="tr.beinmoviesstars">
-    <title lang="tr">Heaven (2002) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Heaven (2002)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260606102800 +0300" stop="20260606121300 +0300" channel="tr.beinmoviesstars">
     <title lang="tr">Eliminators (2016)</title>
@@ -22600,8 +22600,8 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260605150000 +0300" stop="20260605160000 +0300" channel="tr.beinseries2">
-    <title lang="tr">Sorgu S2 Ep3</title>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Sorgu S2 Ep3 Dizi •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605160000 +0300" stop="20260605170000 +0300" channel="tr.beinseries2">
     <title lang="tr">Narrow Road To The Deep North, The S1 Ep 5</title>
@@ -22696,8 +22696,8 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606130000 +0300" stop="20260606140000 +0300" channel="tr.beinseries2">
-    <title lang="tr">Sorgu S2 Ep3</title>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Sorgu S2 Ep3 Dizi •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606140000 +0300" stop="20260606150000 +0300" channel="tr.beinseries2">
     <title lang="tr">Narrow Road To The Deep North, The S1 Ep 5</title>
@@ -22730,9 +22730,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
   <programme start="20260606210000 +0300" stop="20260606220000 +0300" channel="tr.beinseries2">
     <title lang="tr">Narrow Road To The Deep North, The S1 Ep 5</title>
     <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.beinsporthaber">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.beinsporthaber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -22983,6 +22980,9 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.beinsporthaber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.beinsporthaber">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605000000 +0300" stop="20260605014700 +0300" channel="tr.beinsports1">
     <title lang="tr">Kasımpaşa - R.başakşehir F.k.</title>
     <desc lang="tr">Trendyol Süper Lig Season 2025/2026 14. Hafta Kasımpaşa - R.başakşehir F.k. Maçı Bant -</desc>
@@ -23039,12 +23039,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605134500 +0300" stop="20260605140000 +0300" channel="tr.beinsports1">
-    <title lang="tr">14. Haftanın Golleri Spor •</title>
+    <title lang="tr">14. Haftanın Golleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605154500 +0300" channel="tr.beinsports1">
-    <title lang="tr">M.f.karagümrük - Beşiktaş</title>
-    <desc lang="tr">Trendyol Süper Lig Season 2025/2026 14. Hafta M.f.karagümrük - Beşiktaş Maçı Bant -</desc>
+    <title lang="tr">Trendyol Süper Lig Season 2025/2026 14. Hafta M.f.karagümrük - Beşiktaş Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605154500 +0300" stop="20260605160000 +0300" channel="tr.beinsports1">
@@ -23129,12 +23128,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606122900 +0300" stop="20260606124400 +0300" channel="tr.beinsports1">
-    <title lang="tr">14. Haftanın Golleri Spor •</title>
+    <title lang="tr">14. Haftanın Golleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606124400 +0300" stop="20260606142900 +0300" channel="tr.beinsports1">
-    <title lang="tr">M.f.karagümrük - Beşiktaş</title>
-    <desc lang="tr">Trendyol Süper Lig Season 2025/2026 14. Hafta M.f.karagümrük - Beşiktaş Maçı Bant -</desc>
+    <title lang="tr">Trendyol Süper Lig Season 2025/2026 14. Hafta M.f.karagümrük - Beşiktaş Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606142900 +0300" stop="20260606144400 +0300" channel="tr.beinsports1">
@@ -23228,12 +23226,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605134500 +0300" stop="20260605140000 +0300" channel="tr.beinsports2">
-    <title lang="tr">26. Haftanın Golleri Spor •</title>
+    <title lang="tr">26. Haftanın Golleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605154500 +0300" channel="tr.beinsports2">
-    <title lang="tr">İstanbulspor - E.erokspor</title>
-    <desc lang="tr">Trendyol 1. Lig Season 2025/2026 26. Hafta İstanbulspor - E.erokspor Maçı Bant -</desc>
+    <title lang="tr">Trendyol 1. Lig Season 2025/2026 26. Hafta İstanbulspor - E.erokspor Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605154500 +0300" stop="20260605160000 +0300" channel="tr.beinsports2">
@@ -23323,12 +23320,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606114500 +0300" stop="20260606120000 +0300" channel="tr.beinsports2">
-    <title lang="tr">26. Haftanın Golleri Spor •</title>
+    <title lang="tr">26. Haftanın Golleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606120000 +0300" stop="20260606134500 +0300" channel="tr.beinsports2">
-    <title lang="tr">İstanbulspor - E.erokspor</title>
-    <desc lang="tr">Trendyol 1. Lig Season 2025/2026 26. Hafta İstanbulspor - E.erokspor Maçı Bant -</desc>
+    <title lang="tr">Trendyol 1. Lig Season 2025/2026 26. Hafta İstanbulspor - E.erokspor Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606134500 +0300" stop="20260606140000 +0300" channel="tr.beinsports2">
@@ -23427,12 +23423,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605134500 +0300" stop="20260605140000 +0300" channel="tr.beinsports3">
-    <title lang="tr">8. Haftanın Golleri Spor •</title>
+    <title lang="tr">8. Haftanın Golleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605154500 +0300" channel="tr.beinsports3">
-    <title lang="tr">Man.city - Everton</title>
-    <desc lang="tr">İngiltere Premier Lig Season 2025/2026 8. Hafta Man.city - Everton Maçı Bant -</desc>
+    <title lang="tr">İngiltere Premier Lig Season 2025/2026 8. Hafta Man.city - Everton Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605154500 +0300" stop="20260605160000 +0300" channel="tr.beinsports3">
@@ -23522,12 +23517,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606114500 +0300" stop="20260606120000 +0300" channel="tr.beinsports3">
-    <title lang="tr">8. Haftanın Golleri Spor •</title>
+    <title lang="tr">8. Haftanın Golleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606120000 +0300" stop="20260606134500 +0300" channel="tr.beinsports3">
-    <title lang="tr">Man.city - Everton</title>
-    <desc lang="tr">İngiltere Premier Lig Season 2025/2026 8. Hafta Man.city - Everton Maçı Bant -</desc>
+    <title lang="tr">İngiltere Premier Lig Season 2025/2026 8. Hafta Man.city - Everton Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606134500 +0300" stop="20260606140000 +0300" channel="tr.beinsports3">
@@ -23635,7 +23629,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605131500 +0300" stop="20260605141000 +0300" channel="tr.beinsports4">
-    <title lang="tr">Formula 2 Monaco Gp (2026) Antrenman - Bant Spor •</title>
+    <title lang="tr">Formula 2 Monaco Gp (2026) Antrenman - Bant</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605141000 +0300" stop="20260605142500 +0300" channel="tr.beinsports4">
@@ -23651,7 +23645,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605153000 +0300" stop="20260605154500 +0300" channel="tr.beinsports4">
-    <title lang="tr">Formula 2 Kanada Gp (2026) - Yarış - Geniş Özet</title>
+    <title lang="tr">Formula 2 Kanada Gp (2026) - Yarış - Geniş Özet Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605154500 +0300" stop="20260605160500 +0300" channel="tr.beinsports4">
@@ -23766,7 +23760,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606115900 +0300" stop="20260606125400 +0300" channel="tr.beinsports4">
-    <title lang="tr">Formula 2 Monaco Gp (2026) Antrenman - Bant Spor •</title>
+    <title lang="tr">Formula 2 Monaco Gp (2026) Antrenman - Bant</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606125400 +0300" stop="20260606130900 +0300" channel="tr.beinsports4">
@@ -23782,7 +23776,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606141400 +0300" stop="20260606142900 +0300" channel="tr.beinsports4">
-    <title lang="tr">Formula 2 Kanada Gp (2026) - Yarış - Geniş Özet</title>
+    <title lang="tr">Formula 2 Kanada Gp (2026) - Yarış - Geniş Özet Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606142900 +0300" stop="20260606144900 +0300" channel="tr.beinsports4">
@@ -24045,11 +24039,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605053000 +0300" stop="20260605060000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">15. Haftanın Özetleri</title>
+    <title lang="tr">Bsl Özetler (25-26) Play - Off Yarı Final</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605053000 +0300" stop="20260605060000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Bsl Özetler (25-26) Play - Off Yarı Final</title>
+    <title lang="tr">15. Haftanın Özetleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605060000 +0300" stop="20260605063000 +0300" channel="tr.beinsportshaber">
@@ -24166,7 +24160,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605130000 +0300" stop="20260605133000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Gün Ortası - Canlı Spor •</title>
+    <title lang="tr">Gün Ortası - Canlı</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605130000 +0300" stop="20260605133000 +0300" channel="tr.beinsportshaber">
@@ -24198,7 +24192,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605150000 +0300" stop="20260605153000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Hakan Safi Özel Röportaj - Canlı</title>
+    <title lang="tr">Hakan Safi Özel Röportaj - Canlı Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605150000 +0300" stop="20260605160000 +0300" channel="tr.beinsportshaber">
@@ -24970,11 +24964,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612053000 +0300" stop="20260612060000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">15. Haftanın Özetleri</title>
+    <title lang="tr">Bsl Özetler (25-26) Play - Off Yarı Final</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612053000 +0300" stop="20260612060000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Bsl Özetler (25-26) Play - Off Yarı Final</title>
+    <title lang="tr">15. Haftanın Özetleri</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612060000 +0300" stop="20260612063000 +0300" channel="tr.beinsportshaber">
@@ -25091,7 +25085,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612130000 +0300" stop="20260612133000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Gün Ortası - Canlı Spor •</title>
+    <title lang="tr">Gün Ortası - Canlı</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612130000 +0300" stop="20260612133000 +0300" channel="tr.beinsportshaber">
@@ -25123,7 +25117,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612150000 +0300" stop="20260612153000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Hakan Safi Özel Röportaj - Canlı</title>
+    <title lang="tr">Hakan Safi Özel Röportaj - Canlı Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612150000 +0300" stop="20260612160000 +0300" channel="tr.beinsportshaber">
@@ -25254,11 +25248,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.beinsportsmax1">
-    <title lang="tr">Bein Sports Max 1 Spor •</title>
+    <title lang="tr">Bein Sports Max 1</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.beinsportsmax1">
-    <title lang="tr">Bein Sports Max 1</title>
+    <title lang="tr">Bein Sports Max 1 Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.beinsportsmax1">
@@ -25298,11 +25292,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.beinsportsmax1">
-    <title lang="tr">Bein Sports Max 1 Spor •</title>
+    <title lang="tr">Bein Sports Max 1</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.beinsportsmax1">
-    <title lang="tr">Bein Sports Max 1</title>
+    <title lang="tr">Bein Sports Max 1 Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.beinsportsmax1">
@@ -25346,11 +25340,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2 Spor •</title>
+    <title lang="tr">Bein Sports Max 2</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2</title>
+    <title lang="tr">Bein Sports Max 2 Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260605160000 +0300" stop="20260605180000 +0300" channel="tr.beinsportsmax2">
@@ -25390,11 +25384,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606100000 +0300" stop="20260606120000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2 Spor •</title>
+    <title lang="tr">Bein Sports Max 2</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606120000 +0300" stop="20260606140000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2</title>
+    <title lang="tr">Bein Sports Max 2 Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260606140000 +0300" stop="20260606160000 +0300" channel="tr.beinsportsmax2">
@@ -25412,9 +25406,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
   <programme start="20260606200000 +0300" stop="20260606220000 +0300" channel="tr.beinsportsmax2">
     <title lang="tr">Bein Sports Max 2</title>
     <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.belgiseltv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.belgiseltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -25663,6 +25654,9 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.belgiseltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605004000 +0300" stop="20260605070000 +0300" channel="tr.benguturk">
@@ -29763,9 +29757,6 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260611230000 +0300" stop="20260612070000 +0300" channel="tr.brt1">
     <title lang="tr">Girişimcinin Dünyası</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.brt1tv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.brt1tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -30015,6 +30006,9 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.brt1tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.brt1tv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605000000 +0300" stop="20260605070000 +0300" channel="tr.brt2">
     <title lang="tr">Düşünce Nüansı</title>
     <desc lang="tr">Toplumu ilgilendiren güncel başlıklar bu içerikte farklı bakış açılarıyla ele alınıyor. Fikirler, yorumlar ve değerlendirmeler sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye konulara derinlemesine bakma ve düşünsel farkındalık kazanma imkânı sunuluyor.</desc>
@@ -30119,9 +30113,6 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <title lang="tr">Söyleyecek Sözümüz Var</title>
     <desc lang="tr">Toplumu ilgilendiren güncel konular bu içerikte ele alınıyor. Sosyal meseleler, ortak sorunlar ve farklı görüşler sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye düşünmeye ve değerlendirmeye yönelik dengeli bir bakış açısı sunuluyor.</desc>
     <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.brt2tv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -30372,7 +30363,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.brtv">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.brtv">
@@ -30622,6 +30613,9 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.brtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.brtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.cantv">
@@ -32641,9 +32635,13 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260606001000 +0300" stop="20260606015500 +0300" channel="tr.cartoonito">
-    <title lang="tr">Kral Şakir</title>
-    <category lang="tr">Çocuk</category>
+  <programme start="20260606001000 +0300" stop="20260606113500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Grizzy ve Lemmingler</title>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260606001000 +0300" stop="20260606125500 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605001000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Teen Titans Go!</title>
@@ -33347,74 +33345,92 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260606030500 +0300" stop="20260606031500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606031500 +0300" stop="20260606033000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606033000 +0300" stop="20260606034000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606034000 +0300" stop="20260606035500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606035500 +0300" stop="20260606040500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606040500 +0300" stop="20260606042000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606042000 +0300" stop="20260606043000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606043000 +0300" stop="20260606044500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606044500 +0300" stop="20260606045500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606045500 +0300" stop="20260606051000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606051000 +0300" stop="20260606052000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606052000 +0300" stop="20260606053500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606053500 +0300" stop="20260606055000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606055000 +0300" stop="20260606060000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606060000 +0300" stop="20260606061500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606061500 +0300" stop="20260606062500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606062500 +0300" stop="20260606064000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606064000 +0300" stop="20260606070000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606070000 +0300" stop="20260606070500 +0300" channel="tr.cartoonnetwork">
@@ -33499,38 +33515,31 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260606090000 +0300" stop="20260606090500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606090500 +0300" stop="20260606091000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606091000 +0300" stop="20260606092000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606092000 +0300" stop="20260606093000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606093000 +0300" stop="20260606093500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606093500 +0300" stop="20260606094000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606094000 +0300" stop="20260606100000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606100000 +0300" stop="20260606101500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
@@ -33598,18 +33607,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260606130000 +0300" stop="20260606131000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606131000 +0300" stop="20260606133000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606133000 +0300" stop="20260606134500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606134500 +0300" stop="20260606140000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260606140000 +0300" stop="20260606141500 +0300" channel="tr.cartoonnetwork">
@@ -33644,38 +33657,31 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260606153000 +0300" stop="20260606153500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606153500 +0300" stop="20260606154000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606154000 +0300" stop="20260606155000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606155000 +0300" stop="20260606160000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606160000 +0300" stop="20260606160500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606160500 +0300" stop="20260606161000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606161000 +0300" stop="20260606163000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260606163000 +0300" stop="20260606170000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">WinX Club: Sihir Geri Dönüyor</title>
@@ -33919,70 +33925,87 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260607030500 +0300" stop="20260607031500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607031500 +0300" stop="20260607033000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607033000 +0300" stop="20260607034000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607034000 +0300" stop="20260607035500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607035500 +0300" stop="20260607040500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607040500 +0300" stop="20260607042000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607042000 +0300" stop="20260607043000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607043000 +0300" stop="20260607044500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607044500 +0300" stop="20260607045500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607045500 +0300" stop="20260607051000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607051000 +0300" stop="20260607053500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607053500 +0300" stop="20260607055000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607055000 +0300" stop="20260607060000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607060000 +0300" stop="20260607061500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607061500 +0300" stop="20260607062500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607062500 +0300" stop="20260607064000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607064000 +0300" stop="20260607070000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607070000 +0300" stop="20260607070500 +0300" channel="tr.cartoonnetwork">
@@ -34062,43 +34085,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260607090000 +0300" stop="20260607090500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607090500 +0300" stop="20260607091000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607091000 +0300" stop="20260607092000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607092000 +0300" stop="20260607093000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607093000 +0300" stop="20260607093500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607093500 +0300" stop="20260607094000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607094000 +0300" stop="20260607095000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607095000 +0300" stop="20260607100000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607100000 +0300" stop="20260607101500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
@@ -34161,18 +34176,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260607130000 +0300" stop="20260607131000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607131000 +0300" stop="20260607133000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607133000 +0300" stop="20260607135000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607135000 +0300" stop="20260607140000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607141500 +0300" channel="tr.cartoonnetwork">
@@ -34207,43 +34226,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260607153000 +0300" stop="20260607153500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607153500 +0300" stop="20260607154000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607154000 +0300" stop="20260607155000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607155000 +0300" stop="20260607160000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607160500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607160500 +0300" stop="20260607161000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607161000 +0300" stop="20260607162000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607162000 +0300" stop="20260607163000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607163000 +0300" stop="20260607170000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">WinX Club: Sihir Geri Dönüyor</title>
@@ -34487,70 +34498,87 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260608030500 +0300" stop="20260608031500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608031500 +0300" stop="20260608033000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608033000 +0300" stop="20260608034000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608034000 +0300" stop="20260608035500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608035500 +0300" stop="20260608040500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608040500 +0300" stop="20260608043000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608043000 +0300" stop="20260608044500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608044500 +0300" stop="20260608045500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608045500 +0300" stop="20260608051000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608051000 +0300" stop="20260608052000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608052000 +0300" stop="20260608053500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608053500 +0300" stop="20260608055000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608055000 +0300" stop="20260608060000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608060000 +0300" stop="20260608061500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608061500 +0300" stop="20260608062500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608062500 +0300" stop="20260608064000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608064000 +0300" stop="20260608070000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608070000 +0300" stop="20260608070500 +0300" channel="tr.cartoonnetwork">
@@ -34635,43 +34663,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260608090000 +0300" stop="20260608090500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608090500 +0300" stop="20260608091000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608091000 +0300" stop="20260608092000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608092000 +0300" stop="20260608093000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608093000 +0300" stop="20260608093500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608093500 +0300" stop="20260608094000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608094000 +0300" stop="20260608095000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608095000 +0300" stop="20260608100000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608100000 +0300" stop="20260608101500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
@@ -34734,18 +34754,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260608130000 +0300" stop="20260608131000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608131000 +0300" stop="20260608133000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608133000 +0300" stop="20260608135000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608135000 +0300" stop="20260608140000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260608140000 +0300" stop="20260608141500 +0300" channel="tr.cartoonnetwork">
@@ -34780,43 +34804,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260608153000 +0300" stop="20260608153500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608153500 +0300" stop="20260608154000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608154000 +0300" stop="20260608155000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608155000 +0300" stop="20260608160000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608160000 +0300" stop="20260608160500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608160500 +0300" stop="20260608161000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608161000 +0300" stop="20260608162000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608162000 +0300" stop="20260608163000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608163000 +0300" stop="20260608170000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">WinX Club: Sihir Geri Dönüyor</title>
@@ -35060,70 +35076,87 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260609030500 +0300" stop="20260609031500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609031500 +0300" stop="20260609033000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609033000 +0300" stop="20260609034000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609034000 +0300" stop="20260609040500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609040500 +0300" stop="20260609042000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609042000 +0300" stop="20260609043000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609043000 +0300" stop="20260609044500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609044500 +0300" stop="20260609045500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609045500 +0300" stop="20260609051000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609051000 +0300" stop="20260609052000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609052000 +0300" stop="20260609053500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609053500 +0300" stop="20260609055000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609055000 +0300" stop="20260609060000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609060000 +0300" stop="20260609061500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609061500 +0300" stop="20260609062500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609062500 +0300" stop="20260609064000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609064000 +0300" stop="20260609070000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609070000 +0300" stop="20260609070500 +0300" channel="tr.cartoonnetwork">
@@ -35203,43 +35236,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260609090000 +0300" stop="20260609090500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609090500 +0300" stop="20260609091000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609091000 +0300" stop="20260609092000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609092000 +0300" stop="20260609093000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609093000 +0300" stop="20260609093500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609093500 +0300" stop="20260609094000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609094000 +0300" stop="20260609095000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609095000 +0300" stop="20260609100000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609100000 +0300" stop="20260609101500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
@@ -35307,18 +35332,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260609130000 +0300" stop="20260609131000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609131000 +0300" stop="20260609133000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609133000 +0300" stop="20260609135000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609135000 +0300" stop="20260609140000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260609140000 +0300" stop="20260609141500 +0300" channel="tr.cartoonnetwork">
@@ -35353,43 +35382,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260609153000 +0300" stop="20260609153500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609153500 +0300" stop="20260609154000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609154000 +0300" stop="20260609155000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609155000 +0300" stop="20260609160000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609160000 +0300" stop="20260609160500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609160500 +0300" stop="20260609161000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609161000 +0300" stop="20260609162000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609162000 +0300" stop="20260609163000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260609163000 +0300" stop="20260609170000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">WinX Club: Sihir Geri Dönüyor</title>
@@ -35633,58 +35654,72 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260610030500 +0300" stop="20260610031500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610031500 +0300" stop="20260610033000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610033000 +0300" stop="20260610034000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610034000 +0300" stop="20260610035500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610035500 +0300" stop="20260610040500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610040500 +0300" stop="20260610042000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610042000 +0300" stop="20260610043000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610043000 +0300" stop="20260610044500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610044500 +0300" stop="20260610045500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610045500 +0300" stop="20260610051000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610051000 +0300" stop="20260610052000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610052000 +0300" stop="20260610053500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610053500 +0300" stop="20260610055000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610055000 +0300" stop="20260610060000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610060000 +0300" stop="20260610060500 +0300" channel="tr.cartoonnetwork">
@@ -35771,18 +35806,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260610090000 +0300" stop="20260610091000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610091000 +0300" stop="20260610093000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610093000 +0300" stop="20260610094500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610094500 +0300" stop="20260610100000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610100000 +0300" stop="20260610111500 +0300" channel="tr.cartoonnetwork">
@@ -35835,43 +35874,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260610133000 +0300" stop="20260610133500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610133500 +0300" stop="20260610134000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610134000 +0300" stop="20260610135000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610135000 +0300" stop="20260610140000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610140000 +0300" stop="20260610140500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610140500 +0300" stop="20260610141000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610141000 +0300" stop="20260610142000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610142000 +0300" stop="20260610143000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260610143000 +0300" stop="20260610144500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Keçi Kız</title>
@@ -35891,18 +35922,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260610153000 +0300" stop="20260610154500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610154500 +0300" stop="20260610160000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610160000 +0300" stop="20260610161500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610161500 +0300" stop="20260610163000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260610163000 +0300" stop="20260610164500 +0300" channel="tr.cartoonnetwork">
@@ -36142,58 +36177,72 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260611030500 +0300" stop="20260611031500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611031500 +0300" stop="20260611033000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611033000 +0300" stop="20260611034000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611034000 +0300" stop="20260611035500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611035500 +0300" stop="20260611040500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611040500 +0300" stop="20260611042000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611042000 +0300" stop="20260611043000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611043000 +0300" stop="20260611044500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611044500 +0300" stop="20260611045500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611045500 +0300" stop="20260611051000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611051000 +0300" stop="20260611052000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611052000 +0300" stop="20260611053500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611053500 +0300" stop="20260611055000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611055000 +0300" stop="20260611060000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611060000 +0300" stop="20260611060500 +0300" channel="tr.cartoonnetwork">
@@ -36280,18 +36329,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260611090000 +0300" stop="20260611091000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611091000 +0300" stop="20260611093000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611093000 +0300" stop="20260611094500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611094500 +0300" stop="20260611100000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611100000 +0300" stop="20260611111500 +0300" channel="tr.cartoonnetwork">
@@ -36344,43 +36397,35 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260611133000 +0300" stop="20260611133500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611133500 +0300" stop="20260611134000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611134000 +0300" stop="20260611135000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611135000 +0300" stop="20260611140000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611140000 +0300" stop="20260611140500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611140500 +0300" stop="20260611141000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611141000 +0300" stop="20260611142000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611142000 +0300" stop="20260611143000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Grizzy ve Lemmingler</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy'nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260611143000 +0300" stop="20260611144500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Keçi Kız</title>
@@ -36400,18 +36445,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   </programme>
   <programme start="20260611153000 +0300" stop="20260611154500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611154500 +0300" stop="20260611160000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611160000 +0300" stop="20260611161500 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611161500 +0300" stop="20260611163000 +0300" channel="tr.cartoonnetwork">
     <title lang="tr">Kral Şakir</title>
+    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260611163000 +0300" stop="20260611164500 +0300" channel="tr.cartoonnetwork">
@@ -44761,7 +44810,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">Global Watch</title>
   </programme>
   <programme start="20260605131500 +0300" stop="20260605140000 +0300" channel="tr.cgtn">
-    <title lang="tr">Africa Live Uluslararası •</title>
+    <title lang="tr">Africa Live Uluslararası</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605143000 +0300" channel="tr.cgtn">
     <title lang="tr">Asia Today Uluslararası</title>
@@ -44791,7 +44840,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260605151500 +0300" stop="20260605153000 +0300" channel="tr.cgtn">
-    <title lang="tr">China 24 Uluslararası</title>
+    <title lang="tr">China 24 Uluslararası •</title>
   </programme>
   <programme start="20260605153000 +0300" stop="20260605160000 +0300" channel="tr.cgtn">
     <title lang="tr">Biz Talk</title>
@@ -48585,9 +48634,6 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   <programme start="20260606000000 +0300" stop="20260606010000 +0300" channel="tr.ciftcitv">
     <title lang="tr">Türk Aslanları Magazin</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.cizgifilmtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.cizgifilmtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -48835,6 +48881,9 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.cizgifilmtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605000200 +0300" channel="tr.classicalharmony">
@@ -59877,9 +59926,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260611204500 +0300" stop="20260612010000 +0300" channel="tr.cnnturk">
     <title lang="tr">Ne Oluyor?</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.cocuklaraozeltv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.cocuklaraozeltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -60127,6 +60173,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.cocuklaraozeltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605001500 +0300" stop="20260605011500 +0300" channel="tr.cosmoen">
@@ -66554,9 +66603,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260611235700 +0300" stop="20260612000200 +0300" channel="tr.davinci">
     <title lang="tr">Futuris</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.dimtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.dimtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -66804,6 +66850,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.dimtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.dimtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605002000 +0300" stop="20260605010500 +0300" channel="tr.discoverychannel">
@@ -71294,9 +71343,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <desc lang="tr">Üç arkadaş, süper güçlü pijamaları sayesinde geceleri süper kahraman olur. PJ Maskeliler birlikte hareket edip, birbirlerini dinleyerek, kötülüklere karşı gece boyunca mücadele eder ve başarılı olur. Çünkü yatma vakti suçla mücadele için en doğru zamandır!</desc>
     <category lang="tr">Çocuk-Sezon 1, Bölüm 25</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.diyanettv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.diyanettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -71546,6 +71592,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.diyanettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.diyanettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605004200 +0300" stop="20260605014200 +0300" channel="tr.dizitv">
     <title lang="tr">Huzur Sokağı I 10. Bölüm</title>
   </programme>
@@ -71585,7 +71634,10 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260605115500 +0300" stop="20260605123200 +0300" channel="tr.dizitv">
     <title lang="tr">Ömer Seyfettin I 1. Bölüm</title>
   </programme>
-  <programme start="20260605123200 +0300" stop="20260605142500 +0300" channel="tr.dizitv">
+  <programme start="20260605123200 +0300" stop="20260605133200 +0300" channel="tr.dizitv">
+    <title lang="tr">Huzur Sokağı I 11. Bölüm</title>
+  </programme>
+  <programme start="20260605133200 +0300" stop="20260605142500 +0300" channel="tr.dizitv">
     <title lang="tr">Huzur Sokağı I 11. Bölüm</title>
   </programme>
   <programme start="20260605142500 +0300" stop="20260605160300 +0300" channel="tr.dizitv">
@@ -103733,9 +103785,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <desc lang="tr">Amatör dedektif Bayan Jane Marple'ın bir çok cinayet gizem macerasına katılın; oldukça analitik bir zihne sahip olan Marple bir şekilde etrafındaki gizemli suçları ve cinayetleri kendine çekiyor gibi görünüyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.erciyestv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -103985,7 +104034,7 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.estv">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.estv">
@@ -104235,6 +104284,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.estv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.estv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="tr.eurosport1">
@@ -110583,9 +110635,6 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Türkçe Pop Yayını</title>
     <desc lang="tr">Türkçe pop müzik video yayını</desc>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.fityasatv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.fityasatv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -110833,6 +110882,9 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.fityasatv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605001000 +0300" channel="tr.flashhaber">
@@ -129308,9 +129360,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <desc lang="tr">Bahar tatilini Myrtle Beach'te geçiren genç bir kız, gece ansızın kaybolur. On yıl süren araştırma, ardında bıraktığı gizemleri ortaya çıkarır.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.ilketv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -129560,7 +129609,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.jintv">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.jintv">
@@ -129812,6 +129861,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.jintv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.jintv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605000000 +0300" stop="20260605003000 +0300" channel="tr.kadirgatv">
     <title lang="tr">Haberler</title>
     <desc lang="tr">Kadırga TV Haberler, güncel olayları tarafsız ve hızlı biçimde ekrana taşıyor. Bölgesel ve ulusal gelişmeleri anında öğrenmek için bizi izlemeye devam edin.</desc>
@@ -129909,9 +129961,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260605230000 +0300" stop="20260606000000 +0300" channel="tr.kadirgatv">
     <title lang="tr">Daha Sonra Bi̇ldi̇ri̇lecekti̇r</title>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kanal12">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -130162,7 +130211,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kanal23">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kanal23">
@@ -130412,6 +130461,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.kanal23">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.kanal23">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605070000 +0300" stop="20260605073000 +0300" channel="tr.kanal24">
@@ -131050,9 +131102,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kanal3">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kanal3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -131302,6 +131351,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.kanal3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.kanal3">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605073000 +0300" stop="20260605083000 +0300" channel="tr.kanal33">
     <title lang="tr">Haber</title>
     <desc lang="tr">Kanal 33'ün "Haber" bülteni, Mersin'den Türkiye'ye ve dünyaya uzanan en güncel gelişmeleri izleyiciyle buluşturuyor.</desc>
@@ -131406,9 +131458,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Haber Saati</title>
     <desc lang="tr">Türkiye'nin dört bir yanından ve dünyadan sıcak gelişmeler; siyaset, ekonomi, spor, kültür-sanat ve toplumsal olaylar başlıkları altında ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kanal58">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kanal58">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -131657,6 +131706,9 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.kanal58">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.kanal58">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525070000 +0300" channel="tr.kanal6">
@@ -136343,7 +136395,8 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260609123000 +0300" stop="20260609130000 +0300" channel="tr.kanalb">
-    <title lang="tr">şu anda yayında!Orkestra Akademik Başkent</title>
+    <title lang="tr">Orkestra Akademik Başkent</title>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260609130000 +0300" stop="20260609133000 +0300" channel="tr.kanalb">
     <title lang="tr">Haber</title>
@@ -136357,8 +136410,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260609143000 +0300" stop="20260609150000 +0300" channel="tr.kanalb">
-    <title lang="tr">Durgun Sular</title>
-    <category lang="tr">Haber</category>
+    <title lang="tr">şu anda yayında!Durgun Sular</title>
   </programme>
   <programme start="20260609150000 +0300" stop="20260609153000 +0300" channel="tr.kanalb">
     <title lang="tr">Haber</title>
@@ -136943,9 +136995,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
 Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras, kardeşini bulma yolunda büyük sınavlardan geçecek, bu yolun daha en başında düşmanlıkların yanı sıra kalıcı dostluklar da edinecektir. Ancak kardeşine ulaşmasının o kadar kolay olmayacağını çok geçmeden acı bir şekilde anlayacaktır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kanalfirat">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kanalfirat">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -137193,6 +137242,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.kanalfirat">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.kanalfirat">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605060000 +0300" channel="tr.kanalt">
@@ -138808,9 +138860,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Şaban'ın Dünyası</title>
     <desc lang="tr">Üçüncü perde, aynı sevgi. Kemal Sunal'ın yarattığı Şaban evreni bu kanalda da yaşıyor. Safiyetin, dürüstlüğün ve halk mizahının en güzel örnekleri — Türk sinemasının vazgeçilmez hazineleri perdede.</desc>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kentturktv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kentturktv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -139058,6 +139107,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.kentturktv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.kentturktv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="tr.kibrisadatv">
@@ -141922,9 +141974,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260612073000 +0300" stop="20260612093000 +0300" channel="tr.kontv">
     <title lang="tr">&lt;p class="elementor-image-box-description"&gt;Şehirlerin Ruhu&lt;/p&gt;</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.konyaolaytv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -142174,7 +142223,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.koytv">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.koytv">
@@ -142426,7 +142475,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.koytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.kralakustik">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.koytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.kralakustik">
@@ -142676,6 +142725,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.kralakustik">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.kralakustik">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.kralpoptv">
@@ -152468,9 +152520,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260611215500 +0300" stop="20260612000000 +0300" channel="tr.liderhabertv">
     <title lang="tr">Telegol</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.lifetv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.lifetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -152718,6 +152767,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.lifetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.lifetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605001700 +0300" channel="tr.lingotoonstv">
@@ -162283,9 +162335,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Çeşitli sanatçılardan Kürtçe müzik yayını</desc>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.medyahabertv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -162535,6 +162584,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.medyahabertv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605065500 +0300" stop="20260605075500 +0300" channel="tr.meltemtv">
     <title lang="tr">Haber Turu</title>
     <desc lang="tr">Türkiye ve dünya gündemindeki dikkat çeken gelişmeler Haber Turu ile kapsamlı şekilde ele alınıyor. Siyaset, ekonomi ve toplumsal olaylara dair başlıklar sade ve anlaşılır bir anlatımla aktarılırken, izleyici günün özetine hızlı ve net biçimde ulaşma imkânı buluyor.</desc>
@@ -162624,9 +162676,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Türkiye ve dünyadan en kritik gelişmeler, politika, ekonomi ve toplumsal olaylar Ana Haber programında detaylı bir şekilde aktarılıyor. Canlı bağlantılar ve uzman yorumlarıyla haberler, izleyiciye güvenilir ve net bir biçimde sunulurken günün öne çıkan başlıkları bütüncül bir bakışla özetleniyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.mercantv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.mercantv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -162877,6 +162926,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.mercantv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.mercantv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605005500 +0300" stop="20260605010000 +0300" channel="tr.mezzo">
     <title lang="tr">Alborada del gracioso</title>
   </programme>
@@ -162924,7 +162976,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   </programme>
   <programme start="20260605143000 +0300" stop="20260605165000 +0300" channel="tr.mezzo">
     <title lang="tr">Roméo et Juliette</title>
-    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260605165000 +0300" stop="20260605170000 +0300" channel="tr.mezzo">
     <title lang="tr">Der Wanderer (arr. Liszt)</title>
@@ -163253,7 +163304,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   </programme>
   <programme start="20260609234000 +0300" stop="20260610020500 +0300" channel="tr.mezzo">
     <title lang="tr">Roméo et Juliette</title>
-    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260610020500 +0300" stop="20260610030000 +0300" channel="tr.mezzo">
     <title lang="tr">Rachmaninov, le son d'une âme russe</title>
@@ -168727,9 +168777,6 @@ macera başlar.</desc>
     <desc lang="tr">Blippi Wonders - Harika Şeyler Nasıl Çalışır?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.mukabeletv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.mukabeletv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -168977,6 +169024,9 @@ macera başlar.</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.mukabeletv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605003000 +0300" channel="tr.myzentv">
@@ -184514,9 +184564,6 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Dance, elektronik ve EDM müzik yayını</desc>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.powerdance:">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.powerdance:">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -184764,6 +184811,9 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.powerdance:">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.powerdance:">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.powerlove">
@@ -202932,11 +202982,11 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <desc lang="tr">Birbirinden iddialı ve hamarat 5 gelinin kıyasıya yarıştığı, ev dekorasyonundan misafirperverliğe, sofra sunumundan çeyize kadar farklı alanların değerlendirildiği yarışmada her hafta haftanın birincisine büyük ödül veriliyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260609090000 +0300" stop="20260609140000 +0300" channel="tr.showmax">
+  <programme start="20260609090000 +0300" stop="20260609113000 +0300" channel="tr.showmax">
     <title lang="tr">Aşk Laftan Anlamaz</title>
   </programme>
-  <programme start="20260609140000 +0300" stop="20260609163000 +0300" channel="tr.showmax">
-    <title lang="tr">Yağmur Zamanı</title>
+  <programme start="20260609113000 +0300" stop="20260609163000 +0300" channel="tr.showmax">
+    <title lang="tr">Dudaktan Kalbe</title>
   </programme>
   <programme start="20260609163000 +0300" stop="20260609194500 +0300" channel="tr.showmax">
     <title lang="tr">Yeni Gelin</title>
@@ -203000,9 +203050,6 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
   </programme>
   <programme start="20260612041500 +0300" stop="20260612061500 +0300" channel="tr.showmax">
     <title lang="tr">Yeni Gelin</title>
-  </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.showturk">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.showturk">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -203251,6 +203298,9 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.showturk">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.showturk">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605001500 +0300" stop="20260605011500 +0300" channel="tr.showtv">
@@ -210983,9 +211033,6 @@ Ancak şöhretin bedeli ağırdır.</desc>
     <title lang="tr">Karadeniz Yöresi Şarkıları</title>
     <desc lang="tr">Karadeniz yöresi türküleri ve horon müziği yayını</desc>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.smartspor">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.smartspor">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -211235,7 +211282,7 @@ Ancak şöhretin bedeli ağırdır.</desc>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.smartspor">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.smartspor2">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.smartspor">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.smartspor2">
@@ -211485,6 +211532,9 @@ Ancak şöhretin bedeli ağırdır.</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.smartspor2">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.smartspor2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="tr.sozcutv">
@@ -215591,9 +215641,6 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
   <programme start="20260611223000 +0300" stop="20260612010000 +0300" channel="tr.startv">
     <title lang="tr">Yerli Dizi / Sinema</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.sunrtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -215843,7 +215890,7 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.sutv">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.sutv">
@@ -216095,6 +216142,9 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.sutv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.sutv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260605000000 +0300" stop="20260605093000 +0300" channel="tr.tabiispor">
     <title lang="tr">TRT Spor Yıldız Ortak Yayın</title>
     <category lang="tr">Spor</category>
@@ -216318,7 +216368,10 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
   <programme start="20260605114400 +0300" stop="20260605122900 +0300" channel="tr.tarihtv">
     <title lang="tr">Karakoyunluların Tarih Sahnesine Çıkışı - Doğu'dan Batı'ya Tarih</title>
   </programme>
-  <programme start="20260605122900 +0300" stop="20260605141300 +0300" channel="tr.tarihtv">
+  <programme start="20260605122900 +0300" stop="20260605132900 +0300" channel="tr.tarihtv">
+    <title lang="tr">Orta Asya Türk Tarihi - Doğu'dan Batı'ya Tarih</title>
+  </programme>
+  <programme start="20260605132900 +0300" stop="20260605141300 +0300" channel="tr.tarihtv">
     <title lang="tr">Orta Asya Türk Tarihi - Doğu'dan Batı'ya Tarih</title>
   </programme>
   <programme start="20260605141300 +0300" stop="20260605165500 +0300" channel="tr.tarihtv">
@@ -216958,9 +217011,6 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
     <desc lang="tr">Başrol, Tele1 ekranında hayatın başrolündeki isimlerin bilinmeyen öykülerini anlatıyor. Türk müziği, sineması, edebiyatı ve futbolunun en etkili isimlerinin yaşamları ve Türkiye'nin geçirdiği büyük dönüşümler samimi ve detaylı bir şekilde izleyiciye sunuluyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.tele2haber">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -217210,7 +217260,7 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.teleon">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.teleon">
@@ -217460,6 +217510,9 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.teleon">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.teleon">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.tempotv">
@@ -219336,9 +219389,6 @@ Sıkı dostluklar, ilk aşklar, üniversite, aşılmaya çalışılan aile sorun
     <desc lang="tr">Dizi, konsept danışmanlığını ve sunuculuğunu Kriminalist Prof. Dr. Sevil Atasoy'un yaptığı, yaşanmış gerçek suç hikâyelerinden esinlenilerek hazırlanmış. Dizide, zekice yapıldığına inanılan cinayetlerin, hırsızlıkların, adam kaçırmaların yani birçok suç olayının nasıl çözüldüğü ve hangi noktada kimlerin ne kadar etkisi olduğu ekrana getiriliyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.tgrtbelgesel">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.tgrtbelgesel">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -219586,6 +219636,9 @@ Sıkı dostluklar, ilk aşklar, üniversite, aşılmaya çalışılan aile sorun
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.tgrtbelgesel">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.tgrtbelgesel">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605003000 +0300" stop="20260605020000 +0300" channel="tr.tgrthaber">
@@ -226485,9 +226538,6 @@ Sıkı dostluklar, ilk aşklar, üniversite, aşılmaya çalışılan aile sorun
   <programme start="20260611230000 +0300" stop="20260612010000 +0300" channel="tr.tmbtv">
     <title lang="tr">Saha Dışı</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.tontv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.tontv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -226735,6 +226785,9 @@ Sıkı dostluklar, ilk aşklar, üniversite, aşılmaya çalışılan aile sorun
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.tontv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.tontv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.toppop">
@@ -253947,9 +254000,6 @@ Geleneksel lezzetler ve özel tarifler...
   <programme start="20260611220000 +0300" stop="20260612000000 +0300" channel="tr.turkmenelitv">
     <title lang="tr">Kardeşim Benim</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.tv1">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.tv1">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -254197,6 +254247,9 @@ Geleneksel lezzetler ve özel tarifler...
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.tv1">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.tv1">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="tr.tv100">
@@ -254588,9 +254641,6 @@ Geleneksel lezzetler ve özel tarifler...
   <programme start="20260611233000 +0300" stop="20260612013000 +0300" channel="tr.tv100">
     <title lang="tr">Kale Arkası</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.tv3">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.tv3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -254838,6 +254888,9 @@ Geleneksel lezzetler ve özel tarifler...
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.tv3">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.tv3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605004500 +0300" channel="tr.tv4">
@@ -263331,9 +263384,6 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.vaaztv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.vaaztv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -263583,7 +263633,7 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.vaaztv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.van65">
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.vaaztv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.van65">
@@ -263833,6 +263883,9 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.van65">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.van65">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260605000000 +0300" stop="20260605010000 +0300" channel="tr.vavtv">
@@ -266797,15 +266850,15 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260605133000 +0300" stop="20260605140000 +0300" channel="tr.yabantv">
-    <title lang="tr">Su Altı Kahramanları Belgesel •</title>
+    <title lang="tr">Su Altı Kahramanları</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260605140000 +0300" stop="20260605150000 +0300" channel="tr.yabantv">
     <title lang="tr">Sürek Avcıları</title>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260605150000 +0300" stop="20260605160000 +0300" channel="tr.yabantv">
-    <title lang="tr">Alaska'nın Tuzakçıları</title>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Alaska'nın Tuzakçıları Belgesel •</title>
   </programme>
   <programme start="20260605160000 +0300" stop="20260605163000 +0300" channel="tr.yabantv">
     <title lang="tr">Yaban Afrika Safari</title>
@@ -271011,9 +271064,6 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <title lang="tr">Yeşilçam'dan Seçmeler</title>
     <desc lang="tr">Türk sinemasının efsanevi yapımları... Kemal Sunal'dan Münir Özkul'a, İlyas Salman'dan Adile Naşit'e uzanan kadrosuyla Yeşilçam'ın ölümsüz filmleri. Güldürürken düşündüren, eğlendirirken dokunduran yapımlar.</desc>
   </programme>
-  <programme start="20260605120000 +0300" stop="20260605140000 +0300" channel="tr.yoltv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260605140000 +0300" stop="20260605160000 +0300" channel="tr.yoltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -271261,6 +271311,9 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260612100000 +0300" stop="20260612120000 +0300" channel="tr.yoltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260612120000 +0300" stop="20260612140000 +0300" channel="tr.yoltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
 </tv>
