@@ -505,6 +505,10 @@ https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Slow" tvg-id="radyo7.slow7",Slow 7
 https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
 
+# HERKUL RADYO,    source: radioking
+#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/721190/coverdefault/f858887b-9414-4d24-976b-5378c903cc32.png" group-title="Dini" tvg-id="herkul.radyo",Herkul Radyo
+https://play.radioking.io/herkulradyo
+
 # KURAN MEAL,    source: radyo7
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Dini" tvg-id="radyo7.kuranmeal",Kuran Meal
 https://ssl4.radyotvonline.com/radyohome/kuranmeal.stream_aac/playlist.m3u8
