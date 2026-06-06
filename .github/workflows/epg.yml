@@ -2,7 +2,7 @@ name: EPG Güncelle
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "59 * * * *"
   workflow_dispatch: {}
 
 permissions:
