@@ -76,6 +76,9 @@ https://cdn505.tvkulesi.com/tv8.m3u8?tkn=mvHZL1nTPjZtO9bWrexVPg&tms=1780796349&h
 
 
 # TV8,5,    source: tvkulesi
+# source: daioncdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" tvg-id="tr.tv85",Tv8,5
+https://tv8-live.daioncdn.net/tv85/tv85.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" tvg-id="tr.tv85",Tv8,5
 https://cdn509.tvkulesi.com/tv85.m3u8?tkn=Rx1_NnaZtpT-ZlKAviZULA&tms=1780796613&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv85
 
@@ -112,10 +115,16 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780586960/ei/cEUharrOOp2iw-APsZHlGA/ip/31.21.186.28/id/HtnytvwXi5o.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AbKmrwpmReLgJ_uSf5CRg1O9wS5hltgbpN0hMzJVFl3t9bWnayaERF633WkPXCBPsWC_-9dRH5uaSMVG/spc/96Xrv1IUbY80hs65LAUZCN-oNiWFrrAnrs8YMsd9D31ceNLgNA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4497500/met/1780565361,/mh/9E/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780565070/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgTpYuNpuD4yO8D_vxpw9l2eFQipnCbjmVUESSrhCDW0YCIQCVuSfjDoTl_Ymz_xdOADOKv24kirPKBy5rqDcxZCbKTA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgBcuxkoNiZtUbfJaNHf-ZdWDI2z13YlsNCJfhX7kBnmsCIQDU95Et8B6vDWtAL9SQlAvrv6wejt7Zl91iO2JsJArOng%3D%3D/playlist/index.m3u8
 
 # A2 TV,    source: tvkulesi
+# source: ercdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" tvg-id="tr.a2",A2 TV
+https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" tvg-id="tr.a2",A2 Tv
 https://cdn506.tvkulesi.com/a2tv.m3u8?tkn=1SrTrycpIFPCCA1eJwk4AA&tms=1780796365&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=a2-tv
 
 # TEVE2,    source: kavuntv
+# source: ercdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" tvg-id="tr.teve2",Teve2
+https://trkvz-live.ercdn.net/teve2hd/teve2hd.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" tvg-id="tr.teve2",Teve2
 https://cdn503.kavuntv.net/teve2.m3u8?tkn=-3sZnh0jj-4WHK_6RyheyQ&tms=1780780950&hst=amp.kavuntv.net&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=teve2
 
@@ -189,10 +198,16 @@ https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=md5n4e70SbLk4BPt2FwPNg&
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=md5n4e70SbLk4BPt2FwPNg&e=1780827063
 
 # SHOW TÜRK,    source: tvkulesi
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-turk-tr.png" tvg-id="tr.showturk",Show Türk
+# source: daioncdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-turk-tr.png" tvg-id="tr.showturk",Show Turk
+https://ciner.daioncdn.net/showturk/showturk.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+ Türk
 https://cdn503.tvkulesi.com/showturk.m3u8?tkn=vDOn2wQHLUdjHz0I8WtbDg&tms=1780796515&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=show-turk
 
 # KANAL 7 AVRUPA,    source: tvkulesi
+# source: daioncdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-avrupa-tr.png" tvg-id="tr.kanal7avrupa",Kanal 7 Avrupa
+https://kanal7-live.daioncdn.net/kanal7avrupa/kanal7avrupa_720p.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-avrupa-tr.png" tvg-id="tr.kanal7avrupa",Kanal 7 Avrupa
 https://cdn509.tvkulesi.com/kanal7avrupa.m3u8?tkn=gezaLcTHH8cEIqdDoZXMSg&tms=1780796424&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-7-avrupa
 
