@@ -56,6 +56,9 @@ YOUTUBE_CHANNELS = {
     "tr.avrupayakasitv":   "NGsjOrzwjZk",
     "tr.yalandunayatv":    "Efh06uzzORM",
     "tr.aleminkralitv":    "avDRwKKjeSI",
+    "tr.beyaztv":          "VJ8-99y2pTo",
+    "tr.tgrteu":           "nxgYI7l98nM",
+    "tr.kanalavrupatv":    "znnLRAf1-M0",
 }
 
 
