@@ -5,6 +5,9 @@
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 # TRT 1,    source: kavuntv
+# source: trt-official
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" tvg-id="tr.trt1",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" tvg-id="tr.trt1",TRT 1
 https://cdn508.kavuntv.net/trt1.m3u8?tkn=59Wk1orWNeQqWTL8RPx90Q&tms=1780796330&hst=amp.kavuntv.net&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-1
 
@@ -45,6 +48,9 @@ https://cdn508.tvkulesi.com/foxtv.m3u8?tkn=yag6G7p4jBCzYZPudEjJEw&tms=1780796338
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780570534/ei/RgUhatGZCq2XzPsP8LuumAo/ip/31.21.186.28/id/8vlyTcrcchc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/nl/bui/AbKmrwqgzGxbPK4C2e95R9bLTlbLryLl9zyhCLwVzcnNkekmbTJW12oCQV82lbx6j8bhdIj-5RxFGK9y/spc/96XrvxfoIEP5u2v9jjjq7R9TCjfuj6aD3j-cETNatWrX1dC1AQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3882500/met/1780548934,/mh/uN/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/6/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780548511/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhALwCFd0ZLQq4H7giJM4uozdL8vdP6j3chxPBo2YTrl55AiBD4XUwDx3or6r9l7Yb7hcIs6SQD7kWKIeXZJsjimN7wA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgNYXiZmis5446aBb2K-rTJzXNqO3dRbS9pmtQVrVgnnMCIFDLEu490djz8m42_UxvBYr80nbKAVz1nngiOb4sPGrB/playlist/index.m3u8
 
 # ATV,    source: kavuntv
+# source: daioncdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" tvg-id="tr.atv",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" tvg-id="tr.atv",ATV
 https://cdn504.kavuntv.net/atv.m3u8?tkn=A53-Q3ycOZkEbUTUyuFYmg&tms=1780780939&hst=amp.kavuntv.net&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=atv
 
@@ -61,6 +67,9 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 https://cdn505.tvkulesi.com/kanald.m3u8?tkn=oWFctvD0AWi3PVi7Ze3OuQ&tms=1780796341&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-d
 
 # TV 8,    source: tvkulesi
+# source: daioncdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" tvg-id="tr.tv8",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" tvg-id="tr.tv8",TV 8
 https://cdn505.tvkulesi.com/tv8.m3u8?tkn=mvHZL1nTPjZtO9bWrexVPg&tms=1780796349&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv8
 
