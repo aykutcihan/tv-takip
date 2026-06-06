@@ -154,6 +154,9 @@ https://cdn509.tvkulesi.com/showmax.m3u8?tkn=peItGG-4N5bGBNKJar-0dQ&tms=17807965
 https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
 
 # TV 4,    source: tvkulesi
+# source: ercdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv4-tr.png" tvg-id="tr.tv4",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv4-tr.png" tvg-id="tr.tv4",TV 4
 https://cdn509.tvkulesi.com/tv4.m3u8?tkn=nUnMmT2bcE5qviARNHoSdw&tms=1780796360&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tv4
 
@@ -163,6 +166,9 @@ https://cdn509.tvkulesi.com/tv4.m3u8?tkn=nUnMmT2bcE5qviARNHoSdw&tms=1780796360&h
 
 
 # EKOL TV,    source: tvkulesi
+# source: artidijital
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/thumbnail_EKOL_TV_LOGO_PNG.png" tvg-id="tr.ekoltv",Ekol Tv
+https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/thumbnail_EKOL_TV_LOGO_PNG.png" tvg-id="tr.ekoltv",Ekol Tv
 https://cdn509.tvkulesi.com/ekoltv.m3u8?tkn=rN24eiLF4oSeWGCFvt0Xvw&tms=1780796368&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=ekol-tv
 
