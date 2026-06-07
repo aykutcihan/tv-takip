@@ -96,18 +96,19 @@ def fetch_proxy_map():
 
 def resolve_url(proxy_url):
     """
-    Proxy URL'yi takip et ve:
-    1. Gercek CDN URL'si (kavuntv/ercdn/daioncdn) varsa onu dondur
-    2. Yoksa proxy URL'nin kendisini dondur
+    Proxy URL'nin redirect hedefini al — kavuntv'ye HICBIR ISTEK ATMAZ.
+    Sadece uzunmuhalefet.com'un 302 Location header'ini okur.
     """
     try:
-        r = requests.get(proxy_url, timeout=15, headers=HEADERS, allow_redirects=True)
-        final = r.url
-        if final != proxy_url and final.startswith('http'):
-            return final  # kavuntv/ercdn/daioncdn URL'si
+        r = requests.get(proxy_url, timeout=15, headers=HEADERS,
+                         allow_redirects=False)  # redirect TAKIP ETME
+        if r.status_code in (301, 302, 303, 307, 308):
+            loc = r.headers.get('Location', '')
+            if loc.startswith('http'):
+                return loc  # kavuntv/ercdn URL'si — hic baglanti kurmadik
     except Exception:
         pass
-    return proxy_url  # fallback: proxy URL
+    return proxy_url
 
 
 def main():
