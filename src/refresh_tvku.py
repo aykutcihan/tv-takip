@@ -94,21 +94,6 @@ def fetch_proxy_map():
     return result
 
 
-def resolve_url(proxy_url):
-    """
-    Proxy URL'nin redirect hedefini al — kavuntv'ye HICBIR ISTEK ATMAZ.
-    Sadece uzunmuhalefet.com'un 302 Location header'ini okur.
-    """
-    try:
-        r = requests.get(proxy_url, timeout=15, headers=HEADERS,
-                         allow_redirects=False)  # redirect TAKIP ETME
-        if r.status_code in (301, 302, 303, 307, 308):
-            loc = r.headers.get('Location', '')
-            if loc.startswith('http'):
-                return loc  # kavuntv/ercdn URL'si — hic baglanti kurmadik
-    except Exception:
-        pass
-    return proxy_url
 
 
 def main():
@@ -121,46 +106,20 @@ def main():
     updated = 0
 
     for tvg_id, proxy_url in proxy_map.items():
-        # Redirect'i takip et -> gercek CDN URL'si (kavuntv/ercdn/daioncdn)
-        cdn_url = resolve_url(proxy_url)
-        src = ('kavuntv'  if 'kavuntv'  in cdn_url else
-               'ercdn'    if 'ercdn'    in cdn_url else
-               'daioncdn' if 'daioncdn' in cdn_url else
-               'uzm-proxy')
-        print(f"  {tvg_id:30s} -> proxy + {src}")
+        print(f"  {tvg_id:30s} -> {proxy_url[:60]}...")
 
-        # Playlist'te bu tvg-id'li URL satirlarini guncelle:
-        # - Ilk eslesen tvkulesi/kavuntv/uzunmuhalefet satirini -> proxy_url (ONCELIK)
-        # - Hemen ardindan cdn_url farkli ise yaz (FALLBACK)
+        # Playlist'te tvkulesi/kavuntv/uzunmuhalefet URL'lerini proxy_url ile guncelle
         for i, line in enumerate(lines):
             if not line.startswith('#EXTINF:') or f'tvg-id="{tvg_id}"' not in line:
                 continue
             j = i + 1
             while j < len(lines) and lines[j].startswith('#') and not lines[j].startswith('#EXTINF'):
                 j += 1
-            if j >= len(lines) or not lines[j].startswith('http'):
-                continue
-            cur = lines[j]
-            if REPLACE_SRCS.search(cur):
-                # Proxy URL'yi oncelikli olarak yaz
-                if cur != proxy_url:
+            if j < len(lines) and lines[j].startswith('http'):
+                cur = lines[j]
+                if REPLACE_SRCS.search(cur) and cur != proxy_url:
                     lines[j] = proxy_url
                     updated += 1
-                # CDN URL farkli ise bir sonraki satiri kontrol et / ekle
-                if cdn_url != proxy_url:
-                    k = j + 1
-                    # Bos satirlari atla
-                    while k < len(lines) and lines[k] == '':
-                        k += 1
-                    if k < len(lines) and REPLACE_SRCS.search(lines[k]):
-                        # Mevcut CDN satirini guncelle
-                        if lines[k] != cdn_url:
-                            lines[k] = cdn_url
-                            updated += 1
-                    elif k >= len(lines) or lines[k].startswith('#EXTINF') or lines[k].startswith('#'):
-                        # CDN satirini proxy satirinin hemen ardindan ekle
-                        lines.insert(j + 1, cdn_url)
-                        updated += 1
 
     PLAYLIST.write_text('\n'.join(lines), encoding='utf-8')
     print(f"\nTamamlandi: {updated} URL guncellendi")
