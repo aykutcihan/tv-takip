@@ -852,6 +852,14 @@ http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=b2af21db
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 
 # ── DINI ────────────────────────────
+# CIHAN RADYO,    source: youtube
+#EXTINF:-1 group-title="Dini" tvg-logo="https://image.radioking.io/radios/301204/cover/custom/ddcaa85d-b51c-4527-844b-3fedb00ab75e.jpeg" tvg-id="cihan.radyo.tv",Cihan Radyo
+https://www.youtube.com/watch?v=pieJ2aSv9Cw
+
+# CIHAN SEMA RADYO,    source: youtube
+#EXTINF:-1 group-title="Dini" tvg-logo="https://cihanradyo.com/public/icons/cihan_muzik.jpg" tvg-id="cihan.sema.tv",Cihan Sema Radyo
+https://www.youtube.com/watch?v=6mYYpvD682k
+
 # MEKKE TV,    source: tvkulesi
 #EXTINF:-1 group-title="Dini" tvg-id="",Mekke Tv
 https://cdn509.tvkulesi.com/kabetv.m3u8?tkn=hA2szQQ_4FCIgBa89gxIaA&tms=1780796557&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=mekke-tv

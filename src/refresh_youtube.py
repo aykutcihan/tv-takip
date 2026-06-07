@@ -59,6 +59,8 @@ YOUTUBE_CHANNELS = {
     "tr.beyaztv":          "VJ8-99y2pTo",
     "tr.tgrteu":           "nxgYI7l98nM",
     "tr.kanalavrupatv":    "znnLRAf1-M0",
+    "cihan.radyo.tv":      "pieJ2aSv9Cw",
+    "cihan.sema.tv":       "6mYYpvD682k",
 }
 
 
