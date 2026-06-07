@@ -626,8 +626,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780887431/ei/
 #EXTINF:-1 group-title="Muzik" tvg-id="tr.powerturkakustik",PowerTurk Akustik
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-# KRAL TV,    source: diger
-#EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-tv-tr.png" tvg-id="tr.kraltv",Kral TV
+# KRAL POP TV,    source: diger
+#EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-pop-tr.png" tvg-id="tr.kralpoptv",Kral Pop TV
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 
 
