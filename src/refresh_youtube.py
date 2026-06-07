@@ -61,6 +61,8 @@ YOUTUBE_CHANNELS = {
     "tr.kanalavrupatv":    "znnLRAf1-M0",
     "cihan.radyo.tv":      "pieJ2aSv9Cw",
     "cihan.sema.tv":       "6mYYpvD682k",
+    "bbc.earth.live":      "1LhlXiSc5NY",
+    "natgeo.animals.live": "MiQe9ob9aDc",
 }
 
 

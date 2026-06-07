@@ -517,6 +517,14 @@ https://cdn509.tvkulesi.com/ekolsports.m3u8?tkn=57RnIUH2lKWS4JENqdmqsg&tms=17807
 
 
 # ── BELGESEL ────────────────────────────
+# BBC EARTH,    source: youtube
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Earth_logo_2021.svg/320px-BBC_Earth_logo_2021.svg.png" tvg-id="bbc.earth.live",BBC Earth Live
+https://www.youtube.com/watch?v=1LhlXiSc5NY
+
+# NAT GEO ANIMALS,    source: youtube
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/National_Geographic_Channel_logo.svg/320px-National_Geographic_Channel_logo.svg.png" tvg-id="natgeo.animals.live",Nat Geo Animals Live
+https://www.youtube.com/watch?v=MiQe9ob9aDc
+
 # TRT 2,    source: kavuntv
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" tvg-id="tr.trt2",TRT 2
 https://cdn509.tvkulesi.com/trt2.m3u8?tkn=7OHNg35y4uRt9ul9DaJZoQ&tms=1780796616&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-2
