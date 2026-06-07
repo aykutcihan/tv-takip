@@ -474,6 +474,9 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780880530/ei/
 #EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/fenerbahce-tv-tr.png" tvg-id="tr.fbtv",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
+# TRT SPOR,    source: medya.trt.com.tr
+#EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" tvg-id="tr.trtspor",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
 # TRT SPOR,    source: tvkulesi
 #EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" tvg-id="tr.trtspor",TRT Spor
 https://cdn501.tvkulesi.com/trtspor.m3u8?tkn=hEpPO2-HMM47Esp3AK9uCQ&tms=1780796402&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-spor
@@ -504,6 +507,9 @@ https://cdn505.tvkulesi.com/beinsporthaber.m3u8?tkn=3SpkfkxXqQqth9b7xTlfDA&tms=1
 #EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor",Tivibu Spor
 https://cdn509.tvkulesi.com/tivibuspor.m3u8?tkn=SmJZ9Iy6fwGvWnFsxzpXsg&tms=1780796400&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tivibu-spor
 
+# TRT SPOR YILDIZ,    source: medya.trt.com.tr
+#EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" tvg-id="tr.trtsporyildiz",TRT Spor Yildiz
+https://tv-trtsporyildiz.medya.trt.com.tr/master.m3u8
 # TRT SPOR YILDIZ,    source: tvkulesi
 #EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" tvg-id="tr.trtsporyildiz",TRT Spor Yildiz
 https://cdn504.tvkulesi.com/trtspor2.m3u8?tkn=N-yn-opPdVQW_qwncBvsKA&tms=1780442116&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-spor-2
@@ -546,6 +552,9 @@ https://cdn506.tvkulesi.com/dmax.m3u8?tkn=Qjwq6LWO1dnEtPetE4G3PQ&tms=1780796624&
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-avaz-tr.png" tvg-id="tr.trtavaz",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
+# TRT BELGESEL,    source: medya.trt.com.tr
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" tvg-id="tr.trtbelgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 # TRT BELGESEL,    source: tvkulesi
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" tvg-id="tr.trtbelgesel",TRT Belgesel
 https://cdn509.tvkulesi.com/trtbelgesel.m3u8?tkn=Vp_qYkTGEM4d6Rw_hffz_g&tms=1780796621&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=trt-belgesel
