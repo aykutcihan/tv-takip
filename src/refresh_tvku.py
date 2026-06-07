@@ -1,7 +1,7 @@
 """
 streams.uzunmuhalefet.com uzerinden Turk kanallarinin stream URL'lerini yeniler.
-Proxy redirect'ini takip edip arkasindaki gercek CDN URL'sini (kavuntv/ercdn/daioncdn) alir.
-Bot tespiti yok — sadece HTTP GET. Playwright gerektirmez.
+Playlist'teki TUM kanallarla otomatik eslestirme yapar — elle liste tutmaya gerek yok.
+Bot tespiti yok, Playwright gerektirmez.
 """
 import sys, io, re, requests, warnings
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -21,53 +21,21 @@ HEADERS = {
     'Referer': 'https://streams.uzunmuhalefet.com/',
 }
 
-# uzunmuhalefet kanal adi -> bizim tvg-id
-CHANNEL_MAP = {
-    "NOW TV":           "tr.now",
-    "Show TV":          "tr.showtv",
-    "TV8":              "tr.tv8",
-    "TV 8":             "tr.tv8",
-    "TV 8.5":           "tr.tv85",
-    "ATV":              "tr.atv",
-    "Star TV":          "tr.startv",
-    "Kanal D":          "tr.kanald",
-    "Kanal 7":          "tr.kanal7",
-    "TYT Türk":         "tr.tytturk",
-    "Show Türk":        "tr.showturk",
-    "Kanal 7 Avrupa":   "tr.kanal7avrupa",
-    "ATV Avrupa":       "tr.atvavrupa",
-    "Euro D":           "tr.eurod",
-    "A Haber":          "tr.ahaber",
-    "Ulusal Kanal":     "tr.ulusalkanal",
-    "Bloomberg HT":     "tr.bloomberght",
-    "CNBC-e":           "tr.cnbce",
-    "Habertürk":        "tr.haberturk",
-    "TRT Spor":         "tr.trtspor",
-    "TRT Spor Yıldız":  "tr.trtsporyildiz",
-    "A Spor":           "tr.aspor",
-    "HT Spor":          "tr.htspor",
-    "Ekol Sports":      "tr.ekolsports",
-    "Tivibu Spor":      "tr.tivibuspor",
-    "TRT 2":            "tr.trt2",
-    "TLC":              "tr.tlc",
-    "DMAX":             "tr.dmax",
-    "D Max":            "tr.dmax",
-    "TRT Belgesel":     "tr.trtbelgesel",
-    "Dream Türk":       "tr.dreamturk",
-    "Kanal B":          "tr.kanalb",
-    "TV 100":           "tr.tv100",
-    "TGRT Haber":       "tr.tgrthaber",
-    "Ekol TV":          "tr.ekoltvhaber",
-    "Tele On":          "tr.teleon",
-    "TV Net":           "tr.tvnet",
-    "TVNET":            "tr.tvnet",
-}
-
+# Bu kaynaklardaki URL'leri uzunmuhalefet ile guncelle
 REPLACE_SRCS = re.compile(r'tvkulesi|kavuntv\.net|uzunmuhalefet\.com')
 
+def normalize(s):
+    """Kanal ismi eslesme icin normalize et."""
+    s = s.lower()
+    s = re.sub(r'[^a-z0-9]', '', s)
+    # Yaygin kisaltmalar
+    s = s.replace('türk', 'turk').replace('ü','u').replace('ı','i')
+    s = s.replace('ö','o').replace('ş','s').replace('ç','c').replace('ğ','g')
+    return s
 
-def fetch_proxy_map():
-    """uzunmuhalefet playlist -> {tvg-id: proxy_url}"""
+
+def fetch_source_playlist():
+    """uzunmuhalefet playlist -> {normalize(name): proxy_url}"""
     print(f"Kaynak indiriliyor: {SOURCE_M3U}")
     try:
         r = requests.get(SOURCE_M3U, timeout=30, headers=HEADERS)
@@ -86,43 +54,64 @@ def fetch_proxy_map():
             while j < len(lines) and lines[j].startswith('#'):
                 j += 1
             url = lines[j] if j < len(lines) and lines[j].startswith('http') else ''
-            tvg = CHANNEL_MAP.get(name)
-            if tvg and url:
-                result[tvg] = url
+            if name and url:
+                result[normalize(name)] = (name, url)
         i += 1
-    print(f"  {len(result)} kanal eslesti.")
+
+    print(f"  Kaynak: {len(result)} kanal.")
     return result
 
 
+def build_our_channels(lines):
+    """Kendi playlist'imizdeki {normalize(name): [idx]} haritasi."""
+    our = {}
+    for i, line in enumerate(lines):
+        if not line.startswith('#EXTINF:'):
+            continue
+        m = re.search(r',(.+)$', line)
+        if not m:
+            continue
+        name = m.group(1).strip()
+        key  = normalize(name)
+        our.setdefault(key, []).append(i)
+    return our
 
 
 def main():
-    proxy_map = fetch_proxy_map()
-    if not proxy_map:
-        print("Esleme bos, cikiliyor.")
+    source = fetch_source_playlist()
+    if not source:
+        print("Kaynak bos.")
         return
 
-    lines   = PLAYLIST.read_text(encoding='utf-8').splitlines()
-    updated = 0
+    lines    = PLAYLIST.read_text(encoding='utf-8').splitlines()
+    our_map  = build_our_channels(lines)
+    updated  = 0
+    matched  = 0
 
-    for tvg_id, proxy_url in proxy_map.items():
-        print(f"  {tvg_id:30s} -> {proxy_url[:60]}...")
+    for norm_key, (src_name, proxy_url) in source.items():
+        # Bizim playlist'te bu kanal var mi?
+        extinf_indices = our_map.get(norm_key, [])
+        if not extinf_indices:
+            continue
 
-        # Playlist'te tvkulesi/kavuntv/uzunmuhalefet URL'lerini proxy_url ile guncelle
-        for i, line in enumerate(lines):
-            if not line.startswith('#EXTINF:') or f'tvg-id="{tvg_id}"' not in line:
-                continue
+        matched += 1
+        for i in extinf_indices:
+            # URL satirini bul
             j = i + 1
             while j < len(lines) and lines[j].startswith('#') and not lines[j].startswith('#EXTINF'):
                 j += 1
-            if j < len(lines) and lines[j].startswith('http'):
-                cur = lines[j]
-                if REPLACE_SRCS.search(cur) and cur != proxy_url:
-                    lines[j] = proxy_url
-                    updated += 1
+            if j >= len(lines) or not lines[j].startswith('http'):
+                continue
+            cur = lines[j]
+            # Sadece tvkulesi/kavuntv/uzunmuhalefet URL'lerini guncelle
+            if REPLACE_SRCS.search(cur) and cur != proxy_url:
+                lines[j] = proxy_url
+                updated += 1
+
+        print(f"  ok  {src_name}")
 
     PLAYLIST.write_text('\n'.join(lines), encoding='utf-8')
-    print(f"\nTamamlandi: {updated} URL guncellendi")
+    print(f"\nTamamlandi: {matched} kanal eslesti, {updated} URL guncellendi")
 
 
 if __name__ == '__main__':
