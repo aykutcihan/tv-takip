@@ -1061,9 +1061,6 @@
   <channel id="tr.yoltv">
     <display-name>Yol TV</display-name>
   </channel>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="EuroStar.tr">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="EuroStar.tr">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -1311,6 +1308,9 @@
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="EuroStar.tr">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="EuroStar.tr">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607010000 +0300" stop="20260607023000 +0300" channel="tr.24">
@@ -3711,9 +3711,6 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <desc lang="tr">Günün en son noktası, Gece Ajansı'yla konuluyor. Programda; spor, ekonomi, iç ve dış siyaset, kültür sanatın da aralarında bulunduğu her konu konuşuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.ailetv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.ailetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -3961,6 +3958,9 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.ailetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.ailetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607080000 +0300" stop="20260607120000 +0300" channel="tr.akittv">
@@ -10250,9 +10250,6 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
   <programme start="20260613220000 +0300" stop="20260614000000 +0300" channel="tr.aspor">
     <title lang="tr">Uluslararası Hazırlık Maçı</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.asrisaadettv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.asrisaadettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -10502,6 +10499,9 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.asrisaadettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.asrisaadettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260607000100 +0300" stop="20260607020100 +0300" channel="tr.asrisheriftv">
     <title lang="tr">AŞR-I ŞERİF</title>
   </programme>
@@ -10650,9 +10650,6 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
   </programme>
   <programme start="20260613220000 +0300" stop="20260614060000 +0300" channel="tr.astv">
     <title lang="tr">AS TV</title>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.astv2">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.astv2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -10901,6 +10898,9 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.astv2">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.astv2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607010000 +0300" stop="20260607030000 +0300" channel="tr.atv">
@@ -20916,7 +20916,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607155500 +0300" stop="20260607164100 +0300" channel="tr.beingurme">
-    <title lang="tr">Tek Kişilik Tarifler S1 B 6 Yaşam</title>
+    <title lang="tr">Tek Kişilik Tarifler S1 B 6 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607164100 +0300" stop="20260607172100 +0300" channel="tr.beingurme">
@@ -21052,7 +21052,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608141500 +0300" stop="20260608150100 +0300" channel="tr.beingurme">
-    <title lang="tr">Tek Kişilik Tarifler S1 B 6 Yaşam</title>
+    <title lang="tr">Tek Kişilik Tarifler S1 B 6 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608150100 +0300" stop="20260608154100 +0300" channel="tr.beingurme">
@@ -21172,7 +21172,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607150000 +0300" channel="tr.beinhomeentertainment">
-    <title lang="tr">Grand Designs Sweden S1 Ep 6 Yaşam •</title>
+    <title lang="tr">Grand Designs Sweden S1 Ep 6 Yaşam</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607150000 +0300" stop="20260607155500 +0300" channel="tr.beinhomeentertainment">
@@ -21180,7 +21180,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607155500 +0300" stop="20260607170100 +0300" channel="tr.beinhomeentertainment">
-    <title lang="tr">Race Across The World S5 Ep8 Yaşam</title>
+    <title lang="tr">Race Across The World S5 Ep8 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607170100 +0300" stop="20260607180600 +0300" channel="tr.beinhomeentertainment">
@@ -21272,7 +21272,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608120000 +0300" stop="20260608130000 +0300" channel="tr.beinhomeentertainment">
-    <title lang="tr">Grand Designs Sweden S1 Ep 6 Yaşam •</title>
+    <title lang="tr">Grand Designs Sweden S1 Ep 6 Yaşam</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608130000 +0300" stop="20260608135500 +0300" channel="tr.beinhomeentertainment">
@@ -21280,7 +21280,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608135500 +0300" stop="20260608150100 +0300" channel="tr.beinhomeentertainment">
-    <title lang="tr">Race Across The World S5 Ep8 Yaşam</title>
+    <title lang="tr">Race Across The World S5 Ep8 Yaşam •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608150100 +0300" stop="20260608160600 +0300" channel="tr.beinhomeentertainment">
@@ -21404,7 +21404,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260607141600 +0300" stop="20260607145500 +0300" channel="tr.beiniz">
-    <title lang="tr">Suda Yaşayanlar S1 Ep 8 Belgesel •</title>
+    <title lang="tr">Suda Yaşayanlar S1 Ep 8</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260607145500 +0300" stop="20260607153100 +0300" channel="tr.beiniz">
     <title lang="tr">İmza Peyzajım S1 Ep 8</title>
@@ -21535,7 +21536,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260608124600 +0300" stop="20260608132500 +0300" channel="tr.beiniz">
-    <title lang="tr">Suda Yaşayanlar S1 Ep 8 Belgesel •</title>
+    <title lang="tr">Suda Yaşayanlar S1 Ep 8</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260608132500 +0300" stop="20260608140100 +0300" channel="tr.beiniz">
     <title lang="tr">İmza Peyzajım S1 Ep 8</title>
@@ -21610,12 +21612,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260607133800 +0300" stop="20260607154300 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">Dream Horse (2020) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Dream Horse (2020)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260607154300 +0300" stop="20260607174300 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">50 Km/h (2024)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">50 Km/h (2024) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607174300 +0300" stop="20260607194100 +0300" channel="tr.beinmoviesaction2">
     <title lang="tr">Peacock (2024)</title>
@@ -21650,12 +21652,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260608102000 +0300" stop="20260608122500 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">Dream Horse (2020) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Dream Horse (2020)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260608122500 +0300" stop="20260608142500 +0300" channel="tr.beinmoviesaction2">
-    <title lang="tr">50 Km/h (2024)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">50 Km/h (2024) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608142500 +0300" stop="20260608162300 +0300" channel="tr.beinmoviesaction2">
     <title lang="tr">Peacock (2024)</title>
@@ -21698,12 +21700,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260607133800 +0300" stop="20260607154300 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">Dream Horse (2020) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Dream Horse (2020)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260607154300 +0300" stop="20260607174300 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">50 Km/h (2024)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">50 Km/h (2024) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607174300 +0300" stop="20260607194100 +0300" channel="tr.beinmoviespremiere">
     <title lang="tr">Peacock (2024)</title>
@@ -21738,12 +21740,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260608102000 +0300" stop="20260608122500 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">Dream Horse (2020) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Dream Horse (2020)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260608122500 +0300" stop="20260608142500 +0300" channel="tr.beinmoviespremiere">
-    <title lang="tr">50 Km/h (2024)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">50 Km/h (2024) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608142500 +0300" stop="20260608162300 +0300" channel="tr.beinmoviespremiere">
     <title lang="tr">Peacock (2024)</title>
@@ -21786,12 +21788,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260607131500 +0300" stop="20260607151500 +0300" channel="tr.beinmoviesstars">
-    <title lang="tr">Super 8 (2011) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Super 8 (2011)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260607151500 +0300" stop="20260607172400 +0300" channel="tr.beinmoviesstars">
-    <title lang="tr">Nightcrawler (2014)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Nightcrawler (2014) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607172400 +0300" stop="20260607200000 +0300" channel="tr.beinmoviesstars">
     <title lang="tr">Into The Wild (2007)</title>
@@ -21826,12 +21828,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260608095000 +0300" stop="20260608115000 +0300" channel="tr.beinmoviesstars">
-    <title lang="tr">Super 8 (2011) Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Super 8 (2011)</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260608115000 +0300" stop="20260608135900 +0300" channel="tr.beinmoviesstars">
-    <title lang="tr">Nightcrawler (2014)</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Nightcrawler (2014) Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608135900 +0300" stop="20260608163500 +0300" channel="tr.beinmoviesstars">
     <title lang="tr">Into The Wild (2007)</title>
@@ -21882,12 +21884,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260607141900 +0300" stop="20260607160000 +0300" channel="tr.beinmoviesturk">
-    <title lang="tr">Beni Sevenler Listesi Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Beni Sevenler Listesi</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607174500 +0300" channel="tr.beinmoviesturk">
-    <title lang="tr">Varyemez</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Varyemez Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607174500 +0300" stop="20260607194400 +0300" channel="tr.beinmoviesturk">
     <title lang="tr">İşe Yarar Bir Şey</title>
@@ -21930,12 +21932,12 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260608094300 +0300" stop="20260608112400 +0300" channel="tr.beinmoviesturk">
-    <title lang="tr">Beni Sevenler Listesi Film •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Beni Sevenler Listesi</title>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260608112400 +0300" stop="20260608130900 +0300" channel="tr.beinmoviesturk">
-    <title lang="tr">Varyemez</title>
-    <category lang="tr">Film</category>
+    <title lang="tr">Varyemez Film •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608130900 +0300" stop="20260608150800 +0300" channel="tr.beinmoviesturk">
     <title lang="tr">İşe Yarar Bir Şey</title>
@@ -22014,16 +22016,16 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607140100 +0300" stop="20260607150500 +0300" channel="tr.beinseries1">
-    <title lang="tr">This City Is Ours S1 Ep 3 Dizi •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">This City Is Ours S1 Ep 3</title>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607150500 +0300" stop="20260607160900 +0300" channel="tr.beinseries1">
     <title lang="tr">This City Is Ours S1 Ep 4</title>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607160900 +0300" stop="20260607170000 +0300" channel="tr.beinseries1">
-    <title lang="tr">Capture, The S1 Ep 3</title>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Capture, The S1 Ep 3 Dizi •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607170000 +0300" stop="20260607180000 +0300" channel="tr.beinseries1">
     <title lang="tr">Capture, The S1 Ep 4</title>
@@ -22098,16 +22100,16 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608115200 +0300" stop="20260608125600 +0300" channel="tr.beinseries1">
-    <title lang="tr">This City Is Ours S1 Ep 3 Dizi •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">This City Is Ours S1 Ep 3</title>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608125600 +0300" stop="20260608140000 +0300" channel="tr.beinseries1">
     <title lang="tr">This City Is Ours S1 Ep 4</title>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608140000 +0300" stop="20260608145100 +0300" channel="tr.beinseries1">
-    <title lang="tr">Capture, The S1 Ep 3</title>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Capture, The S1 Ep 3 Dizi •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608145100 +0300" stop="20260608155100 +0300" channel="tr.beinseries1">
     <title lang="tr">Capture, The S1 Ep 4</title>
@@ -22194,16 +22196,16 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607140100 +0300" stop="20260607150100 +0300" channel="tr.beinseries2">
-    <title lang="tr">Chicago Med S11 Ep 17 Dizi •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Chicago Med S11 Ep 17</title>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607150100 +0300" stop="20260607160100 +0300" channel="tr.beinseries2">
     <title lang="tr">Chicago Med S11 Ep 18</title>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260607160100 +0300" stop="20260607170100 +0300" channel="tr.beinseries2">
-    <title lang="tr">Apples Never Fall S1 Ep 5</title>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Apples Never Fall S1 Ep 5 Dizi •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607170100 +0300" stop="20260607180100 +0300" channel="tr.beinseries2">
     <title lang="tr">Apples Never Fall S1 Ep 6</title>
@@ -22278,16 +22280,16 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608120300 +0300" stop="20260608130300 +0300" channel="tr.beinseries2">
-    <title lang="tr">Chicago Med S11 Ep 17 Dizi •</title>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Chicago Med S11 Ep 17</title>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608130300 +0300" stop="20260608140300 +0300" channel="tr.beinseries2">
     <title lang="tr">Chicago Med S11 Ep 18</title>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608140300 +0300" stop="20260608150300 +0300" channel="tr.beinseries2">
-    <title lang="tr">Apples Never Fall S1 Ep 5</title>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Apples Never Fall S1 Ep 5 Dizi •</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608150300 +0300" stop="20260608160300 +0300" channel="tr.beinseries2">
     <title lang="tr">Apples Never Fall S1 Ep 6</title>
@@ -22312,9 +22314,6 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
   <programme start="20260608210400 +0300" stop="20260608220200 +0300" channel="tr.beinseries2">
     <title lang="tr">Sorgu S2 Ep1</title>
     <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.beinsporthaber">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.beinsporthaber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -22565,6 +22564,9 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.beinsporthaber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.beinsporthaber">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260607000000 +0300" stop="20260607014500 +0300" channel="tr.beinsports1">
     <title lang="tr">Ç.rizespor - İ.eyüpspor</title>
     <desc lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta Ç.rizespor - İ.eyüpspor Maçı Bant -</desc>
@@ -22629,7 +22631,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607154500 +0300" channel="tr.beinsports1">
-    <title lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta Fenerbahçe - T.konyaspor Maçı Bant - Spor •</title>
+    <title lang="tr">Fenerbahçe - T.konyaspor</title>
+    <desc lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta Fenerbahçe - T.konyaspor Maçı Bant -</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607154500 +0300" stop="20260607160000 +0300" channel="tr.beinsports1">
@@ -22637,8 +22640,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607174500 +0300" channel="tr.beinsports1">
-    <title lang="tr">H.antalyaspor - Galatasaray</title>
-    <desc lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta H.antalyaspor - Galatasaray Maçı Bant -</desc>
+    <title lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta H.antalyaspor - Galatasaray Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607174500 +0300" stop="20260607180000 +0300" channel="tr.beinsports1">
@@ -22718,7 +22720,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608115900 +0300" stop="20260608134400 +0300" channel="tr.beinsports1">
-    <title lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta Fenerbahçe - T.konyaspor Maçı Bant - Spor •</title>
+    <title lang="tr">Fenerbahçe - T.konyaspor</title>
+    <desc lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta Fenerbahçe - T.konyaspor Maçı Bant -</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608134400 +0300" stop="20260608135900 +0300" channel="tr.beinsports1">
@@ -22726,8 +22729,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608135900 +0300" stop="20260608154400 +0300" channel="tr.beinsports1">
-    <title lang="tr">H.antalyaspor - Galatasaray</title>
-    <desc lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta H.antalyaspor - Galatasaray Maçı Bant -</desc>
+    <title lang="tr">Trendyol Süper Lig Season 2025/2026 16. Hafta H.antalyaspor - Galatasaray Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608154400 +0300" stop="20260608155900 +0300" channel="tr.beinsports1">
@@ -22821,7 +22823,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607154800 +0300" channel="tr.beinsports2">
-    <title lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İstanbulspor - A.h.iğdır Fk Maçı Bant - Spor •</title>
+    <title lang="tr">İstanbulspor - A.h.iğdır Fk</title>
+    <desc lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İstanbulspor - A.h.iğdır Fk Maçı Bant -</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607154800 +0300" stop="20260607160100 +0300" channel="tr.beinsports2">
@@ -22829,8 +22832,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607160100 +0300" stop="20260607174500 +0300" channel="tr.beinsports2">
-    <title lang="tr">İ.a.vanspor Fk - Erzurumspor Fk</title>
-    <desc lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İ.a.vanspor Fk - Erzurumspor Fk Maçı Bant -</desc>
+    <title lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İ.a.vanspor Fk - Erzurumspor Fk Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607174500 +0300" stop="20260607180000 +0300" channel="tr.beinsports2">
@@ -22915,7 +22917,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608120000 +0300" stop="20260608134800 +0300" channel="tr.beinsports2">
-    <title lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İstanbulspor - A.h.iğdır Fk Maçı Bant - Spor •</title>
+    <title lang="tr">İstanbulspor - A.h.iğdır Fk</title>
+    <desc lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İstanbulspor - A.h.iğdır Fk Maçı Bant -</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608134800 +0300" stop="20260608140100 +0300" channel="tr.beinsports2">
@@ -22923,8 +22926,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608140100 +0300" stop="20260608154500 +0300" channel="tr.beinsports2">
-    <title lang="tr">İ.a.vanspor Fk - Erzurumspor Fk</title>
-    <desc lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İ.a.vanspor Fk - Erzurumspor Fk Maçı Bant -</desc>
+    <title lang="tr">Trendyol 1. Lig Season 2025/2026 28. Hafta İ.a.vanspor Fk - Erzurumspor Fk Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608154500 +0300" stop="20260608160000 +0300" channel="tr.beinsports2">
@@ -23018,7 +23020,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607140100 +0300" stop="20260607154600 +0300" channel="tr.beinsports3">
-    <title lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Nott'm Forest - Man.utd Maçı Bant - Spor •</title>
+    <title lang="tr">Nott'm Forest - Man.utd</title>
+    <desc lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Nott'm Forest - Man.utd Maçı Bant -</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607154600 +0300" stop="20260607160000 +0300" channel="tr.beinsports3">
@@ -23026,8 +23029,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607174700 +0300" channel="tr.beinsports3">
-    <title lang="tr">Tottenham - Chelsea</title>
-    <desc lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Tottenham - Chelsea Maçı Bant -</desc>
+    <title lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Tottenham - Chelsea Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607174700 +0300" stop="20260607180100 +0300" channel="tr.beinsports3">
@@ -23112,7 +23114,8 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608120000 +0300" stop="20260608134500 +0300" channel="tr.beinsports3">
-    <title lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Nott'm Forest - Man.utd Maçı Bant - Spor •</title>
+    <title lang="tr">Nott'm Forest - Man.utd</title>
+    <desc lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Nott'm Forest - Man.utd Maçı Bant -</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608134500 +0300" stop="20260608135900 +0300" channel="tr.beinsports3">
@@ -23120,8 +23123,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608135900 +0300" stop="20260608154600 +0300" channel="tr.beinsports3">
-    <title lang="tr">Tottenham - Chelsea</title>
-    <desc lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Tottenham - Chelsea Maçı Bant -</desc>
+    <title lang="tr">İngiltere Premier Lig Season 2025/2026 10. Hafta Tottenham - Chelsea Maçı Bant - Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608154600 +0300" stop="20260608160000 +0300" channel="tr.beinsports3">
@@ -23231,7 +23233,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607143100 +0300" stop="20260607155100 +0300" channel="tr.beinsports4">
-    <title lang="tr">Start Line - Monaco Gp 2026 - Canlı Spor •</title>
+    <title lang="tr">Start Line - Monaco Gp 2026 - Canlı</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607155100 +0300" stop="20260607160100 +0300" channel="tr.beinsports4">
@@ -23239,7 +23241,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607160100 +0300" stop="20260607181600 +0300" channel="tr.beinsports4">
-    <title lang="tr">Formula 1 Monaco Gp (2026) Yarış - Canlı</title>
+    <title lang="tr">Formula 1 Monaco Gp (2026) Yarış - Canlı Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607181600 +0300" stop="20260607194700 +0300" channel="tr.beinsports4">
@@ -23325,7 +23327,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608121700 +0300" stop="20260608133700 +0300" channel="tr.beinsports4">
-    <title lang="tr">Start Line - Monaco Gp 2026 - Canlı Spor •</title>
+    <title lang="tr">Start Line - Monaco Gp 2026 - Canlı</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608133700 +0300" stop="20260608134700 +0300" channel="tr.beinsports4">
@@ -23333,7 +23335,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608134700 +0300" stop="20260608160200 +0300" channel="tr.beinsports4">
-    <title lang="tr">Formula 1 Monaco Gp (2026) Yarış - Canlı</title>
+    <title lang="tr">Formula 1 Monaco Gp (2026) Yarış - Canlı Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608160200 +0300" stop="20260608173300 +0300" channel="tr.beinsports4">
@@ -23400,7 +23402,6 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
   </programme>
   <programme start="20260607193000 +0300" stop="20260607200000 +0300" channel="tr.beinsports5">
     <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11'ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.beinsports5">
@@ -23449,7 +23450,6 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
   </programme>
   <programme start="20260608173000 +0300" stop="20260608180000 +0300" channel="tr.beinsports5">
     <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11'ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608180000 +0300" stop="20260608200000 +0300" channel="tr.beinsports5">
@@ -23795,7 +23795,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607143000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Tff Olağan Mali Genel Kurulu (2026) - Canlı Spor •</title>
+    <title lang="tr">Tff Olağan Mali Genel Kurulu (2026) - Canlı</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607143000 +0300" channel="tr.beinsportshaber">
@@ -23838,7 +23838,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <title lang="tr">Premier League Stories</title>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607163000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Haber 26 Dk - Canlı</title>
+    <title lang="tr">Haber 26 Dk - Canlı Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607163000 +0300" channel="tr.beinsportshaber">
@@ -24543,7 +24543,6 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
   </programme>
   <programme start="20260612174000 +0300" stop="20260612175000 +0300" channel="tr.beinsportshaber">
     <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11'ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612175000 +0300" stop="20260612180000 +0300" channel="tr.beinsportshaber">
@@ -25002,7 +25001,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260614140000 +0300" stop="20260614143000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Tff Olağan Mali Genel Kurulu (2026) - Canlı Spor •</title>
+    <title lang="tr">Tff Olağan Mali Genel Kurulu (2026) - Canlı</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260614140000 +0300" stop="20260614143000 +0300" channel="tr.beinsportshaber">
@@ -25045,7 +25044,7 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <title lang="tr">Premier League Stories</title>
   </programme>
   <programme start="20260614160000 +0300" stop="20260614163000 +0300" channel="tr.beinsportshaber">
-    <title lang="tr">Haber 26 Dk - Canlı</title>
+    <title lang="tr">Haber 26 Dk - Canlı Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260614160000 +0300" stop="20260614163000 +0300" channel="tr.beinsportshaber">
@@ -25385,11 +25384,11 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2 Spor •</title>
+    <title lang="tr">Bein Sports Max 2</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607180000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2</title>
+    <title lang="tr">Bein Sports Max 2 Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260607180000 +0300" stop="20260607193000 +0300" channel="tr.beinsportsmax2">
@@ -25429,11 +25428,11 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608113000 +0300" stop="20260608133000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2 Spor •</title>
+    <title lang="tr">Bein Sports Max 2</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608133000 +0300" stop="20260608153000 +0300" channel="tr.beinsportsmax2">
-    <title lang="tr">Bein Sports Max 2</title>
+    <title lang="tr">Bein Sports Max 2 Spor •</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608153000 +0300" stop="20260608170000 +0300" channel="tr.beinsportsmax2">
@@ -25451,9 +25450,6 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
   <programme start="20260608210000 +0300" stop="20260608213000 +0300" channel="tr.beinsportsmax2">
     <title lang="tr">Bein Sports Max 2</title>
     <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.belgiseltv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.belgiseltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -25702,6 +25698,9 @@ Mutlu bir aile hayatı için eş seçiminde nelere dikkat edilmeli?</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.belgiseltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.belgiseltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607090000 +0300" stop="20260607100000 +0300" channel="tr.benguturk">
@@ -29501,9 +29500,6 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <desc lang="tr">Girişimcilik dünyasına dair güncel konular bu içerikte ele alınıyor. İş fikirleri, üretim süreçleri ve başarı örnekleri sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye girişimciliğin temel dinamiklerini tanıma ve ilham alma imkânı sunuluyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.brt1tv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.brt1tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -29753,6 +29749,9 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.brt1tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.brt1tv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260607000000 +0300" stop="20260607080000 +0300" channel="tr.brt2">
     <title lang="tr">Otomasyon</title>
     <category lang="tr">Magazin</category>
@@ -29841,9 +29840,6 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <title lang="tr">Konser Saati</title>
     <desc lang="tr">Program, canlı sahne konserlerini ve sanatçı performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla müzikseverlere keyifli anlar sunarken, sahne atmosferini evlere taşıyor ve müzik deneyimini zenginleştiriyor.</desc>
     <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.brt2tv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -30094,7 +30090,7 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.brtv">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.brt2tv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.brtv">
@@ -30344,6 +30340,9 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.brtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.brtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.cantv">
@@ -32364,6 +32363,10 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
   </programme>
   <programme start="20260608000500 +0300" stop="20260608072500 +0300" channel="tr.cartoonito">
     <title lang="tr">Grizzy ve Lemmingler</title>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260608000500 +0300" stop="20260608125400 +0300" channel="tr.cartoonito">
+    <title lang="tr">Bebek Lemmingler</title>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260608000500 +0300" stop="20260608000900 +0300" channel="tr.cartoonito">
@@ -44737,7 +44740,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">Africa Live Uluslararası</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607143000 +0300" channel="tr.cgtn">
-    <title lang="tr">Zoom In Uluslararası •</title>
+    <title lang="tr">Zoom In Uluslararası</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607143000 +0300" channel="tr.cgtn">
     <title lang="tr">Full Frame</title>
@@ -44800,7 +44803,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">The Heat</title>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607163000 +0300" channel="tr.cgtn">
-    <title lang="tr">The World Today Uluslararası</title>
+    <title lang="tr">The World Today Uluslararası •</title>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607163000 +0300" channel="tr.cgtn">
     <title lang="tr">The World Today</title>
@@ -48687,9 +48690,6 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   <programme start="20260608000000 +0300" stop="20260608010000 +0300" channel="tr.ciftcitv">
     <title lang="tr">Köy Hasreti Magazin</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.cizgifilmtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.cizgifilmtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -48937,6 +48937,9 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.cizgifilmtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.cizgifilmtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607003000 +0300" channel="tr.classicalharmony">
@@ -59859,17 +59862,9 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <desc lang="tr">Meryl: Winner Takes It All, sinema tarihinin en etkileyici ve çok yönlü oyuncularından Meryl Streep'in olağanüstü kariyerine yakından bakıyor. 3 Oscar ödülü, onlarca adaylık ve sayısız unutulmaz rolle hafızalara kazınan Streep'in sahne arkasındaki tutkusu, rol seçimlerindeki zekâsı ve Hollywood'daki sarsılmaz duruşu bu özel yapımda gözler önüne seriliyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260607235000 +0300" stop="20260608002000 +0300" channel="tr.cnbce">
+  <programme start="20260607235000 +0300" stop="20260608004000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
     <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260608002000 +0300" stop="20260608004000 +0300" channel="tr.cnbce">
-    <title lang="tr">Saba Tümer'le</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260608002000 +0300" stop="20260608004000 +0300" channel="tr.cnbce">
-    <title lang="tr">Saba Tümer'le</title>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260608004000 +0300" stop="20260608021000 +0300" channel="tr.cnbce">
@@ -59983,6 +59978,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260608203000 +0300" stop="20260608213000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260608213000 +0300" stop="20260608231000 +0300" channel="tr.cnbce">
@@ -59995,6 +59991,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260609000000 +0300" stop="20260609005000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260609005000 +0300" stop="20260609022000 +0300" channel="tr.cnbce">
@@ -60103,6 +60100,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260609203000 +0300" stop="20260609213000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260609213000 +0300" stop="20260609231000 +0300" channel="tr.cnbce">
@@ -60115,6 +60113,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260610000000 +0300" stop="20260610005000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260610005000 +0300" stop="20260610022000 +0300" channel="tr.cnbce">
@@ -60224,6 +60223,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260610203000 +0300" stop="20260610213000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260610213000 +0300" stop="20260610231000 +0300" channel="tr.cnbce">
@@ -60236,6 +60236,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260611000000 +0300" stop="20260611005000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260611005000 +0300" stop="20260611022000 +0300" channel="tr.cnbce">
@@ -60342,6 +60343,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260611203000 +0300" stop="20260611213000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260611213000 +0300" stop="20260611230000 +0300" channel="tr.cnbce">
@@ -60354,6 +60356,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260612000000 +0300" stop="20260612005000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260612005000 +0300" stop="20260612014000 +0300" channel="tr.cnbce">
@@ -60427,6 +60430,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260612150000 +0300" stop="20260612155000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260612155000 +0300" stop="20260612163000 +0300" channel="tr.cnbce">
@@ -60461,6 +60465,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260612195000 +0300" stop="20260612204500 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260612204500 +0300" stop="20260612222000 +0300" channel="tr.cnbce">
@@ -60476,6 +60481,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260612235000 +0300" stop="20260613004000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260613004000 +0300" stop="20260613013000 +0300" channel="tr.cnbce">
@@ -60578,6 +60584,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260613150000 +0300" stop="20260613155000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260613155000 +0300" stop="20260613163000 +0300" channel="tr.cnbce">
@@ -60617,6 +60624,7 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
   </programme>
   <programme start="20260613195000 +0300" stop="20260613204500 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260613204500 +0300" stop="20260613214000 +0300" channel="tr.cnbce">
@@ -60639,8 +60647,9 @@ CEM TELEVİZYONU YÖNETİM KURULU</desc>
     <desc lang="tr">Meryl: Winner Takes It All, sinema tarihinin en etkileyici ve çok yönlü oyuncularından Meryl Streep'in olağanüstü kariyerine yakından bakıyor. 3 Oscar ödülü, onlarca adaylık ve sayısız unutulmaz rolle hafızalara kazınan Streep'in sahne arkasındaki tutkusu, rol seçimlerindeki zekâsı ve Hollywood'daki sarsılmaz duruşu bu özel yapımda gözler önüne seriliyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260613235000 +0300" stop="20260614002000 +0300" channel="tr.cnbce">
+  <programme start="20260613235000 +0300" stop="20260614004000 +0300" channel="tr.cnbce">
     <title lang="tr">Saba Tümer'le</title>
+    <desc lang="tr">Saba Tümer'le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show programıdır. Sanat, magazin ve gündeme dair renkli başlıklar; bol kahkaha, duygu dolu anlar ve merak uyandıran sohbetlerle izleyicilere keyifli dakikalar sunar.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607010000 +0300" channel="tr.cnninternational">
@@ -61613,9 +61622,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Göksu Öngören Özgür ile Ne Oluyor?'da, siyasetteki sıcak gündem mercek altına alınıyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.cocuklaraozeltv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.cocuklaraozeltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -61863,6 +61869,9 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.cocuklaraozeltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.cocuklaraozeltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607002500 +0300" stop="20260607011500 +0300" channel="tr.cosmoen">
@@ -68682,9 +68691,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   <programme start="20260613235700 +0300" stop="20260614000200 +0300" channel="tr.davinci">
     <title lang="tr">Futuris</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.dimtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.dimtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -68932,6 +68938,9 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.dimtv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.dimtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607002000 +0300" stop="20260607010500 +0300" channel="tr.discoverychannel">
@@ -73285,9 +73294,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Pijamaskeliler, günü kurtarmak için bütün düşmanlarıyla gece vakti yüzleşir! Kedi Çocuk, Baykuş Kız ve Kertenkele, süper arkadaşlarıyla beraber daha da durdurulamaz hale gelir!</desc>
     <category lang="tr">Çocuk-Sezon 3, Bölüm 76</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.diyanettv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.diyanettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -73535,6 +73541,9 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.diyanettv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.diyanettv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000200 +0300" stop="20260607010000 +0300" channel="tr.dizitv">
@@ -79988,19 +79997,19 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Yepyeni, Türk müzik dünyasına taze bir soluk getiren en yeni şarkıları ve klipleri müzikseverlerle buluşturuyor. Güncel çıkışlar ve yeni sesler programda bir araya geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260531130000 +0300" stop="20260531150000 +0300" channel="tr.dreamturk">
+  <programme start="20260531130000 +0300" stop="20260531140000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260531150000 +0300" stop="20260531160000 +0300" channel="tr.dreamturk">
+  <programme start="20260531140000 +0300" stop="20260531150000 +0300" channel="tr.dreamturk">
+    <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260531150000 +0300" stop="20260531170000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260531160000 +0300" stop="20260531170000 +0300" channel="tr.dreamturk">
-    <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260531170000 +0300" stop="20260531180000 +0300" channel="tr.dreamturk">
@@ -80135,8 +80144,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260603140000 +0300" stop="20260603150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260603150000 +0300" stop="20260603190000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -80158,8 +80165,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260603210000 +0300" stop="20260603220000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260603220000 +0300" stop="20260604070000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -80253,6 +80258,8 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260606140000 +0300" stop="20260606150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260606150000 +0300" stop="20260606160000 +0300" channel="tr.dreamturk">
     <title lang="tr">Top 20</title>
@@ -80304,19 +80311,19 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Yepyeni, Türk müzik dünyasına taze bir soluk getiren en yeni şarkıları ve klipleri müzikseverlerle buluşturuyor. Güncel çıkışlar ve yeni sesler programda bir araya geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260607130000 +0300" stop="20260607150000 +0300" channel="tr.dreamturk">
+  <programme start="20260607130000 +0300" stop="20260607140000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260607150000 +0300" stop="20260607160000 +0300" channel="tr.dreamturk">
+  <programme start="20260607140000 +0300" stop="20260607150000 +0300" channel="tr.dreamturk">
+    <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260607150000 +0300" stop="20260607170000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260607160000 +0300" stop="20260607170000 +0300" channel="tr.dreamturk">
-    <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260607170000 +0300" stop="20260607180000 +0300" channel="tr.dreamturk">
@@ -80451,8 +80458,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260610140000 +0300" stop="20260610150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260610150000 +0300" stop="20260610190000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -80474,8 +80479,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260610210000 +0300" stop="20260610220000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260610220000 +0300" stop="20260611070000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -80569,6 +80572,8 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260613140000 +0300" stop="20260613150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260613150000 +0300" stop="20260613160000 +0300" channel="tr.dreamturk">
     <title lang="tr">Top 20</title>
@@ -80620,19 +80625,19 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Yepyeni, Türk müzik dünyasına taze bir soluk getiren en yeni şarkıları ve klipleri müzikseverlerle buluşturuyor. Güncel çıkışlar ve yeni sesler programda bir araya geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260614130000 +0300" stop="20260614150000 +0300" channel="tr.dreamturk">
+  <programme start="20260614130000 +0300" stop="20260614140000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260614150000 +0300" stop="20260614160000 +0300" channel="tr.dreamturk">
+  <programme start="20260614140000 +0300" stop="20260614150000 +0300" channel="tr.dreamturk">
+    <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260614150000 +0300" stop="20260614170000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260614160000 +0300" stop="20260614170000 +0300" channel="tr.dreamturk">
-    <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260614170000 +0300" stop="20260614180000 +0300" channel="tr.dreamturk">
@@ -80767,8 +80772,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260617140000 +0300" stop="20260617150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260617150000 +0300" stop="20260617190000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -80790,8 +80793,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260617210000 +0300" stop="20260617220000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260617220000 +0300" stop="20260618070000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -80885,6 +80886,8 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260620140000 +0300" stop="20260620150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260620150000 +0300" stop="20260620160000 +0300" channel="tr.dreamturk">
     <title lang="tr">Top 20</title>
@@ -80936,19 +80939,19 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Yepyeni, Türk müzik dünyasına taze bir soluk getiren en yeni şarkıları ve klipleri müzikseverlerle buluşturuyor. Güncel çıkışlar ve yeni sesler programda bir araya geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260621130000 +0300" stop="20260621150000 +0300" channel="tr.dreamturk">
+  <programme start="20260621130000 +0300" stop="20260621140000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260621150000 +0300" stop="20260621160000 +0300" channel="tr.dreamturk">
+  <programme start="20260621140000 +0300" stop="20260621150000 +0300" channel="tr.dreamturk">
+    <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260621150000 +0300" stop="20260621170000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260621160000 +0300" stop="20260621170000 +0300" channel="tr.dreamturk">
-    <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260621170000 +0300" stop="20260621180000 +0300" channel="tr.dreamturk">
@@ -81083,8 +81086,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260624140000 +0300" stop="20260624150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260624150000 +0300" stop="20260624190000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -81106,8 +81107,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260624210000 +0300" stop="20260624220000 +0300" channel="tr.dreamturk">
     <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260624220000 +0300" stop="20260625070000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -81201,6 +81200,8 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260627140000 +0300" stop="20260627150000 +0300" channel="tr.dreamturk">
     <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260627150000 +0300" stop="20260627160000 +0300" channel="tr.dreamturk">
     <title lang="tr">Top 20</title>
@@ -81252,19 +81253,19 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Yepyeni, Türk müzik dünyasına taze bir soluk getiren en yeni şarkıları ve klipleri müzikseverlerle buluşturuyor. Güncel çıkışlar ve yeni sesler programda bir araya geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260628130000 +0300" stop="20260628150000 +0300" channel="tr.dreamturk">
+  <programme start="20260628130000 +0300" stop="20260628140000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260628150000 +0300" stop="20260628160000 +0300" channel="tr.dreamturk">
+  <programme start="20260628140000 +0300" stop="20260628150000 +0300" channel="tr.dreamturk">
+    <title lang="tr">Ocak'ta Yemeğim Var</title>
+    <desc lang="tr">Ocak'ta Yemeğim Var, günlük hayata uygun, kolay uygulanabilir tariflerle mutfağa keyif katıyor. Pratik püf noktaları ve lezzetli sunumlarla izleyiciye ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260628150000 +0300" stop="20260628170000 +0300" channel="tr.dreamturk">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260628160000 +0300" stop="20260628170000 +0300" channel="tr.dreamturk">
-    <title lang="tr">Deşarj</title>
-    <desc lang="tr">Deşarj, enerjisi yüksek klipler ve tempolu şarkılarla müzikseverlere dinamik bir yayın sunuyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260628170000 +0300" stop="20260628180000 +0300" channel="tr.dreamturk">
@@ -106027,9 +106028,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Amatör dedektif Bayan Jane Marple'ın bir çok cinayet gizem macerasına katılın; oldukça analitik bir zihne sahip olan Marple bir şekilde etrafındaki gizemli suçları ve cinayetleri kendine çekiyor gibi görünüyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.erciyestv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -106279,7 +106277,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.estv">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.erciyestv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.estv">
@@ -106529,6 +106527,9 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.estv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.estv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.eurosport1">
@@ -110291,42 +110292,35 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Head To Head'te güncel futbol başlıkları, karşılıklı değerlendirmeler ve istatistikler eşliğinde masaya yatırılıyor. Farklı bakış açılarıyla tempolu bir tartışma sunuluyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260607160000 +0300" stop="20260607163000 +0300" channel="tr.fbtv">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Türkiye ve dünyadan güncel gelişmeleri, sıcak başlıkları ve önemli olayları izleyiciyle buluşturuyor. Tarafsız ve anlaşılır anlatımıyla gündemi yakından takip etme imkânı sunuyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260607163000 +0300" stop="20260607164500 +0300" channel="tr.fbtv">
-    <title lang="tr">Analiz Fenerbahçe</title>
-    <desc lang="tr">Analiz Fenerbahçe, Fenerbahçe'nin karşılaşmalarını taktik, istatistik ve oyun planı üzerinden ele alıyor. Uzman yorumlarıyla maçların öne çıkan anları ve kritik detayları masaya yatırılıyor.</desc>
+  <programme start="20260607160000 +0300" stop="20260607170000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260607164500 +0300" stop="20260607170000 +0300" channel="tr.fbtv">
-    <title lang="tr">Söz Taraftarda</title>
-    <desc lang="tr">Söz Taraftarda, Fenerbahçe taraftarının maçlara, gündeme ve kulübe dair düşüncelerini özgürce dile getirdiği bir programdır. Tribünlerin sesi ve taraftarın bakış açısı ekrana yansıtılır.</desc>
+  <programme start="20260607170000 +0300" stop="20260607210000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260607170000 +0300" stop="20260607180000 +0300" channel="tr.fbtv">
-    <title lang="tr">Fenerin Maçı Var</title>
-    <desc lang="tr">Fenerin Maçı Var, Fenerbahçe'nin maçları öncesinde ve sırasında yaşanan gelişmeleri, maç atmosferini ve önemli detayları izleyiciyle buluşturuyor. Taraftar heyecanı ve maç coşkusu programın merkezinde yer alıyor.</desc>
+  <programme start="20260607210000 +0300" stop="20260607220000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260607180000 +0300" stop="20260607200000 +0300" channel="tr.fbtv">
-    <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11'ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
-    <category lang="tr">Spor</category>
+  <programme start="20260607220000 +0300" stop="20260607221500 +0300" channel="tr.fbtv">
+    <title lang="tr">Şampiyon Kadın Futbol Takımımızın Golleri</title>
   </programme>
-  <programme start="20260607200000 +0300" stop="20260607220000 +0300" channel="tr.fbtv">
-    <title lang="tr">Basketbol: Euroleague Maç Havası</title>
-    <desc lang="tr">Maç Havası, karşılaşma öncesi atmosferi, tribün nabzını ve maç gününe dair öne çıkan detayları izleyiciyle buluşturuyor. Taraftar röportajları ve stadyumdan görüntüler programın merkezinde yer alıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260607220000 +0300" stop="20260607233000 +0300" channel="tr.fbtv">
+  <programme start="20260607221500 +0300" stop="20260607224500 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260607233000 +0300" stop="20260608000000 +0300" channel="tr.fbtv">
+  <programme start="20260607224500 +0300" stop="20260607234500 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260607234500 +0300" stop="20260608000000 +0300" channel="tr.fbtv">
     <title lang="tr">Gece Haberi</title>
     <desc lang="tr">Gece Haberi, gün boyunca yaşanan önemli olayları, son dakika gelişmelerini ve gündemin öne çıkan başlıklarını izleyiciyle buluşturuyor. Net ve anlaşılır bir anlatımla günü tamamlıyor.</desc>
     <category lang="tr">Haber</category>
@@ -110429,17 +110423,14 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260608193000 +0300" stop="20260608203000 +0300" channel="tr.fbtv">
     <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11'ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608203000 +0300" stop="20260608223000 +0300" channel="tr.fbtv">
     <title lang="tr">Basketbol: Euroleague Maç Havası</title>
-    <desc lang="tr">Maç Havası, karşılaşma öncesi atmosferi, tribün nabzını ve maç gününe dair öne çıkan detayları izleyiciyle buluşturuyor. Taraftar röportajları ve stadyumdan görüntüler programın merkezinde yer alıyor.</desc>
-    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608223000 +0300" stop="20260608233000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260608233000 +0300" stop="20260609000000 +0300" channel="tr.fbtv">
@@ -110449,7 +110440,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260609000000 +0300" stop="20260609010000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260609010000 +0300" stop="20260609023000 +0300" channel="tr.fbtv">
@@ -110554,7 +110545,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260609221500 +0300" stop="20260609224500 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260609224500 +0300" stop="20260609233000 +0300" channel="tr.fbtv">
@@ -110574,7 +110565,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260610013000 +0300" stop="20260610020000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260610020000 +0300" stop="20260610030000 +0300" channel="tr.fbtv">
@@ -110619,7 +110610,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260610113000 +0300" stop="20260610120000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260610120000 +0300" stop="20260610121500 +0300" channel="tr.fbtv">
@@ -110752,7 +110743,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260611123000 +0300" stop="20260611133000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260611133000 +0300" stop="20260611140000 +0300" channel="tr.fbtv">
@@ -110824,7 +110815,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260612013000 +0300" stop="20260612020000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612020000 +0300" stop="20260612030000 +0300" channel="tr.fbtv">
@@ -110903,17 +110894,14 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260612153000 +0300" stop="20260612160000 +0300" channel="tr.fbtv">
     <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11'ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612160000 +0300" stop="20260612174500 +0300" channel="tr.fbtv">
     <title lang="tr">Basketbol: Euroleague Maç Havası</title>
-    <desc lang="tr">Maç Havası, karşılaşma öncesi atmosferi, tribün nabzını ve maç gününe dair öne çıkan detayları izleyiciyle buluşturuyor. Taraftar röportajları ve stadyumdan görüntüler programın merkezinde yer alıyor.</desc>
-    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612174500 +0300" stop="20260612183000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612183000 +0300" stop="20260612200000 +0300" channel="tr.fbtv">
@@ -110923,7 +110911,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260612200000 +0300" stop="20260612203000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260612203000 +0300" stop="20260612204500 +0300" channel="tr.fbtv">
@@ -110962,7 +110950,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <programme start="20260613013000 +0300" stop="20260613020000 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260613020000 +0300" stop="20260613021500 +0300" channel="tr.fbtv">
@@ -111020,82 +111008,70 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <desc lang="tr">Spor tarihine damga vuran anları sıralayan Top 50, en etkileyici performansları ve hafızalara kazınan mücadeleleri izleyiciyle buluşturuyor. Programda unutulmaz goller, rekorlar ve yıldız sporcuların kariyerlerindeki dönüm noktaları detaylı anlatımlarla aktarılırken, her sıralama spor tutkunlarına heyecan dolu bir yolculuk yaşatıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613093000 +0300" stop="20260613094500 +0300" channel="tr.fbtv">
-    <title lang="tr">Tarihte Bugün</title>
-    <desc lang="tr">Tarihte Bugün, Fenerbahçe tarihine damga vuran maçları, başarıları ve unutulmaz anları gün gün hatırlatıyor. Sarı-lacivertli kulübün hafızasında yer eden gelişmeler arşiv görüntüleriyle izleyiciyle buluşuyor.</desc>
+  <programme start="20260613093000 +0300" stop="20260613100000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613094500 +0300" stop="20260613100000 +0300" channel="tr.fbtv">
-    <title lang="tr">Analiz Fenerbahçe</title>
-    <desc lang="tr">Analiz Fenerbahçe, Fenerbahçe'nin karşılaşmalarını taktik, istatistik ve oyun planı üzerinden ele alıyor. Uzman yorumlarıyla maçların öne çıkan anları ve kritik detayları masaya yatırılıyor.</desc>
+  <programme start="20260613100000 +0300" stop="20260613110000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613100000 +0300" stop="20260613101500 +0300" channel="tr.fbtv">
-    <title lang="tr">Söz Taraftarda</title>
-    <desc lang="tr">Söz Taraftarda, Fenerbahçe taraftarının maçlara, gündeme ve kulübe dair düşüncelerini özgürce dile getirdiği bir programdır. Tribünlerin sesi ve taraftarın bakış açısı ekrana yansıtılır.</desc>
+  <programme start="20260613110000 +0300" stop="20260613120000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613101500 +0300" stop="20260613120000 +0300" channel="tr.fbtv">
-    <title lang="tr">Futbol: Süper Lig</title>
-    <desc lang="tr">Türkiye Süper Ligi, Türkiye'nin en yüksek profesyonel futbol ligidir. Bu lig 1957'de kuruldu ve şu anda 18 kulüpten oluşuyor. Puan tablosunu birinci sırada tamamlayan takım, UEFA Şampiyonlar Ligi grup aşamasına doğrudan yerleşiyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260613120000 +0300" stop="20260613122500 +0300" channel="tr.fbtv">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Günün sıcak gelişmeleri Türkiye ve dünyadan başlıklarla Ana Haber'de aktarılır. Siyaset, ekonomi, toplum ve kültür gündemi; canlı bağlantılar ve sahadan haberlerle ele alınır. Gelişmeler bağlamı ve arka planıyla değerlendirilir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260613122500 +0300" stop="20260613130000 +0300" channel="tr.fbtv">
-    <title lang="tr">Rakamlarla Rakipler</title>
-    <desc lang="tr">Rakamlarla Rakipler'de rakip takımlar; gol, pas, savunma ve oyun verileri üzerinden karşı karşıya geliyor. İstatistiklerin ışığında maç öncesi dengeler değerlendiriliyor.</desc>
+  <programme start="20260613120000 +0300" stop="20260613130000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613130000 +0300" stop="20260613150000 +0300" channel="tr.fbtv">
-    <title lang="tr">U19 Paf Ligi</title>
-    <desc lang="tr">U19 PAF Ligi, kulüplerin altyapılarında yetişen genç yeteneklerin mücadele ettiği, performans ve gelişimin ön planda olduğu bir ligdir. Geleceğin futbolcuları, bu ligde kendilerini gösterme fırsatı bulur.</desc>
-    <category lang="tr">Diğer</category>
+  <programme start="20260613130000 +0300" stop="20260613140000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260613140000 +0300" stop="20260613150000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260613150000 +0300" stop="20260613160000 +0300" channel="tr.fbtv">
-    <title lang="tr">Head To Head</title>
-    <desc lang="tr">Head To Head'te güncel futbol başlıkları, karşılıklı değerlendirmeler ve istatistikler eşliğinde masaya yatırılıyor. Farklı bakış açılarıyla tempolu bir tartışma sunuluyor.</desc>
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613160000 +0300" stop="20260613163000 +0300" channel="tr.fbtv">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Günün sıcak gelişmeleri Türkiye ve dünyadan başlıklarla Ana Haber'de aktarılır. Siyaset, ekonomi, toplum ve kültür gündemi; canlı bağlantılar ve sahadan haberlerle ele alınır. Gelişmeler bağlamı ve arka planıyla değerlendirilir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260613163000 +0300" stop="20260613164500 +0300" channel="tr.fbtv">
-    <title lang="tr">Analiz Fenerbahçe</title>
-    <desc lang="tr">Analiz Fenerbahçe, Fenerbahçe'nin karşılaşmalarını taktik, istatistik ve oyun planı üzerinden ele alıyor. Uzman yorumlarıyla maçların öne çıkan anları ve kritik detayları masaya yatırılıyor.</desc>
+  <programme start="20260613160000 +0300" stop="20260613170000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613164500 +0300" stop="20260613170000 +0300" channel="tr.fbtv">
-    <title lang="tr">Söz Taraftarda</title>
-    <desc lang="tr">Söz Taraftarda, Fenerbahçe taraftarının maçlara, gündeme ve kulübe dair düşüncelerini özgürce dile getirdiği bir programdır. Tribünlerin sesi ve taraftarın bakış açısı ekrana yansıtılır.</desc>
+  <programme start="20260613170000 +0300" stop="20260613210000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613170000 +0300" stop="20260613180000 +0300" channel="tr.fbtv">
-    <title lang="tr">Fenerin Maçı Var</title>
-    <desc lang="tr">Fenerin Maçı Var, Fenerbahçe'nin maçları öncesinde ve sırasında yaşanan gelişmeleri, maç atmosferini ve önemli detayları izleyiciyle buluşturuyor. Taraftar heyecanı ve maç coşkusu programın merkezinde yer alıyor.</desc>
+  <programme start="20260613210000 +0300" stop="20260613220000 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613180000 +0300" stop="20260613200000 +0300" channel="tr.fbtv">
-    <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11'ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
-    <category lang="tr">Spor</category>
+  <programme start="20260613220000 +0300" stop="20260613221500 +0300" channel="tr.fbtv">
+    <title lang="tr">Fenerium Saati</title>
   </programme>
-  <programme start="20260613200000 +0300" stop="20260613220000 +0300" channel="tr.fbtv">
-    <title lang="tr">Basketbol: Euroleague Maç Havası</title>
-    <desc lang="tr">Maç Havası, karşılaşma öncesi atmosferi, tribün nabzını ve maç gününe dair öne çıkan detayları izleyiciyle buluşturuyor. Taraftar röportajları ve stadyumdan görüntüler programın merkezinde yer alıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260613220000 +0300" stop="20260613233000 +0300" channel="tr.fbtv">
+  <programme start="20260613221500 +0300" stop="20260613224500 +0300" channel="tr.fbtv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260613233000 +0300" stop="20260614000000 +0300" channel="tr.fbtv">
+  <programme start="20260613224500 +0300" stop="20260613234500 +0300" channel="tr.fbtv">
+    <title lang="tr">Seçimli Olağanüstü Genel Kurul Toplantısı</title>
+    <desc lang="tr">Fenerbahçe Spor Kulübü'nde gerçekleşen seçim süreci, adaylıklar ve yönetim değişimi ihtimali üzerinden gelişmeler değerlendirilir. Kulüp içi dengeler ve kritik karar anları spor gündemi çerçevesinde izleyiciye aktarılır.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260613234500 +0300" stop="20260614000000 +0300" channel="tr.fbtv">
     <title lang="tr">Gece Haberi</title>
     <desc lang="tr">Gece Haberi, günün öne çıkan gelişmelerini detaylı ve tarafsız biçimde izleyiciyle buluşturur. Siyaset, ekonomi, kültür ve güncel olaylar, deneyimli sunucuların titiz anlatımıyla aktarılır. Program, haberlerin arka planını da ele alarak izleyicinin olayları daha iyi anlamasını sağlar.</desc>
     <category lang="tr">Haber</category>
@@ -112832,9 +112808,6 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <title lang="tr">Türkçe Pop Yayını</title>
     <desc lang="tr">Türkçe pop müzik video yayını</desc>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.fityasatv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.fityasatv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -113082,6 +113055,9 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.fityasatv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.fityasatv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607001000 +0300" channel="tr.flashhaber">
@@ -131387,9 +131363,6 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   <programme start="20260613230000 +0300" stop="20260614000000 +0300" channel="tr.idchannel">
     <title lang="tr">Tekinsiz Tatil</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.ilketv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -131639,7 +131612,7 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.jintv">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.ilketv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.jintv">
@@ -131891,6 +131864,9 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.jintv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.jintv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260607000000 +0300" stop="20260607003000 +0300" channel="tr.kadirgatv">
     <title lang="tr">Haberler</title>
     <desc lang="tr">Kadırga TV Haberler, güncel olayları tarafsız ve hızlı biçimde ekrana taşıyor. Bölgesel ve ulusal gelişmeleri anında öğrenmek için bizi izlemeye devam edin.</desc>
@@ -131980,9 +131956,6 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <title lang="tr">Belgesel</title>
     <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kanal12">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -132233,7 +132206,7 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kanal23">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.kanal12">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kanal23">
@@ -132483,6 +132456,9 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.kanal23">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.kanal23">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607070000 +0300" stop="20260607073000 +0300" channel="tr.kanal24">
@@ -133099,9 +133075,6 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   <programme start="20260608000000 +0300" stop="20260608010000 +0300" channel="tr.kanal26">
     <title lang="tr">Belgesel Diğer</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kanal3">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kanal3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -133351,6 +133324,9 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.kanal3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.kanal3">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260607073000 +0300" stop="20260607083000 +0300" channel="tr.kanal33">
     <title lang="tr">Haber</title>
     <desc lang="tr">Kanal 33'ün "Haber" bülteni, Mersin'den Türkiye'ye ve dünyaya uzanan en güncel gelişmeleri izleyiciyle buluşturuyor.</desc>
@@ -133455,9 +133431,6 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <title lang="tr">Haber Saati</title>
     <desc lang="tr">Türkiye'nin dört bir yanından ve dünyadan sıcak gelişmeler; siyaset, ekonomi, spor, kültür-sanat ve toplumsal olaylar başlıkları altında ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kanal58">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kanal58">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -133706,6 +133679,9 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.kanal58">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.kanal58">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525070000 +0300" channel="tr.kanal6">
@@ -138701,7 +138677,8 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260613130000 +0300" stop="20260613143000 +0300" channel="tr.kanalb">
-    <title lang="tr">şu anda yayında!Biz Bize</title>
+    <title lang="tr">Biz Bize</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260613143000 +0300" stop="20260613150000 +0300" channel="tr.kanalb">
     <title lang="tr">Haber</title>
@@ -138709,7 +138686,7 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260613150000 +0300" stop="20260613153000 +0300" channel="tr.kanalb">
-    <title lang="tr">Videokolik</title>
+    <title lang="tr">şu anda yayında!Videokolik</title>
   </programme>
   <programme start="20260613153000 +0300" stop="20260613160000 +0300" channel="tr.kanalb">
     <title lang="tr">Yaşayan Tarih</title>
@@ -139089,9 +139066,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <desc lang="tr">Teoman'ın Aras'ı yaralaması Akkaya Ailesi'ne bomba gibi düşerken Şebnem Akkaya oğlunu vermemeye kararlıdır. Hakan Akkaya ise Aras'ın gerçekte kim olduğunu öğrenir. Aras için zor başlayan Bodrum sınavı artık daha da güçleşecek, şehrin en güçlü adamı Hakan saklaması gereken karanlık geçmişi nedeniyle iki kardeşin kavuşmaması için daha en baştan ne gerekiyorsa yapacaktır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kanalfirat">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kanalfirat">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -139339,6 +139313,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.kanalfirat">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.kanalfirat">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607060000 +0300" channel="tr.kanalt">
@@ -140987,9 +140964,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Şaban'ın Dünyası</title>
     <desc lang="tr">Üçüncü perde, aynı sevgi. Kemal Sunal'ın yarattığı Şaban evreni bu kanalda da yaşıyor. Safiyetin, dürüstlüğün ve halk mizahının en güzel örnekleri — Türk sinemasının vazgeçilmez hazineleri perdede.</desc>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kentturktv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kentturktv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -141237,6 +141211,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.kentturktv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.kentturktv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607014500 +0300" channel="tr.kibrisadatv">
@@ -144020,9 +143997,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260614073000 +0300" stop="20260614093000 +0300" channel="tr.kontv">
     <title lang="tr">&lt;p class="elementor-image-box-description"&gt;Şehirlerin Ruhu&lt;/p&gt;</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.konyaolaytv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -144272,7 +144246,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.koytv">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.konyaolaytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.koytv">
@@ -144524,7 +144498,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.koytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.kralakustik">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.koytv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.kralakustik">
@@ -144774,6 +144748,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.kralakustik">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.kralakustik">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.kralpoptv">
@@ -156243,9 +156220,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260613215500 +0300" stop="20260614000000 +0300" channel="tr.liderhabertv">
     <title lang="tr">Telegol</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.lifetv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.lifetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -156493,6 +156467,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.lifetv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.lifetv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607003000 +0300" channel="tr.lingotoonstv">
@@ -165981,15 +165958,15 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260607070000 +0300" stop="20260607150000 +0300" channel="tr.mcmtop">
-    <title lang="tr">Top Mix Müzik •</title>
+    <title lang="tr">Top Mix</title>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260607150000 +0300" stop="20260607160000 +0300" channel="tr.mcmtop">
     <title lang="tr">Top Mix</title>
     <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607170000 +0300" channel="tr.mcmtop">
-    <title lang="tr">Top Gold</title>
-    <category lang="tr">Müzik</category>
+    <title lang="tr">Top Gold Müzik •</title>
   </programme>
   <programme start="20260607170000 +0300" stop="20260607190000 +0300" channel="tr.mcmtop">
     <title lang="tr">Top Mix</title>
@@ -167387,9 +167364,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Çeşitli sanatçılardan Kürtçe müzik yayını</desc>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.medyahabertv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -167639,6 +167613,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.medyahabertv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.medyahabertv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260607065500 +0300" stop="20260607075500 +0300" channel="tr.meltemtv">
     <title lang="tr">Haber Turu</title>
     <desc lang="tr">Türkiye ve dünya gündemindeki dikkat çeken gelişmeler Haber Turu ile kapsamlı şekilde ele alınıyor. Siyaset, ekonomi ve toplumsal olaylara dair başlıklar sade ve anlaşılır bir anlatımla aktarılırken, izleyici günün özetine hızlı ve net biçimde ulaşma imkânı buluyor.</desc>
@@ -167733,9 +167710,6 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Türkiye ve dünyadan en kritik gelişmeler, politika, ekonomi ve toplumsal olaylar Ana Haber programında detaylı bir şekilde aktarılıyor. Canlı bağlantılar ve uzman yorumlarıyla haberler, izleyiciye güvenilir ve net bir biçimde sunulurken günün öne çıkan başlıkları bütüncül bir bakışla özetleniyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.mercantv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.mercantv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
@@ -167986,6 +167960,9 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.mercantv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.mercantv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
   <programme start="20260607005500 +0300" stop="20260607010000 +0300" channel="tr.mezzo">
     <title lang="tr">Alborada del gracioso</title>
   </programme>
@@ -168033,6 +168010,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   </programme>
   <programme start="20260607143000 +0300" stop="20260607165000 +0300" channel="tr.mezzo">
     <title lang="tr">Roméo et Juliette</title>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260607165000 +0300" stop="20260607170000 +0300" channel="tr.mezzo">
     <title lang="tr">Der Wanderer (arr. Liszt)</title>
@@ -168360,6 +168338,7 @@ Akkayaların sahibi olduğu Bodrum Eğitim Vakfı Lisesi'ne kaydı yapılan Aras
   </programme>
   <programme start="20260611234000 +0300" stop="20260612020500 +0300" channel="tr.mezzo">
     <title lang="tr">Roméo et Juliette</title>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260612020500 +0300" stop="20260612030000 +0300" channel="tr.mezzo">
     <title lang="tr">Rachmaninov, le son d'une âme russe</title>
@@ -173744,9 +173723,6 @@ macera başlar.</desc>
     <desc lang="tr">Blippi Wonders - Dünya Hakkında Eğlenceli Gerçekler!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.mukabeletv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.mukabeletv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -173994,6 +173970,9 @@ macera başlar.</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.mukabeletv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.mukabeletv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607003000 +0300" channel="tr.myzentv">
@@ -189298,9 +189277,6 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
     <title lang="tr">Müzik Yayını</title>
     <desc lang="tr">Dance, elektronik ve EDM müzik yayını</desc>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.powerdance:">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.powerdance:">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -189548,6 +189524,9 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.powerdance:">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.powerdance:">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.powerlove">
@@ -207631,9 +207610,6 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
   <programme start="20260614041500 +0300" stop="20260614061500 +0300" channel="tr.showmax">
     <title lang="tr">Yeni Gelin</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.showturk">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.showturk">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -207881,6 +207857,9 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.showturk">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.showturk">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607013000 +0300" stop="20260607031500 +0300" channel="tr.showtv">
@@ -215458,9 +215437,6 @@ Binbaşı Kemal Tanaçan'ın deneyimi ve desteği sayesinde eğitimden geçen be
     <title lang="tr">Karadeniz Yöresi Şarkıları</title>
     <desc lang="tr">Karadeniz yöresi türküleri ve horon müziği yayını</desc>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.smartspor">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.smartspor">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -215710,7 +215686,7 @@ Binbaşı Kemal Tanaçan'ın deneyimi ve desteği sayesinde eğitimden geçen be
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.smartspor">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.smartspor2">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.smartspor">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.smartspor2">
@@ -215960,6 +215936,9 @@ Binbaşı Kemal Tanaçan'ın deneyimi ve desteği sayesinde eğitimden geçen be
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.smartspor2">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.smartspor2">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607010000 +0300" channel="tr.sozcutv">
@@ -218936,7 +218915,7 @@ Binbaşı Kemal Tanaçan'ın deneyimi ve desteği sayesinde eğitimden geçen be
   </programme>
   <programme start="20260609210000 +0300" stop="20260609220000 +0300" channel="tr.ssport">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260609220000 +0300" stop="20260609223000 +0300" channel="tr.ssport">
@@ -219004,7 +218983,7 @@ Binbaşı Kemal Tanaçan'ın deneyimi ve desteği sayesinde eğitimden geçen be
   </programme>
   <programme start="20260611003000 +0300" stop="20260611013000 +0300" channel="tr.ssport">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260611013000 +0300" stop="20260611023000 +0300" channel="tr.ssport">
@@ -219127,7 +219106,7 @@ Binbaşı Kemal Tanaçan'ın deneyimi ve desteği sayesinde eğitimden geçen be
   </programme>
   <programme start="20260612233000 +0300" stop="20260613003000 +0300" channel="tr.ssport">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <desc lang="tr">Karşılaşmaların ardından öne çıkan anlar, tartışmalı pozisyonlar ve önemli detaylar uzman yorumlarıyla değerlendiriliyor. Maçın kırılma anları, istatistikler ve oyuncu performansları kapsamlı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260613003000 +0300" stop="20260613023000 +0300" channel="tr.ssport">
@@ -220038,9 +220017,6 @@ Gerçeği öğrenen Suna, özür dilemek amacıyla Nejat'ı ziyaret eder. Kayra,
     <desc lang="tr">Mutlu bir evliliği olan, etliye sütlüye karışmayan Ozan'ın eşi Elif birkaç gündür annesinin yanındadır, ertesi sabah dönecektir. Ozan evde tek başınayken çocukluk arkadaşı Tolga yanında bir kadın ve Fehmi'yle çıkagelir. Üniversitede okurken kanka oldukları büfeci Ati abilerini de peşine takmıştır. Ozan, Tolga'yı evden kovalamaya çalışırken, üstüne bir de karşı komşusu emekli başçavuş çatlak Eşref gelir. Ozan evdekilerin bir an önce gitmelerini beklerken, salonda maç izleyen Fehmi, oynadığı yasadışı bahis kuponuyla büyük para kazanınca heyecandan ölür. Ozan, Tolga ve Ati, cesetten kurtulma umuduyla Çatlak Eşref'in peşinden giderlerken, kendilerini çok daha büyük bir belanın içinde bulacaklardır.</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.sunrtv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -220290,7 +220266,7 @@ Gerçeği öğrenen Suna, özür dilemek amacıyla Nejat'ı ziyaret eder. Kayra,
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.sutv">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.sunrtv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.sutv">
@@ -220540,6 +220516,9 @@ Gerçeği öğrenen Suna, özür dilemek amacıyla Nejat'ı ziyaret eder. Kayra,
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.sutv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.sutv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607001000 +0300" stop="20260607093000 +0300" channel="tr.tabiispor">
@@ -221355,9 +221334,6 @@ Gerçeği öğrenen Suna, özür dilemek amacıyla Nejat'ı ziyaret eder. Kayra,
     <desc lang="tr">Başrol, Tele1 ekranında hayatın başrolündeki isimlerin bilinmeyen öykülerini anlatıyor. Türk müziği, sineması, edebiyatı ve futbolunun en etkili isimlerinin yaşamları ve Türkiye'nin geçirdiği büyük dönüşümler samimi ve detaylı bir şekilde izleyiciye sunuluyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.tele2haber">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -221607,7 +221583,7 @@ Gerçeği öğrenen Suna, özür dilemek amacıyla Nejat'ı ziyaret eder. Kayra,
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.teleon">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.tele2haber">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.teleon">
@@ -221857,6 +221833,9 @@ Gerçeği öğrenen Suna, özür dilemek amacıyla Nejat'ı ziyaret eder. Kayra,
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.teleon">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.teleon">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.tempotv">
@@ -223665,9 +223644,6 @@ Burak Akkul'un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip nerede n
   <programme start="20260613233000 +0300" stop="20260614011500 +0300" channel="tr.teve2">
     <title lang="tr">Kanıt</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.tgrtbelgesel">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.tgrtbelgesel">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -223915,6 +223891,9 @@ Burak Akkul'un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip nerede n
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.tgrtbelgesel">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.tgrtbelgesel">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607003000 +0300" stop="20260607013000 +0300" channel="tr.tgrthaber">
@@ -231793,9 +231772,6 @@ Burak Akkul'un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip nerede n
     <desc lang="tr">Binali Kartal ile Saha Dışı programında, spor dünyasındaki güncel gelişmeler, maç analizleri ve saha dışı olaylar detaylı şekilde ele alınır. Binali Kartal, konuklarıyla yorumlar yapar, izleyicilere hem bilgilendirici hem de eğlenceli bir spor deneyimi sunar. Program, futbol ve diğer spor dallarını takip edenler için kapsamlı bir içerik sağlar.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.tontv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.tontv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -232043,6 +232019,9 @@ Burak Akkul'un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip nerede n
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.tontv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.tontv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260525060000 +0300" stop="20260525080000 +0300" channel="tr.toppop">
@@ -235113,17 +235092,17 @@ Alpleri ile ava giden Ertuğrul, Müslüman bir aileyi Haçlıların elinden kur
     <desc lang="tr">Türkiye ve dünya gündemine yüzeysel değil, derinlikli bir bakış... Zamanın ruhunu yakalayan gerçek analizler... Olayların arka planına ışık tutan entelektüel yaklaşımlar... Türkiye ve Dünya gündemi yeni konu ve konuklarla Enine Boyuna'da masaya yatırılıyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260613130000 +0300" stop="20260613140500 +0300" channel="tr.trt1">
+  <programme start="20260613130000 +0300" stop="20260613135000 +0300" channel="tr.trt1">
     <title lang="tr">Yurda Dönüş</title>
     <desc lang="tr">Yurda Dönüş, her bölümde, kendi alanlarında devrim yaratan bilim insanlarımızın, çocukluk hayallerinden yurt dışında geçen zorlu mücadelelerine tanıklık ediyor. Program, onları yurda dönmeye iten o en derindeki seslerin yankısını izleyiciye taşıyor. Bilim insanlarımızın yurda dönüp Türkiye'de TÜBİTAK başta olmak üzere birçok kurumun desteğiyle sıfırdan kurdukları laboratuvarlara ve yetiştirdikleri yeni nesillere kadar uzanan o meşakkatli ama bir o kadar da gurur verici serüvenler Yurda Dönüş programında bir araya geliyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260613140500 +0300" stop="20260613153000 +0300" channel="tr.trt1">
+  <programme start="20260613135000 +0300" stop="20260613151500 +0300" channel="tr.trt1">
     <title lang="tr">Lingo Türkiye</title>
     <desc lang="tr">Lingo Türkiye'de yarışmacılar, dört harften oluşan kelimeleri bularak ödül kazanmaya başlıyor. Beş harfli kelimelerden oluşan ikinci etapta yarışan üç çift arasında en az ödülü kazanan yarışmacılar eleniyor. Hızlı düşünmenin önemli olduğu Lingo Türkiye'de kaç kelimenin doğru tahmin edildiği değil kasada toplanan ödül miktarı önemli. Kasasında en çok parayı biriktiren çift final etabında yarışmaya hak kazanıyor.</desc>
     <category lang="tr">Yarışma</category>
   </programme>
-  <programme start="20260613153000 +0300" stop="20260613190000 +0300" channel="tr.trt1">
+  <programme start="20260613151500 +0300" stop="20260613190000 +0300" channel="tr.trt1">
     <title lang="tr">Taşacak Bu Deniz</title>
     <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil'i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna'yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil'in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum'u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon'a gelmiştir.</desc>
     <category lang="tr">Dizi</category>
@@ -258609,9 +258588,6 @@ Deneyimli istihbaratçı Mete Bey öncülüğünde kurulacak bu ekibin yurt içi
   <programme start="20260613220000 +0300" stop="20260614000000 +0300" channel="tr.turkmenelitv">
     <title lang="tr">Kardeşim Benim</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.tv1">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.tv1">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -258859,6 +258835,9 @@ Deneyimli istihbaratçı Mete Bey öncülüğünde kurulacak bu ekibin yurt içi
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.tv1">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.tv1">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607010000 +0300" channel="tr.tv100">
@@ -259271,9 +259250,6 @@ Deneyimli istihbaratçı Mete Bey öncülüğünde kurulacak bu ekibin yurt içi
     <desc lang="tr">Maçların skor tabelasının ötesine geçerek oyunun taktik yönünü, tribün atmosferini ve futbolun görünmeyen hikâyelerini masaya yatırıyor. Uzman yorumları, renkli görüntüler ve çarpıcı analizlerle her karşılaşmanın perde arkası konuşuluyor, izleyiciye tempolu ve doyurucu bir futbol deneyimi sunuluyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.tv3">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.tv3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -259521,6 +259497,9 @@ Deneyimli istihbaratçı Mete Bey öncülüğünde kurulacak bu ekibin yurt içi
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.tv3">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.tv3">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607013000 +0300" stop="20260607030000 +0300" channel="tr.tv4">
@@ -261082,58 +261061,60 @@ Deneyimli istihbaratçı Mete Bey öncülüğünde kurulacak bu ekibin yurt içi
     <title lang="tr">Asr-ı Saadet Dersleri</title>
   </programme>
   <programme start="20260613110000 +0300" stop="20260613114800 +0300" channel="tr.tv42">
-    <title lang="tr">Aile Ve Yaşam</title>
+    <title lang="tr">Tarım</title>
+    <desc lang="tr">Tarım ve Çevre Programı, bitkisel ve hayvansal üretimden tarım teknolojilerine, su ve orman kaynaklarından çevresel gelişmelere kadar geniş bir yelpazeyi ele alır. Uzman konuklar ve canlı analizlerle izleyiciye güncel bilgiler sunar, üretici ve çevreyle ilgilenenler için güvenilir bir kaynaktır.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260613114800 +0300" stop="20260613130000 +0300" channel="tr.tv42">
     <title lang="tr">Belgesel</title>
     <desc lang="tr">Gerçek yaşamdan kesitler sunan bu yapım, doğa, tarih ve insan hikâyelerini derinlemesine ele alır. Görsel anlatımı ve güçlü içeriğiyle izleyiciye hem bilgi hem de farkındalık kazandırır, farklı dünyaları keşfetme imkânı sunar.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260613130000 +0300" stop="20260613132000 +0300" channel="tr.tv42">
+  <programme start="20260613130000 +0300" stop="20260613133000 +0300" channel="tr.tv42">
     <title lang="tr">Haber</title>
     <desc lang="tr">Günün sıcak gelişmeleri Türkiye ve dünyadan başlıklarla Ana Haber'de aktarılır. Siyaset, ekonomi, toplum ve kültür gündemi; canlı bağlantılar ve sahadan haberlerle ele alınır. Gelişmeler bağlamı ve arka planıyla değerlendirilir.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260613132000 +0300" stop="20260613150000 +0300" channel="tr.tv42">
-    <title lang="tr">Sanayi Merkezi</title>
+  <programme start="20260613133000 +0300" stop="20260613150000 +0300" channel="tr.tv42">
+    <title lang="tr">Yaşar Toy İle Şehir Meclisi</title>
   </programme>
   <programme start="20260613150000 +0300" stop="20260613153000 +0300" channel="tr.tv42">
     <title lang="tr">Haber</title>
     <desc lang="tr">Günün sıcak gelişmeleri Türkiye ve dünyadan başlıklarla Ana Haber'de aktarılır. Siyaset, ekonomi, toplum ve kültür gündemi; canlı bağlantılar ve sahadan haberlerle ele alınır. Gelişmeler bağlamı ve arka planıyla değerlendirilir.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260613153000 +0300" stop="20260613161100 +0300" channel="tr.tv42">
+  <programme start="20260613153000 +0300" stop="20260613170000 +0300" channel="tr.tv42">
     <title lang="tr">Tarım</title>
     <desc lang="tr">Tarım ve Çevre Programı, bitkisel ve hayvansal üretimden tarım teknolojilerine, su ve orman kaynaklarından çevresel gelişmelere kadar geniş bir yelpazeyi ele alır. Uzman konuklar ve canlı analizlerle izleyiciye güncel bilgiler sunar, üretici ve çevreyle ilgilenenler için güvenilir bir kaynaktır.</desc>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260613161100 +0300" stop="20260613170000 +0300" channel="tr.tv42">
-    <title lang="tr">Çalışma Hayatı</title>
   </programme>
   <programme start="20260613170000 +0300" stop="20260613171600 +0300" channel="tr.tv42">
     <title lang="tr">Haber 17</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260613171600 +0300" stop="20260613190000 +0300" channel="tr.tv42">
+  <programme start="20260613171600 +0300" stop="20260613180800 +0300" channel="tr.tv42">
     <title lang="tr">Belgesel</title>
     <desc lang="tr">Gerçek yaşamdan kesitler sunan bu yapım, doğa, tarih ve insan hikâyelerini derinlemesine ele alır. Görsel anlatımı ve güçlü içeriğiyle izleyiciye hem bilgi hem de farkındalık kazandırır, farklı dünyaları keşfetme imkânı sunar.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260613190000 +0300" stop="20260613203000 +0300" channel="tr.tv42">
+  <programme start="20260613180800 +0300" stop="20260613190000 +0300" channel="tr.tv42">
+    <title lang="tr">Çalışma Hayatı</title>
+  </programme>
+  <programme start="20260613190000 +0300" stop="20260613201500 +0300" channel="tr.tv42">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor. Program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260613203000 +0300" stop="20260613223000 +0300" channel="tr.tv42">
-    <title lang="tr">Rumeysa Zügül İle Turkuaz</title>
+  <programme start="20260613201500 +0300" stop="20260613224000 +0300" channel="tr.tv42">
+    <title lang="tr">Özel Yayın</title>
   </programme>
-  <programme start="20260613223000 +0300" stop="20260613233000 +0300" channel="tr.tv42">
+  <programme start="20260613224000 +0300" stop="20260613234000 +0300" channel="tr.tv42">
     <title lang="tr">Tarım</title>
     <desc lang="tr">Tarım ve Çevre Programı, bitkisel ve hayvansal üretimden tarım teknolojilerine, su ve orman kaynaklarından çevresel gelişmelere kadar geniş bir yelpazeyi ele alır. Uzman konuklar ve canlı analizlerle izleyiciye güncel bilgiler sunar, üretici ve çevreyle ilgilenenler için güvenilir bir kaynaktır.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260613233000 +0300" stop="20260614000000 +0300" channel="tr.tv42">
+  <programme start="20260613234000 +0300" stop="20260614000000 +0300" channel="tr.tv42">
     <title lang="tr">Belgesel</title>
     <desc lang="tr">Gerçek yaşamdan kesitler sunan bu yapım, doğa, tarih ve insan hikâyelerini derinlemesine ele alır. Görsel anlatımı ve güçlü içeriğiyle izleyiciye hem bilgi hem de farkındalık kazandırır, farklı dünyaları keşfetme imkânı sunar.</desc>
     <category lang="tr">Belgesel</category>
@@ -264951,12 +264932,19 @@ Her görev,onları ödüle bir adım daha yaklaştırırken aynı zamanda unutul
     <desc lang="tr">Yılların ve hayatın zor şartlarının yorduğu kendisini ihmal etmiş kadınlar, her bölümde uzman doktor ve alanında deneyimli isimlerle birlikte değişim yolculuğuna çıkıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260613100000 +0300" stop="20260613163000 +0300" channel="tr.tv8">
+  <programme start="20260613100000 +0300" stop="20260613153000 +0300" channel="tr.tv8">
     <title lang="tr">Gazete Magazin</title>
     <desc lang="tr">En sıcak magazin haberleri, aşklar, kaçamaklar, açılışlar, davetler, özel röportajlar ve magazin dünyasından en özel haberler ile Gazete Magazin ekranlara geliyor...</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260613163000 +0300" stop="20260613200000 +0300" channel="tr.tv8">
+  <programme start="20260613153000 +0300" stop="20260613170000 +0300" channel="tr.tv8">
+    <title lang="tr">Şanslı Pasaport</title>
+    <desc lang="tr">Yarışmacılar her bölümde karşılarına çıkan eğlenceli görevleri ve zorlu etapları başarıyla tamamlayarak büyük ödüle bir adım daha yaklaşmaya çalışıyor. Kimi zaman dikkat, kimi zaman hız, kimi zaman da pratik düşünme yarışmacıların yolculuğunda belirleyici oluyor.
+
+Her görev,onları ödüle bir adım daha yaklaştırırken aynı zamanda unutulmaz deneyimlerle buluşturuyor. Büyük finalde ise kazananları birbirinden özel tatil ödülleri bekliyor.</desc>
+    <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20260613170000 +0300" stop="20260613200000 +0300" channel="tr.tv8">
     <title lang="tr">Survivor Panorama</title>
     <desc lang="tr">Birbirinden iddialı yarışmacıların yer aldığı yarışmaya ait ilk yorumlar, tüm yarışmacılar hakkında yapılacak ilk değerlendirmeler ve tüm merak edilenler Survivor Panorama'da ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
@@ -267828,9 +267816,6 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
     <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.vaaztv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.vaaztv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -268080,7 +268065,7 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.vaaztv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.van65">
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.vaaztv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.van65">
@@ -268330,6 +268315,9 @@ Olaylar genelde Mükremin'in ve arkadaşı Tirbüşon'un etrafında gelişir. Di
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.van65">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.van65">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260607000000 +0300" stop="20260607020000 +0300" channel="tr.vavtv">
@@ -271302,15 +271290,15 @@ tarih anlatılıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260607143000 +0300" stop="20260607150000 +0300" channel="tr.yabantv">
-    <title lang="tr">Yaban Aile Belgesel •</title>
+    <title lang="tr">Yaban Aile</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260607150000 +0300" stop="20260607160000 +0300" channel="tr.yabantv">
     <title lang="tr">Canavarın Peşinde</title>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260607160000 +0300" stop="20260607170000 +0300" channel="tr.yabantv">
-    <title lang="tr">Sürek Avcıları</title>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Sürek Avcıları Belgesel •</title>
   </programme>
   <programme start="20260607170000 +0300" stop="20260607180000 +0300" channel="tr.yabantv">
     <title lang="tr">Patika</title>
@@ -275504,9 +275492,6 @@ tarih anlatılıyor.</desc>
     <title lang="tr">Yeşilçam'dan Seçmeler</title>
     <desc lang="tr">Türk sinemasının efsanevi yapımları... Kemal Sunal'dan Münir Özkul'a, İlyas Salman'dan Adile Naşit'e uzanan kadrosuyla Yeşilçam'ın ölümsüz filmleri. Güldürürken düşündüren, eğlendirirken dokunduran yapımlar.</desc>
   </programme>
-  <programme start="20260607120000 +0300" stop="20260607140000 +0300" channel="tr.yoltv">
-    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
-  </programme>
   <programme start="20260607140000 +0300" stop="20260607160000 +0300" channel="tr.yoltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
@@ -275754,6 +275739,9 @@ tarih anlatılıyor.</desc>
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
   <programme start="20260614100000 +0300" stop="20260614120000 +0300" channel="tr.yoltv">
+    <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
+  </programme>
+  <programme start="20260614120000 +0300" stop="20260614140000 +0300" channel="tr.yoltv">
     <title lang="tr">Kaynaktaki teknik sorun nedeniyle yayın akışı bilgisi geçici olarak alınamıyor</title>
   </programme>
 </tv>
