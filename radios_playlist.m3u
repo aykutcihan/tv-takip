@@ -509,6 +509,14 @@ https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/721190/coverdefault/f858887b-9414-4d24-976b-5378c903cc32.png" group-title="Dini" tvg-id="herkul.radyo",Herkul Radyo
 https://play.radioking.io/herkulradyo
 
+# CIHAN RADYO,    source: radioking
+#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/301204/cover/custom/ddcaa85d-b51c-4527-844b-3fedb00ab75e.jpeg" group-title="Dini" tvg-id="cihan.radyo",Cihan Radyo
+https://play.radioking.io/cihan-radyo
+
+# CIHAN SEMA RADYO,    source: radioking
+#EXTINF:-1 tvg-logo="https://cihanradyo.com/public/icons/cihan_muzik.jpg" group-title="Dini" tvg-id="cihan.sema",Cihan Sema Radyo
+https://listen.radioking.com/radio/605425/stream/666847
+
 # KURAN MEAL,    source: radyo7
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Dini" tvg-id="radyo7.kuranmeal",Kuran Meal
 https://ssl4.radyotvonline.com/radyohome/kuranmeal.stream_aac/playlist.m3u8
