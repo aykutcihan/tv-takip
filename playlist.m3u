@@ -1625,6 +1625,75 @@ http://192.168.1.141:8888/stream/ex3
 # INAT MAC SAATI 4,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-id="tr.inatmac4",Inat Mac Saati 4
 http://192.168.1.141:8888/stream/ex4
+
+# S SPORT PLUS,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" tvg-id="tr.ssportplus",S Sport Plus
+https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+
+# EXXEN,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen",Exxen
+https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
+
+# EXXEN 1,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen1",Exxen 1
+https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
+
+# EXXEN 2,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen2",Exxen 2
+https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
+
+# EXXEN 3,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen3",Exxen 3
+https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
+
+# EXXEN 4,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen4",Exxen 4
+https://andro.2385437.xyz/checklist/androstreamliveexn4.m3u8
+
+# EXXEN 5,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen5",Exxen 5
+https://andro.2385437.xyz/checklist/androstreamliveexn5.m3u8
+
+# EXXEN 6,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen6",Exxen 6
+https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
+
+# EXXEN 7,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen7",Exxen 7
+https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
+
+# EXXEN 8,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen8",Exxen 8
+https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
+
+# TIVIBU SPOR 5,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor5",Tivibu Spor 5
+https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
+
+# TIVIBU SPOR 6,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor6",Tivibu Spor 6
+https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
+
+# TIVIBU SPOR 7,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor7",Tivibu Spor 7
+https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
+
+# TIVIBU SPOR 8,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor8",Tivibu Spor 8
+https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
+
+# GALATASARAY TV,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/galatasaray-tv-tr.png" tvg-id="tr.galatasaraytv",Galatasaray TV
+https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
+
+# FENERBAHCE TV,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/fenerbahce-tv-tr.png" tvg-id="tr.fenerbahcetv",Fenerbahçe TV
+https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
+
+# TJK TV,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TJK_logo.svg/200px-TJK_logo.svg.png" tvg-id="tr.tjktv",TJK TV
+https://andro.2385437.xyz/checklist/androstreamlivetjk.m3u8
+
 #EXTINF:-1 tvg-id="karnaval.4" tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Radyo",JoyTürk
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3
 #EXTINF:-1 tvg-id="karnaval.1" tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Radyo",Süper FM
