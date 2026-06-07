@@ -203,11 +203,11 @@ https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/i
 
 # ATV AVRUPA,    source: tvkulesi
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-avrupa-tr.png" tvg-id="tr.atvavrupa",ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=FD68bNPvU0sijcZMH43u-g&e=1780899399
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=w-Fc135fThW0_8iTg-x8Bw&e=1780903810
 
 # ATV AVRUPA,    source: ercdn
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-avrupa-tr.png" tvg-id="tr.atvavrupa",Atv Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=FD68bNPvU0sijcZMH43u-g&e=1780899399
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=w-Fc135fThW0_8iTg-x8Bw&e=1780903810
 
 # SHOW TÜRK,    source: daioncdn
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-turk-tr.png" tvg-id="tr.showturk",Show Türk
@@ -378,7 +378,7 @@ https://cdn507.tvkulesi.com/24tv.m3u8?tkn=SD93EJp3NyZHp6hjSMA2Bg&tms=1780796525&
 
 # CNN TURK,    source: diger
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" tvg-id="tr.cnnturk",CNN Turk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=ziHLEjdOEpZjfBG-BT1JFQ&e=1780865052
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=aOAdKy9TxSPrncIjtsYAJQ&e=1780869460
 
 # CNN TURK,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" tvg-id="tr.cnnturk",CNN Turk
@@ -626,7 +626,7 @@ http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 # DREAM TÜRK,    source: diger
 #EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/dream-turk-tr.png" tvg-id="tr.dreamturk",DREAM TÜRK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=ziHLEjdOEpZjfBG-BT1JFQ&e=1780865052
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=aOAdKy9TxSPrncIjtsYAJQ&e=1780869460
 
 # NR1 TURK,    source: mediatriple
 #EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-turk-tr.png" tvg-id="tr.number1turk",NR1 Turk
