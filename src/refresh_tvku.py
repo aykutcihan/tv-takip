@@ -1,165 +1,141 @@
 """
-kavuntv.net kaynakli kanallarin stream URL'lerini yeniler.
-Bot tespitinden kacmak icin patchright + gercek browser davranisi kullanir.
+streams.uzunmuhalefet.com uzerinden Turk kanallarinin stream URL'lerini yeniler.
+Bot tespiti yok, Playwright gerektirmez — basit HTTP istegi yeterli.
+Kaynak: DonanımHaber forum / uzunmuhalefet.com (her sabah 09:30'da guncelleniyor)
 """
-import sys, io, re, json, warnings, random, time
+import sys, io, re, json, warnings
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 warnings.filterwarnings('ignore')
 
-from patchright.sync_api import sync_playwright
+import requests
 from pathlib import Path
 
-ROOT      = Path(__file__).resolve().parent.parent
-PLAYLIST  = ROOT / "playlist.m3u"
+ROOT       = Path(__file__).resolve().parent.parent
+PLAYLIST   = ROOT / "playlist.m3u"
 SLUGS_FILE = ROOT / "channel_slugs.json"
 
-KAVU_BASE = "https://amp.kavuntv.net"
+SOURCE_M3U = "https://streams.uzunmuhalefet.com/lists/tr.m3u"
 
-# Gercek browser gibi gorunen user-agent'lar
-USER_AGENTS = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-]
+# streams.uzunmuhalefet.com kanal adi -> bizim tvg-id eslesmesi
+# Sadece tvkulesi/kavuntv kaynakli kanallari guncelliyoruz
+CHANNEL_MAP = {
+    # Ulusal
+    "NOW TV":          "tr.now",
+    "Show TV":         "tr.showtv",
+    "TV8":             "tr.tv8",
+    "TV 8":            "tr.tv8",
+    "TV 8.5":          "tr.tv85",
+    "ATV":             "tr.atv",
+    "Star TV":         "tr.startv",
+    "Kanal D":         "tr.kanald",
+    "Kanal 7":         "tr.kanal7",
+    "TYT Turk":        "tr.tytturk",
+    "TYT Türk":        "tr.tytturk",
+    "Show Türk":       "tr.showturk",
+    "Show Turk":       "tr.showturk",
+    "Kanal 7 Avrupa":  "tr.kanal7avrupa",
+    "ATV Avrupa":      "tr.atvavrupa",
+    "Euro D":          "tr.eurod",
+    # Haber
+    "A Haber":         "tr.ahaber",
+    "Ulusal Kanal":    "tr.ulusalkanal",
+    "Bloomberg HT":    "tr.bloomberght",
+    "CNBC-e":          "tr.cnbce",
+    "Habertürk":       "tr.haberturk",
+    "Haberturk":       "tr.haberturk",
+    # Spor
+    "TRT Spor":        "tr.trtspor",
+    "TRT Spor Yıldız": "tr.trtsporyildiz",
+    "TRT Spor Yildiz": "tr.trtsporyildiz",
+    "A Spor":          "tr.aspor",
+    "HT Spor":         "tr.htspor",
+    "Ekol Sports":     "tr.ekolsports",
+    "Tivibu Spor":     "tr.tivibuspor",
+    # Egitim/Genel
+    "TRT 2":           "tr.trt2",
+    "TLC":             "tr.tlc",
+    "DMAX":            "tr.dmax",
+    "D Max":           "tr.dmax",
+    # Belgesel
+    "TRT Belgesel":    "tr.trtbelgesel",
+    # Muzik
+    "Dream Türk":      "tr.dreamturk",
+    "Dream Turk":      "tr.dreamturk",
+}
 
 
-def fetch_stream(ctx, url):
-    streams = []
-    page = ctx.new_page()
-
-    def on_req(r):
-        u = r.url.lower()
-        if '.m3u8' in u and 'chunk' not in u and 'manifest' not in u:
-            streams.append(r.url)
-
+def fetch_source_playlist():
+    """uzunmuhalefet.com playlist'ini indir, {tvg-id: stream_url} donur."""
+    print(f"Kaynak playlist indiriliyor: {SOURCE_M3U}")
     try:
-        page.on('request', on_req)
-        # networkidle: tum istekler bitene kadar bekle
-        page.goto(url, wait_until='networkidle', timeout=25000)
-        # Ek bekleme - player yuklenmesi icin
-        page.wait_for_timeout(3000)
+        r = requests.get(SOURCE_M3U, timeout=30, headers={
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        })
+        r.raise_for_status()
+    except Exception as e:
+        print(f"  !! Kaynak indirilemedi: {e}")
+        return {}
 
-        # Hala bulunamadiysa play/video elementine tikla
-        if not streams:
-            for sel in ['.video-js', 'video', '.plyr', '.jwplayer', '[class*=player]', 'button']:
-                try:
-                    page.click(sel, timeout=1500)
-                    page.wait_for_timeout(2000)
-                    if streams:
-                        break
-                except Exception:
-                    pass
+    lines   = r.text.splitlines()
+    result  = {}   # tvg-id -> stream url
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith('#EXTINF'):
+            # Kanal adini al
+            name_m = re.search(r',(.+)$', line)
+            name   = name_m.group(1).strip() if name_m else ''
+            # URL'yi al
+            j = i + 1
+            while j < len(lines) and lines[j].startswith('#'):
+                j += 1
+            url = lines[j] if j < len(lines) and lines[j].startswith('http') else ''
 
-    except Exception:
-        pass
-    finally:
-        try:
-            page.remove_listener('request', on_req)
-        except Exception:
-            pass
-        try:
-            page.close()
-        except Exception:
-            pass
+            # Kendi CHANNEL_MAP'imize gore eslestir
+            our_id = CHANNEL_MAP.get(name)
+            if our_id and url:
+                result[our_id] = url
+                print(f"  eslesti: {name:25s} -> {our_id} -> {url[:60]}...")
+        i += 1
 
-    return list(dict.fromkeys(streams))
+    print(f"Toplam {len(result)} kanal eslesti.")
+    return result
 
 
 def main():
-    slug_map = json.loads(SLUGS_FILE.read_text(encoding='utf-8'))
+    source = fetch_source_playlist()
+    if not source:
+        print("Kaynak bos, cikiliyor.")
+        return
 
-    lines = PLAYLIST.read_text(encoding='utf-8').splitlines()
+    lines   = PLAYLIST.read_text(encoding='utf-8').splitlines()
     updated = 0
-    failed  = 0
 
-    with sync_playwright() as pw:
-        browser = pw.chromium.launch(
-            headless=True,
-            args=[
-                '--no-sandbox',
-                '--disable-blink-features=AutomationControlled',
-                '--disable-dev-shm-usage',
-                '--window-size=1920,1080',
-            ]
-        )
-        ctx = browser.new_context(
-            user_agent=random.choice(USER_AGENTS),
-            viewport={'width': 1920, 'height': 1080},
-            locale='tr-TR',
-            timezone_id='Europe/Istanbul',
-            extra_http_headers={
-                'Accept-Language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            }
-        )
-        # webdriver izini gizle
-        ctx.add_init_script("""
-            Object.defineProperty(navigator, 'webdriver', {get: () => undefined});
-            Object.defineProperty(navigator, 'plugins', {get: () => [1, 2, 3]});
-            Object.defineProperty(navigator, 'languages', {get: () => ['tr-TR', 'tr', 'en-US']});
-            window.chrome = { runtime: {} };
-        """)
+    for i, line in enumerate(lines):
+        if not line.startswith('#EXTINF:'):
+            continue
+        tvg_m = re.search(r'tvg-id="([^"]+)"', line)
+        if not tvg_m:
+            continue
+        tvg_id = tvg_m.group(1)
+        if tvg_id not in source:
+            continue
 
-        # Once ana sayfaya git - cookie ve session olustur
-        try:
-            warmup = ctx.new_page()
-            warmup.goto(KAVU_BASE, wait_until='domcontentloaded', timeout=15000)
-            warmup.wait_for_timeout(2000)
-            warmup.close()
-        except Exception:
-            pass
+        new_url = source[tvg_id]
 
-        for display_name, slug in slug_map.items():
-            streams = fetch_stream(ctx, f"{KAVU_BASE}/{slug}")
-
-            if not streams:
-                print(f"  !! {display_name} ({slug}) alinamadi")
-                failed += 1
-                # Kisa bekleme - rate limit'e takilmamak icin
-                time.sleep(0.5)
-                continue
-
-            new_url = streams[0]
-
-            # Playlist guncelle
-            name_clean = re.sub(r'[^a-z0-9]', '', display_name.lower())
-            for i, line in enumerate(lines):
-                if not line.startswith('#EXTINF:'):
-                    continue
-                line_name_m = re.search(r',(.+)$', line)
-                if not line_name_m:
-                    continue
-                line_name     = line_name_m.group(1).strip()
-                line_name_bare = re.sub(r'\s*\((tvku|kavu|v-tvku|v-kavu)\)\s*', '', line_name).strip()
-                line_clean    = re.sub(r'[^a-z0-9]', '', line_name_bare.lower())
-
-                if line_clean == name_clean:
-                    j = i + 1
-                    while j < len(lines) and lines[j].startswith('#') and not lines[j].startswith('#EXTINF'):
-                        j += 1
-                    if j < len(lines) and lines[j].startswith('http'):
-                        cur_url = lines[j]
-                        if 'kavuntv.net' in cur_url or 'tvkulesi' in cur_url or slug in cur_url:
-                            if cur_url != new_url:
-                                lines[j] = new_url
-                                updated += 1
-
-            for i, line in enumerate(lines):
-                if f'tvg-id="tvku.{slug}"' in line or f'tvg-id="kavu.{slug}"' in line:
-                    j = i + 1
-                    while j < len(lines) and lines[j].startswith('#') and not lines[j].startswith('#EXTINF'):
-                        j += 1
-                    if j < len(lines) and lines[j].startswith('http') and lines[j] != new_url:
-                        lines[j] = new_url
-                        updated += 1
-
-            print(f"  ok  {display_name}")
-
-        ctx.close()
-        browser.close()
+        # Bir sonraki http satiri
+        j = i + 1
+        while j < len(lines) and lines[j].startswith('#') and not lines[j].startswith('#EXTINF'):
+            j += 1
+        if j < len(lines) and lines[j].startswith('http'):
+            cur = lines[j]
+            # Sadece tvkulesi/kavuntv URL'lerini degistir (medya.trt, daioncdn, youtube vs. koru)
+            if ('tvkulesi' in cur or 'kavuntv' in cur) and cur != new_url:
+                lines[j] = new_url
+                updated += 1
 
     PLAYLIST.write_text('\n'.join(lines), encoding='utf-8')
-    print(f"\nTamamlandi: {updated} URL guncellendi, {failed} alinamadi")
+    print(f"\nTamamlandi: {updated} URL guncellendi")
 
 
 if __name__ == '__main__':
