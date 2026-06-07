@@ -209,11 +209,11 @@ https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=FD68bNPvU0sijcZMH43u-g&
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-avrupa-tr.png" tvg-id="tr.atvavrupa",Atv Avrupa
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=FD68bNPvU0sijcZMH43u-g&e=1780899399
 
-# SHOW TÜRK,    source: tvkulesi
-# source: daioncdn
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-turk-tr.png" tvg-id="tr.showturk",Show Turk
+# SHOW TÜRK,    source: daioncdn
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-turk-tr.png" tvg-id="tr.showturk",Show Türk
 https://ciner.daioncdn.net/showturk/showturk.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
- Türk
+# SHOW TÜRK,    source: tvkulesi
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-turk-tr.png" tvg-id="tr.showturk",Show Türk
 https://cdn503.tvkulesi.com/showturk.m3u8?tkn=vDOn2wQHLUdjHz0I8WtbDg&tms=1780796515&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=show-turk
 
 # KANAL 7 AVRUPA,    source: tvkulesi
@@ -223,11 +223,11 @@ https://kanal7-live.daioncdn.net/kanal7avrupa/kanal7avrupa_720p.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-avrupa-tr.png" tvg-id="tr.kanal7avrupa",Kanal 7 Avrupa
 https://cdn509.tvkulesi.com/kanal7avrupa.m3u8?tkn=gezaLcTHH8cEIqdDoZXMSg&tms=1780796424&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=kanal-7-avrupa
 
-# TGRT EU,    source: tvkulesi
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-eu-tr.png" # source: youtube
+# TGRT EU,    source: youtube
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-eu-tr.png" tvg-id="tr.tgrteu",TGRT EU
 https://www.youtube.com/watch?v=nxgYI7l98nM
-tvg-id="tr.tgrteu",TGRT EU
+# TGRT EU,    source: tvkulesi
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-eu-tr.png" tvg-id="tr.tgrteu",TGRT EU
 https://cdn509.tvkulesi.com/tgrteu.m3u8?tkn=HY7n5F-S8un0AHN81zNLMg&tms=1780796528&hst=tr.tvkulesi.com&ip=31.21.186.28&utkn=1a1bc56e7b12133136d6889659a91800&ch=tgrt-eu
 
 

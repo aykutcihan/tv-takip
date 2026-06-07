@@ -6,7 +6,7 @@ import sys, io, re, json, warnings
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 warnings.filterwarnings('ignore')
 
-from playwright.sync_api import sync_playwright
+from patchright.sync_api import sync_playwright
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -17,8 +17,9 @@ TVKU_BASE = "https://tr.tvkulesi.com"
 KAVU_BASE = "https://amp.kavuntv.net"
 
 
-def fetch_stream(page, url):
+def fetch_stream(ctx, url):
     streams = []
+    page = ctx.new_page()
 
     def on_req(r):
         if '.m3u8' in r.url.lower() and 'chunk' not in r.url.lower():
@@ -26,12 +27,17 @@ def fetch_stream(page, url):
 
     try:
         page.on('request', on_req)
-        page.goto(url, wait_until='domcontentloaded', timeout=15000)
-        page.wait_for_timeout(2500)
-        page.remove_listener('request', on_req)
+        page.goto(url, wait_until='domcontentloaded', timeout=20000)
+        page.wait_for_timeout(5000)
     except Exception:
+        pass
+    finally:
         try:
             page.remove_listener('request', on_req)
+        except Exception:
+            pass
+        try:
+            page.close()
         except Exception:
             pass
 
@@ -56,13 +62,12 @@ def main():
             user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/125.0.0.0 Safari/537.36'
         )
         ctx.add_init_script('Object.defineProperty(navigator,"webdriver",{get:()=>undefined})')
-        page = ctx.new_page()
 
         for display_name, slug in slug_map.items():
             # Once tvkulesi, alamazsa kavuntv
-            streams = fetch_stream(page, f"{TVKU_BASE}/{slug}")
+            streams = fetch_stream(ctx, f"{TVKU_BASE}/{slug}")
             if not streams:
-                streams = fetch_stream(page, f"{KAVU_BASE}/{slug}")
+                streams = fetch_stream(ctx, f"{KAVU_BASE}/{slug}")
 
             if not streams:
                 print(f"  !! {display_name} ({slug}) alinamadi")
