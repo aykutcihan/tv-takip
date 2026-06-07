@@ -1666,21 +1666,53 @@ https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Exxen_logo.svg/200px-Exxen_logo.svg.png" tvg-id="tr.exxen8",Exxen 8
 https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
 
-# TIVIBU SPOR 5,    source: inat-andro
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor5",Tivibu Spor 5
+# TABI SPOR,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor",Tabi Spor
+https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
+
+# TABI SPOR 1,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor1",Tabi Spor 1
+https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
+
+# TABI SPOR 2,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor2",Tabi Spor 2
+https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
+
+# TABI SPOR 3,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor3",Tabi Spor 3
+https://andro.2385437.xyz/checklist/androstreamlivetb3.m3u8
+
+# TABI SPOR 5,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor5",Tabi Spor 5
 https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
 
-# TIVIBU SPOR 6,    source: inat-andro
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor6",Tivibu Spor 6
+# TABI SPOR 6,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor6",Tabi Spor 6
 https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
 
-# TIVIBU SPOR 7,    source: inat-andro
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor7",Tivibu Spor 7
+# TABI SPOR 7,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor7",Tabi Spor 7
 https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
 
-# TIVIBU SPOR 8,    source: inat-andro
-#EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" tvg-id="tr.tivibuspor8",Tivibu Spor 8
+# TABI SPOR 8,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.tabispor8",Tabi Spor 8
 https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
+
+# IDMAN TV,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.idmantv",iDMAN TV
+https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
+
+# HT SPOR,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="tr.htspor",HT Spor
+https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
+
+# CBC SPORT,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="az.cbcsport",CBC Sport
+https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
+
+# SPORTS TV,    source: inat-andro
+#EXTINF:-1 group-title="Inat TV" tvg-logo="https://cdn-icons-png.flaticon.com/512/2549/2549943.png" tvg-id="tr.sportstv",Sports TV
+https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 
 # GALATASARAY TV,    source: inat-andro
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/galatasaray-tv-tr.png" tvg-id="tr.galatasaraytv",Galatasaray TV
