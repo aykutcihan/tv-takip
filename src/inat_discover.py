@@ -1,5 +1,5 @@
 """
-inat_discover.py — inattvgiris.one üzerinden güncel domain ve CDN URL'ini bulur.
+inat_discover.py — inattvgiris.pro üzerinden güncel domain ve CDN URL'ini bulur.
 Sonucu config/inat_config.json'a yazar. Proxy bu dosyayı okur.
 
 Calistir: python3 src/inat_discover.py
@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "inat_config.json"
 
-GATEWAY = "https://inattvgiris.one/"
+GATEWAY = "https://inattvgiris.pro/inat-tv34/"
 TEST_CHANNEL = "trt1"
 
 
