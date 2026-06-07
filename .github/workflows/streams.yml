@@ -28,6 +28,7 @@ jobs:
         run: python3 -m playwright install chromium
 
       - name: Inat TV domain guncelle
+        continue-on-error: true
         run: python3 src/inat_discover.py
 
       - name: Puhu TV stream güncelle

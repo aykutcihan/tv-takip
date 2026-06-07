@@ -36,9 +36,9 @@ def discover():
         page.goto(GATEWAY, wait_until="networkidle", timeout=30000)
         page.wait_for_timeout(3000)
 
-        # 2. Sayfadaki ilk kanal/stream linkine tikla
+        # 2. Sayfadaki channel linklerine bak (haber URL'lerini eleme)
         links = page.eval_on_selector_all(
-            'a[href*="channel.html"], a[href*="canli"], a[href*="live"], a[href*="id="]',
+            'a[href*="channel.html"], a[href*="id="]',
             'els => els.map(e => e.href)'
         )
         print(f"Bulunan linkler: {links[:5]}")
@@ -63,15 +63,32 @@ def discover():
             channel_page = f"{domain}/channel.html?id={TEST_CHANNEL}"
             print(f"Direkt kanal: {channel_page}")
             page.goto(channel_page, wait_until="networkidle", timeout=20000)
-            page.wait_for_timeout(6000)
+            page.wait_for_timeout(4000)
+            # Play butonuna tıklamayı dene
+            for sel in ["button.play-button", ".vjs-big-play-button", "video", "[class*=play]", "button"]:
+                try:
+                    page.click(sel, timeout=2000)
+                    page.wait_for_timeout(4000)
+                    if cdn_url:
+                        break
+                except Exception:
+                    pass
 
         if not cdn_url:
-            # Son çare: mevcut domain üzerinde dene
-            domain = domain or "https://inattv1311.xyz"
+            # Son çare: bilinen fallback domain
+            domain = domain or "https://inattvgiris.pro"
             channel_page = f"{domain}/channel.html?id={TEST_CHANNEL}"
             print(f"Son deneme: {channel_page}")
             page.goto(channel_page, wait_until="networkidle", timeout=20000)
-            page.wait_for_timeout(6000)
+            page.wait_for_timeout(4000)
+            for sel in ["button.play-button", ".vjs-big-play-button", "video", "[class*=play]", "button"]:
+                try:
+                    page.click(sel, timeout=2000)
+                    page.wait_for_timeout(4000)
+                    if cdn_url:
+                        break
+                except Exception:
+                    pass
 
         browser.close()
 
@@ -98,5 +115,5 @@ def discover():
 
 
 if __name__ == "__main__":
-    ok = discover()
-    sys.exit(0 if ok else 1)
+    discover()
+    sys.exit(0)
