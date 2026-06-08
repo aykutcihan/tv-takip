@@ -17,6 +17,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Dans" tvg-id="karnaval.354",Dance Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC019_SO1.mp3
 
+# KRAL FM,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Fantazi" tvg-id="muzikliste.kralfm",Kral Fm
+http://46.20.3.204:80/
+
 # EFKAR,    source: karnaval
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Fantazi" tvg-id="karnaval.13",Efkar
 https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
@@ -724,10 +728,6 @@ https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
 
 # ── MUZIKLISTE ────────────────────────────
-
-# KRAL FM,    source: muzikliste
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="muzikliste.kralfm",Kral Fm
-http://46.20.3.204:80/
 
 # KRAL POP RADYO,    source: muzikliste
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="muzikliste.kralpopradyo",Kral Pop Radyo
