@@ -13,12 +13,16 @@ https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Chill" tvg-id="karnaval.18",BabyJoy
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC009_SO1.mp3
 
+# KISS TÜRK,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://kissfm.kissapp.com.tr/assets/favicon-705d80e2.png" group-title="Pop" tvg-id="muzikliste.kissturk",Kiss Türk
+https://kiss.radyotvonline.net/kissturk
+
 # BAŞKA,    source: karnaval
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="karnaval.75",başka
 https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
 
 # KISS FM,    source: muzikliste
-#EXTINF:-1 tvg-logo="https://kissfm.kissapp.com.tr/assets/favicon-705d80e2.png" group-title="Dans" tvg-id="muzikliste.kissfm",Kiss FM
+#EXTINF:-1 tvg-logo="https://kissfm.kissapp.com.tr/assets/favicon-705d80e2.png" group-title="Yabancı" tvg-id="muzikliste.kissfm",Kiss FM
 https://kiss.radyotvonline.net/kissfm
 
 # DANCE HITS,    source: karnaval
