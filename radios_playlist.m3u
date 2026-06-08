@@ -17,10 +17,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Dans" tvg-id="karnaval.354",Dance Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC019_SO1.mp3
 
-# KRAL FM,    source: muzikliste
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Fantazi" tvg-id="muzikliste.kralfm",Kral Fm
-http://46.20.3.204:80/
-
 # EFKAR,    source: karnaval
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Fantazi" tvg-id="karnaval.13",Efkar
 https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
@@ -181,10 +177,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/POPBESK.mp3
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Yabancı" tvg-id="karnaval.5",Radio Mydonose
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE.mp3
 
-# RADYO 1: RADYO PROGRAMLARI,    source: trtdinle
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.radyo-1-radyo-programlari",Radyo 1: Radyo Programları
-https://trt.radyotvonline.net/trt_1.aac
-
 # RADYO 3: KLASIK, CAZ, ROCK, POP VE DÜNYA MÜZIĞI,    source: trt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Chill" tvg-id="trt.radyo.radyo-3-klasik-caz-rock-pop-ve-dunya-muzigi",Radyo 3: Klasik, Caz, Rock, Pop ve Dünya Müziği
 https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
@@ -223,10 +215,6 @@ https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
 
 # TRT ARABI,    source: trt
 
-# TRT FM: TÜRKÇE POP,    source: trtdinle
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Pop" tvg-id="trt.radyo.trt-fm-turkce-pop",TRT FM: Türkçe Pop
-https://trt.radyotvonline.net/trt_fm.aac
-
 # TRT NAĞME: TÜRK SANAT MÜZIĞI,    source: trt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="TSM" tvg-id="trt.radyo.trt-nagme-turk-sanat-muzigi",TRT Nağme: Türk Sanat Müziği
 https://rd-trtnagme.medya.trt.com.tr/master.m3u8
@@ -254,10 +242,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC021_SO1.mp3
 # POWER FM,    source: powerapp
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Yabancı" tvg-id="powerapp.powerfm",Power FM
 https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
-
-# POWER TURK,    source: powerapp
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Pop" tvg-id="powerapp.powerturk",Power Turk
-https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 
 # POWER PLUS,    source: powerapp
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/700x700/powerapp/new_logo_v2.png" group-title="Yabancı" tvg-id="powerapp.powerplus",Power Plus
@@ -347,10 +331,6 @@ https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber" tvg-id="turkuvaz.ahaberradyo",A Haber Radyo
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 
-# A NEWS RADIO,    source: turkuvaz
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber" tvg-id="turkuvaz.anewsradyo",A News Radio
-https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
-
 # A SPOR RADYO,    source: turkuvaz
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/logo-turkuvaz-radyolar.png" group-title="Haber" tvg-id="turkuvaz.asporradyo",A Spor Radyo
 https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
@@ -424,7 +404,7 @@ https://hepsibest.radyotvonline.net/besthit
 https://hepsibest.radyotvonline.net/bestslow
 
 # BEST KINA,    source: hepsibest
-#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/Kina.jpg" group-title="Fantazi" tvg-id="hepsibest.bestkina",Best Kına
+#EXTINF:-1 tvg-logo="https://www.hepsibest.com/wp-content/uploads/2025/01/Kina.jpg" group-title="THM" tvg-id="hepsibest.bestkina",Best Kına
 https://hepsibest.radyotvonline.net/bestkina
 
 # BEST RAP,    source: hepsibest
@@ -510,7 +490,7 @@ https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 
 # SLOW7,    source: radyo7
-#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Slow" tvg-id="radyo7.slow7",Slow 7
+#EXTINF:-1 tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/radyo7-logo.png" group-title="Fantazi" tvg-id="radyo7.slow7",Slow 7
 https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8
 
 # HERKUL RADYO,    source: radioking
@@ -604,7 +584,7 @@ https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
 
 # EFSANE-4LU,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/22/logo_square.png" group-title="TSM" tvg-id="radyohome.efsane4lu",Efsane 4lu
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/22/logo_square.png" group-title="Fantazi" tvg-id="radyohome.efsane4lu",Efsane 4lu
 https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
 
 # FLOW,    source: radyohome
@@ -612,7 +592,7 @@ https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
 
 # GARAJ-RADYO,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/24/logo_square.png" group-title="Rock" tvg-id="radyohome.garajradyo",Garaj Radyo
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/24/logo_square.png" group-title="Pop" tvg-id="radyohome.garajradyo",Garaj Radyo
 https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
 
 # GREEKLAND,    source: radyohome
@@ -628,7 +608,7 @@ https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
 
 # KAFA-RADYO,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/28/logo_square.png" group-title="Rock" tvg-id="radyohome.kafaradyo",Kafa Radyo
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/28/logo_square.png" group-title="Pop" tvg-id="radyohome.kafaradyo",Kafa Radyo
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 
 # KARADENIZ-FM,    source: radyohome
@@ -644,7 +624,7 @@ https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8
 
 # MELANKOLIK-HOME,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/32/logo_square.png" group-title="Özgün" tvg-id="radyohome.melankolikhome",Melankolik Home
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/32/logo_square.png" group-title="Fantazi" tvg-id="radyohome.melankolikhome",Melankolik Home
 https://moondigitaledge.radyotvonline.net/melankolikhome/playlist.m3u8
 
 # MUZEYYEN,    source: radyohome
@@ -692,7 +672,7 @@ https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8
 
 # RADYO-VOKAL,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/42/logo_square.png" group-title="TSM" tvg-id="radyohome.radyovokal",Radyo Vokal
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/42/logo_square.png" group-title="Pop" tvg-id="radyohome.radyovokal",Radyo Vokal
 https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8
 
 # RELAX-HOME,    source: radyohome
@@ -716,7 +696,7 @@ https://moondigitaledge.radyotvonline.net/slowhome/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
 
 # TURKULAND,    source: radyohome
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/48/logo_square.png" group-title="THM" tvg-id="radyohome.turkuland",Turkuland
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/48/logo_square.png" group-title="Pop" tvg-id="radyohome.turkuland",Turkuland
 https://moondigitaledge.radyotvonline.net/turkland/playlist.m3u8
 
 # TURKULERLE-TURKIYE,    source: radyohome
@@ -733,17 +713,9 @@ https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
 
 # ── MUZIKLISTE ────────────────────────────
 
-# KRAL POP RADYO,    source: muzikliste
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="muzikliste.kralpopradyo",Kral Pop Radyo
-http://46.20.3.201:80/
-
 # RADYO 45'LIK,    source: muzikliste
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Nostalji" tvg-id="muzikliste.radyo45lik",Radyo 45'lik
 http://stream.radyo45lik.com:4545/stream
-
-# RADYO DEJAVU,    source: muzikliste
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Nostalji" tvg-id="muzikliste.radyodejavu",Radyo Dejavu
-https://radyodejavu.80.yayin.com.tr
 
 # RADYO ODTU,    source: muzikliste
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Rock" tvg-id="muzikliste.radyoodtu",Radyo Odtu
