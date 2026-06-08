@@ -17,6 +17,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Dans" tvg-id="karnaval.354",Dance Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC019_SO1.mp3
 
+# KRAL FM,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Fantazi" tvg-id="muzikliste.kralfm",Kral Fm
+http://kralwmp.radyotvonline.com/
+
 # EFKAR,    source: karnaval
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Fantazi" tvg-id="karnaval.13",Efkar
 https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
@@ -736,3 +740,7 @@ http://radyo.yayindakiler.com:3024/;
 # RADYO AZELYA,    source: muzikliste
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Etnik" tvg-id="muzikliste.radyoazelya",Radyo Azelya
 https://stream.turkiyeradyolari.com/8010/stream
+
+# KRAL POP RADYO,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Pop" tvg-id="muzikliste.kralpopradyo",Kral Pop Radyo
+https://dygmaster.radyotvonline.net/kralpop/playlist.m3u8
