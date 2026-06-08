@@ -40,9 +40,6 @@ jobs:
       - name: tvkulesi stream güncelle
         run: python3 src/refresh_tvku.py
 
-      - name: Film listesi güncelle
-        run: python3 src/refresh_films.py
-
       - name: Değiştiyse commit'le
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
