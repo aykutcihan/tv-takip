@@ -33,6 +33,10 @@ https://radio-trterzurum.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Haber" tvg-id="trt.radyo.gap-diyarbakir-radyosu",GAP Diyarbakır Radyosu
 https://radio-trtgap.medya.trt.com.tr/master.m3u8
 
+# ERZINCAN DOST RADYO,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="THM" tvg-id="muzikliste.erzincandostradyo",Erzincan Dost Radyo
+http://radyo.yayindakiler.com:3156/;stream.nsv
+
 # GÖNÜL TÜRKÜLERI,    source: karnaval
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="THM" tvg-id="karnaval.23",Gönül Türküleri
 https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL_TURKULERI.mp3
@@ -744,3 +748,15 @@ https://radyodejavu.80.yayin.com.tr
 # RADYO ODTU,    source: muzikliste
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Rock" tvg-id="muzikliste.radyoodtu",Radyo Odtu
 https://stream3.radyoodtu.com.tr:8000/rock
+
+# RADYO MUNZUR,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Özgün" tvg-id="muzikliste.radyomunzur",Radyo Munzur
+https://radyo.yayindakiler.com:3002/stream
+
+# DOGAN 21 FM,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Etnik" tvg-id="muzikliste.dogan21fm",Doğan 21 FM
+http://radyo.yayindakiler.com:3024/;
+
+# RADYO AZELYA,    source: muzikliste
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Etnik" tvg-id="muzikliste.radyoazelya",Radyo Azelya
+https://stream.turkiyeradyolari.com/8010/stream
