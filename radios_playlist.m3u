@@ -737,10 +737,6 @@ https://stream3.radyoodtu.com.tr:8000/rock
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Özgün" tvg-id="muzikliste.radyomunzur",Radyo Munzur
 https://radyo.yayindakiler.com:3002/stream
 
-# ELAZIG EZGI RADYO,    source: muzikliste
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Özgün" tvg-id="muzikliste.elazigezgiradyo",Elazığ Ezgi Radyo
-http://yayin.netyayin.net:1782/
-
 # DOGAN 21 FM,    source: muzikliste
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2620/2620335.png" group-title="Etnik" tvg-id="muzikliste.dogan21fm",Doğan 21 FM
 http://radyo.yayindakiler.com:3024/;
