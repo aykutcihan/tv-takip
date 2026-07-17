@@ -183,15 +183,9 @@
     <display-name lang="tr">K-Pop</display-name>
     <icon src="https://mediacdns.karnaval.com/media/station_media/362/logos/small_logo.png?v=170725021316" />
   </channel>
-  <programme start="20260718012751 +0300" stop="20260718022630 +0300" channel="karnaval.1">
-    <title lang="tr">Joris Voorn - Spectrum Radio</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/72480/albumcover_400x400/cover_72480.jpg?v=130225041633" />
-  </programme>
-  <programme start="20260718022630 +0300" stop="20260718025630 +0300" channel="karnaval.1">
-    <title lang="tr">Müzik Yayını</title>
-  </programme>
-  <programme start="20260718025630 +0300" stop="20260718032630 +0300" channel="karnaval.1">
-    <title lang="tr">Müzik Yayını</title>
+  <programme start="20260718022839 +0300" stop="20260718032630 +0300" channel="karnaval.1">
+    <title lang="tr">John Digweed - Transitions</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/72479/albumcover_400x400/cover_72479.jpg?v=140225040421" />
   </programme>
   <programme start="20260718032630 +0300" stop="20260718035630 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
@@ -205,455 +199,461 @@
   <programme start="20260718045630 +0300" stop="20260718052630 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718052630 +0300" stop="20260718052833 +0300" channel="karnaval.1">
+  <programme start="20260718052630 +0300" stop="20260718055630 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012741 +0300" stop="20260718014149 +0300" channel="karnaval.13">
-    <title lang="tr">Franz Schubert - Erlkönig (Arr. F.Liszt)</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/7776/albumcover_400x400/cover_7776.jpg?v=101124110906" />
-  </programme>
-  <programme start="20260718014149 +0300" stop="20260718021149 +0300" channel="karnaval.13">
+  <programme start="20260718055630 +0300" stop="20260718062630 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718021149 +0300" stop="20260718024149 +0300" channel="karnaval.13">
+  <programme start="20260718062630 +0300" stop="20260718062925 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718024149 +0300" stop="20260718031149 +0300" channel="karnaval.13">
+  <programme start="20260718022600 +0300" stop="20260718023409 +0300" channel="karnaval.13">
+    <title lang="tr">Sinan Dizmen, Elif Önal - Ahmed Adnan Saygun: Sonat Op. 12, Viyolonsel Ve Piyano İçin (1935) 1. Animato</title>
+    <icon src="https://mediacdns.karnaval.com/media/station_media/11/default_images/default_artist_image_1_1_1000_1000_1.jpg?v=011122012535" />
+  </programme>
+  <programme start="20260718023409 +0300" stop="20260718030409 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718031149 +0300" stop="20260718034149 +0300" channel="karnaval.13">
+  <programme start="20260718030409 +0300" stop="20260718033409 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718034149 +0300" stop="20260718041149 +0300" channel="karnaval.13">
+  <programme start="20260718033409 +0300" stop="20260718040409 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718041149 +0300" stop="20260718044149 +0300" channel="karnaval.13">
+  <programme start="20260718040409 +0300" stop="20260718043409 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718044149 +0300" stop="20260718051149 +0300" channel="karnaval.13">
+  <programme start="20260718043409 +0300" stop="20260718050409 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718051149 +0300" stop="20260718052833 +0300" channel="karnaval.13">
+  <programme start="20260718050409 +0300" stop="20260718053409 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012709 +0300" stop="20260718013038 +0300" channel="karnaval.15">
-    <title lang="tr">Stevie Wonder - Pastime Paradise</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/78/albumcover_400x400/album_media_78_01.jpg?v=180413072545" />
-  </programme>
-  <programme start="20260718013038 +0300" stop="20260718020038 +0300" channel="karnaval.15">
+  <programme start="20260718053409 +0300" stop="20260718060409 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020038 +0300" stop="20260718023038 +0300" channel="karnaval.15">
+  <programme start="20260718060409 +0300" stop="20260718062925 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023038 +0300" stop="20260718030038 +0300" channel="karnaval.15">
+  <programme start="20260718022827 +0300" stop="20260718023343 +0300" channel="karnaval.15">
+    <title lang="tr">Pink Martini - La Soledad</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/2069/albumcover_400x400/album_media_2069_01.jpg?v=180413072936" />
+  </programme>
+  <programme start="20260718023343 +0300" stop="20260718030343 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030038 +0300" stop="20260718033038 +0300" channel="karnaval.15">
+  <programme start="20260718030343 +0300" stop="20260718033343 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033038 +0300" stop="20260718040038 +0300" channel="karnaval.15">
+  <programme start="20260718033343 +0300" stop="20260718040343 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040038 +0300" stop="20260718043038 +0300" channel="karnaval.15">
+  <programme start="20260718040343 +0300" stop="20260718043343 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043038 +0300" stop="20260718050038 +0300" channel="karnaval.15">
+  <programme start="20260718043343 +0300" stop="20260718050343 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050038 +0300" stop="20260718052833 +0300" channel="karnaval.15">
+  <programme start="20260718050343 +0300" stop="20260718053343 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012742 +0300" stop="20260718013122 +0300" channel="karnaval.16">
-    <title lang="tr">The Manhattan Transfer - Spice Of Life</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/3920/albumcover_400x400/cover_3920.jpg?v=170118044456" />
-  </programme>
-  <programme start="20260718013122 +0300" stop="20260718020122 +0300" channel="karnaval.16">
+  <programme start="20260718053343 +0300" stop="20260718060343 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020122 +0300" stop="20260718023122 +0300" channel="karnaval.16">
+  <programme start="20260718060343 +0300" stop="20260718062925 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023122 +0300" stop="20260718030122 +0300" channel="karnaval.16">
+  <programme start="20260718022902 +0300" stop="20260718023400 +0300" channel="karnaval.16">
+    <title lang="tr">Joshua Redman - Infanty Eyese</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/10873/albumcover_400x400/cover_10873.jpg?v=300513043300" />
+  </programme>
+  <programme start="20260718023400 +0300" stop="20260718030400 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030122 +0300" stop="20260718033122 +0300" channel="karnaval.16">
+  <programme start="20260718030400 +0300" stop="20260718033400 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033122 +0300" stop="20260718040122 +0300" channel="karnaval.16">
+  <programme start="20260718033400 +0300" stop="20260718040400 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040122 +0300" stop="20260718043122 +0300" channel="karnaval.16">
+  <programme start="20260718040400 +0300" stop="20260718043400 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043122 +0300" stop="20260718050122 +0300" channel="karnaval.16">
+  <programme start="20260718043400 +0300" stop="20260718050400 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050122 +0300" stop="20260718052833 +0300" channel="karnaval.16">
+  <programme start="20260718050400 +0300" stop="20260718053400 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012702 +0300" stop="20260718012959 +0300" channel="karnaval.17">
-    <title lang="tr">Mela Bedel - Ben Sana Gelemem</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/66094/albumcover_400x400/cover_66094.jpg?v=150324021657" />
-  </programme>
-  <programme start="20260718012959 +0300" stop="20260718015959 +0300" channel="karnaval.17">
+  <programme start="20260718053400 +0300" stop="20260718060400 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718015959 +0300" stop="20260718022959 +0300" channel="karnaval.17">
+  <programme start="20260718060400 +0300" stop="20260718062925 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718022959 +0300" stop="20260718025959 +0300" channel="karnaval.17">
+  <programme start="20260718022808 +0300" stop="20260718023215 +0300" channel="karnaval.17">
+    <title lang="tr">Gökhan Türkmen - Dön Bebeğim</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/75122/albumcover_400x400/cover_75122.jpg?v=270825090607" />
+  </programme>
+  <programme start="20260718023215 +0300" stop="20260718030215 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718025959 +0300" stop="20260718032959 +0300" channel="karnaval.17">
+  <programme start="20260718030215 +0300" stop="20260718033215 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718032959 +0300" stop="20260718035959 +0300" channel="karnaval.17">
+  <programme start="20260718033215 +0300" stop="20260718040215 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718035959 +0300" stop="20260718042959 +0300" channel="karnaval.17">
+  <programme start="20260718040215 +0300" stop="20260718043215 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718042959 +0300" stop="20260718045959 +0300" channel="karnaval.17">
+  <programme start="20260718043215 +0300" stop="20260718050215 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718045959 +0300" stop="20260718052833 +0300" channel="karnaval.17">
+  <programme start="20260718050215 +0300" stop="20260718053215 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012710 +0300" stop="20260718012942 +0300" channel="karnaval.2">
-    <title lang="tr">Linet - Meğerse</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/76878/albumcover_400x400/cover_76878.jpg?v=060226114418" />
-  </programme>
-  <programme start="20260718012942 +0300" stop="20260718015942 +0300" channel="karnaval.2">
+  <programme start="20260718053215 +0300" stop="20260718060215 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718015942 +0300" stop="20260718022942 +0300" channel="karnaval.2">
+  <programme start="20260718060215 +0300" stop="20260718062925 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718022942 +0300" stop="20260718025942 +0300" channel="karnaval.2">
+  <programme start="20260718022839 +0300" stop="20260718023219 +0300" channel="karnaval.2">
+    <title lang="tr">Emre Altuğ - Yeni Farkettim</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/77048/albumcover_400x400/cover_77048.jpg?v=050326050431" />
+  </programme>
+  <programme start="20260718023219 +0300" stop="20260718030219 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718025942 +0300" stop="20260718032942 +0300" channel="karnaval.2">
+  <programme start="20260718030219 +0300" stop="20260718033219 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718032942 +0300" stop="20260718035942 +0300" channel="karnaval.2">
+  <programme start="20260718033219 +0300" stop="20260718040219 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718035942 +0300" stop="20260718042942 +0300" channel="karnaval.2">
+  <programme start="20260718040219 +0300" stop="20260718043219 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718042942 +0300" stop="20260718045942 +0300" channel="karnaval.2">
+  <programme start="20260718043219 +0300" stop="20260718050219 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718045942 +0300" stop="20260718052833 +0300" channel="karnaval.2">
+  <programme start="20260718050219 +0300" stop="20260718053219 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012750 +0300" stop="20260718013044 +0300" channel="karnaval.22">
-    <title lang="tr">Eypio - Ömrüm</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/77249/albumcover_400x400/cover_77249.jpg?v=240326011020" />
-  </programme>
-  <programme start="20260718013044 +0300" stop="20260718020044 +0300" channel="karnaval.22">
+  <programme start="20260718053219 +0300" stop="20260718060219 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020044 +0300" stop="20260718023044 +0300" channel="karnaval.22">
+  <programme start="20260718060219 +0300" stop="20260718062925 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023044 +0300" stop="20260718030044 +0300" channel="karnaval.22">
+  <programme start="20260718022826 +0300" stop="20260718023115 +0300" channel="karnaval.22">
+    <title lang="tr">Eypio - Yeraltı</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/76830/albumcover_400x400/cover_76830.jpg?v=030226011713" />
+  </programme>
+  <programme start="20260718023115 +0300" stop="20260718030115 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030044 +0300" stop="20260718033044 +0300" channel="karnaval.22">
+  <programme start="20260718030115 +0300" stop="20260718033115 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033044 +0300" stop="20260718040044 +0300" channel="karnaval.22">
+  <programme start="20260718033115 +0300" stop="20260718040115 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040044 +0300" stop="20260718043044 +0300" channel="karnaval.22">
+  <programme start="20260718040115 +0300" stop="20260718043115 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043044 +0300" stop="20260718050044 +0300" channel="karnaval.22">
+  <programme start="20260718043115 +0300" stop="20260718050115 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050044 +0300" stop="20260718052833 +0300" channel="karnaval.22">
+  <programme start="20260718050115 +0300" stop="20260718053115 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012632 +0300" stop="20260718013051 +0300" channel="karnaval.23">
-    <title lang="tr">Gitta De Ridder - Lie With Me</title>
+  <programme start="20260718053115 +0300" stop="20260718060115 +0300" channel="karnaval.22">
+    <title lang="tr">Müzik Yayını</title>
+  </programme>
+  <programme start="20260718060115 +0300" stop="20260718062925 +0300" channel="karnaval.22">
+    <title lang="tr">Müzik Yayını</title>
+  </programme>
+  <programme start="20260718022600 +0300" stop="20260718023325 +0300" channel="karnaval.23">
+    <title lang="tr">Emanuele Moratori - Les Adieux</title>
     <icon src="https://mediacdns.karnaval.com/media/album_media/38851/albumcover_400x400/cover_38851.jpg?v=241019011419" />
   </programme>
-  <programme start="20260718013051 +0300" stop="20260718020051 +0300" channel="karnaval.23">
+  <programme start="20260718023325 +0300" stop="20260718030325 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020051 +0300" stop="20260718023051 +0300" channel="karnaval.23">
+  <programme start="20260718030325 +0300" stop="20260718033325 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023051 +0300" stop="20260718030051 +0300" channel="karnaval.23">
+  <programme start="20260718033325 +0300" stop="20260718040325 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030051 +0300" stop="20260718033051 +0300" channel="karnaval.23">
+  <programme start="20260718040325 +0300" stop="20260718043325 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033051 +0300" stop="20260718040051 +0300" channel="karnaval.23">
+  <programme start="20260718043325 +0300" stop="20260718050325 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040051 +0300" stop="20260718043051 +0300" channel="karnaval.23">
+  <programme start="20260718050325 +0300" stop="20260718053325 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043051 +0300" stop="20260718050051 +0300" channel="karnaval.23">
+  <programme start="20260718053325 +0300" stop="20260718060325 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050051 +0300" stop="20260718052833 +0300" channel="karnaval.23">
+  <programme start="20260718060325 +0300" stop="20260718062925 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012730 +0300" stop="20260718013012 +0300" channel="karnaval.3">
-    <title lang="tr">Sabrina Carpenter - Espresso</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/66219/albumcover_400x400/cover_66219.jpg?v=160524041550" />
+  <programme start="20260718022843 +0300" stop="20260718023120 +0300" channel="karnaval.3">
+    <title lang="tr">Trap Mafia House - Mafia Style</title>
+    <icon src="https://mediacdns.karnaval.com/media/station_media/5/default_images/default_artist_image_1_1_1000_1000_1.jpg?v=100924101428" />
   </programme>
-  <programme start="20260718013012 +0300" stop="20260718020012 +0300" channel="karnaval.3">
+  <programme start="20260718023120 +0300" stop="20260718030120 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020012 +0300" stop="20260718023012 +0300" channel="karnaval.3">
+  <programme start="20260718030120 +0300" stop="20260718033120 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023012 +0300" stop="20260718030012 +0300" channel="karnaval.3">
+  <programme start="20260718033120 +0300" stop="20260718040120 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030012 +0300" stop="20260718033012 +0300" channel="karnaval.3">
+  <programme start="20260718040120 +0300" stop="20260718043120 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033012 +0300" stop="20260718040012 +0300" channel="karnaval.3">
+  <programme start="20260718043120 +0300" stop="20260718050120 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040012 +0300" stop="20260718043012 +0300" channel="karnaval.3">
+  <programme start="20260718050120 +0300" stop="20260718053120 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043012 +0300" stop="20260718050012 +0300" channel="karnaval.3">
+  <programme start="20260718053120 +0300" stop="20260718060120 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050012 +0300" stop="20260718052833 +0300" channel="karnaval.3">
+  <programme start="20260718060120 +0300" stop="20260718062925 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012730 +0300" stop="20260718012931 +0300" channel="karnaval.312">
-    <title lang="tr">Niv / Dimension 32 / Folki - Salus</title>
+  <programme start="20260718022747 +0300" stop="20260718023007 +0300" channel="karnaval.312">
+    <title lang="tr">Steezy Prime / Ayzic - Youth</title>
     <icon src="https://mediacdns.karnaval.com/media/station_media/17/default_images/default_artist_image_1_1_1000_1000_0.jpg?v=300126101730" />
   </programme>
-  <programme start="20260718012931 +0300" stop="20260718015931 +0300" channel="karnaval.312">
+  <programme start="20260718023007 +0300" stop="20260718030007 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718015931 +0300" stop="20260718022931 +0300" channel="karnaval.312">
+  <programme start="20260718030007 +0300" stop="20260718033007 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718022931 +0300" stop="20260718025931 +0300" channel="karnaval.312">
+  <programme start="20260718033007 +0300" stop="20260718040007 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718025931 +0300" stop="20260718032931 +0300" channel="karnaval.312">
+  <programme start="20260718040007 +0300" stop="20260718043007 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718032931 +0300" stop="20260718035931 +0300" channel="karnaval.312">
+  <programme start="20260718043007 +0300" stop="20260718050007 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718035931 +0300" stop="20260718042931 +0300" channel="karnaval.312">
+  <programme start="20260718050007 +0300" stop="20260718053007 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718042931 +0300" stop="20260718045931 +0300" channel="karnaval.312">
+  <programme start="20260718053007 +0300" stop="20260718060007 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718045931 +0300" stop="20260718052833 +0300" channel="karnaval.312">
+  <programme start="20260718060007 +0300" stop="20260718062925 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012816 +0300" stop="20260718013253 +0300" channel="karnaval.349">
-    <title lang="tr">Yavuz Bingöl - Sarı Gelin</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/10018/albumcover_400x400/cover_10018.jpg?v=180413081028" />
+  <programme start="20260718022817 +0300" stop="20260718023506 +0300" channel="karnaval.349">
+    <title lang="tr">Ali Ekber Çiçek - Haydar Haydar</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/17345/albumcover_400x400/cover_17345.jpg?v=120115104201" />
   </programme>
-  <programme start="20260718013253 +0300" stop="20260718020253 +0300" channel="karnaval.349">
+  <programme start="20260718023506 +0300" stop="20260718030506 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020253 +0300" stop="20260718023253 +0300" channel="karnaval.349">
+  <programme start="20260718030506 +0300" stop="20260718033506 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023253 +0300" stop="20260718030253 +0300" channel="karnaval.349">
+  <programme start="20260718033506 +0300" stop="20260718040506 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030253 +0300" stop="20260718033253 +0300" channel="karnaval.349">
+  <programme start="20260718040506 +0300" stop="20260718043506 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033253 +0300" stop="20260718040253 +0300" channel="karnaval.349">
+  <programme start="20260718043506 +0300" stop="20260718050506 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040253 +0300" stop="20260718043253 +0300" channel="karnaval.349">
+  <programme start="20260718050506 +0300" stop="20260718053506 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043253 +0300" stop="20260718050253 +0300" channel="karnaval.349">
+  <programme start="20260718053506 +0300" stop="20260718060506 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050253 +0300" stop="20260718052833 +0300" channel="karnaval.349">
+  <programme start="20260718060506 +0300" stop="20260718062925 +0300" channel="karnaval.349">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012821 +0300" stop="20260718013252 +0300" channel="karnaval.356">
-    <title lang="tr">Bengü - Saygımdan</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/12041/albumcover_400x400/cover_12041.jpg?v=151113035442" />
+  <programme start="20260718022913 +0300" stop="20260718023251 +0300" channel="karnaval.356">
+    <title lang="tr">Kubilay Karça - Ayaza Serdim</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/72160/albumcover_400x400/cover_72160.jpg?v=280125011618" />
   </programme>
-  <programme start="20260718013252 +0300" stop="20260718020252 +0300" channel="karnaval.356">
+  <programme start="20260718023251 +0300" stop="20260718030251 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020252 +0300" stop="20260718023252 +0300" channel="karnaval.356">
+  <programme start="20260718030251 +0300" stop="20260718033251 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023252 +0300" stop="20260718030252 +0300" channel="karnaval.356">
+  <programme start="20260718033251 +0300" stop="20260718040251 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030252 +0300" stop="20260718033252 +0300" channel="karnaval.356">
+  <programme start="20260718040251 +0300" stop="20260718043251 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033252 +0300" stop="20260718040252 +0300" channel="karnaval.356">
+  <programme start="20260718043251 +0300" stop="20260718050251 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040252 +0300" stop="20260718043252 +0300" channel="karnaval.356">
+  <programme start="20260718050251 +0300" stop="20260718053251 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043252 +0300" stop="20260718050252 +0300" channel="karnaval.356">
+  <programme start="20260718053251 +0300" stop="20260718060251 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050252 +0300" stop="20260718052833 +0300" channel="karnaval.356">
+  <programme start="20260718060251 +0300" stop="20260718062925 +0300" channel="karnaval.356">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012822 +0300" stop="20260718013132 +0300" channel="karnaval.371">
-    <title lang="tr">Semiramis Pekkan - Nerdeysen</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/5642/albumcover_400x400/cover_5642.jpg?v=180413080537" />
+  <programme start="20260718022823 +0300" stop="20260718023157 +0300" channel="karnaval.371">
+    <title lang="tr">Tülay Özer - İkimiz Bir Fidanız</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/5673/albumcover_400x400/cover_5673.jpg?v=050218111158" />
   </programme>
-  <programme start="20260718013132 +0300" stop="20260718020132 +0300" channel="karnaval.371">
+  <programme start="20260718023157 +0300" stop="20260718030157 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020132 +0300" stop="20260718023132 +0300" channel="karnaval.371">
+  <programme start="20260718030157 +0300" stop="20260718033157 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023132 +0300" stop="20260718030132 +0300" channel="karnaval.371">
+  <programme start="20260718033157 +0300" stop="20260718040157 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030132 +0300" stop="20260718033132 +0300" channel="karnaval.371">
+  <programme start="20260718040157 +0300" stop="20260718043157 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033132 +0300" stop="20260718040132 +0300" channel="karnaval.371">
+  <programme start="20260718043157 +0300" stop="20260718050157 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040132 +0300" stop="20260718043132 +0300" channel="karnaval.371">
+  <programme start="20260718050157 +0300" stop="20260718053157 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043132 +0300" stop="20260718050132 +0300" channel="karnaval.371">
+  <programme start="20260718053157 +0300" stop="20260718060157 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050132 +0300" stop="20260718052833 +0300" channel="karnaval.371">
+  <programme start="20260718060157 +0300" stop="20260718062925 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012655 +0300" stop="20260718013010 +0300" channel="karnaval.4">
-    <title lang="tr">Bengü - Ya Sen Gidip De</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/77661/albumcover_400x400/cover_77661.jpg?v=120526061736" />
+  <programme start="20260718022835 +0300" stop="20260718023129 +0300" channel="karnaval.4">
+    <title lang="tr">Erdem Kınay - Helal Ettim</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/11831/albumcover_400x400/cover_11831.jpg?v=011113054215" />
   </programme>
-  <programme start="20260718013010 +0300" stop="20260718020010 +0300" channel="karnaval.4">
+  <programme start="20260718023129 +0300" stop="20260718030129 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020010 +0300" stop="20260718023010 +0300" channel="karnaval.4">
+  <programme start="20260718030129 +0300" stop="20260718033129 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023010 +0300" stop="20260718030010 +0300" channel="karnaval.4">
+  <programme start="20260718033129 +0300" stop="20260718040129 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030010 +0300" stop="20260718033010 +0300" channel="karnaval.4">
+  <programme start="20260718040129 +0300" stop="20260718043129 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033010 +0300" stop="20260718040010 +0300" channel="karnaval.4">
+  <programme start="20260718043129 +0300" stop="20260718050129 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040010 +0300" stop="20260718043010 +0300" channel="karnaval.4">
+  <programme start="20260718050129 +0300" stop="20260718053129 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043010 +0300" stop="20260718050010 +0300" channel="karnaval.4">
+  <programme start="20260718053129 +0300" stop="20260718060129 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050010 +0300" stop="20260718052833 +0300" channel="karnaval.4">
+  <programme start="20260718060129 +0300" stop="20260718062925 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012822 +0300" stop="20260718013304 +0300" channel="karnaval.5">
-    <title lang="tr">Selahattin Özdemir - Bu Şarkıyı Çalmayın</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/68797/albumcover_400x400/cover_68797.jpg?v=190924101924" />
+  <programme start="20260718022802 +0300" stop="20260718023330 +0300" channel="karnaval.5">
+    <title lang="tr">Zeki Müren - Ah Bu Şarkıların Gözü Kör Olsun</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/11274/albumcover_400x400/cover_11274.jpg?v=210813125413" />
   </programme>
-  <programme start="20260718013304 +0300" stop="20260718020304 +0300" channel="karnaval.5">
+  <programme start="20260718023330 +0300" stop="20260718030330 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020304 +0300" stop="20260718023304 +0300" channel="karnaval.5">
+  <programme start="20260718030330 +0300" stop="20260718033330 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023304 +0300" stop="20260718030304 +0300" channel="karnaval.5">
+  <programme start="20260718033330 +0300" stop="20260718040330 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030304 +0300" stop="20260718033304 +0300" channel="karnaval.5">
+  <programme start="20260718040330 +0300" stop="20260718043330 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033304 +0300" stop="20260718040304 +0300" channel="karnaval.5">
+  <programme start="20260718043330 +0300" stop="20260718050330 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040304 +0300" stop="20260718043304 +0300" channel="karnaval.5">
+  <programme start="20260718050330 +0300" stop="20260718053330 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043304 +0300" stop="20260718050304 +0300" channel="karnaval.5">
+  <programme start="20260718053330 +0300" stop="20260718060330 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050304 +0300" stop="20260718052833 +0300" channel="karnaval.5">
+  <programme start="20260718060330 +0300" stop="20260718062925 +0300" channel="karnaval.5">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012723 +0300" stop="20260718013002 +0300" channel="karnaval.68">
-    <title lang="tr">Sakin - Edepsiz Komedya</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/5770/albumcover_400x400/cover_5770.jpg?v=050218033040" />
+  <programme start="20260718022831 +0300" stop="20260718023344 +0300" channel="karnaval.68">
+    <title lang="tr">Şebnem Ferah - Sil Baştan</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/423/albumcover_400x400/album_media_423_01.jpg?v=180413072629" />
   </programme>
-  <programme start="20260718013002 +0300" stop="20260718020002 +0300" channel="karnaval.68">
+  <programme start="20260718023344 +0300" stop="20260718030344 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020002 +0300" stop="20260718023002 +0300" channel="karnaval.68">
+  <programme start="20260718030344 +0300" stop="20260718033344 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023002 +0300" stop="20260718030002 +0300" channel="karnaval.68">
+  <programme start="20260718033344 +0300" stop="20260718040344 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030002 +0300" stop="20260718033002 +0300" channel="karnaval.68">
+  <programme start="20260718040344 +0300" stop="20260718043344 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033002 +0300" stop="20260718040002 +0300" channel="karnaval.68">
+  <programme start="20260718043344 +0300" stop="20260718050344 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040002 +0300" stop="20260718043002 +0300" channel="karnaval.68">
+  <programme start="20260718050344 +0300" stop="20260718053344 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043002 +0300" stop="20260718050002 +0300" channel="karnaval.68">
+  <programme start="20260718053344 +0300" stop="20260718060344 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050002 +0300" stop="20260718052833 +0300" channel="karnaval.68">
+  <programme start="20260718060344 +0300" stop="20260718062925 +0300" channel="karnaval.68">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718012719 +0300" stop="20260718013104 +0300" channel="karnaval.8">
-    <title lang="tr">Kenan Doğulu - İlk Adımı Sen At</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/26526/albumcover_400x400/cover_26526.jpg?v=150517120605" />
+  <programme start="20260718022853 +0300" stop="20260718023253 +0300" channel="karnaval.8">
+    <title lang="tr">Teoman - Aşk Kırıntıları</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/75688/albumcover_400x400/cover_75688.jpg?v=131025041243" />
   </programme>
-  <programme start="20260718013104 +0300" stop="20260718020104 +0300" channel="karnaval.8">
+  <programme start="20260718023253 +0300" stop="20260718030253 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718020104 +0300" stop="20260718023104 +0300" channel="karnaval.8">
+  <programme start="20260718030253 +0300" stop="20260718033253 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718023104 +0300" stop="20260718030104 +0300" channel="karnaval.8">
+  <programme start="20260718033253 +0300" stop="20260718040253 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718030104 +0300" stop="20260718033104 +0300" channel="karnaval.8">
+  <programme start="20260718040253 +0300" stop="20260718043253 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718033104 +0300" stop="20260718040104 +0300" channel="karnaval.8">
+  <programme start="20260718043253 +0300" stop="20260718050253 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718040104 +0300" stop="20260718043104 +0300" channel="karnaval.8">
+  <programme start="20260718050253 +0300" stop="20260718053253 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718043104 +0300" stop="20260718050104 +0300" channel="karnaval.8">
+  <programme start="20260718053253 +0300" stop="20260718060253 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260718050104 +0300" stop="20260718052833 +0300" channel="karnaval.8">
+  <programme start="20260718060253 +0300" stop="20260718062925 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
   <programme start="20260718100500 +0300" stop="20260718110000 +0300" channel="trt.radyo.antalya-radyosu">
