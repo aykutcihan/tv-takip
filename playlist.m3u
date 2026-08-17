@@ -23,7 +23,7 @@ https://cdn505.tvkulesi.com/startv.m3u8?tkn=LBDU0pwQCaNc8eryGuHtfw&tms=178079633
 
 # STAR TV,    source: youtube
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" tvg-id="tr.startv",Star TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416497/ei/0e0tasXlBZbp6dsP-p_7qAI/ip/95.99.19.40/id/82O6yOy_XwE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/ARmQxEVYFc9NxlDTYfjxTcxTixpGII8RFWHj2MuNLU2Bs3DFavdtOOTjo07Guuqx2ZQmSwApZEM3OO1R/spc/SQ-umjUpNofcEx4VXPSPUYwW46bJTy4FMDHMcSS3eklVIHIAqA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394897,/mh/DY/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/6/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgTxGa7cW8YMtYPyQbR4G453-NwkRIUtr6enpC7yuKTdsCIHnJ3sVfmlpUaqVEhB6lRN62PbWf_alv6QElPcZnMwOb/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgbjsGK5z25Qu8J712jVKGBRuQj5--SpmC7moIc5XNYqgCIQCfbwMaRraFCpQfNm9N183Zvcfue7PXDrfjQQU0o3O4lw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976851/ei/88WCapbQJPCezPsPo_OA6Qk/ip/95.99.17.141/id/82O6yOy_XwE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AR3QkAndU2heCztvY02CCjXvDpPycGQq7Z2GZ03uSY5jLlAXoFCtPZhhNMCWRWDN9doJ2b5Rx-smmgc6/spc/KBGBcmwA8mY5jOlTD8Dmhd4p-ofvf_TDJkOF9_XOrglt01U/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955251,/mh/DY/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/6/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwQwIfdqL5zwqFGgLN7GYEtKA1-QsJtxFN1X94e4MqSeGonAIgOmzQFr_AwAFoj0BXs1qIX5DFwVIfIR49tlt3f9f8_AQ%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPmSbtowWQu-JGxdJBFDh3i2iBcwcvBsW8gdfDPZXQUTAiA1nT71Ohi4vYcfTqApU_REl7_F_0mhHZ_vrXVQSCekPg%3D%3D/playlist/index.m3u8
 
 # STAR TV,    source: puhutv-1080p
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" tvg-id="tr.startv",Star TV
@@ -1385,7 +1385,7 @@ https://streams.uzunmuhalefet.com/stream/7ca72bbc-449a-4521-80e2-b891f1964493.m3
 # BEYAZ TV,    source: daioncdn
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" # source: youtube
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" tvg-id="tr.beyaztv",Beyaz TV
-https://rr6---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1781416542&ei=_u0tavvRLp2LgMMP0J-oyQU&ip=95.99.19.40&id=o-AFFHonXVq-8042F7IU7irbvWwo7Xo6deRErcBNpAbLHw&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=352&met=1781394942%2C&mh=Ng&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-5hne6nzk&ms=au%2Crdu&mv=m&mvi=6&pl=22&rms=au%2Cau&initcwndbps=3980000&bui=ARmQxEUogcZgx7DFpKnvutr7F4JxDirMOI59a9iq9gWRP2RdvMfcIkX2WwTMvf09bfKW7tu2wO3brTNZ&spc=SQ-umgqiF4-eMW-XerlV22U6Tq9dBdD1jE_yMCkE4rT29w-h9mIN&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=4279.785&lmt=1763974465953558&mt=1781394555&fvip=4&fexp=51565115%2C51565681&c=ANDROID_VR&txp=5309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRQIhAPLFJpxu4zMvkgb4MrqWpqA4Sdcf70GbptqAngYTQESnAiBT3eMW6p5GcVhXkcDM7of7eRdisKoDVZNYUaS5bdVV5w%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMJBEDJKUWCWwXfqr4jiGFNymImKfG6zj3lcP5uzzSf3AiEA8Y8eeZU_7VN1Jm79Z4cz3tvJNeqDvZXuOACFpHsYVUg%3D
+https://rr6---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1786976950&ei=VsaCatTOFIq56dsPxcKBgQY&ip=95.99.17.141&id=o-AIOxw1uxpU_w2hDXtlQMabfpXPvZq8eN1H1bQyIgpDR4&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=344&met=1786955350%2C&mh=Ng&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-oj5hn5-5v&ms=au%2Crdu&mv=m&mvi=6&pl=22&rms=au%2Cau&initcwndbps=4778750&bui=AR3QkAksstu0Qy2GsZI1uM2NrShe0bOf5xoPoGC7BH0etdPnpzxWKf8uXW8Z5HK7XD_kgLDLqazqniId&spc=KBGBcia6u0nKXSUUqbaSW4j5QqLkbQevTyVBPp3Y-KYnZ2nxxQ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=4279.785&lmt=1763974465953558&mt=1786955090&fvip=4&fexp=51565116%2C51946838%2C52089683&c=ANDROID_VR&txp=5309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAKZo8seWWP0pWZvnLLEr1kB00KpqpnAGNPcW0OxRgx-uAiEA-xjYLLuSBVDhrHX2nwYnTNItYcApUv0SDUtxFIDjwLU%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKxbhIenr54mrzmKn1NV860ayVCnjhvZ_VMpe1ZAZE2iAiEA8uFxTc4QMgIVuC1PEw1bf4TWJUxdyEHsxuAvknqkhP0%3D
 
 # Beyaz TV,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" tvg-id="tr.beyaztv",Beyaz TV
@@ -2443,7 +2443,7 @@ https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3
 
 # A2 TV,    source: youtube
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" tvg-id="tr.a2",A2 TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416501/ei/1e0tauGYB5a36dsPiaPr2AQ/ip/95.99.19.40/id/HtnytvwXi5o.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/ARmQxEULPxQ24JFJ9pZCDK0t_lzTc7tS2YMpkrZ7izE-Jr-0G0kQKWAUVI7Xj4CIUf89H4tHLFkMiwBF/spc/SQ-umtcjzTMM-7wvKTT2g1pRqSWaHf3mWZPExjSxJVWKBPf0Uw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1781394901,/mh/9E/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgXKXD172V1pP7Gf2tM6JOwGvoxFgm_DoAEodza07UJ5QCIHCNb8Ew8OH_X7TrQGCePwpRXPZ0E4zMpHLfXqu6MIvg/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKrteJ0MUMoQXg36mm88B376exvRY-jIopQuL1W2fgsEAiBh_gco1buQKTZFRN2XWZh1mnOjqQzorDgGQR_Vx3B8iA%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976867/ei/A8aCaqy8DO2IgMMP3enG2AY/ip/95.99.17.141/id/HtnytvwXi5o.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AR3QkAnNa0-ggR5TAD-qxmmD4llmRwE2UMwTvz2R2ju5fqhpU8xJDbuupqnCoOefL1fruRDszqAZ0ZpX/spc/KBGBcjvKZhaGsnb2kFnnVj3vMI2_VBOaBjCDmDGt74LeMrc/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5007500/met/1786955267,/mh/9E/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJyljCWjRt7OxRuXORmXv-RunLiMcufpS75du_F_rPesAiAJztB8-7h1rYQrUb-oYfaZ-G5GhbHv54aKv6AWoOOuUQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgZscYWPM9NhflvidV5hV2xfOnqgXcpQvIJm43rcC64pQCIQDUPwWzPpJ8Gh6UH6JxH4dTE51YoNbhOiPgZEBYS05GYg%3D%3D/playlist/index.m3u8
 
 # A2 TV,    source: tvkulesi
 # source: ercdn
@@ -2998,7 +2998,7 @@ https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3
 
 # SHOW MAX,    source: youtube
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-max-tr.png" tvg-id="tr.showmax",Show Max
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416504/ei/2O0taoL0D4SJ6dsPmdL0mQ8/ip/95.99.19.40/id/Y3vGHFrsqrs.2011/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/ARmQxEUEFunaLLqAqt79YIrqUofxFnxIqfQ1jdkhQCeryHZuNhKp0twduzzSjNlI9kuXxOVv9tyCo9gm/spc/SQ-umvXurpmwEPIP-pUMRE6s6ni7I_MR6J9bM_eZHnOrNQyMWA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3497500/met/1781394904,/mh/pk/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/3/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgA1oBz0ZRa7feAZP-F8wtFL8709vMjJl7ubl_IEoboZMCIBnGrjY1brOxpvx_dA4hwgoKeEY71Zk2LoHFkTgr8NyI/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAO0j6d5lTvfGMJ2a6MMV4vwX0u3Qi6jIzbexvsknKznrAiADK0Em9NtXhU4vUlCoo8g4Xk0EfRcDaUxfu9zdA3Xm4g%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976888/ei/GMaCao7WIqq06dsPwYXQYQ/ip/95.99.17.141/id/Y3vGHFrsqrs.2011/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AR3QkAlwyiFB-SU6VxbP4Y82pwYQM-cn12G5xjkBbpDNqFA2w4TBch3-4DsmA8QKmbID7963nUV8gkf7/spc/KBGBcqp1v73vM3sXV7XpOaSUb18acOI4_bPmFifEKT09lxY/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4973750/met/1786955288,/mh/pk/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/3/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786955066/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAM56SkFylx6uc1k0lnwNdU034ruLjwBp3z9zm4y9CdjxAiBNYNuHXEivVsIidaELpQQXBMZ63D_9MwaAzUnkBRzj5g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALG2KMYhhQqnIwBMW-mil-duSTmO4fyhh6BH_rO_D_KPAiAsPXJ1ovtb-_J71eZZAPRL43ZLVygshN13MFmkqpw0JA%3D%3D/playlist/index.m3u8
 
 # SHOW MAX,    source: tvkulesi
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-max-tr.png" tvg-id="tr.showmax",Show Max
@@ -4069,7 +4069,7 @@ https://streams.uzunmuhalefet.com/stream/0665560a-c8a8-4087-bee6-9af26f226c90.m3
 # KANAL AVRUPA,    source: tvkulesi
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-avrupa-tr.png" # source: youtube
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-avrupa-tr.png" tvg-id="tr.kanalavrupatv",Kanal Avrupa
-https://rr3---sn-uhvcpaxoa-guhe.googlevideo.com/videoplayback?expire=1781416547&ei=A-4tapOWKerZ6dsPoeLx0AY&ip=95.99.19.40&id=o-APzKQp4GwGvzN6gvpLGwtep2yGg8Jq_RH5IzzGxCZHRY&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=297&met=1781394947%2C&mh=ud&mm=31%2C29&mn=sn-uhvcpaxoa-guhe%2Csn-5hne6nsk&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=22&rms=au%2Cau&initcwndbps=3497500&bui=ARmQxEWLzfETvoLtuVSuODJd4FFqa7fKMUseLRAy7ZbL4PqHSn5Q0agOSyoEgRey48kDs0zoS6EGxCHj&spc=SQ-umo3Bq1SqGq_hXgzHjFadYbpm4csjZiQgdBGb0seju4mUvd3L&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=6353.536&lmt=1755733251233987&mt=1781394555&fvip=5&fexp=51565116%2C51565682%2C51987687&c=ANDROID_VR&txp=8208224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRgIhANMw2XNHiVeg8ruOKbQMvngMxHZQti_93fDhnmwtbASLAiEA0nUIbpPtxC3IEMXCDLLxRI0-FNrjlbLMxJmBsxhv4Sw%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIMvlfWkfAf1WHfjtQpoair7Y8IRh0qBug_UNPvI-3drAiEAhvlEVmciGRHp7dLpIYDBBg80FY2YEhLV3MGWyZnuirM%3D
+https://rr3---sn-uhvcpaxoa-guhe.googlevideo.com/videoplayback?expire=1786976956&ei=XMaCav64F6zT6dsP4_6YuAY&ip=95.99.17.141&id=o-AKJHhkahz03oxXFiUuslOY_i65iDkuQEdrFUJHUSWzxD&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=218&met=1786955356%2C&mh=ud&mm=31%2C29&mn=sn-uhvcpaxoa-guhe%2Csn-5hnekne6&ms=au%2Crdu&mv=m&mvi=3&pl=22&rms=au%2Cau&initcwndbps=5025000&bui=AR3QkAnVRN6BWVDsB_OvrAdUe2nF5gFQHIcgjQvVd2EhFLMrupwZAlwnqOQHbcwfcle99FxbUZA9XszU&spc=KBGBclCprm-2yEhbU8X5X13LCrckMHA9F9oEhQluGTIuo1UP4kX0&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=6353.536&lmt=1755733251233987&mt=1786954855&fvip=2&fexp=51565116%2C51946837%2C52089683&c=ANDROID_VR&txp=8208224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAJEjNlCNf-NiYaw5WhbzQmHlTIncrnVMKhoe1j1DTrorAiEA5dnnGXnKjb6syWyiluSUiGZKGEHjuoQVkkX92mqci-Q%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPyVfowOHC9tZ4nsYKFDq8ucvWZtKdwujkYcAQBfpql2AiEA28KQG6y1Q7I0OJPb-3luilcpDQtco8coiZc9_xWrRak%3D
 
 # Kanal Avrupa,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-avrupa-tr.png" tvg-id="tr.kanalavrupatv",Kanal Avrupa
@@ -5416,7 +5416,7 @@ https://cdn503.tvkulesi.com/tv8int.m3u8?tkn=LhrKNlz-CwneekaQICqg1w&tms=178079650
 # ── HABER ────────────────────────────
 # CNBC-E,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e-tr.png" tvg-id="tr.cnbce",CNBC-e
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416483/ei/w-0tarqbKv3Xi9oP4v6uYQ/ip/95.99.19.40/id/aZ3ycSbSYBA.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEVASZiF5EyhT2gaAs13FicAfxHnDp9bDUeQ0N7Z4JoAc4Vmp0xFeBFcYlnG7_ozIRgP-KkhUfhP/spc/SQ-umnZSjhJImwV5SSQbQu_SVkm6_Y0tviB0JL9vYIPLpSHpnA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3497500/met/1781394883,/mh/JZ/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51987686/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAJoKgO7N3Y6A-GJPnk1OJNJR73LBBlcCPwCF1_S04xRtAiEAx94DlSivBfrVt90FDFFndV0HoLiRxMM2oN-frDQ01bU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAOZSUfVPJCe0Wqu9E3K5XuNFA66s3OgFwoLi1NVkujvjAiEAhzlKw9xXsdiMrUAl68QxdRTc5_t7Ztu5m41boIpTmSY%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976804/ei/xMWCaprpK9eQzPsPg6PcyAg/ip/95.99.17.141/id/aZ3ycSbSYBA.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAkBfSKK4D2xo1yJzJV9P1ALiARpkKmquhm7pDlI6JlSzKSJZfaz8b2qe86Q35UTFjGzon4b_4VA/spc/KBGBcjuGQuw7cNyunbUrlzFE1po0Vug3oZea0N9k3IOJuq7kDQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5025000/met/1786955205,/mh/JZ/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946837,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgc0hY-j4I5zFgXwtpGCJt213xzR83u3jlv3UfP8Ig4_sCIQC-rdmVTcuA8yW9A2_vLG3HIXENhqj-CGfbM86o89BifA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgSgYD628NCAD1_DLn-zCUTpAIMXreVVoIKLAWfeGc3X4CIQC7Rt-A1j32nZWR-CGYzXJz5CQjIuruh_8FkBMYYCZV6Q%3D%3D/playlist/index.m3u8
 
 # CNBC-e,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnbc-e-tr.png" tvg-id="tr.cnbce",CNBC-e
@@ -5940,263 +5940,263 @@ https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3
 
 # A PARA
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=11YnaWey2-z6fSkFVc5zFg&e=1787000368
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=11YnaWey2-z6fSkFVc5zFg&e=1787000368
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=11YnaWey2-z6fSkFVc5zFg&e=1787000368
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=fEAK3tMZCeo6PC2dhrq5dg&e=1787000369
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=0TLLe_KewcN8LJYkgdz2zQ&e=1787000370
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=8bYWSjHktHvd8V-8jL5Eew&e=1787000371
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=51WMNABmePDEJol9HwtwXQ&e=1787000372
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=IDj3tM-66S4LitW_J-mfng&e=1787000373
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=sMLPu6X2YRy8Tbw0l5eWJg&e=1787000374
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=sMLPu6X2YRy8Tbw0l5eWJg&e=1787000374
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=sMLPu6X2YRy8Tbw0l5eWJg&e=1787000374
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=sMLPu6X2YRy8Tbw0l5eWJg&e=1787000374
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=sMLPu6X2YRy8Tbw0l5eWJg&e=1787000374
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=sMLPu6X2YRy8Tbw0l5eWJg&e=1787000374
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=sMLPu6X2YRy8Tbw0l5eWJg&e=1787000374
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=4xwbvTbYZss4XUDuLhujKw&e=1787000375
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=4xwbvTbYZss4XUDuLhujKw&e=1787000375
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=4xwbvTbYZss4XUDuLhujKw&e=1787000375
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=4xwbvTbYZss4XUDuLhujKw&e=1787000375
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=4xwbvTbYZss4XUDuLhujKw&e=1787000375
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=4xwbvTbYZss4XUDuLhujKw&e=1787000375
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=gZOtZ_tmu5KkFINyb9iZ1w&e=1787000376
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=gZOtZ_tmu5KkFINyb9iZ1w&e=1787000376
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=gZOtZ_tmu5KkFINyb9iZ1w&e=1787000376
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=gZOtZ_tmu5KkFINyb9iZ1w&e=1787000376
 
 # A Para,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" tvg-id="tr.apara",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=gZOtZ_tmu5KkFINyb9iZ1w&e=1787000376
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=JnwZA8d9GihFYlSAN0zE-w&e=1785553972
 
 
@@ -6475,7 +6475,7 @@ https://cdn507.tvkulesi.com/ntv.m3u8?tkn=SkBJbPxOEfqiutZ76VUWPQ&tms=1780796386&h
 
 # NTV,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" tvg-id="tr.ntv",NTV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416517/ei/5e0tasvjA5W2svQP_Py74QY/ip/95.99.19.40/id/pqq5c6k70kk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEUVF0qaTnhcED9yA_ubMZk3IA7KXJvBx7h_G2BDUvFETjNO2A0HnQX5vmomxZ7vaKhTI1xrqXhj/spc/SQ-umssUYQm3Yfw1weQIKB2JFRvKjb0RyWy-eLa-6sbdR86Zdw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3298750/met/1781394917,/mh/Ok/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51987686/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgak1LYkQcAb9i4sIUFv1vwMk7dPT3dPDpkyNu5ikrCt4CIEHjYpCxEAm_yYZ5fOfnudTgxR0n5evnFDvN4nHsNDwG/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgPPEzWt7qGsWfL7jfmJjP5J8krfswhXUtK1TLTMozPW4CIBqXjaA8cK5m0BFdFo0NuMstF6Mlox3RgXXLh1B1Z0vc/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976919/ei/N8aCauH2DZrR6dsPx5LCwQI/ip/95.99.17.141/id/pqq5c6k70kk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAkq8yKbEk-tpYb5tjgLQMQwu-pVKGkjUphwUGbMimgaO8SKsliGmCGc2qZlI_UkxukskRIwRyqu/spc/KBGBcnkJk7b4B3WN7eufZM9SVo_g0UvquwSBqMmWbPHvGb0/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4982500/met/1786955319,/mh/Ok/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAOMzm74MT6qu7LRIhT0iJaEY09_lczTBl43tX2b4lKveAiEA2vST3DAkzjkGrwpy-Juh2TxOcR64qkNzwE1tVe1mMVE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAO0CVsS1b_Ne7MCt8SdS29WrWoTpjtYtrlZWOH4WgxSDAiEAx4EzsYWGqy_eVC1jVEvT3mJZ-qeyk8FkZxN8b1h7dds%3D/playlist/index.m3u8
 
 # NTV,    source: puhutv-1080p
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" tvg-id="tr.ntv",NTV
@@ -6753,7 +6753,7 @@ https://cdn509.tvkulesi.com/sozcutv.m3u8?tkn=NQwZhv2_zVl17mYNKjn4ZQ&tms=17807965
 
 # TELE2 HABER,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tvnet-tr.png" tvg-id="tr.tele2haber",Tele2 Haber
-https://rr1---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1781416520&ei=6O0tas6UAs7V6dsPzPaQ4QU&ip=95.99.19.40&id=o-ANRJEyFHbgTGMnKabSJLJto1NhAGyYj9kA0hkJ4t5ioR&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=341&met=1781394920%2C&mh=oL&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-5hne6nzs&ms=au%2Crdu&mv=m&mvi=1&pl=22&rms=au%2Cau&initcwndbps=3980000&bui=ARmQxEUsAzUNXpJeVDixHaiXg8Ms4lU47FwkUSbYXyf9h6URPxnZMgYameagadpEZ60GH1uImv7RHEu9&spc=SQ-ummunsWe0J_hRDO2s8Q8HT7kmdLPNPk_JZ9eizXAd1g7ofEP8&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=152830181&ratebypass=yes&dur=3424.246&lmt=1780490701140782&mt=1781394555&fvip=1&fexp=51565115%2C51565682&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRQIhAMufUS2TG2s5MwwW2jyBPQ7-6oImol8zipQLhBzxaa0wAiAqp0tATaaO-_2YfG76CjmoKJqggFVbwnS3rb5dwVb_aA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMy0UlKdLbO9YWqOKKvSi30qm2sZaTFlo5Y2pWD2Jm0RAiEAkePk_8_cfGf1xDtkxBHhm6J0jZwgstbNji2WLMeOXjM%3D
+https://rr1---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1786976923&ei=O8aCaqboKZbwi9oPrYPYMQ&ip=95.99.17.141&id=o-ACb1ZLK-cnRl9DpsOMvdshJQtspOuv-4tKLJJkgu8AIc&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=287&met=1786955323%2C&mh=oL&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-5hne6nz6&ms=au%2Crdu&mv=m&mvi=1&pl=22&rms=au%2Cau&initcwndbps=4965000&bui=AR3QkAkmgKArsb8L8oOQ6tJZG8wgU15k5-lbZW6SCyn3bTu6aJc2sg-pZKLjRUxxNn_QxacnyY-Md3Qb&spc=KBGBcjclsO3qdACNEbyanovCJcV8XxM0JTIDnHwtmJeW6mHpkxhs&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=152830181&ratebypass=yes&dur=3424.246&lmt=1780490701140782&mt=1786954855&fvip=4&fexp=51565116%2C51946837%2C52089683&c=ANDROID_VR&txp=4438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgRhS6InfTH0ub39TmCjX3_7PJv4EVMkg4-hfssbqTVDwCIENBPbMr2XQJcAkXme1xMlkz2lBwRjbJGqPYdWeBDUMr&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAONqPr0OPCF-6L-Kx6D6PBrwE2YOKT7UQZ81Uvi8q3JuAiB_XH3TYI2qOTQTWkCmRDx5rEcVVoUB4CFeLBfaRZ3YaQ%3D%3D
 
 
 # HABERTURK,    source: ciner
@@ -6762,7 +6762,7 @@ https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?app=c98ab0b0-50cc-
 
 # HABERTURK,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" tvg-id="tr.haberturk",Haberturk
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416524/ei/7O0tasblMqm56dsPh8vS-Q4/ip/95.99.19.40/id/RNVNlJSUFoE.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEWvgNcaP9Y3D_dTHt0rGTh4V10dVUNIyMRb77uI5JmFblGdVkAu4JQkadoBvhHsZOZgq3QY7LQM/spc/SQ-umjYoZBBATEf55t508sHewNPgE5HPbF7pPess0XJ8h8aEvg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394924,/mh/3R/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgRtjj_yz3NXf_GhRL04yzldDqXRYsFHLNxkKB4kwBy64CIFf2FZ-bzVs7gueMrli3YDPZakzP7kianTKiz9CZ8-X8/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgb1VNxoi4A1oCWexzGrwx2g9Vmc-IF1pQdYKGJYdIUaICIQDRkM6F9Ryq6DniZmmR088bQTt8PGJPkuV6V2O23hZfNA%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976929/ei/QcaCapmUA-OXzPsPp8nT6As/ip/95.99.17.141/id/RNVNlJSUFoE.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAmi23wXnt1NYhJARiQya9Z62oIteKETLKl0PPmocUFQ2XqApKc5kn0ONDHUCPq-osgwGKge0V3p/spc/KBGBcjKWh4g5zVgi4NwvSRfr_AlcTXE4k2lob0b_w1VHLc4/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955329,/mh/3R/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAJFQqN9sIWyLiNBXRY8GW0NOMS8QqM5DKoTEmJ02692OAiEArRa_aSTJDKFcs8v1AE33E9vqCZ5sNhtqNe0qHWJZQfs%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAP1T89DCHHWVKpByGWm9yqFA_2-Pg9eSYDmzXNVNTwriAiB1s0YC-x2w1W1nMrkcyfJW39209H6Mx5Dl1Jc7P9cVMA%3D%3D/playlist/index.m3u8
 
 # Habertürk,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" tvg-id="tr.haberturk",Haberturk
@@ -7026,7 +7026,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 
 # HABER GLOBAL,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" tvg-id="tr.haberglobal",Haber Global
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416528/ei/8O0tap-1AZzGi9oPlKrhiQc/ip/95.99.19.40/id/EqoCJ8BPxtE.237/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEUUsBatGjhGIolioOSdCxFFDujfF3qbdjynn_WEWlMd9QL6G3wkrXuMMmY2KyfkjXeh5aKkgWAy/spc/SQ-umuyfk5Jeg3YDIa7wHzRFDI-bfSfV2Elaupvz85GhgczMtw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3497500/met/1781394928,/mh/UE/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51987686/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgKdzuyZyhNeF1YCD-aY6hiNg234XDhDnWFJMy9MmIIw4CIQDcv7Pk4c-2enpX-qwBvgKq78UI6ZSkIEcpUVLnW_bR5g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgLEFK_JamzKmExmrhXFnkQHJmi5A08qJwE0g7DsTbIpgCIQCuxFGLzGROV6evEa9sGpIT5U6u_v3kkAedqLcXTeiJ3g%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976932/ei/Q8aCatn6POe46dsP9fCa0Q8/ip/95.99.17.141/id/EqoCJ8BPxtE.287/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAmiPnc09VFvBPTkpWgHL4N7gqkYLjQOxdzwzJ4Kskf9zpKY0WTDa5WSQVfZs_Wik9djnvoStsFl/spc/KBGBch2uSxit7qhvvEW6GaFBAN-FKLmS4DmOTqrFh0aMaujRTw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4973750/met/1786955332,/mh/UE/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,52089683/mt/1786955066/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAInHlROYQxRtxg62eyjjAzNlxECcOpX8Xaf-mkNpeTTjAiAOqYLWIxP35RelSb_7gW9gioPxacXJeKAp5BlGP72ldg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAI3InVE6ZZZNcIm2FjDpkct87PBpawP9UEuY1K46a3JYAiAG_Rox1bIIZftdXB31dp9gODqxoGFzoiDPdDZ7mlOr8A%3D%3D/playlist/index.m3u8
 
 
 # MAVI KADENIZ TV,    source: tvkulesi
@@ -7574,7 +7574,7 @@ https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3
 
 # TV 5,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv5-tr.png" tvg-id="tr.tv5",TV 5
-https://rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1781416534&ei=9e0taqDDOvnMi9oPrdv1wAc&ip=95.99.19.40&id=o-AL8RDmvBFINk3i6kvZhrBXyIOJwvsBofpYRJkRAGf-JY&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=197&met=1781394933%2C&mh=30&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-5hnekn7d&ms=au%2Crdu&mv=m&mvi=5&pl=22&rms=au%2Cau&initcwndbps=3980000&bui=ARmQxEVHCO_lRGYnAbxB84Vu8Oct_q3JRi_dmiq62QPkmpj5Uo6SLNnsC3ciyNidzmVzCYmmxWo_ZdmN&spc=SQ-umj6As0PX22H5g3iy1B0VVsWt3FbUZwT0OtvC1X_bSAE1cXSp&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=366339039&ratebypass=yes&dur=6138.961&lmt=1775849201078958&mt=1781394555&fvip=4&fexp=51565116%2C51565681%2C51987686&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRAIgQ5avDoKVdzPzmp55BCfylylf4912TAhfAks-xQk1iiECIG9De0BMYSCfKzUOard053xmjR-5IYIP-adUtzfKm1PJ&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgJonqWo1IfqjsR5qESRQptjPp4c7Htc9PwKuMSB0uNwkCIQDxXAU0rvnPVL6PEcTTK3rmePX6hiaG4RxKF8KEGYYN6g%3D%3D
+https://rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/videoplayback?expire=1786976938&ei=SsaCasjnEaq06dsPmbzUmQM&ip=95.99.17.141&id=o-AJ5hSNDGG-LtAWNu11h0wqZ5F2KsdIr1S9Ob9ouUdGGN&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=283&met=1786955338%2C&mh=30&mm=31%2C29&mn=sn-uhvcpaxoa-xpoe%2Csn-u15hn5-5h&ms=au%2Crdu&mv=m&mvi=5&pl=22&rms=au%2Cau&initcwndbps=4965000&bui=AR3QkAlG7Bv8SxeahyKxFU_R6r-MN29F7CFLAO_HEqx9bMSi-S-jQjUUNH3BQqNrvkFJaHtN0gk37euC&spc=KBGBcvGIkFBlAARCJ2rnBb4-Ss-P_1uMUH8sqzQv4f9dLGP61g&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=366339039&ratebypass=yes&dur=6138.961&lmt=1775849201078958&mt=1786954855&fvip=2&fexp=51565115%2C51946838%2C52089683&c=ANDROID_VR&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAOhRajndwzhMGl9-OblyHXbFrcCfbz_lQVn5mlRxPpJlAiEAglzt8X04sg-e-PdJk16HUPPeFFfuvlDuhZAR0K8Q3BI%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgaabWNRBuXz_pdJ92SwLRsMs_-BRx3ud_xbf1On34UIACIBZVsbG7HrsZeXKZbTb-es59TbYhVNbafxdKXbq-XOCl
 
 # NEO HABER TV,    source: diger
 #EXTINF:-1 group-title="Haber" tvg-logo="https://neotvcanli.com/assets/images/logo.png" tvg-id="tr.neohabertv",Neo Haber TV
@@ -8136,7 +8136,7 @@ https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.c
 
 # CNN TURK,    source: youtube
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" tvg-id="tr.cnnturk",CNN Turk
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416535/ei/9-0taqTlKoiJ6dsPxJnhgA8/ip/95.99.19.40/id/6N8_r2uwLEc.221/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr7---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEWivZ2Nn7KQD-DrtVIOoUiTXban4mMw2xb6qX0VqxY7GYmbZWMLYA53h3la2pC4vHjNq36uaSPm/spc/SQ-umvhN5Rv7JYjIUERaKrk5HXoUe8h26las4hMum9ANom0UMg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394935,/mh/Ky/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgI5zShJ-wrzrG1zZDehquFOW4xm7P3lhkjYN7fRMYxiUCIQDiLjY1qRl7NF-0z5ptrKn3mcTzd6XfTxNANt7p7ssUVg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALHZCQOgGtbAynTPLATm1eV8R3cjlC-J9EMaRg7nGlDmAiEA0tnomQhiwKDn-j9_nysDORqrZixyvG8uqvl33PS8Mig%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976940/ei/TMaCau24LpWCi9oP0c3q6AQ/ip/95.99.17.141/id/6N8_r2uwLEc.221/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr7---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAl2kH8chJ6lDInCCFHn13UZu6M6NtWuS9Uc4Mo8ZIBF7Q90SdqJZwakQlf2fdoazbAnrrSEV8VO/spc/KBGBcrD3ON2nr9iurJwWNPD_6g194XaNcxmEwvKBbfFWve8/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955340,/mh/Ky/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgBUIUD1UL9XLqk1503jnJBgQC_FBsdaaE9celgVtjPDUCIDmFhvmcU7kX6Dmrwoz88UWh8ycL6pVmMShydR_Smzu9/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgSiPPOzOMJXo_QtOCNI4lOX7DUDfzHuRf3wrNqytBlZYCIQCSBYzMTCpo6HCyj4QUmx5p9LCQBM9a2X55IxQCrQstEA%3D%3D/playlist/index.m3u8
 
 # CNN Türk,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" tvg-id="tr.cnnturk",CNN Turk
@@ -10094,13 +10094,13 @@ https://cdn506.tvkulesi.com/htspor.m3u8?tkn=CNdn9Vjbap0y9tq7oXmMUg&tms=178079654
 
 # A SPOR
 #EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=9AAK38kNgwGPpmKBV6Sj6g&e=1787000376
 https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780439087/ei/zwMfar1hkqWL2g-P3trBCg/ip/31.21.186.28/id/mgeW8Qm8-SY.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwqKUDOaRLroLTqMdP0ZOOMojlZSwDavjWAPTUkiz3vLHGjigp4KTIleljU_4QEYlHRR2OACnEDn/spc/96Xrv-nSbdnWyTy8yt_fWDdTcoC4nRFLJuBipy7n8-fg_bR0Cw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4510000/met/1780417487,/mh/49/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780416766/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgNwb9q8TzBgaxdg2NquijhoEYBEzZ8yHnLG1spoaWhrsCIBQ-u6L_cUudHPRjtIPpoYi-POw5grMaJaGpZDICmD0I/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgUymTrbvvkZaRdoaR-JSYJAPhPJI_L0PTqKb9OOTrK-ACIEKR-FUGEh6BsIYN1AKVi6q7cwrr8ewTqNw3m89DaDNl/playlist/index.m3u8
 
 # BEIN SPORTS HABER,    source: youtube
 #EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png" tvg-id="tr.beinsporthaber",beIN Sports Haber
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416515/ei/4-0tarKkIKyI6dsPzbL8mAU/ip/95.99.19.40/id/i7UpPgxfZZ8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEUw8mqVHJXsU84p3fKkZeHlP0NdGCEXckUN_rad1YHbYsjV6UEzV_ETskNPE05mIUFVrMC8-f2T/spc/SQ-umgd2zvGTZ97O88Yttx8vQ1aOw5d57f9PLoI-cyg6vwknIA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1781394915,/mh/FN/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJ9bUgptA_q0OhTH_thIg9kK-UUtZV5q60Mfznk4tZ2pAiA1h6HtNLGmKzNggs5md4jdjCg4EhF7xBmBvgVNPJd-NQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhANSUZtGB2wHRPYptB9H3KEiBhrUU8Xda87MbjNFXtpgJAiEA1OTSxdESwFwGP3GRJuDamzGjEWLPs4DoWLzyGuK4uxQ%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976916/ei/NMaCaoWKEvCfgMMPkbK8sAc/ip/95.99.17.141/id/i7UpPgxfZZ8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAmOux6lo05_xEKH4gWX_nMg5YCpCKhE2A5wPdbiwAK-Tyz-ssOu4SkSfOqzlzCScj7rCd_DrxLV/spc/KBGBcrsmLvqFQlRcn2YJls50rjGho7VtvkwQkSB0fVUUjSgL-g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5068750/met/1786955316,/mh/FN/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,52089683/mt/1786955066/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgJD8ZuR7R2Gmh6LivmNCtEzvwmL-TVjjyj5bAOiiyNpQCIFBWkGrsZoZehb3WdSvhxm5RBkzOD_N0tSjmzDPGzOq_/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKGft9jaFl-HOldp0tilqdRjP7DElegvRfpDBHxDGDj2AiBSGx_wtq1CefjlSRCojSlMduNlOJmnJnWgIR3sZXNeCA%3D%3D/playlist/index.m3u8
 
 # BEIN SPORTS HABER,    source: tvkulesi
 #EXTINF:-1 group-title="Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png" tvg-id="tr.beinsportshaber",Bein Sports Haber
@@ -10646,11 +10646,11 @@ https://streams.uzunmuhalefet.com/stream/e71f5266-932f-4348-a530-ee3a48520e3e.m3
 # ── BELGESEL ────────────────────────────
 # BBC EARTH,    source: youtube
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Earth_logo_2021.svg/320px-BBC_Earth_logo_2021.svg.png" tvg-id="bbc.earth.live",BBC Earth Live
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416552/ei/CO4taqn1GfjTi9oPuaXvoQ0/ip/95.99.19.40/id/1LhlXiSc5NY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEVbaEjY8tE_Qm5utjlOAKXvQQuPY5TszW0vo2mby7bkGEdzc4MTIi3DvtmqKedq0gMUGWfA5nAl/spc/SQ-umrC7_szgg3GDAQTBcf8hsOF6dP9RIXn69q-QaYZ4n_XJFg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394952,/mh/ol/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAOwnVNJARVD9v5F1ifnQZbsWShhGbScj7rS2LuB7MFsQAiASmKn4VCgLeodIA8FlJYqNv6w14nCH08hlXmEwzxyWyA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALDOohNaQ2CKVapsmjk96wNR7x0wWixntwbtsywnMAyXAiBD8KpjhC9PuhSrR_BrrIhu5azMvJYWnaR0vVHJIOhh9Q%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976962/ei/YsaCateDAdbzi9oP2eqw4Q4/ip/95.99.17.141/id/1LhlXiSc5NY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAlZ-K5WotMj_wM26DDHbEt3Dr5UQbhOOtPPyqjM5WixutytRHFnFYMquxeyWKZ3dHpRUpGgAUAc/spc/KBGBcnjL6lHiv5w3lJ_-VGjRWOTlxAHC_zJ7CM_L2gvRKPw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4778750/met/1786955362,/mh/ol/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786955066/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgBX6DRm8Bmu5NQpZ6NBqS2QF-k8iybCUjqnZCXUs4xOUCIQCSHHMTGZXxQHsbEfRqnuy7Yo959UonpFvnNzmD1cCWaw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJozMb-NGZHVw2P7OUUX0RG8bA8nYcHomkVDbfFdxMBOAiEA69x8WG5Z1hLp5C2TkQJ5_SKs-OV_WUC8b2B6NGps0nY%3D/playlist/index.m3u8
 
 # NAT GEO ANIMALS,    source: youtube
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/National_Geographic_Channel_logo.svg/320px-National_Geographic_Channel_logo.svg.png" tvg-id="natgeo.animals.live",Nat Geo Animals Live
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416554/ei/Cu4tao_rAaCJ6dsPyMOzgQU/ip/95.99.19.40/id/MiQe9ob9aDc.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/ARmQxEX_IcWocZ1l93y9g0uR8P6mOlFPjheffxDo4_8g-bwVd4c22ZcKAbZ9FGoha_VjZqrHqY9zDBZn/spc/SQ-umotsrYrbHtBDgr1bnyiczqjDBYB3nhpFmQQGA_pSZ1tUVA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394954,/mh/tj/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMvN01-aiFjOzzu49Z49olEACmpHfvLuPOyvU20XKSJ_AiB5a-qj2v2JS_RMOds5QDqbsl_ph2d-5-m-3o5AuHlnWA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgfM7XzJxDRqLmEGASj4nqmhArXdYF8ue-1A87zUsJFfoCIFqquiEm8tBneHs5Y76mymYVu4WUaBkE27Zn0mdd3i9G/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976964/ei/ZMaCav77AYGai9oP7aKh2QU/ip/95.99.17.141/id/MiQe9ob9aDc.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AR3QkAl82iDW-Y2EHns0_4TiIwItvdNJJPj1OJ1SB74zb9rlEYxHJ9RWbn4opPFbRAiyqHqaja5IRaJI/spc/KBGBcp6Pk5I2Hm28-yP-VGgiwP5CpAZYel11YKUzhnoL2u0rjQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4778750/met/1786955364,/mh/tj/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,52089683/mt/1786955066/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJ5EUjnHNgwbfc7QnjCIG9tSVtuaOLCGlWcpZU0V9fHyAiABwjmBBTEiyN6pY0E_X5zkEDoS2P1D6XmVP7Ep-zTdbQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANwnk1rSCUw4UibrZZt9yBk2qDY-zX4B8FfRFX1t8F1BAiA927QoNdo8CInTAr9hLPRCFqyjYNiQA8NTDq5R10wfxQ%3D%3D/playlist/index.m3u8
 
 # TRT 2,    source: kavuntv
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" tvg-id="tr.trt2",TRT 2
@@ -12257,7 +12257,7 @@ https://live.euromediacenter.com/tvmor/index.m3u8
 
 # TGRT BELGESEL,    source: youtube
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-belgesel-tr.png" tvg-id="tr.tgrtbelgesel",TGRT Belgesel
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416493/ei/ze0tas7CDOTQ6dsP0ZzIuAY/ip/95.99.19.40/id/32y7IEtD5OU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEW8q2ofYwhm2MRsgIUG7Boh_Cq026PlL9NGygw-X9yS22Y8w9qRhwSHInQ2xViMArMNlHVvbYkm/spc/SQ-umkLxVfV6G7RIX-ZMNGlrGwF9G-ckobVVOtdM0Z9hOXhLog/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1781394893,/mh/jn/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAJ7Xb4LWtSKMeQVjeRF02T5IlMM9x0JTUT-al7U6_hTTAiEA7BOQmgKz8YBm-eZTO6p3Q3TMBgHwJ1Pbw2DZnJrujJk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgTwZeooFZS2Ii4m33a3EM6Mkl2FKL48XBKPJC-eLCZmQCIQDQ4WFZ51VExwOfxunJAkmAkqMLutfcrb3reAvA_sa_qQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976840/ei/6MWCapGtEJfN6dsPzrid6AU/ip/95.99.17.141/id/32y7IEtD5OU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAlxavJTqaITF9gAdrx1T8g3XgbUQ4gKVSwcUk1CzUcKk3EYjpgAK1gPENjD_kuOzR2TB0YkzsfS/spc/KBGBcqFAsWwSJhU7iMijBzM_TgTcVqMwZpBO82CgjJ_U-Z4/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955240,/mh/jn/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhALBvIe7MrNhvVv1zBrUhCfAwlyX4kptcT2MN4W2gUs3dAiEAwWaKJflTTi6HmpiQJSWNCqLPlkwuB3sBCHTL_tDZvng%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAOC2BGlkvv0jrgO4zUBON7LYRryv4FOveolvOT7ldgZPAiEAkdfSaXl6P1CUBRtGUjkzjC4V4EKtp_IPc2QRDsPvi54%3D/playlist/index.m3u8
 
 
 
@@ -13076,7 +13076,7 @@ https://streams.uzunmuhalefet.com/stream/6583f90f-0bff-4523-9547-1c9a96280b2e.m3
 
 # KRAL AKUSTIK TV,    source: youtube
 #EXTINF:-1 group-title="Muzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-tv-tr.png" tvg-id="tr.kralakustik",Kral Akustik TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416491/ei/y-0tap6GHIyHsvQPybLryQQ/ip/95.99.19.40/id/O_-NjHABJIg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEWKNcm_8UPRX2rcwCck0rv4sw1S38VbBjf8Qk9xxUK0He9hiBS2GsdPPBA8wPpsJM9cne00DieK/spc/SQ-umgUXUAi01pG1PtAcmY8RNGZ499OmyZ0PMbeR7FOftlpcHg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3497500/met/1781394891,/mh/J1/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAIjzb0Xk9Eb5M_1m1RG4bWEYHe7NKbcVT_XjVWdUhuyTAiBiJHYEC1hmk5SS4YB4WBC5JOs-WWbhAcDntSj---ZQ1A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKR9HVfFyoHvwUr85q1iCDYy77zonduCsB-dRz12IpRcAiBBIQy9rV64nLAINe2W3e6rzQReRCAPT0Oo2oCh7BuguA%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976834/ei/4sWCaou9G4bN6dsPmsm36AU/ip/95.99.17.141/id/O_-NjHABJIg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAnMzEn2IAhNDFTPQzrBkZnhYZfJqAhvXnC865tvIVmUpsM2PkRqt4H3EKIVnVJRXntFmnz99YTe/spc/KBGBcl2n-wexjywQRMgaK-Tdvie5xT13ro_eaXcyp6VQAbK9NA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5025000/met/1786955234,/mh/J1/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgFCdPFRkV_hV0yvgW2AM9ZhbhaJg6U1-qWC-EYjmwfJ4CIQCLIct_ZLmBhXMAjOHNtpiURku4OlZx3Owlyl-tdfQIPg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIhAPEHlU2f61ODRWbWMDy98JE78BEkeCv6fBpoK-10VZ1EAiB1xffOm5xc-6wIsNCiihxIHIZHtkyS4vva8rHi4TrwSQ%3D%3D/playlist/index.m3u8
 
 # POWERTURK AKUSTIK,    source: powerapp
 #EXTINF:-1 group-title="Muzik" tvg-id="tr.powerturkakustik",PowerTurk Akustik
@@ -17299,11 +17299,11 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416489/ei/
 
 # YEDI NUMARA TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.yedinumara",Yedi Numara TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416488/ei/yO0tapy0F7fSi9oPxNy5gAM/ip/95.99.19.40/id/rS5dHYQsSxs.30/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEXdp4RyNkEl9d6YtTHKB2dclFGqCt5C5_GrWMclBcEo_8Ef-mbGrizsz06cUXo5au24mynl6GJ5/spc/SQ-umgnIdO-GW1if_up34RtyZMt4KWVxvq6BS7Zc7-DrJmQfnA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394888,/mh/0L/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51946837,51987687,51992867/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIQsmUbGTiCZla7osyClKVHGbutmcuCIygMcvVoOtbdzAiEAy9lDe9wBKVNi2fNOFwddWCbbfWji75aqWCzjezlOKjw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhANY4KhWPSwAehrQLsI9-PPQ51rtJyoah0ns7NrL9F3OyAiEA06Jsydrkj5Cnjmp-EzlNr0uPhhr_S9vqx2J8FLvi7P8%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976822/ei/1sWCarLEJfrOi9oP1onYiQ4/ip/95.99.17.141/id/rS5dHYQsSxs.30/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAnt802WGw0lLUz0T6-PTe6UD11iaRCiTjqsoUxx453zQT2lEVKhRFuLOq3o-rydhm9v4sqmTdmH/spc/KBGBchdGE0NbgbkuHiziW3yVviFLmJ5ridkmkzuJAnrgBaw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955222,/mh/0L/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgQvVrw04MjEwyW1cCALvwW1yNjF_eTV3SkdlZ68m1kOACIFX4VKluIR-2ihWxcI8oCN9n7KnDHmSImZX4k82cJxZV/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgHjsQmRECXCTvwYGm03urr3fs_uQW86rQwzKc5oM-FZgCIDW07S6SoWmpBgtZp7T1RaawzFxQb3Eb2T2vb10M31Vj/playlist/index.m3u8
 
 # LEYLA ILE MECNUN TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.leylaileMecnun",Leyla ile Mecnun TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416486/ei/xu0tate8NL69zPsP1bnRsQY/ip/95.99.19.40/id/3nlND4audLg.23/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEUSzXqYhU6hJF_749zFZsh1DoMc-9S82QeWTn4hVU1-A3qxQhNjBnr8D7g67xqS7l49i90s4zCh/spc/SQ-umoVG2S3PmZpnLz85f2xO9x-Hl4q6kGTxrJ9FGm-9hKPK_Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394886,/mh/f0/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAIhkwyAgBiyTmLGKp34YYYhkFojlfHZOAzAe3D7mydR8AiBwh4jN6v11xeQcrOLiMkZ1JZ9A9IoWleYD7Ag-72be-A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALqWNstd5xaxKwCMgBqGuhCr-QUHue9f7_xKKvSmrx3uAiEA19VcWRXCsxy-lgpi8Gy-XTUfHl4NIX8dVLu6_nbvdBU%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976816/ei/0MWCauvqJ8OH6dsPlLOtcQ/ip/95.99.17.141/id/3nlND4audLg.23/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAmNBc2_5G2dNrB0M0YBxvoBaKALEFEcrFKWBpfF6wq0DH48O5sGyIMuw2P-pfIgXszlSR50mD9k/spc/KBGBcqfnK5uUc3juY7jP5XWvhTbLRjwYj4IYM0KC05WH75RlJw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955216,/mh/f0/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946837,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgYR6uPYlQMDnK-quWaRXe_FzQTUygvF2sIuYaSzHHZ1ICIAIQoxgFX3w7G1y39W4R_JhCA5nAAffSF6Oo1b9fRRUk/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIh0ghFQMnyo7U6jSTk8yqWCP8wgKZsjJZ9wn7I3gTnHAiBtCg_GH-cTv6qPvGKjWdYQtvMX074Cfgc7gRPHKs11Qg%3D%3D/playlist/index.m3u8
 
 
 # GÜLDÜR GÜLDÜR TV,    source: youtube
@@ -17312,23 +17312,23 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416506/ei/
 
 # ÇIÇEK TAKSI TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.cicektaksi",Çiçek Taksi TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781409738/ei/atMtauaYOPGI6dsP18GOkA8/ip/95.99.19.40/id/6SkIsrCIPfQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEVZrciaPzEmhHs5xUG04Dn3mqk2rSIWdB-Lif4rMaMN5eUiZfScaaeQZNcSdV-A1e2TbcA12bHV/spc/SQ-umg25X0ZQSpp8vtkJ8toaIFnHBpqmr8UIEfuUmDP9fL-XDw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3813750/met/1781388139,/mh/ym/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1781387801/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAI2eUGdDhk3q55D3wLgyojBmTjkCOsUKl5_OUuagLu9-AiA9HtShOisaxNkcTUvStFQILItFW8_7_IVfkDWab0GKLw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAI4Vrt4ZwJ8BmRYAlWB2shapsXhhojTdMfgihJhAWWmoAiEAhnZeLl2Bya1qKarLSAbvaDf-szfERcqTsNerj9KpzG4%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976921/ei/OcaCaryRI_G9zPsP-fGyqAQ/ip/95.99.17.141/id/6SkIsrCIPfQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAkGDt_vtUVpCh_MYGbbeZPjOlvBJ6FNgtD0-Ax0BUumiAsfvykpoCgh5wAKsW0QTVtLsYL2H5Xn/spc/KBGBcgJyUaq0zAfcqkhyQVWDckZsesuMXPK5CiakKdQpQPhbUQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5025000/met/1786955321,/mh/ym/mm/44/mn/sn-uhvcpaxoa-guhe/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAIBgSuSZPNwxPM2o_bZCMOKHFlo889JA2yOmsgTO1MGiAiEA8C996kDNuhkn7oFt_bIXuR2lWnfB1JiufngkqMoA4Ts%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKPgWephMZXNjIxVT2bwQDZqS83z6jT65X5LuptnY4pMAiEA-dUULG22Onp-T2Ga6SSNtyac7LBindI6AStuEUIr58Y%3D/playlist/index.m3u8
 
 # SEKSENLER TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.seksenler",Seksenler TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416485/ei/xe0tara-E-rM6dsP46SaMA/ip/95.99.19.40/id/qGYlF1MiMxw.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEVB6vw1sKVgBtQHM17dQ2j1Utq7esAh5ikm6RvpxnfX46H8kT_KZIp5y7S-DA--rpTqG7mwo24x/spc/SQ-umrIJ4ceOmOoFMdXFGY7wRPBOQZ_bexoeQ0nKTwIN8wJCzg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3298750/met/1781394885,/mh/zt/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAOc7JfGs0cCG6QAGccff_t9hnve9T_zNCuDWQqvl2Q6WAiEAnxcYaZy3pkNLHld-PgzvmGvcBJcOrfU8LxtkFwIE0GY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJqoBlLQ2l7jhdNO1uRuF_ypL2Z6fbYw1_dwLGX0mZzyAiEAgwO5cfO1om-A6OKM1nF6U7SzCC8rNIuGa2CyNCgdb1c%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976811/ei/y8WCapbXKez_i9oPnNjXSQ/ip/95.99.17.141/id/qGYlF1MiMxw.8/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uhvcpaxoa-bg9e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAnghrVJXc1DqvaVX5Ck5_IRKADuurQy2Spj01sOYTTFqOzuyYyukLhEp2VJjuvHX-Ze5rJvyXul/spc/KBGBcjdFgkZ_GLdcpCcLKQ5zz0unMuOPU7gmEPkSfgmtIDo/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4982500/met/1786955212,/mh/zt/mm/44/mn/sn-uhvcpaxoa-bg9e/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgNM0H_2HY_rS2ZPpRpZH9GWtmWDpzIso63kqHB8_khPMCID_gcrd_RTMKwB1vnyYMhy13X5IvcovSgvzowrCLsadT/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJf2BowvU7wBneiaET1bzClKneOr_blKCVUnt40RktJSAiEAms80PJLdPZsWsnllQE_HgJ8vycJLL8CLe0aQjWO2W9w%3D/playlist/index.m3u8
 
 # AVRUPA YAKASI TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.avrupayakasitv",Avrupa Yakasi TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416538/ei/-u0tarG3CfKii9oP8uKXwA0/ip/95.99.19.40/id/NGsjOrzwjZk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/ARmQxEUXNFlPyfC2Qr0zGX_5-Y1pX91ABPP1dnX6j6uKHLuDQVHFe2W9bOggRGi8xi7p-50tR1JNK9Fr/spc/SQ-umk_8wW-MFRZHa--kStEC6Nm0PWtlM5_jAS7B5nDjAp-6Pw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394938,/mh/-a/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMdCqfkBapeWCBVIwVZAZ0IiOE6QfyPU0COnUmAUwBRuAiAEIOHtCyzvlIvw5MFFTyHA73fZ0u1fz0VTKjHFisXpbw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALTGW0SzQ8jz3dnIsy3Fp4nveMbkMSLhp7oqIEsb9JH7AiAsLj6X2ETi4KFkfJJXJDoTmavzBCKVZHEoS8yk8W5yJg%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976944/ei/UMaCatCNBpmz6dsPgt_x0AY/ip/95.99.17.141/id/NGsjOrzwjZk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AR3QkAm8kdGJ2o32VxI_XEW6vIKwHWhfHWz1-6f4uxkVyCN6OouCZxA05s05fvOMN3U7sw7u3pFxeEdY/spc/KBGBcql0SvNuxb4l6vfNwikbme5y_XCnTOHKzLWAgpLTOm3tDQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955344,/mh/-a/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946837,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgYch0Xl1EnTSRWEIOCZ9vrNN0w1sOx8mtTMxZ_xeUTy4CIQCk_VXfRt_OqhfF9AwcoYG9Rmw6DbuyYiksr08enJ_yhw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANg8O-2zStR8ZBXtpaI6wb0At8DEY_WgioRyEiA07gi-AiAlpc_--VJUhecNT2qL9bYHTqgyU7DJ4RnjhOaA9g3vtA%3D%3D/playlist/index.m3u8
 
 # YALAN DUNYA TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.yalandunayatv",Yalan Dunya TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416539/ei/--0tauKJKICi6dsPw4j-gA8/ip/95.99.19.40/id/Efh06uzzORM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEV3Kd-Mb1srqQo786Oy0aZ80fiFgHRFPwktj_VtSRI7o93V7_kZsY4aSrES-hF8Au9jWv02UcvX/spc/SQ-umrUz_1r7AnvSXxOa6DKfKBOuvOBZyh1Vyf2OCl2VWnhBMw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3980000/met/1781394939,/mh/Qj/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51987687/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgRKll26xMmXwgfcEILAJGJvnYQcAETLx9ZuHBnYyyBFwCIFcTJXJefooiE4HK3a727r7MyVsv0dEsroXV3kchr0rX/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKSpIXVzXRpXWQKWDWdwSYR8l9jR139sKy-F6hdtR5cmAiBWPbopOJ4pxsi3QVTx_TT6l3BJF_s-RcJPDE9_L8LKnQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976946/ei/UsaCasHqDpqui9oP4aiKsAM/ip/95.99.17.141/id/Efh06uzzORM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAlqZbKTnAElE0n2d42gbdQvj-fu2vT2vSnozGizSN4BUN9N6GpRc3VWnLiDSpuhklLfvWGU3Eh5/spc/KBGBclXEiLTsHz8iOm581CgtCszEB6GoBMkg29ugyvKHneg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955346,/mh/Qj/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAJNa5RXoy8l0VzBgmoicA1KkXxA896extMwGY0anLTSVAiEA-pQOF-cZjPjP8ZCh_THhHaefpfgUOYkm_Z3RpMxyCro%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJECz_Bm-WbTDKMc0CGS1N7PiKTFfHVEuVsNQLh6R8Z5AiB37HZZpN4JIayXXn7A0l_PBKKXk8jmO4rBOeR8YPsQaA%3D%3D/playlist/index.m3u8
 
 # ALEMIN KRALI TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.aleminkralitv",Alemin Krali TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416541/ei/_e0taov3Ddjc6dsPmKWdqAc/ip/95.99.19.40/id/avDRwKKjeSI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/ARmQxEWZVDVhphxa-Wz00HwE-GDBtqX4tm6T2qHz219MtctHxjULuabW8Q0O8hBvD2FtZ2ur_qMXjSSG/spc/SQ-umjir9wDZN_86ssM8lGoA7QEpgSL46MwLkrhs9hr2QhrMIg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3993750/met/1781394941,/mh/R6/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1781394510/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAPyXjemHOcbKloACbaYlA-8ifstyxamq3rfqdFNOisAnAiBXA77-bEJWbtP2-WkZu3n39cwXnB-TIqcYAHqwqCW9nQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgVEWvGIjWE9VWoW8dMLRvLbkusJYlwpBxy9s7CV1PXmgCIQD1FgxJ_Wx09BaeoXCZTDuQANZJL-IW-o3CSqmwZZ5_EQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976948/ei/VMaCasujHqqKzPsPs-PXqQY/ip/95.99.17.141/id/avDRwKKjeSI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uhvcpaxoa-5hne.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/nl/bui/AR3QkAn4sxBqpxnUCUO5QO-lZ7e5rFpl7WURVWyqsxZ-Fjc2yTRR60bAdrs6UylWcZMY3Wk1bBjwOX9P/spc/KBGBcuANS28DAtb1IalCchRNyhrAukqNS0fNzgiJyqf7Dr0/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5068750/met/1786955348,/mh/R6/mm/44/mn/sn-uhvcpaxoa-5hne/ms/lva/mv/m/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786955066/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAO-Gov1H3cQNKefnHT4TKtK5MWLivhviHxAmyuNxZAG_AiEA4RVoiujBT5akQu7kgMCQuGSfTstUpKjMIJB4xzko22E%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYfjWu7eWMfC0Qrcu2OvFNFJ0AqkjwRUbfA4GW4AWVrsCIQD9sOJ4nccljr2FXVQaj76ymc9LWD9gIGEGCOTmml77cQ%3D%3D/playlist/index.m3u8
 
 # YEŞİLÇAM TV,    source: youtube
 #EXTINF:-1 group-title="Film" tvg-id="tr.yesilcam",Yeşilçam TV
@@ -18945,7 +18945,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416549/ei/
 
 # CIHAN SEMA RADYO,    source: youtube
 #EXTINF:-1 group-title="Dini" tvg-logo="https://cihanradyo.com/public/icons/cihan_muzik.jpg" tvg-id="cihan.sema.tv",Cihan Sema Radyo
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781416550/ei/Bu4tatOmOp3Ri9oPwO_F-QQ/ip/95.99.19.40/id/6mYYpvD682k.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr8---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEXVN-ay8d6LfCa1xXemo8tVQn57eDrqXJL4IpEYXRMELv8S6ipTfKU-onqHqE7ldbqrGINl_ehx/spc/SQ-umkmB3lSPpESR6S1szntSD-DUH3u4Z__Ac_n_GUJSJI7R3Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3918750/met/1781394951,/mh/pi/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/8/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1781394750/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgN5eUesfCsw2x-AGGYZr3o_pdljTA-9jlePTQl_76N4UCIQDZcEGF_kWwsEOuYqlFHVDK3hPtLYnyp6dN3U76PXaV7g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIDG-AhzePlb_gHEutaoESHz-d28qwe3aRjKenQGEybLAiEA7CkU2E72_STvG2hp4ucEP_GsqbnSC5t8eiyW0WTKL7k%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786976960/ei/X8aCaqTdOpSIzPsPgbf28A4/ip/95.99.17.141/id/6mYYpvD682k.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr8---sn-uhvcpaxoa-xpoe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAkmEde0dPuFD98kgKAwW0xcMSbM6TR75rskw-Fr1zxOyUD2805fsfTiDW3Uh427evTsPdFlT3b0/spc/KBGBcijSuVcGRB5Sz-WG9UBMkWrWB2eIZ_B8ZWPcUoswEDQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4965000/met/1786955360,/mh/pi/mm/44/mn/sn-uhvcpaxoa-xpoe/ms/lva/mv/m/mvi/8/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52089683/mt/1786954829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAJrmTQfz8fuRWL6tdsH4c--r_mSHRxbGNaQ_NJ6k7lWqAiEAsLKl0mux5qCfWL9CHWeKyUroPcIxCW4-qXZ34nqPlUg%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAM4xkll4yCYUQBKjuoPXf043ALLNDqrPCJhMzK6K1M5CAiEApP3cuIBedFC245QBE7bUHuu91rnh0fNjJjCrZ78CvGQ%3D/playlist/index.m3u8
 
 # MEKKE TV,    source: tvkulesi
 #EXTINF:-1 group-title="Dini" tvg-id="",Mekke Tv
@@ -31539,263 +31539,263 @@ https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3
 
 # A SPOR,    source: inattv-proxy
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=9AAK38kNgwGPpmKBV6Sj6g&e=1787000376
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=2B0HIYxVXKaId_J1HwHnNw&e=1787000377
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=2B0HIYxVXKaId_J1HwHnNw&e=1787000377
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=2B0HIYxVXKaId_J1HwHnNw&e=1787000377
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=2B0HIYxVXKaId_J1HwHnNw&e=1787000377
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=2B0HIYxVXKaId_J1HwHnNw&e=1787000377
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=2B0HIYxVXKaId_J1HwHnNw&e=1787000377
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=2B0HIYxVXKaId_J1HwHnNw&e=1787000377
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=WYIGvmXrc_Tl6kNh5tnRiQ&e=1787000378
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=ClaagVM_SEsGbmA2p5zRhQ&e=1787000379
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=ClaagVM_SEsGbmA2p5zRhQ&e=1787000379
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=ClaagVM_SEsGbmA2p5zRhQ&e=1787000379
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=ClaagVM_SEsGbmA2p5zRhQ&e=1787000379
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=ClaagVM_SEsGbmA2p5zRhQ&e=1787000379
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=ClaagVM_SEsGbmA2p5zRhQ&e=1787000379
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=9U22scGXLzo4Xv5-S58QlA&e=1787000380
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=9U22scGXLzo4Xv5-S58QlA&e=1787000380
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=9U22scGXLzo4Xv5-S58QlA&e=1787000380
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=9U22scGXLzo4Xv5-S58QlA&e=1787000380
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=9U22scGXLzo4Xv5-S58QlA&e=1787000380
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=QCQFm69f6WVBOrpu11w2Ng&e=1787000381
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=QCQFm69f6WVBOrpu11w2Ng&e=1787000381
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=QCQFm69f6WVBOrpu11w2Ng&e=1787000381
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=QCQFm69f6WVBOrpu11w2Ng&e=1787000381
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=QCQFm69f6WVBOrpu11w2Ng&e=1787000381
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=uLMkHUR5OIh27gDpOA9LJA&e=1787000382
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=uLMkHUR5OIh27gDpOA9LJA&e=1787000382
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=uLMkHUR5OIh27gDpOA9LJA&e=1787000382
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cW8jSpYYXwxvq6Tfe9vBTg&e=1787000383
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cW8jSpYYXwxvq6Tfe9vBTg&e=1787000383
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cW8jSpYYXwxvq6Tfe9vBTg&e=1787000383
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=SmwVxmrycn76R01gh0ycMg&e=1787000384
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=SmwVxmrycn76R01gh0ycMg&e=1787000384
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=EtbaJ29vz8uGVGG2RbVtLA&e=1787000385
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=EtbaJ29vz8uGVGG2RbVtLA&e=1787000385
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=EtbaJ29vz8uGVGG2RbVtLA&e=1787000385
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=KZPzkKWS0g9XAZ4wBKoppg&e=1787000386
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=KZPzkKWS0g9XAZ4wBKoppg&e=1787000386
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=KZPzkKWS0g9XAZ4wBKoppg&e=1787000386
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=KZPzkKWS0g9XAZ4wBKoppg&e=1787000386
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=KZPzkKWS0g9XAZ4wBKoppg&e=1787000386
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=OSJSwO3wbx8e_r7Bzb2p4Q&e=1787000387
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=OSJSwO3wbx8e_r7Bzb2p4Q&e=1787000387
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=OSJSwO3wbx8e_r7Bzb2p4Q&e=1787000387
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=OSJSwO3wbx8e_r7Bzb2p4Q&e=1787000387
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=OSJSwO3wbx8e_r7Bzb2p4Q&e=1787000387
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=tgEQo_rgHyKWX70RXJPzJQ&e=1787000388
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=tgEQo_rgHyKWX70RXJPzJQ&e=1787000388
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=tgEQo_rgHyKWX70RXJPzJQ&e=1787000388
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=tgEQo_rgHyKWX70RXJPzJQ&e=1787000388
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=tgEQo_rgHyKWX70RXJPzJQ&e=1787000388
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cVskz2b9OhV4pFP_vd6Ftw&e=1787000389
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cVskz2b9OhV4pFP_vd6Ftw&e=1787000389
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cVskz2b9OhV4pFP_vd6Ftw&e=1787000389
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cVskz2b9OhV4pFP_vd6Ftw&e=1787000389
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cVskz2b9OhV4pFP_vd6Ftw&e=1787000389
 
 # A Spor,    source: uzunmuhalefet
 #EXTINF:-1 group-title="Inat TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" tvg-id="tr.aspor",A Spor
-https://streams.uzunmuhalefet.com/stream/0d7bcd25-1301-4ebf-bc8f-ccb7dec31577.m3u8
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=cVskz2b9OhV4pFP_vd6Ftw&e=1787000389
 https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=iDmbETLjy_ts6uO-DqnTVA&e=1782431075
 
 # BEIN SPORTS 1,    source: inattv-proxy
