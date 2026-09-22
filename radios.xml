@@ -187,496 +187,481 @@
     <display-name lang="tr">Karnaval</display-name>
     <icon src="silinecek" />
   </channel>
-  <programme start="20260922210513 +0300" stop="20260922210833 +0300" channel="karnaval.1">
-    <title lang="tr">Peggy Gou - Wo, man</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/78561/albumcover_400x400/cover_78561.jpg?v=280726022750" />
+  <programme start="20260923001526 +0300" stop="20260923001756 +0300" channel="karnaval.1">
+    <title lang="tr">Benny Blanco / Selena Gomez - Te Olvido</title>
+    <icon src="https://mediacdns.karnaval.com/media/station_media/2/default_images/default_artist_image_1_1_1000_1000_1.jpg?v=200826124826" />
   </programme>
-  <programme start="20260922210833 +0300" stop="20260922213833 +0300" channel="karnaval.1">
+  <programme start="20260923001756 +0300" stop="20260923004756 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213833 +0300" stop="20260922220833 +0300" channel="karnaval.1">
+  <programme start="20260923004756 +0300" stop="20260923011756 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220833 +0300" stop="20260922223833 +0300" channel="karnaval.1">
+  <programme start="20260923011756 +0300" stop="20260923014756 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223833 +0300" stop="20260922230833 +0300" channel="karnaval.1">
+  <programme start="20260923014756 +0300" stop="20260923021756 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230833 +0300" stop="20260922233833 +0300" channel="karnaval.1">
+  <programme start="20260923021756 +0300" stop="20260923024756 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233833 +0300" stop="20260923000833 +0300" channel="karnaval.1">
+  <programme start="20260923024756 +0300" stop="20260923031756 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000833 +0300" stop="20260923003833 +0300" channel="karnaval.1">
+  <programme start="20260923031756 +0300" stop="20260923034756 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003833 +0300" stop="20260923010607 +0300" channel="karnaval.1">
+  <programme start="20260923034756 +0300" stop="20260923041556 +0300" channel="karnaval.1">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210342 +0300" stop="20260922210824 +0300" channel="karnaval.106">
-    <title lang="tr">Evdeki Saat - Uzunlar   V1</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/39411/albumcover_400x400/cover_39411.jpg?v=140220094842" />
+  <programme start="20260923001426 +0300" stop="20260923001822 +0300" channel="karnaval.106">
+    <title lang="tr">Canozan - Toprak Yağmura (Akustik)</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/41578/albumcover_400x400/cover_41578.jpg?v=160920024602" />
   </programme>
-  <programme start="20260922210824 +0300" stop="20260922213824 +0300" channel="karnaval.106">
+  <programme start="20260923001822 +0300" stop="20260923004822 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213824 +0300" stop="20260922220824 +0300" channel="karnaval.106">
+  <programme start="20260923004822 +0300" stop="20260923011822 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220824 +0300" stop="20260922223824 +0300" channel="karnaval.106">
+  <programme start="20260923011822 +0300" stop="20260923014822 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223824 +0300" stop="20260922230824 +0300" channel="karnaval.106">
+  <programme start="20260923014822 +0300" stop="20260923021822 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230824 +0300" stop="20260922233824 +0300" channel="karnaval.106">
+  <programme start="20260923021822 +0300" stop="20260923024822 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233824 +0300" stop="20260923000824 +0300" channel="karnaval.106">
+  <programme start="20260923024822 +0300" stop="20260923031822 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000824 +0300" stop="20260923003824 +0300" channel="karnaval.106">
+  <programme start="20260923031822 +0300" stop="20260923034822 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003824 +0300" stop="20260923010607 +0300" channel="karnaval.106">
+  <programme start="20260923034822 +0300" stop="20260923041556 +0300" channel="karnaval.106">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210603 +0300" stop="20260922210936 +0300" channel="karnaval.11">
-    <title lang="tr">Ali Alkurt - Biri Var</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/72404/albumcover_400x400/cover_72404.jpg?v=100225100958" />
+  <programme start="20260923001517 +0300" stop="20260923001920 +0300" channel="karnaval.11">
+    <title lang="tr">Kilim</title>
+    <icon src="https://mediacdns.karnaval.com/media/station_media//default_images/default_artist_image_1_1_500_500_0.jpg?v=2912221017" />
   </programme>
-  <programme start="20260922210936 +0300" stop="20260922213936 +0300" channel="karnaval.11">
+  <programme start="20260923001920 +0300" stop="20260923004920 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213936 +0300" stop="20260922220936 +0300" channel="karnaval.11">
+  <programme start="20260923004920 +0300" stop="20260923011920 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220936 +0300" stop="20260922223936 +0300" channel="karnaval.11">
+  <programme start="20260923011920 +0300" stop="20260923014920 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223936 +0300" stop="20260922230936 +0300" channel="karnaval.11">
+  <programme start="20260923014920 +0300" stop="20260923021920 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230936 +0300" stop="20260922233936 +0300" channel="karnaval.11">
+  <programme start="20260923021920 +0300" stop="20260923024920 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233936 +0300" stop="20260923000936 +0300" channel="karnaval.11">
+  <programme start="20260923024920 +0300" stop="20260923031920 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000936 +0300" stop="20260923003936 +0300" channel="karnaval.11">
+  <programme start="20260923031920 +0300" stop="20260923034920 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003936 +0300" stop="20260923010607 +0300" channel="karnaval.11">
+  <programme start="20260923034920 +0300" stop="20260923041556 +0300" channel="karnaval.11">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210430 +0300" stop="20260922211128 +0300" channel="karnaval.13">
-    <title lang="tr">Erik Truffaz - Doni Doni Pt. 2</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/26687/albumcover_400x400/cover_26687.jpg?v=060617040343" />
+  <programme start="20260923001544 +0300" stop="20260923002045 +0300" channel="karnaval.13">
+    <title lang="tr">The Manhattan Transfer - Because You Are All Heart (Movement 2 - A Portrait Of Ella)</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/14764/albumcover_400x400/cover_14764.jpg?v=300514105711" />
   </programme>
-  <programme start="20260922211128 +0300" stop="20260922214128 +0300" channel="karnaval.13">
+  <programme start="20260923002045 +0300" stop="20260923005045 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922214128 +0300" stop="20260922221128 +0300" channel="karnaval.13">
+  <programme start="20260923005045 +0300" stop="20260923012045 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922221128 +0300" stop="20260922224128 +0300" channel="karnaval.13">
+  <programme start="20260923012045 +0300" stop="20260923015045 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922224128 +0300" stop="20260922231128 +0300" channel="karnaval.13">
+  <programme start="20260923015045 +0300" stop="20260923022045 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922231128 +0300" stop="20260922234128 +0300" channel="karnaval.13">
+  <programme start="20260923022045 +0300" stop="20260923025045 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922234128 +0300" stop="20260923001128 +0300" channel="karnaval.13">
+  <programme start="20260923025045 +0300" stop="20260923032045 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923001128 +0300" stop="20260923004128 +0300" channel="karnaval.13">
+  <programme start="20260923032045 +0300" stop="20260923035045 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923004128 +0300" stop="20260923010607 +0300" channel="karnaval.13">
+  <programme start="20260923035045 +0300" stop="20260923041556 +0300" channel="karnaval.13">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210202 +0300" stop="20260922211007 +0300" channel="karnaval.15">
-    <title lang="tr">Gael Faye - Chalouper</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/46554/albumcover_400x400/cover_46554.jpg?v=030222024620" />
+  <programme start="20260923001525 +0300" stop="20260923001935 +0300" channel="karnaval.15">
+    <title lang="tr">Paula Cole - I Don't Want To Wait</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/72892/albumcover_400x400/cover_72892.jpg?v=250325095411" />
   </programme>
-  <programme start="20260922211007 +0300" stop="20260922214007 +0300" channel="karnaval.15">
+  <programme start="20260923001935 +0300" stop="20260923004935 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922214007 +0300" stop="20260922221007 +0300" channel="karnaval.15">
+  <programme start="20260923004935 +0300" stop="20260923011935 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922221007 +0300" stop="20260922224007 +0300" channel="karnaval.15">
+  <programme start="20260923011935 +0300" stop="20260923014935 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922224007 +0300" stop="20260922231007 +0300" channel="karnaval.15">
+  <programme start="20260923014935 +0300" stop="20260923021935 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922231007 +0300" stop="20260922234007 +0300" channel="karnaval.15">
+  <programme start="20260923021935 +0300" stop="20260923024935 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922234007 +0300" stop="20260923001007 +0300" channel="karnaval.15">
+  <programme start="20260923024935 +0300" stop="20260923031935 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923001007 +0300" stop="20260923004007 +0300" channel="karnaval.15">
+  <programme start="20260923031935 +0300" stop="20260923034935 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923004007 +0300" stop="20260923010607 +0300" channel="karnaval.15">
+  <programme start="20260923034935 +0300" stop="20260923041556 +0300" channel="karnaval.15">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210515 +0300" stop="20260922211008 +0300" channel="karnaval.16">
-    <title lang="tr">Paquito D'Rivera - Invitacion Al Danzon (Feat. Alon Yavnai)</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/12793/albumcover_400x400/cover_12793.jpg?v=271213030311" />
+  <programme start="20260923001544 +0300" stop="20260923001912 +0300" channel="karnaval.16">
+    <title lang="tr">Genco Erkal - Stravinsky: Askerin Öyküsü (kesit) - Alparslan Ertüngealp, Borusan Oda Orkestrası </title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/37298/albumcover_400x400/cover_37298.jpg?v=251118021436" />
   </programme>
-  <programme start="20260922211008 +0300" stop="20260922214008 +0300" channel="karnaval.16">
+  <programme start="20260923001912 +0300" stop="20260923004912 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922214008 +0300" stop="20260922221008 +0300" channel="karnaval.16">
+  <programme start="20260923004912 +0300" stop="20260923011912 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922221008 +0300" stop="20260922224008 +0300" channel="karnaval.16">
+  <programme start="20260923011912 +0300" stop="20260923014912 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922224008 +0300" stop="20260922231008 +0300" channel="karnaval.16">
+  <programme start="20260923014912 +0300" stop="20260923021912 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922231008 +0300" stop="20260922234008 +0300" channel="karnaval.16">
+  <programme start="20260923021912 +0300" stop="20260923024912 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922234008 +0300" stop="20260923001008 +0300" channel="karnaval.16">
+  <programme start="20260923024912 +0300" stop="20260923031912 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923001008 +0300" stop="20260923004008 +0300" channel="karnaval.16">
+  <programme start="20260923031912 +0300" stop="20260923034912 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923004008 +0300" stop="20260923010607 +0300" channel="karnaval.16">
+  <programme start="20260923034912 +0300" stop="20260923041556 +0300" channel="karnaval.16">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210446 +0300" stop="20260922210950 +0300" channel="karnaval.17">
-    <title lang="tr">Sezen Aksu - Firuze</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/664/albumcover_400x400/album_media_664_01.jpg?v=180413072703" />
+  <programme start="20260923001516 +0300" stop="20260923001824 +0300" channel="karnaval.17">
+    <title lang="tr">Ömür Göksel - Sevemem Artık</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/5612/albumcover_400x400/cover_5612.jpg?v=180413080535" />
   </programme>
-  <programme start="20260922210950 +0300" stop="20260922213950 +0300" channel="karnaval.17">
+  <programme start="20260923001824 +0300" stop="20260923004824 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213950 +0300" stop="20260922220950 +0300" channel="karnaval.17">
+  <programme start="20260923004824 +0300" stop="20260923011824 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220950 +0300" stop="20260922223950 +0300" channel="karnaval.17">
+  <programme start="20260923011824 +0300" stop="20260923014824 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223950 +0300" stop="20260922230950 +0300" channel="karnaval.17">
+  <programme start="20260923014824 +0300" stop="20260923021824 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230950 +0300" stop="20260922233950 +0300" channel="karnaval.17">
+  <programme start="20260923021824 +0300" stop="20260923024824 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233950 +0300" stop="20260923000950 +0300" channel="karnaval.17">
+  <programme start="20260923024824 +0300" stop="20260923031824 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000950 +0300" stop="20260923003950 +0300" channel="karnaval.17">
+  <programme start="20260923031824 +0300" stop="20260923034824 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003950 +0300" stop="20260923010607 +0300" channel="karnaval.17">
+  <programme start="20260923034824 +0300" stop="20260923041556 +0300" channel="karnaval.17">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210344 +0300" stop="20260922211007 +0300" channel="karnaval.2">
-    <title lang="tr">Ezhel - Bana Ne Bu Sevdalardan</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/78365/albumcover_400x400/cover_78365.jpg?v=130726013447" />
+  <programme start="20260923001538 +0300" stop="20260923001907 +0300" channel="karnaval.2">
+    <title lang="tr">Buray - Seni Sevmiyorum Artık</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/25474/albumcover_400x400/cover_25474.jpg?v=011216120652" />
   </programme>
-  <programme start="20260922211007 +0300" stop="20260922214007 +0300" channel="karnaval.2">
+  <programme start="20260923001907 +0300" stop="20260923004907 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922214007 +0300" stop="20260922221007 +0300" channel="karnaval.2">
+  <programme start="20260923004907 +0300" stop="20260923011907 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922221007 +0300" stop="20260922224007 +0300" channel="karnaval.2">
+  <programme start="20260923011907 +0300" stop="20260923014907 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922224007 +0300" stop="20260922231007 +0300" channel="karnaval.2">
+  <programme start="20260923014907 +0300" stop="20260923021907 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922231007 +0300" stop="20260922234007 +0300" channel="karnaval.2">
+  <programme start="20260923021907 +0300" stop="20260923024907 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922234007 +0300" stop="20260923001007 +0300" channel="karnaval.2">
+  <programme start="20260923024907 +0300" stop="20260923031907 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923001007 +0300" stop="20260923004007 +0300" channel="karnaval.2">
+  <programme start="20260923031907 +0300" stop="20260923034907 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923004007 +0300" stop="20260923010607 +0300" channel="karnaval.2">
+  <programme start="20260923034907 +0300" stop="20260923041556 +0300" channel="karnaval.2">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210527 +0300" stop="20260922211015 +0300" channel="karnaval.22">
-    <title lang="tr">Volkan Konak - Mimoza Çiçeği</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/6488/albumcover_400x400/cover_6488.jpg?v=180413080630" />
+  <programme start="20260923001525 +0300" stop="20260923002039 +0300" channel="karnaval.22">
+    <title lang="tr">Gözlerin Doğuyor Gecelerime</title>
+    <icon src="https://mediacdns.karnaval.com/media/station_media//default_images/default_artist_image_1_1_500_500_0.jpg?v=2912221017" />
   </programme>
-  <programme start="20260922211015 +0300" stop="20260922214015 +0300" channel="karnaval.22">
+  <programme start="20260923002039 +0300" stop="20260923005039 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922214015 +0300" stop="20260922221015 +0300" channel="karnaval.22">
+  <programme start="20260923005039 +0300" stop="20260923012039 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922221015 +0300" stop="20260922224015 +0300" channel="karnaval.22">
+  <programme start="20260923012039 +0300" stop="20260923015039 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922224015 +0300" stop="20260922231015 +0300" channel="karnaval.22">
+  <programme start="20260923015039 +0300" stop="20260923022039 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922231015 +0300" stop="20260922234015 +0300" channel="karnaval.22">
+  <programme start="20260923022039 +0300" stop="20260923025039 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922234015 +0300" stop="20260923001015 +0300" channel="karnaval.22">
+  <programme start="20260923025039 +0300" stop="20260923032039 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923001015 +0300" stop="20260923004015 +0300" channel="karnaval.22">
+  <programme start="20260923032039 +0300" stop="20260923035039 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923004015 +0300" stop="20260923010607 +0300" channel="karnaval.22">
+  <programme start="20260923035039 +0300" stop="20260923041556 +0300" channel="karnaval.22">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210530 +0300" stop="20260922210810 +0300" channel="karnaval.23">
-    <title lang="tr">Manifest - Toz Pembe</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/77897/albumcover_400x400/cover_77897.jpg?v=030726031028" />
+  <programme start="20260923001259 +0300" stop="20260923001717 +0300" channel="karnaval.23">
+    <title lang="tr">Bengü Beker - Sana Yıldızları Ödediğimden</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/66128/albumcover_400x400/cover_66128.jpg?v=150424102601" />
   </programme>
-  <programme start="20260922210810 +0300" stop="20260922213810 +0300" channel="karnaval.23">
+  <programme start="20260923001717 +0300" stop="20260923004717 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213810 +0300" stop="20260922220810 +0300" channel="karnaval.23">
+  <programme start="20260923004717 +0300" stop="20260923011717 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220810 +0300" stop="20260922223810 +0300" channel="karnaval.23">
+  <programme start="20260923011717 +0300" stop="20260923014717 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223810 +0300" stop="20260922230810 +0300" channel="karnaval.23">
+  <programme start="20260923014717 +0300" stop="20260923021717 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230810 +0300" stop="20260922233810 +0300" channel="karnaval.23">
+  <programme start="20260923021717 +0300" stop="20260923024717 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233810 +0300" stop="20260923000810 +0300" channel="karnaval.23">
+  <programme start="20260923024717 +0300" stop="20260923031717 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000810 +0300" stop="20260923003810 +0300" channel="karnaval.23">
+  <programme start="20260923031717 +0300" stop="20260923034717 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003810 +0300" stop="20260923010607 +0300" channel="karnaval.23">
+  <programme start="20260923034717 +0300" stop="20260923041556 +0300" channel="karnaval.23">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210422 +0300" stop="20260922210625 +0300" channel="karnaval.3">
-    <title lang="tr">Jaxomy - Pedro</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/66135/albumcover_400x400/cover_66135.jpg?v=060524034609" />
+  <programme start="20260923001439 +0300" stop="20260923001659 +0300" channel="karnaval.3">
+    <title lang="tr">Don Diablo - Remember Me</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/73481/albumcover_400x400/cover_73481.jpg?v=140525032722" />
   </programme>
-  <programme start="20260922210625 +0300" stop="20260922213625 +0300" channel="karnaval.3">
+  <programme start="20260923001659 +0300" stop="20260923004659 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213625 +0300" stop="20260922220625 +0300" channel="karnaval.3">
+  <programme start="20260923004659 +0300" stop="20260923011659 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220625 +0300" stop="20260922223625 +0300" channel="karnaval.3">
+  <programme start="20260923011659 +0300" stop="20260923014659 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223625 +0300" stop="20260922230625 +0300" channel="karnaval.3">
+  <programme start="20260923014659 +0300" stop="20260923021659 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230625 +0300" stop="20260922233625 +0300" channel="karnaval.3">
+  <programme start="20260923021659 +0300" stop="20260923024659 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233625 +0300" stop="20260923000625 +0300" channel="karnaval.3">
+  <programme start="20260923024659 +0300" stop="20260923031659 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000625 +0300" stop="20260923003625 +0300" channel="karnaval.3">
+  <programme start="20260923031659 +0300" stop="20260923034659 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003625 +0300" stop="20260923010607 +0300" channel="karnaval.3">
+  <programme start="20260923034659 +0300" stop="20260923041556 +0300" channel="karnaval.3">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210536 +0300" stop="20260922210753 +0300" channel="karnaval.312">
-    <title lang="tr">Mert Çodur - Pişmanım</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/74230/albumcover_400x400/cover_74230.jpg?v=010725043912" />
+  <programme start="20260923001434 +0300" stop="20260923001742 +0300" channel="karnaval.312">
+    <title lang="tr">Bengü - Geçmiş Olsun</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/26658/albumcover_400x400/cover_26658.jpg?v=060617102548" />
   </programme>
-  <programme start="20260922210753 +0300" stop="20260922213753 +0300" channel="karnaval.312">
+  <programme start="20260923001742 +0300" stop="20260923004742 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213753 +0300" stop="20260922220753 +0300" channel="karnaval.312">
+  <programme start="20260923004742 +0300" stop="20260923011742 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220753 +0300" stop="20260922223753 +0300" channel="karnaval.312">
+  <programme start="20260923011742 +0300" stop="20260923014742 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223753 +0300" stop="20260922230753 +0300" channel="karnaval.312">
+  <programme start="20260923014742 +0300" stop="20260923021742 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230753 +0300" stop="20260922233753 +0300" channel="karnaval.312">
+  <programme start="20260923021742 +0300" stop="20260923024742 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233753 +0300" stop="20260923000753 +0300" channel="karnaval.312">
+  <programme start="20260923024742 +0300" stop="20260923031742 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000753 +0300" stop="20260923003753 +0300" channel="karnaval.312">
+  <programme start="20260923031742 +0300" stop="20260923034742 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003753 +0300" stop="20260923010607 +0300" channel="karnaval.312">
+  <programme start="20260923034742 +0300" stop="20260923041556 +0300" channel="karnaval.312">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210112 +0300" stop="20260922211007 +0300" channel="karnaval.357">
-    <title lang="tr">Merve Özbey - Bir İmkansız Var </title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/65823/albumcover_400x400/cover_65823.jpg?v=121223043753" />
+  <programme start="20260923001555 +0300" stop="20260923001945 +0300" channel="karnaval.357">
+    <title lang="tr">Mert Demir - Ateşe Düştüm</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/64597/albumcover_400x400/cover_64597.jpg?v=111023021624" />
   </programme>
-  <programme start="20260922211007 +0300" stop="20260922214007 +0300" channel="karnaval.357">
+  <programme start="20260923001945 +0300" stop="20260923004945 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922214007 +0300" stop="20260922221007 +0300" channel="karnaval.357">
+  <programme start="20260923004945 +0300" stop="20260923011945 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922221007 +0300" stop="20260922224007 +0300" channel="karnaval.357">
+  <programme start="20260923011945 +0300" stop="20260923014945 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922224007 +0300" stop="20260922231007 +0300" channel="karnaval.357">
+  <programme start="20260923014945 +0300" stop="20260923021945 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922231007 +0300" stop="20260922234007 +0300" channel="karnaval.357">
+  <programme start="20260923021945 +0300" stop="20260923024945 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922234007 +0300" stop="20260923001007 +0300" channel="karnaval.357">
+  <programme start="20260923024945 +0300" stop="20260923031945 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923001007 +0300" stop="20260923004007 +0300" channel="karnaval.357">
+  <programme start="20260923031945 +0300" stop="20260923034945 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923004007 +0300" stop="20260923010607 +0300" channel="karnaval.357">
+  <programme start="20260923034945 +0300" stop="20260923041556 +0300" channel="karnaval.357">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210449 +0300" stop="20260922210934 +0300" channel="karnaval.371">
-    <title lang="tr">Buray - Gitmem Gerek (JoyTurk Akustik)</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/25120/albumcover_400x400/cover_25120.jpg?v=241116035549" />
+  <programme start="20260923001522 +0300" stop="20260923002007 +0300" channel="karnaval.371">
+    <title lang="tr">Sen De Gidersen (joyturk Akustik)</title>
+    <icon src="https://mediacdns.karnaval.com/media/station_media//default_images/default_artist_image_1_1_500_500_0.jpg?v=2912221017" />
   </programme>
-  <programme start="20260922210934 +0300" stop="20260922213934 +0300" channel="karnaval.371">
+  <programme start="20260923002007 +0300" stop="20260923005007 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213934 +0300" stop="20260922220934 +0300" channel="karnaval.371">
+  <programme start="20260923005007 +0300" stop="20260923012007 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220934 +0300" stop="20260922223934 +0300" channel="karnaval.371">
+  <programme start="20260923012007 +0300" stop="20260923015007 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223934 +0300" stop="20260922230934 +0300" channel="karnaval.371">
+  <programme start="20260923015007 +0300" stop="20260923022007 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230934 +0300" stop="20260922233934 +0300" channel="karnaval.371">
+  <programme start="20260923022007 +0300" stop="20260923025007 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233934 +0300" stop="20260923000934 +0300" channel="karnaval.371">
+  <programme start="20260923025007 +0300" stop="20260923032007 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000934 +0300" stop="20260923003934 +0300" channel="karnaval.371">
+  <programme start="20260923032007 +0300" stop="20260923035007 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003934 +0300" stop="20260923010607 +0300" channel="karnaval.371">
+  <programme start="20260923035007 +0300" stop="20260923041556 +0300" channel="karnaval.371">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210514 +0300" stop="20260922210827 +0300" channel="karnaval.4">
-    <title lang="tr">Hande Yener - Vay</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/26833/albumcover_400x400/cover_26833.jpg?v=050717052009" />
+  <programme start="20260923001259 +0300" stop="20260923001558 +0300" channel="karnaval.4">
+    <title lang="tr">Ahiyan - Rüya Gibiydin</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/77286/albumcover_400x400/cover_77286.jpg?v=310326050132" />
   </programme>
-  <programme start="20260922210827 +0300" stop="20260922213827 +0300" channel="karnaval.4">
+  <programme start="20260923001558 +0300" stop="20260923004558 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213827 +0300" stop="20260922220827 +0300" channel="karnaval.4">
+  <programme start="20260923004558 +0300" stop="20260923011558 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220827 +0300" stop="20260922223827 +0300" channel="karnaval.4">
+  <programme start="20260923011558 +0300" stop="20260923014558 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223827 +0300" stop="20260922230827 +0300" channel="karnaval.4">
+  <programme start="20260923014558 +0300" stop="20260923021558 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230827 +0300" stop="20260922233827 +0300" channel="karnaval.4">
+  <programme start="20260923021558 +0300" stop="20260923024558 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233827 +0300" stop="20260923000827 +0300" channel="karnaval.4">
+  <programme start="20260923024558 +0300" stop="20260923031558 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000827 +0300" stop="20260923003827 +0300" channel="karnaval.4">
+  <programme start="20260923031558 +0300" stop="20260923034558 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003827 +0300" stop="20260923010607 +0300" channel="karnaval.4">
+  <programme start="20260923034558 +0300" stop="20260923041556 +0300" channel="karnaval.4">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210029 +0300" stop="20260922211007 +0300" channel="karnaval.42">
-    <title lang="tr">Gladiolus - Interlude No. 15</title>
-    <icon src="https://mediacdns.karnaval.com/media/album_media/38851/albumcover_400x400/cover_38851.jpg?v=241019011419" />
+  <programme start="20260923001506 +0300" stop="20260923001820 +0300" channel="karnaval.42">
+    <title lang="tr">Lullaby Renditions of Bon Jovi - I'll Be There for You (Bon Jovi)</title>
+    <icon src="https://mediacdns.karnaval.com/media/album_media/14845/albumcover_400x400/cover_14845.jpg?v=050614020940" />
   </programme>
-  <programme start="20260922211007 +0300" stop="20260922214007 +0300" channel="karnaval.42">
+  <programme start="20260923001820 +0300" stop="20260923004820 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922214007 +0300" stop="20260922221007 +0300" channel="karnaval.42">
+  <programme start="20260923004820 +0300" stop="20260923011820 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922221007 +0300" stop="20260922224007 +0300" channel="karnaval.42">
+  <programme start="20260923011820 +0300" stop="20260923014820 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922224007 +0300" stop="20260922231007 +0300" channel="karnaval.42">
+  <programme start="20260923014820 +0300" stop="20260923021820 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922231007 +0300" stop="20260922234007 +0300" channel="karnaval.42">
+  <programme start="20260923021820 +0300" stop="20260923024820 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922234007 +0300" stop="20260923001007 +0300" channel="karnaval.42">
+  <programme start="20260923024820 +0300" stop="20260923031820 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923001007 +0300" stop="20260923004007 +0300" channel="karnaval.42">
+  <programme start="20260923031820 +0300" stop="20260923034820 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923004007 +0300" stop="20260923010607 +0300" channel="karnaval.42">
+  <programme start="20260923034820 +0300" stop="20260923041556 +0300" channel="karnaval.42">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922210527 +0300" stop="20260922210715 +0300" channel="karnaval.8">
-    <title lang="tr">Casiio / Sleepermane / Lofi Girl - Pandora</title>
+  <programme start="20260923001517 +0300" stop="20260923001738 +0300" channel="karnaval.8">
+    <title lang="tr">Wys - San Francisco</title>
     <icon src="https://mediacdns.karnaval.com/media/station_media/17/default_images/default_artist_image_1_1_1000_1000_0.jpg?v=300126101730" />
   </programme>
-  <programme start="20260922210715 +0300" stop="20260922213715 +0300" channel="karnaval.8">
+  <programme start="20260923001738 +0300" stop="20260923004738 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922213715 +0300" stop="20260922220715 +0300" channel="karnaval.8">
+  <programme start="20260923004738 +0300" stop="20260923011738 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922220715 +0300" stop="20260922223715 +0300" channel="karnaval.8">
+  <programme start="20260923011738 +0300" stop="20260923014738 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922223715 +0300" stop="20260922230715 +0300" channel="karnaval.8">
+  <programme start="20260923014738 +0300" stop="20260923021738 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922230715 +0300" stop="20260922233715 +0300" channel="karnaval.8">
+  <programme start="20260923021738 +0300" stop="20260923024738 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260922233715 +0300" stop="20260923000715 +0300" channel="karnaval.8">
+  <programme start="20260923024738 +0300" stop="20260923031738 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923000715 +0300" stop="20260923003715 +0300" channel="karnaval.8">
+  <programme start="20260923031738 +0300" stop="20260923034738 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
   </programme>
-  <programme start="20260923003715 +0300" stop="20260923010607 +0300" channel="karnaval.8">
+  <programme start="20260923034738 +0300" stop="20260923041556 +0300" channel="karnaval.8">
     <title lang="tr">Müzik Yayını</title>
-  </programme>
-  <programme start="20260922100500 +0300" stop="20260922110000 +0300" channel="trt.radyo.antalya-radyosu">
-    <title lang="tr">Bölge Gündemi</title>
-  </programme>
-  <programme start="20260922110000 +0300" stop="20260922130000 +0300" channel="trt.radyo.antalya-radyosu">
-    <title lang="tr">Hayatın İçinden</title>
-  </programme>
-  <programme start="20260922130000 +0300" stop="20260922150700 +0300" channel="trt.radyo.antalya-radyosu">
-    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
-  </programme>
-  <programme start="20260922150700 +0300" stop="20260922160000 +0300" channel="trt.radyo.antalya-radyosu">
-    <title lang="tr">Genç Yaşam</title>
-  </programme>
-  <programme start="20260922160000 +0300" stop="20260923100500 +0300" channel="trt.radyo.antalya-radyosu">
-    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
   <programme start="20260923100500 +0300" stop="20260923110000 +0300" channel="trt.radyo.antalya-radyosu">
     <title lang="tr">Bölge Gündemi</title>
@@ -756,19 +741,19 @@
   <programme start="20260928160000 +0300" stop="20260929100500 +0300" channel="trt.radyo.antalya-radyosu">
     <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
-  <programme start="20260922100500 +0300" stop="20260922110000 +0300" channel="trt.radyo.cukurova-radyosu">
+  <programme start="20260929100500 +0300" stop="20260929110000 +0300" channel="trt.radyo.antalya-radyosu">
     <title lang="tr">Bölge Gündemi</title>
   </programme>
-  <programme start="20260922110000 +0300" stop="20260922130000 +0300" channel="trt.radyo.cukurova-radyosu">
+  <programme start="20260929110000 +0300" stop="20260929130000 +0300" channel="trt.radyo.antalya-radyosu">
     <title lang="tr">Hayatın İçinden</title>
   </programme>
-  <programme start="20260922130000 +0300" stop="20260922150700 +0300" channel="trt.radyo.cukurova-radyosu">
+  <programme start="20260929130000 +0300" stop="20260929150700 +0300" channel="trt.radyo.antalya-radyosu">
     <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
-  <programme start="20260922150700 +0300" stop="20260922160000 +0300" channel="trt.radyo.cukurova-radyosu">
+  <programme start="20260929150700 +0300" stop="20260929160000 +0300" channel="trt.radyo.antalya-radyosu">
     <title lang="tr">Genç Yaşam</title>
   </programme>
-  <programme start="20260922160000 +0300" stop="20260923100500 +0300" channel="trt.radyo.cukurova-radyosu">
+  <programme start="20260929160000 +0300" stop="20260930100500 +0300" channel="trt.radyo.antalya-radyosu">
     <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
   <programme start="20260923100500 +0300" stop="20260923110000 +0300" channel="trt.radyo.cukurova-radyosu">
@@ -847,6 +832,21 @@
     <title lang="tr">Genç Yaşam</title>
   </programme>
   <programme start="20260928160000 +0300" stop="20260929100500 +0300" channel="trt.radyo.cukurova-radyosu">
+    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
+  </programme>
+  <programme start="20260929100500 +0300" stop="20260929110000 +0300" channel="trt.radyo.cukurova-radyosu">
+    <title lang="tr">Bölge Gündemi</title>
+  </programme>
+  <programme start="20260929110000 +0300" stop="20260929130000 +0300" channel="trt.radyo.cukurova-radyosu">
+    <title lang="tr">Hayatın İçinden</title>
+  </programme>
+  <programme start="20260929130000 +0300" stop="20260929150700 +0300" channel="trt.radyo.cukurova-radyosu">
+    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
+  </programme>
+  <programme start="20260929150700 +0300" stop="20260929160000 +0300" channel="trt.radyo.cukurova-radyosu">
+    <title lang="tr">Genç Yaşam</title>
+  </programme>
+  <programme start="20260929160000 +0300" stop="20260930100500 +0300" channel="trt.radyo.cukurova-radyosu">
     <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
   <programme start="20260922100500 +0300" stop="20260922110000 +0300" channel="trt.radyo.erzurum-radyosu">
@@ -942,21 +942,6 @@
   <programme start="20260928160000 +0300" stop="20260929100500 +0300" channel="trt.radyo.erzurum-radyosu">
     <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
-  <programme start="20260922100500 +0300" stop="20260922110000 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
-    <title lang="tr">Bölge Gündemi</title>
-  </programme>
-  <programme start="20260922110000 +0300" stop="20260922130000 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
-    <title lang="tr">Hayatın İçinden</title>
-  </programme>
-  <programme start="20260922130000 +0300" stop="20260922150700 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
-    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
-  </programme>
-  <programme start="20260922150700 +0300" stop="20260922160000 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
-    <title lang="tr">Genç Yaşam</title>
-  </programme>
-  <programme start="20260922160000 +0300" stop="20260923100500 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
-    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
-  </programme>
   <programme start="20260923100500 +0300" stop="20260923110000 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
     <title lang="tr">Bölge Gündemi</title>
   </programme>
@@ -1035,6 +1020,21 @@
   <programme start="20260928160000 +0300" stop="20260929100500 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
     <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
+  <programme start="20260929100500 +0300" stop="20260929110000 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
+    <title lang="tr">Bölge Gündemi</title>
+  </programme>
+  <programme start="20260929110000 +0300" stop="20260929130000 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
+    <title lang="tr">Hayatın İçinden</title>
+  </programme>
+  <programme start="20260929130000 +0300" stop="20260929150700 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
+    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
+  </programme>
+  <programme start="20260929150700 +0300" stop="20260929160000 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
+    <title lang="tr">Genç Yaşam</title>
+  </programme>
+  <programme start="20260929160000 +0300" stop="20260930100500 +0300" channel="trt.radyo.gap-diyarbakir-radyosu">
+    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
+  </programme>
   <programme start="20260922000000 +0300" stop="20260922120000 +0300" channel="trt.radyo.memleketim-fm">
     <title lang="tr">24 Saat Kesintisiz Müzik 2</title>
   </programme>
@@ -1076,201 +1076,6 @@
   </programme>
   <programme start="20260928120000 +0300" stop="20260929000000 +0300" channel="trt.radyo.memleketim-fm">
     <title lang="tr">24 Saat Kesintisiz Müzik 1</title>
-  </programme>
-  <programme start="20260922010000 +0300" stop="20260922010500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922010500 +0300" stop="20260922020500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Gece Ezgileri</title>
-  </programme>
-  <programme start="20260922020500 +0300" stop="20260922021000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Nezaket Mevsimi</title>
-  </programme>
-  <programme start="20260922021000 +0300" stop="20260922025500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Yaşamın Ritmi</title>
-  </programme>
-  <programme start="20260922025500 +0300" stop="20260922030000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Mutfağın Sırları</title>
-  </programme>
-  <programme start="20260922030000 +0300" stop="20260922030500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922030500 +0300" stop="20260922032500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Arkası Yarın</title>
-  </programme>
-  <programme start="20260922032500 +0300" stop="20260922042500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Yıldızlar Altında</title>
-  </programme>
-  <programme start="20260922042500 +0300" stop="20260922045800 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Ailece</title>
-  </programme>
-  <programme start="20260922045800 +0300" stop="20260922050000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Sporun Unutulmayanları</title>
-  </programme>
-  <programme start="20260922050000 +0300" stop="20260922050500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922050500 +0300" stop="20260922060000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Müzik Kutusu</title>
-  </programme>
-  <programme start="20260922060000 +0300" stop="20260922060500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922060500 +0300" stop="20260922060800 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Deniz-Hava Raporu</title>
-  </programme>
-  <programme start="20260922061000 +0300" stop="20260922063000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Sabahın Hayrı</title>
-  </programme>
-  <programme start="20260922063000 +0300" stop="20260922072700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Günaydın Türkiye</title>
-  </programme>
-  <programme start="20260922073000 +0300" stop="20260922074000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922074300 +0300" stop="20260922074500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Güvenli Yolculuk</title>
-  </programme>
-  <programme start="20260922074500 +0300" stop="20260922090000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Gündem</title>
-  </programme>
-  <programme start="20260922090000 +0300" stop="20260922090500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922090700 +0300" stop="20260922093700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Gündem</title>
-  </programme>
-  <programme start="20260922093700 +0300" stop="20260922093900 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Sporun Unutulmayanları</title>
-  </programme>
-  <programme start="20260922094000 +0300" stop="20260922100000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Arkası Yarın</title>
-  </programme>
-  <programme start="20260922100000 +0300" stop="20260922100500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922100600 +0300" stop="20260922100700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">İstasyon Tanıtma Sinyali</title>
-  </programme>
-  <programme start="20260922100700 +0300" stop="20260922101000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Soralım Bakalım</title>
-  </programme>
-  <programme start="20260922101000 +0300" stop="20260922105500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Yaşamın Ritmi</title>
-  </programme>
-  <programme start="20260922105500 +0300" stop="20260922110000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Mutfağın Sırları</title>
-  </programme>
-  <programme start="20260922110000 +0300" stop="20260922110500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922110700 +0300" stop="20260922111000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Ailenin Sesinde Bugün</title>
-  </programme>
-  <programme start="20260922111000 +0300" stop="20260922115700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Günebakan</title>
-  </programme>
-  <programme start="20260922115700 +0300" stop="20260922120000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Kelimenin Peşinden Gel</title>
-  </programme>
-  <programme start="20260922120000 +0300" stop="20260922130000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haber Yorum</title>
-  </programme>
-  <programme start="20260922130000 +0300" stop="20260922131500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922131700 +0300" stop="20260922135000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Ailece</title>
-  </programme>
-  <programme start="20260922135000 +0300" stop="20260922140000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Hukuk Ve Hayat</title>
-  </programme>
-  <programme start="20260922140200 +0300" stop="20260922142700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Dünyayı Değiştiren Savaşlar</title>
-  </programme>
-  <programme start="20260922142700 +0300" stop="20260922143000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Aklımda Kalan Satırlar</title>
-  </programme>
-  <programme start="20260922143200 +0300" stop="20260922145500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Ayraç</title>
-  </programme>
-  <programme start="20260922145500 +0300" stop="20260922150000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Nezaket Mevsimi</title>
-  </programme>
-  <programme start="20260922150000 +0300" stop="20260922150500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922150600 +0300" stop="20260922150700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">İstasyon Tanıtma Sinyali</title>
-  </programme>
-  <programme start="20260922150700 +0300" stop="20260922153000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Kollektif Zeka</title>
-  </programme>
-  <programme start="20260922153200 +0300" stop="20260922155700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Gelecek Postası</title>
-  </programme>
-  <programme start="20260922155700 +0300" stop="20260922160000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Soralım Bakalım</title>
-  </programme>
-  <programme start="20260922160000 +0300" stop="20260922160500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922160700 +0300" stop="20260922163000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Yeryüzü Günlüğü</title>
-  </programme>
-  <programme start="20260922163200 +0300" stop="20260922165700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Geleceğin Anahtarı</title>
-  </programme>
-  <programme start="20260922165700 +0300" stop="20260922170000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">1 Soru 1 Cevap</title>
-  </programme>
-  <programme start="20260922170000 +0300" stop="20260922170500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922170700 +0300" stop="20260922173000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Doktorum Yanımda</title>
-  </programme>
-  <programme start="20260922173300 +0300" stop="20260922180000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Ekonomi Günlüğü</title>
-  </programme>
-  <programme start="20260922180300 +0300" stop="20260922185500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Gün Ötesi</title>
-  </programme>
-  <programme start="20260922185500 +0300" stop="20260922190000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Bunu Biliyor Muydunuz?</title>
-  </programme>
-  <programme start="20260922190000 +0300" stop="20260922192500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922192900 +0300" stop="20260922193200 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Soralım Bakalım</title>
-  </programme>
-  <programme start="20260922193200 +0300" stop="20260922203000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Spor Servisi</title>
-  </programme>
-  <programme start="20260922203300 +0300" stop="20260922210000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Müzik Kutusu</title>
-  </programme>
-  <programme start="20260922210000 +0300" stop="20260922210500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922210700 +0300" stop="20260922220000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">İrfan Meclisi</title>
-  </programme>
-  <programme start="20260922220200 +0300" stop="20260922221200 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Müzikli Şehir Rehberi</title>
-  </programme>
-  <programme start="20260922221200 +0300" stop="20260922224400 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Sohbet Vakti</title>
-  </programme>
-  <programme start="20260922224500 +0300" stop="20260922230000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Bir Roman Bir Hikaye</title>
-  </programme>
-  <programme start="20260922230000 +0300" stop="20260922231500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922231800 +0300" stop="20260923010000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
-    <title lang="tr">Gecenin İçinden</title>
   </programme>
   <programme start="20260923010000 +0300" stop="20260923010500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
     <title lang="tr">Haberler</title>
@@ -2358,6 +2163,201 @@
   <programme start="20260928231800 +0300" stop="20260929010000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
     <title lang="tr">Gecenin İçinden</title>
   </programme>
+  <programme start="20260929010000 +0300" stop="20260929010500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929010500 +0300" stop="20260929020500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Gece Ezgileri</title>
+  </programme>
+  <programme start="20260929020500 +0300" stop="20260929021000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Nezaket Mevsimi</title>
+  </programme>
+  <programme start="20260929021000 +0300" stop="20260929025500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Yaşamın Ritmi</title>
+  </programme>
+  <programme start="20260929025500 +0300" stop="20260929030000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Mutfağın Sırları</title>
+  </programme>
+  <programme start="20260929030000 +0300" stop="20260929030500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929030500 +0300" stop="20260929032500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Arkası Yarın</title>
+  </programme>
+  <programme start="20260929032500 +0300" stop="20260929042500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Yıldızlar Altında</title>
+  </programme>
+  <programme start="20260929042500 +0300" stop="20260929045800 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Ailece</title>
+  </programme>
+  <programme start="20260929045800 +0300" stop="20260929050000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Sporun Unutulmayanları</title>
+  </programme>
+  <programme start="20260929050000 +0300" stop="20260929050500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929050500 +0300" stop="20260929060000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Müzik Kutusu</title>
+  </programme>
+  <programme start="20260929060000 +0300" stop="20260929060500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929060500 +0300" stop="20260929060800 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Deniz-Hava Raporu</title>
+  </programme>
+  <programme start="20260929061000 +0300" stop="20260929063000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Sabahın Hayrı</title>
+  </programme>
+  <programme start="20260929063000 +0300" stop="20260929072700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Günaydın Türkiye</title>
+  </programme>
+  <programme start="20260929073000 +0300" stop="20260929074000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929074300 +0300" stop="20260929074500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Güvenli Yolculuk</title>
+  </programme>
+  <programme start="20260929074500 +0300" stop="20260929090000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Gündem</title>
+  </programme>
+  <programme start="20260929090000 +0300" stop="20260929090500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929090700 +0300" stop="20260929093700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Gündem</title>
+  </programme>
+  <programme start="20260929093700 +0300" stop="20260929093900 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Sporun Unutulmayanları</title>
+  </programme>
+  <programme start="20260929094000 +0300" stop="20260929100000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Arkası Yarın</title>
+  </programme>
+  <programme start="20260929100000 +0300" stop="20260929100500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929100600 +0300" stop="20260929100700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">İstasyon Tanıtma Sinyali</title>
+  </programme>
+  <programme start="20260929100700 +0300" stop="20260929101000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Soralım Bakalım</title>
+  </programme>
+  <programme start="20260929101000 +0300" stop="20260929105500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Yaşamın Ritmi</title>
+  </programme>
+  <programme start="20260929105500 +0300" stop="20260929110000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Mutfağın Sırları</title>
+  </programme>
+  <programme start="20260929110000 +0300" stop="20260929110500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929110700 +0300" stop="20260929111000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Ailenin Sesinde Bugün</title>
+  </programme>
+  <programme start="20260929111000 +0300" stop="20260929115700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Günebakan</title>
+  </programme>
+  <programme start="20260929115700 +0300" stop="20260929120000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Kelimenin Peşinden Gel</title>
+  </programme>
+  <programme start="20260929120000 +0300" stop="20260929130000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haber Yorum</title>
+  </programme>
+  <programme start="20260929130000 +0300" stop="20260929131500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929131700 +0300" stop="20260929135000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Ailece</title>
+  </programme>
+  <programme start="20260929135000 +0300" stop="20260929140000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Hukuk Ve Hayat</title>
+  </programme>
+  <programme start="20260929140200 +0300" stop="20260929142700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Dünyayı Değiştiren Savaşlar</title>
+  </programme>
+  <programme start="20260929142700 +0300" stop="20260929143000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Aklımda Kalan Satırlar</title>
+  </programme>
+  <programme start="20260929143200 +0300" stop="20260929145500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Ayraç</title>
+  </programme>
+  <programme start="20260929145500 +0300" stop="20260929150000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Nezaket Mevsimi</title>
+  </programme>
+  <programme start="20260929150000 +0300" stop="20260929150500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929150600 +0300" stop="20260929150700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">İstasyon Tanıtma Sinyali</title>
+  </programme>
+  <programme start="20260929150700 +0300" stop="20260929153000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Kollektif Zeka</title>
+  </programme>
+  <programme start="20260929153200 +0300" stop="20260929155700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Gelecek Postası</title>
+  </programme>
+  <programme start="20260929155700 +0300" stop="20260929160000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Soralım Bakalım</title>
+  </programme>
+  <programme start="20260929160000 +0300" stop="20260929160500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929160700 +0300" stop="20260929163000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Yeryüzü Günlüğü</title>
+  </programme>
+  <programme start="20260929163200 +0300" stop="20260929165700 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Geleceğin Anahtarı</title>
+  </programme>
+  <programme start="20260929165700 +0300" stop="20260929170000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">1 Soru 1 Cevap</title>
+  </programme>
+  <programme start="20260929170000 +0300" stop="20260929170500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929170700 +0300" stop="20260929173000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Doktorum Yanımda</title>
+  </programme>
+  <programme start="20260929173300 +0300" stop="20260929180000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Ekonomi Günlüğü</title>
+  </programme>
+  <programme start="20260929180300 +0300" stop="20260929185500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Gün Ötesi</title>
+  </programme>
+  <programme start="20260929185500 +0300" stop="20260929190000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Bunu Biliyor Muydunuz?</title>
+  </programme>
+  <programme start="20260929190000 +0300" stop="20260929192500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929192900 +0300" stop="20260929193200 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Soralım Bakalım</title>
+  </programme>
+  <programme start="20260929193200 +0300" stop="20260929203000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Spor Servisi</title>
+  </programme>
+  <programme start="20260929203300 +0300" stop="20260929210000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Müzik Kutusu</title>
+  </programme>
+  <programme start="20260929210000 +0300" stop="20260929210500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929210700 +0300" stop="20260929220000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">İrfan Meclisi</title>
+  </programme>
+  <programme start="20260929220200 +0300" stop="20260929221200 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Müzikli Şehir Rehberi</title>
+  </programme>
+  <programme start="20260929221200 +0300" stop="20260929224400 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Sohbet Vakti</title>
+  </programme>
+  <programme start="20260929224500 +0300" stop="20260929230000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Bir Roman Bir Hikaye</title>
+  </programme>
+  <programme start="20260929230000 +0300" stop="20260929231500 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929231800 +0300" stop="20260930010000 +0300" channel="trt.radyo.radyo-1-radyo-programlari">
+    <title lang="tr">Gecenin İçinden</title>
+  </programme>
   <programme start="20260922000000 +0300" stop="20260922005900 +0300" channel="trt.radyo.radyo-3-klasik-caz-rock-pop-ve-dunya-muzigi">
     <title lang="tr">Gece ve Müzik</title>
   </programme>
@@ -3141,21 +3141,6 @@
   <programme start="20260928235900 +0300" stop="20260929000000 +0300" channel="trt.radyo.radyo-3-klasik-caz-rock-pop-ve-dunya-muzigi">
     <title lang="tr">Tanıtım</title>
   </programme>
-  <programme start="20260922100500 +0300" stop="20260922110000 +0300" channel="trt.radyo.trabzon-radyosu">
-    <title lang="tr">Bölge Gündemi</title>
-  </programme>
-  <programme start="20260922110000 +0300" stop="20260922130000 +0300" channel="trt.radyo.trabzon-radyosu">
-    <title lang="tr">Hayatın İçinden</title>
-  </programme>
-  <programme start="20260922130000 +0300" stop="20260922150700 +0300" channel="trt.radyo.trabzon-radyosu">
-    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
-  </programme>
-  <programme start="20260922150700 +0300" stop="20260922160000 +0300" channel="trt.radyo.trabzon-radyosu">
-    <title lang="tr">Genç Yaşam</title>
-  </programme>
-  <programme start="20260922160000 +0300" stop="20260923100500 +0300" channel="trt.radyo.trabzon-radyosu">
-    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
-  </programme>
   <programme start="20260923100500 +0300" stop="20260923110000 +0300" channel="trt.radyo.trabzon-radyosu">
     <title lang="tr">Bölge Gündemi</title>
   </programme>
@@ -3234,77 +3219,20 @@
   <programme start="20260928160000 +0300" stop="20260929100500 +0300" channel="trt.radyo.trabzon-radyosu">
     <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
-  <programme start="20260922010000 +0300" stop="20260922010500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Haberler</title>
+  <programme start="20260929100500 +0300" stop="20260929110000 +0300" channel="trt.radyo.trabzon-radyosu">
+    <title lang="tr">Bölge Gündemi</title>
   </programme>
-  <programme start="20260922010500 +0300" stop="20260922020500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Akustik Performans (Tekrar) (İstanbul)</title>
+  <programme start="20260929110000 +0300" stop="20260929130000 +0300" channel="trt.radyo.trabzon-radyosu">
+    <title lang="tr">Hayatın İçinden</title>
   </programme>
-  <programme start="20260922020500 +0300" stop="20260922070000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">TRT FM Geceden Sabaha ( Hafta İçi)</title>
+  <programme start="20260929130000 +0300" stop="20260929150700 +0300" channel="trt.radyo.trabzon-radyosu">
+    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
-  <programme start="20260922070000 +0300" stop="20260922070500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Haberler</title>
+  <programme start="20260929150700 +0300" stop="20260929160000 +0300" channel="trt.radyo.trabzon-radyosu">
+    <title lang="tr">Genç Yaşam</title>
   </programme>
-  <programme start="20260922070500 +0300" stop="20260922073300 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Pop Express</title>
-  </programme>
-  <programme start="20260922073300 +0300" stop="20260922080000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Pop Express</title>
-  </programme>
-  <programme start="20260922080000 +0300" stop="20260922100000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Uyandırma Servisi</title>
-  </programme>
-  <programme start="20260922100000 +0300" stop="20260922100500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922100500 +0300" stop="20260922120000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Her Şey 10'da</title>
-  </programme>
-  <programme start="20260922120000 +0300" stop="20260922130000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Hepsi Hit</title>
-  </programme>
-  <programme start="20260922130000 +0300" stop="20260922140000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Frekans</title>
-  </programme>
-  <programme start="20260922140000 +0300" stop="20260922140500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922140500 +0300" stop="20260922150000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Frekans</title>
-  </programme>
-  <programme start="20260922150000 +0300" stop="20260922160000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">TRT FM Tempo</title>
-  </programme>
-  <programme start="20260922160000 +0300" stop="20260922160500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922160500 +0300" stop="20260922163300 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Pop Express</title>
-  </programme>
-  <programme start="20260922163300 +0300" stop="20260922170000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Pop Express</title>
-  </programme>
-  <programme start="20260922170000 +0300" stop="20260922170500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922170500 +0300" stop="20260922190000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Son Durak</title>
-  </programme>
-  <programme start="20260922190000 +0300" stop="20260922191000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">TRT FM EN 40 (kısa)</title>
-  </programme>
-  <programme start="20260922191000 +0300" stop="20260922210000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Kaçış Rampası</title>
-  </programme>
-  <programme start="20260922210000 +0300" stop="20260922220000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Akustik Performans</title>
-  </programme>
-  <programme start="20260922220000 +0300" stop="20260922230000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">TRT FM Slow</title>
-  </programme>
-  <programme start="20260922230000 +0300" stop="20260923010000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
-    <title lang="tr">Geceye Yolculuk</title>
+  <programme start="20260929160000 +0300" stop="20260930100500 +0300" channel="trt.radyo.trabzon-radyosu">
+    <title lang="tr">TRT Radyo 1 Ortak Yayını</title>
   </programme>
   <programme start="20260923010000 +0300" stop="20260923010500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Haberler</title>
@@ -3726,80 +3654,77 @@
   <programme start="20260928230000 +0300" stop="20260929010000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Geceye Yolculuk</title>
   </programme>
-  <programme start="20260922000000 +0300" stop="20260922005500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Akustik Nağme</title>
-  </programme>
-  <programme start="20260922005500 +0300" stop="20260922025000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Geçmiş Zaman Olur ki</title>
-  </programme>
-  <programme start="20260922025000 +0300" stop="20260922035000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Müzik Keyfi</title>
-  </programme>
-  <programme start="20260922035000 +0300" stop="20260922051500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Müzik Keyfi</title>
-  </programme>
-  <programme start="20260922051500 +0300" stop="20260922070000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Şarkılardan Seçmeler</title>
-  </programme>
-  <programme start="20260922070000 +0300" stop="20260922070500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+  <programme start="20260929010000 +0300" stop="20260929010500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922070500 +0300" stop="20260922100000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Sabahın Nağmesi</title>
+  <programme start="20260929010500 +0300" stop="20260929020500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Akustik Performans (Tekrar) (İstanbul)</title>
   </programme>
-  <programme start="20260922100000 +0300" stop="20260922100500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+  <programme start="20260929020500 +0300" stop="20260929070000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">TRT FM Geceden Sabaha ( Hafta İçi)</title>
+  </programme>
+  <programme start="20260929070000 +0300" stop="20260929070500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922100500 +0300" stop="20260922120000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Geçmiş Zaman Olur ki</title>
+  <programme start="20260929070500 +0300" stop="20260929073300 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Pop Express</title>
   </programme>
-  <programme start="20260922120000 +0300" stop="20260922120500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+  <programme start="20260929073300 +0300" stop="20260929080000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Pop Express</title>
+  </programme>
+  <programme start="20260929080000 +0300" stop="20260929100000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Uyandırma Servisi</title>
+  </programme>
+  <programme start="20260929100000 +0300" stop="20260929100500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922120500 +0300" stop="20260922130000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Hoş Sada</title>
+  <programme start="20260929100500 +0300" stop="20260929120000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Her Şey 10'da</title>
   </programme>
-  <programme start="20260922130000 +0300" stop="20260922140000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Vakti Zamanında</title>
+  <programme start="20260929120000 +0300" stop="20260929130000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Hepsi Hit</title>
   </programme>
-  <programme start="20260922140000 +0300" stop="20260922140500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+  <programme start="20260929130000 +0300" stop="20260929140000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Frekans</title>
+  </programme>
+  <programme start="20260929140000 +0300" stop="20260929140500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922140500 +0300" stop="20260922150000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Stüdyo Nağme</title>
+  <programme start="20260929140500 +0300" stop="20260929150000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Frekans</title>
   </programme>
-  <programme start="20260922150000 +0300" stop="20260922160000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Müzik Keyfi</title>
+  <programme start="20260929150000 +0300" stop="20260929160000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">TRT FM Tempo</title>
   </programme>
-  <programme start="20260922160000 +0300" stop="20260922160500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+  <programme start="20260929160000 +0300" stop="20260929160500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922160500 +0300" stop="20260922173000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Müzik Keyfi</title>
+  <programme start="20260929160500 +0300" stop="20260929163300 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Pop Express</title>
   </programme>
-  <programme start="20260922173000 +0300" stop="20260922180000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Fasıl</title>
+  <programme start="20260929163300 +0300" stop="20260929170000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Pop Express</title>
   </programme>
-  <programme start="20260922180000 +0300" stop="20260922180500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+  <programme start="20260929170000 +0300" stop="20260929170500 +0300" channel="trt.radyo.trt-fm-turkce-pop">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922180500 +0300" stop="20260922190000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Akustik Nağme</title>
+  <programme start="20260929170500 +0300" stop="20260929190000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Son Durak</title>
   </programme>
-  <programme start="20260922190000 +0300" stop="20260922210000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Akşamın Sesi</title>
+  <programme start="20260929190000 +0300" stop="20260929191000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">TRT FM EN 40 (kısa)</title>
   </programme>
-  <programme start="20260922210000 +0300" stop="20260922220000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Zamanın Şarkıları</title>
+  <programme start="20260929191000 +0300" stop="20260929210000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Kaçış Rampası</title>
   </programme>
-  <programme start="20260922220000 +0300" stop="20260922223000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Aşkın Namesi</title>
+  <programme start="20260929210000 +0300" stop="20260929220000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Akustik Performans</title>
   </programme>
-  <programme start="20260922223000 +0300" stop="20260922230000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Arz-ı Musiki</title>
+  <programme start="20260929220000 +0300" stop="20260929230000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">TRT FM Slow</title>
   </programme>
-  <programme start="20260922230000 +0300" stop="20260923000000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
-    <title lang="tr">Yıldızlar Altında</title>
+  <programme start="20260929230000 +0300" stop="20260930010000 +0300" channel="trt.radyo.trt-fm-turkce-pop">
+    <title lang="tr">Geceye Yolculuk</title>
   </programme>
   <programme start="20260923000000 +0300" stop="20260923005500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
     <title lang="tr">Akustik Nağme</title>
@@ -4251,56 +4176,80 @@
   <programme start="20260928230000 +0300" stop="20260929000000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
     <title lang="tr">Yıldızlar Altında</title>
   </programme>
-  <programme start="20260922000000 +0300" stop="20260922100000 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
+  <programme start="20260929000000 +0300" stop="20260929005500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Akustik Nağme</title>
   </programme>
-  <programme start="20260922100000 +0300" stop="20260922100500 +0300" channel="trt.radyo.trt-radyo-haber">
+  <programme start="20260929005500 +0300" stop="20260929025000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Geçmiş Zaman Olur ki</title>
+  </programme>
+  <programme start="20260929025000 +0300" stop="20260929035000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Müzik Keyfi</title>
+  </programme>
+  <programme start="20260929035000 +0300" stop="20260929051500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Müzik Keyfi</title>
+  </programme>
+  <programme start="20260929051500 +0300" stop="20260929070000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Şarkılardan Seçmeler</title>
+  </programme>
+  <programme start="20260929070000 +0300" stop="20260929070500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922100500 +0300" stop="20260922100700 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Güvenli Yolculuk</title>
+  <programme start="20260929070500 +0300" stop="20260929100000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Sabahın Nağmesi</title>
   </programme>
-  <programme start="20260922100700 +0300" stop="20260922110000 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Ajans</title>
+  <programme start="20260929100000 +0300" stop="20260929100500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922110000 +0300" stop="20260922110300 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Soralım Bakalım</title>
+  <programme start="20260929100500 +0300" stop="20260929120000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Geçmiş Zaman Olur ki</title>
   </programme>
-  <programme start="20260922110300 +0300" stop="20260922115800 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Gündem Spor</title>
+  <programme start="20260929120000 +0300" stop="20260929120500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922115800 +0300" stop="20260922120000 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Güvenli Yolculuk</title>
+  <programme start="20260929120500 +0300" stop="20260929130000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Hoş Sada</title>
   </programme>
-  <programme start="20260922120000 +0300" stop="20260922130000 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Haber Yorum</title>
+  <programme start="20260929130000 +0300" stop="20260929140000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Vakti Zamanında</title>
   </programme>
-  <programme start="20260922130000 +0300" stop="20260922135500 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
+  <programme start="20260929140000 +0300" stop="20260929140500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922135500 +0300" stop="20260922135600 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Boş Alan Reklam</title>
+  <programme start="20260929140500 +0300" stop="20260929150000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Stüdyo Nağme</title>
   </programme>
-  <programme start="20260922135600 +0300" stop="20260922165700 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
+  <programme start="20260929150000 +0300" stop="20260929160000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Müzik Keyfi</title>
   </programme>
-  <programme start="20260922165700 +0300" stop="20260922170000 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Ailenin Sesinde Bugün</title>
+  <programme start="20260929160000 +0300" stop="20260929160500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922170000 +0300" stop="20260922180100 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Kültür Yolu</title>
+  <programme start="20260929160500 +0300" stop="20260929173000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Müzik Keyfi</title>
   </programme>
-  <programme start="20260922180100 +0300" stop="20260922180300 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Sporun Unutulmayanları</title>
+  <programme start="20260929173000 +0300" stop="20260929180000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Fasıl</title>
   </programme>
-  <programme start="20260922180300 +0300" stop="20260922185500 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Gün Ötesi (R-1 Ortak)</title>
+  <programme start="20260929180000 +0300" stop="20260929180500 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922185500 +0300" stop="20260922190000 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">Sağlıklı Yaşam</title>
+  <programme start="20260929180500 +0300" stop="20260929190000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Akustik Nağme</title>
   </programme>
-  <programme start="20260922190000 +0300" stop="20260922230000 +0300" channel="trt.radyo.trt-radyo-haber">
-    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
+  <programme start="20260929190000 +0300" stop="20260929210000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Akşamın Sesi</title>
+  </programme>
+  <programme start="20260929210000 +0300" stop="20260929220000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Zamanın Şarkıları</title>
+  </programme>
+  <programme start="20260929220000 +0300" stop="20260929223000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Aşkın Namesi</title>
+  </programme>
+  <programme start="20260929223000 +0300" stop="20260929230000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Arz-ı Musiki</title>
+  </programme>
+  <programme start="20260929230000 +0300" stop="20260930000000 +0300" channel="trt.radyo.trt-nagme-turk-sanat-muzigi">
+    <title lang="tr">Yıldızlar Altında</title>
   </programme>
   <programme start="20260923000000 +0300" stop="20260923100000 +0300" channel="trt.radyo.trt-radyo-haber">
     <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
@@ -4512,44 +4461,56 @@
   <programme start="20260928190000 +0300" stop="20260928230000 +0300" channel="trt.radyo.trt-radyo-haber">
     <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
   </programme>
-  <programme start="20260922000000 +0300" stop="20260922050000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929000000 +0300" stop="20260929100000 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
   </programme>
-  <programme start="20260922050000 +0300" stop="20260922060000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">HATİM ''XITMA  QURANÊ''</title>
+  <programme start="20260929100000 +0300" stop="20260929100500 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922060000 +0300" stop="20260922070000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929100500 +0300" stop="20260929100700 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Güvenli Yolculuk</title>
   </programme>
-  <programme start="20260922070000 +0300" stop="20260922080000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929100700 +0300" stop="20260929110000 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Ajans</title>
   </programme>
-  <programme start="20260922080000 +0300" stop="20260922100000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">RONIYA ROJÊ</title>
+  <programme start="20260929110000 +0300" stop="20260929110300 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Soralım Bakalım</title>
   </programme>
-  <programme start="20260922100000 +0300" stop="20260922130000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929110300 +0300" stop="20260929115800 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Gündem Spor</title>
   </programme>
-  <programme start="20260922130000 +0300" stop="20260922140000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929115800 +0300" stop="20260929120000 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Güvenli Yolculuk</title>
   </programme>
-  <programme start="20260922140000 +0300" stop="20260922150000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">RENG Û DENG</title>
+  <programme start="20260929120000 +0300" stop="20260929130000 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Haber Yorum</title>
   </programme>
-  <programme start="20260922150000 +0300" stop="20260922170000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929130000 +0300" stop="20260929135500 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
   </programme>
-  <programme start="20260922170000 +0300" stop="20260922190000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">RONIYA ÊVARÊ</title>
+  <programme start="20260929135500 +0300" stop="20260929135600 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Boş Alan Reklam</title>
   </programme>
-  <programme start="20260922190000 +0300" stop="20260922200000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">NÛÇE</title>
+  <programme start="20260929135600 +0300" stop="20260929165700 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
   </programme>
-  <programme start="20260922200000 +0300" stop="20260922220000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929165700 +0300" stop="20260929170000 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Ailenin Sesinde Bugün</title>
   </programme>
-  <programme start="20260922220000 +0300" stop="20260923000000 +0300" channel="trt.radyo.trt-radyo-kurdi">
-    <title lang="tr">MÜZİK YAYINI</title>
+  <programme start="20260929170000 +0300" stop="20260929180100 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Kültür Yolu</title>
+  </programme>
+  <programme start="20260929180100 +0300" stop="20260929180300 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Sporun Unutulmayanları</title>
+  </programme>
+  <programme start="20260929180300 +0300" stop="20260929185500 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Gün Ötesi (R-1 Ortak)</title>
+  </programme>
+  <programme start="20260929185500 +0300" stop="20260929190000 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">Sağlıklı Yaşam</title>
+  </programme>
+  <programme start="20260929190000 +0300" stop="20260929230000 +0300" channel="trt.radyo.trt-radyo-haber">
+    <title lang="tr">TRT Haber Televizyonu ile Ortak Yayın</title>
   </programme>
   <programme start="20260923000000 +0300" stop="20260923050000 +0300" channel="trt.radyo.trt-radyo-kurdi">
     <title lang="tr">MÜZİK YAYINI</title>
@@ -4803,95 +4764,50 @@
   <programme start="20260928220000 +0300" stop="20260929000000 +0300" channel="trt.radyo.trt-radyo-kurdi">
     <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922000000 +0300" stop="20260922010000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Gece Ezgileri</title>
+  <programme start="20260929000000 +0300" stop="20260929050000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922010000 +0300" stop="20260922020000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkü Evi</title>
+  <programme start="20260929050000 +0300" stop="20260929060000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">HATİM ''XITMA  QURANÊ''</title>
   </programme>
-  <programme start="20260922020000 +0300" stop="20260922025500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkü Keyfi</title>
+  <programme start="20260929060000 +0300" stop="20260929070000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922025500 +0300" stop="20260922030000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Benim Türküm</title>
+  <programme start="20260929070000 +0300" stop="20260929080000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922030000 +0300" stop="20260922060000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkülerden Seçmeler (THM)</title>
+  <programme start="20260929080000 +0300" stop="20260929100000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">RONIYA ROJÊ</title>
   </programme>
-  <programme start="20260922060000 +0300" stop="20260922070000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Seher Yeli</title>
+  <programme start="20260929100000 +0300" stop="20260929120000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922070000 +0300" stop="20260922070500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Haberler</title>
+  <programme start="20260929120000 +0300" stop="20260929130000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">RENG Û DENG</title>
   </programme>
-  <programme start="20260922070500 +0300" stop="20260922095500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">TRT Türkü'de Sabah</title>
+  <programme start="20260929130000 +0300" stop="20260929140000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922095500 +0300" stop="20260922100000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Bir Kelime Bir Türkü</title>
+  <programme start="20260929140000 +0300" stop="20260929150000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">DERMAN</title>
   </programme>
-  <programme start="20260922100000 +0300" stop="20260922100500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Haberler</title>
+  <programme start="20260929150000 +0300" stop="20260929160000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">EZ ZANİM</title>
   </programme>
-  <programme start="20260922100500 +0300" stop="20260922105500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkü Keyfi</title>
+  <programme start="20260929160000 +0300" stop="20260929170000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922105500 +0300" stop="20260922110000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Benim Türküm</title>
+  <programme start="20260929170000 +0300" stop="20260929190000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">RONIYA ÊVARÊ</title>
   </programme>
-  <programme start="20260922110000 +0300" stop="20260922120000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Yurttan Sesler</title>
+  <programme start="20260929190000 +0300" stop="20260929200000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">NÛÇE</title>
   </programme>
-  <programme start="20260922120000 +0300" stop="20260922120500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Haberler</title>
+  <programme start="20260929200000 +0300" stop="20260929220000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
-  <programme start="20260922120500 +0300" stop="20260922130000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkülerle Gün Ortası</title>
-  </programme>
-  <programme start="20260922130000 +0300" stop="20260922140000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Bizim Eller</title>
-  </programme>
-  <programme start="20260922140000 +0300" stop="20260922140500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922140500 +0300" stop="20260922150000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkü Diyarı</title>
-  </programme>
-  <programme start="20260922150000 +0300" stop="20260922160000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Karadeniz'den</title>
-  </programme>
-  <programme start="20260922160000 +0300" stop="20260922160500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922160500 +0300" stop="20260922170000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Akdeniz'in Renkleri</title>
-  </programme>
-  <programme start="20260922170000 +0300" stop="20260922180000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Çukurova'dan</title>
-  </programme>
-  <programme start="20260922180000 +0300" stop="20260922180500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922180500 +0300" stop="20260922181000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkü Sözlüğü</title>
-  </programme>
-  <programme start="20260922181000 +0300" stop="20260922200000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkü Akşamı</title>
-  </programme>
-  <programme start="20260922200000 +0300" stop="20260922210000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Radyo Sanatçıları Konseri</title>
-  </programme>
-  <programme start="20260922210000 +0300" stop="20260922220000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Türkü Evi</title>
-  </programme>
-  <programme start="20260922220000 +0300" stop="20260922230000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Yadigar</title>
-  </programme>
-  <programme start="20260922230000 +0300" stop="20260922233000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Zirvedeki Türküler</title>
-  </programme>
-  <programme start="20260922233000 +0300" stop="20260923000000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
-    <title lang="tr">Çukurova'dan Sesler</title>
+  <programme start="20260929220000 +0300" stop="20260930000000 +0300" channel="trt.radyo.trt-radyo-kurdi">
+    <title lang="tr">MÜZİK YAYINI</title>
   </programme>
   <programme start="20260923000000 +0300" stop="20260923010000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Gece Ezgileri</title>
@@ -5445,257 +5361,95 @@
   <programme start="20260928233000 +0300" stop="20260929000000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Saz Bizim Söz Bizim</title>
   </programme>
-  <programme start="20260922000000 +0300" stop="20260922003000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Müzik Treni</title>
+  <programme start="20260929000000 +0300" stop="20260929010000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Gece Ezgileri</title>
   </programme>
-  <programme start="20260922003000 +0300" stop="20260922005500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Mavi Gök Yağız Yer</title>
+  <programme start="20260929010000 +0300" stop="20260929020000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkü Evi</title>
   </programme>
-  <programme start="20260922005500 +0300" stop="20260922010000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  <programme start="20260929020000 +0300" stop="20260929025500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkü Keyfi</title>
   </programme>
-  <programme start="20260922010000 +0300" stop="20260922010500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+  <programme start="20260929025500 +0300" stop="20260929030000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Benim Türküm</title>
+  </programme>
+  <programme start="20260929030000 +0300" stop="20260929060000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkülerden Seçmeler (THM)</title>
+  </programme>
+  <programme start="20260929060000 +0300" stop="20260929070000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Seher Yeli</title>
+  </programme>
+  <programme start="20260929070000 +0300" stop="20260929070500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922010500 +0300" stop="20260922015500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Hayal Hayat Sanat</title>
+  <programme start="20260929070500 +0300" stop="20260929095500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">TRT Türkü'de Sabah</title>
   </programme>
-  <programme start="20260922015500 +0300" stop="20260922020000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Türk Dil Kurumu Sunar</title>
+  <programme start="20260929095500 +0300" stop="20260929100000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Bir Kelime Bir Türkü</title>
   </programme>
-  <programme start="20260922020000 +0300" stop="20260922022000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Kadim Kökler</title>
-  </programme>
-  <programme start="20260922022000 +0300" stop="20260922022500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Kas Hafızası</title>
-  </programme>
-  <programme start="20260922022500 +0300" stop="20260922025500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Solistlerden Birer Şarkı</title>
-  </programme>
-  <programme start="20260922025500 +0300" stop="20260922030000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
-  </programme>
-  <programme start="20260922030000 +0300" stop="20260922030500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+  <programme start="20260929100000 +0300" stop="20260929100500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922030500 +0300" stop="20260922031000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Oyunumuzun Başlamasına 5' Var</title>
+  <programme start="20260929100500 +0300" stop="20260929105500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkü Keyfi</title>
   </programme>
-  <programme start="20260922031000 +0300" stop="20260922035500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Esinti</title>
+  <programme start="20260929105500 +0300" stop="20260929110000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Benim Türküm</title>
   </programme>
-  <programme start="20260922035500 +0300" stop="20260922040000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  <programme start="20260929110000 +0300" stop="20260929120000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Yurttan Sesler</title>
   </programme>
-  <programme start="20260922040000 +0300" stop="20260922042500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Bir Kitapta Okumuştum</title>
-  </programme>
-  <programme start="20260922042500 +0300" stop="20260922045500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Gönülaydın</title>
-  </programme>
-  <programme start="20260922045500 +0300" stop="20260922050000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
-  </programme>
-  <programme start="20260922050000 +0300" stop="20260922050500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+  <programme start="20260929120000 +0300" stop="20260929120500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922050500 +0300" stop="20260922055000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Gönül Aşkı</title>
+  <programme start="20260929120500 +0300" stop="20260929130000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkülerle Gün Ortası</title>
   </programme>
-  <programme start="20260922055000 +0300" stop="20260922055500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Gümüş Perdede 5 dakika</title>
+  <programme start="20260929130000 +0300" stop="20260929140000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Bizim Eller</title>
   </programme>
-  <programme start="20260922055500 +0300" stop="20260922060000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922060000 +0300" stop="20260922065000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Müzik Gezegeni</title>
-  </programme>
-  <programme start="20260922065000 +0300" stop="20260922065500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım Müziği</title>
-  </programme>
-  <programme start="20260922065500 +0300" stop="20260922070000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">İstiklal Marşı-Açılış Anonsu</title>
-  </programme>
-  <programme start="20260922070000 +0300" stop="20260922070500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+  <programme start="20260929140000 +0300" stop="20260929140500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922070500 +0300" stop="20260922073000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Türk Pop Müziği</title>
+  <programme start="20260929140500 +0300" stop="20260929150000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkü Diyarı</title>
   </programme>
-  <programme start="20260922073000 +0300" stop="20260922075500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+  <programme start="20260929150000 +0300" stop="20260929160000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Karadeniz'den</title>
+  </programme>
+  <programme start="20260929160000 +0300" stop="20260929160500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922075500 +0300" stop="20260922080000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Türk Dil Kurumu Sunar</title>
+  <programme start="20260929160500 +0300" stop="20260929170000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Akdeniz'in Renkleri</title>
   </programme>
-  <programme start="20260922080000 +0300" stop="20260922085000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Güldeste</title>
+  <programme start="20260929170000 +0300" stop="20260929180000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Çukurova'dan</title>
   </programme>
-  <programme start="20260922085000 +0300" stop="20260922085500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Kas Hafızası</title>
-  </programme>
-  <programme start="20260922085500 +0300" stop="20260922090000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
-  </programme>
-  <programme start="20260922090000 +0300" stop="20260922090500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+  <programme start="20260929180000 +0300" stop="20260929180500 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
     <title lang="tr">Haberler</title>
   </programme>
-  <programme start="20260922090500 +0300" stop="20260922092500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Türkiye'nin Değerleri</title>
+  <programme start="20260929180500 +0300" stop="20260929181000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkü Sözlüğü</title>
   </programme>
-  <programme start="20260922092500 +0300" stop="20260922094000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Müzikle 15 Dakika</title>
+  <programme start="20260929181000 +0300" stop="20260929200000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkü Akşamı</title>
   </programme>
-  <programme start="20260922094000 +0300" stop="20260922095500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Bir Şehir</title>
+  <programme start="20260929200000 +0300" stop="20260929210000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Radyo Sanatçıları Konseri</title>
   </programme>
-  <programme start="20260922095500 +0300" stop="20260922100000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  <programme start="20260929210000 +0300" stop="20260929220000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Türkü Evi</title>
   </programme>
-  <programme start="20260922100000 +0300" stop="20260922100500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
+  <programme start="20260929220000 +0300" stop="20260929230000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Yadigar</title>
   </programme>
-  <programme start="20260922100500 +0300" stop="20260922110000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Memleket Treni</title>
+  <programme start="20260929230000 +0300" stop="20260929233000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Zirvedeki Türküler</title>
   </programme>
-  <programme start="20260922110000 +0300" stop="20260922110500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922110500 +0300" stop="20260922115500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Sabah Ajansı</title>
-  </programme>
-  <programme start="20260922115500 +0300" stop="20260922120000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Gümüş Perdede 5 dakika</title>
-  </programme>
-  <programme start="20260922120000 +0300" stop="20260922120500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922120500 +0300" stop="20260922123000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Bir Kitapta Okumuştum</title>
-  </programme>
-  <programme start="20260922123000 +0300" stop="20260922125500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">İnsan 360</title>
-  </programme>
-  <programme start="20260922125500 +0300" stop="20260922130000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922130000 +0300" stop="20260922130500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922130500 +0300" stop="20260922133500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Başka Haberler Merkezi</title>
-  </programme>
-  <programme start="20260922133500 +0300" stop="20260922140000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Sarmaşık</title>
-  </programme>
-  <programme start="20260922140000 +0300" stop="20260922140500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922140500 +0300" stop="20260922143500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Kanun Ne Diyor</title>
-  </programme>
-  <programme start="20260922143500 +0300" stop="20260922145000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Müzikle 15 Dakika</title>
-  </programme>
-  <programme start="20260922145000 +0300" stop="20260922145500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Oyunumuzun Başlamasına 5' Var</title>
-  </programme>
-  <programme start="20260922145500 +0300" stop="20260922150000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922150000 +0300" stop="20260922150500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922150500 +0300" stop="20260922154000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Kültür Otağı</title>
-  </programme>
-  <programme start="20260922154000 +0300" stop="20260922155000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Türk Başkentleri</title>
-  </programme>
-  <programme start="20260922155000 +0300" stop="20260922155500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922155500 +0300" stop="20260922160000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
-  </programme>
-  <programme start="20260922160000 +0300" stop="20260922160500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922160500 +0300" stop="20260922161500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Medeniyetler Geçidi</title>
-  </programme>
-  <programme start="20260922161500 +0300" stop="20260922165000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Gönülaydın</title>
-  </programme>
-  <programme start="20260922165000 +0300" stop="20260922170000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922170000 +0300" stop="20260922170500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922170500 +0300" stop="20260922173500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Küresel Analiz</title>
-  </programme>
-  <programme start="20260922173500 +0300" stop="20260922180500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Nağmeden Nağmeye</title>
-  </programme>
-  <programme start="20260922180500 +0300" stop="20260922185500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Günün Özeti</title>
-  </programme>
-  <programme start="20260922185500 +0300" stop="20260922190000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
-  </programme>
-  <programme start="20260922190000 +0300" stop="20260922192500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922192500 +0300" stop="20260922194500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Türkiye'nin Değerleri</title>
-  </programme>
-  <programme start="20260922194500 +0300" stop="20260922195500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Halk Sazlarından Ezgiler</title>
-  </programme>
-  <programme start="20260922195500 +0300" stop="20260922200000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922200000 +0300" stop="20260922202500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Atalardan Armağan</title>
-  </programme>
-  <programme start="20260922202500 +0300" stop="20260922205500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Şehir ve Modern</title>
-  </programme>
-  <programme start="20260922205500 +0300" stop="20260922210000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922210000 +0300" stop="20260922210500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922210500 +0300" stop="20260922212000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Evvel Zaman Gezgini</title>
-  </programme>
-  <programme start="20260922212000 +0300" stop="20260922212500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922212500 +0300" stop="20260922215500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Mikrofonda Doktor Var</title>
-  </programme>
-  <programme start="20260922215500 +0300" stop="20260922220000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Tanıtım / Kısa Belgesel</title>
-  </programme>
-  <programme start="20260922220000 +0300" stop="20260922230000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Akşamın Adresi</title>
-  </programme>
-  <programme start="20260922230000 +0300" stop="20260922231500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Haberler</title>
-  </programme>
-  <programme start="20260922231500 +0300" stop="20260922233500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Arkası Yarın</title>
-  </programme>
-  <programme start="20260922233500 +0300" stop="20260922235500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Türk Pop Müziği</title>
-  </programme>
-  <programme start="20260922235500 +0300" stop="20260923000000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
-    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
+  <programme start="20260929233000 +0300" stop="20260930000000 +0300" channel="trt.radyo.trt-turku-turk-halk-muzigi">
+    <title lang="tr">Çukurova'dan Sesler</title>
   </programme>
   <programme start="20260923000000 +0300" stop="20260923005500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
     <title lang="tr">Esinti</title>
@@ -7084,6 +6838,258 @@
     <title lang="tr">Türk Pop Müziği</title>
   </programme>
   <programme start="20260928235500 +0300" stop="20260929000000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
+  </programme>
+  <programme start="20260929000000 +0300" stop="20260929003000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Müzik Treni</title>
+  </programme>
+  <programme start="20260929003000 +0300" stop="20260929005500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Mavi Gök Yağız Yer</title>
+  </programme>
+  <programme start="20260929005500 +0300" stop="20260929010000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929010000 +0300" stop="20260929010500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929010500 +0300" stop="20260929015500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Hayal Hayat Sanat</title>
+  </programme>
+  <programme start="20260929015500 +0300" stop="20260929020000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Türk Dil Kurumu Sunar</title>
+  </programme>
+  <programme start="20260929020000 +0300" stop="20260929022000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Kadim Kökler</title>
+  </programme>
+  <programme start="20260929022000 +0300" stop="20260929022500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Kas Hafızası</title>
+  </programme>
+  <programme start="20260929022500 +0300" stop="20260929025500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Solistlerden Birer Şarkı</title>
+  </programme>
+  <programme start="20260929025500 +0300" stop="20260929030000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
+  </programme>
+  <programme start="20260929030000 +0300" stop="20260929030500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929030500 +0300" stop="20260929031000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Oyunumuzun Başlamasına 5' Var</title>
+  </programme>
+  <programme start="20260929031000 +0300" stop="20260929035500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Esinti</title>
+  </programme>
+  <programme start="20260929035500 +0300" stop="20260929040000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929040000 +0300" stop="20260929042500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Bir Kitapta Okumuştum</title>
+  </programme>
+  <programme start="20260929042500 +0300" stop="20260929045500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Gönülaydın</title>
+  </programme>
+  <programme start="20260929045500 +0300" stop="20260929050000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
+  </programme>
+  <programme start="20260929050000 +0300" stop="20260929050500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929050500 +0300" stop="20260929055000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Gönül Aşkı</title>
+  </programme>
+  <programme start="20260929055000 +0300" stop="20260929055500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Gümüş Perdede 5 dakika</title>
+  </programme>
+  <programme start="20260929055500 +0300" stop="20260929060000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929060000 +0300" stop="20260929065000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Müzik Gezegeni</title>
+  </programme>
+  <programme start="20260929065000 +0300" stop="20260929065500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım Müziği</title>
+  </programme>
+  <programme start="20260929065500 +0300" stop="20260929070000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">İstiklal Marşı-Açılış Anonsu</title>
+  </programme>
+  <programme start="20260929070000 +0300" stop="20260929070500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929070500 +0300" stop="20260929073000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Türk Pop Müziği</title>
+  </programme>
+  <programme start="20260929073000 +0300" stop="20260929075500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929075500 +0300" stop="20260929080000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Türk Dil Kurumu Sunar</title>
+  </programme>
+  <programme start="20260929080000 +0300" stop="20260929085000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Güldeste</title>
+  </programme>
+  <programme start="20260929085000 +0300" stop="20260929085500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Kas Hafızası</title>
+  </programme>
+  <programme start="20260929085500 +0300" stop="20260929090000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
+  </programme>
+  <programme start="20260929090000 +0300" stop="20260929090500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929090500 +0300" stop="20260929092500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Türkiye'nin Değerleri</title>
+  </programme>
+  <programme start="20260929092500 +0300" stop="20260929094000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Müzikle 15 Dakika</title>
+  </programme>
+  <programme start="20260929094000 +0300" stop="20260929095500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Bir Şehir</title>
+  </programme>
+  <programme start="20260929095500 +0300" stop="20260929100000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929100000 +0300" stop="20260929100500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929100500 +0300" stop="20260929110000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Memleket Treni</title>
+  </programme>
+  <programme start="20260929110000 +0300" stop="20260929110500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929110500 +0300" stop="20260929115500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Sabah Ajansı</title>
+  </programme>
+  <programme start="20260929115500 +0300" stop="20260929120000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Gümüş Perdede 5 dakika</title>
+  </programme>
+  <programme start="20260929120000 +0300" stop="20260929120500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929120500 +0300" stop="20260929123000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Bir Kitapta Okumuştum</title>
+  </programme>
+  <programme start="20260929123000 +0300" stop="20260929125500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">İnsan 360</title>
+  </programme>
+  <programme start="20260929125500 +0300" stop="20260929130000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929130000 +0300" stop="20260929130500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929130500 +0300" stop="20260929133500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Başka Haberler Merkezi</title>
+  </programme>
+  <programme start="20260929133500 +0300" stop="20260929140000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Sarmaşık</title>
+  </programme>
+  <programme start="20260929140000 +0300" stop="20260929140500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929140500 +0300" stop="20260929143500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Kanun Ne Diyor</title>
+  </programme>
+  <programme start="20260929143500 +0300" stop="20260929145000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Müzikle 15 Dakika</title>
+  </programme>
+  <programme start="20260929145000 +0300" stop="20260929145500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Oyunumuzun Başlamasına 5' Var</title>
+  </programme>
+  <programme start="20260929145500 +0300" stop="20260929150000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929150000 +0300" stop="20260929150500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929150500 +0300" stop="20260929154000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Kültür Otağı</title>
+  </programme>
+  <programme start="20260929154000 +0300" stop="20260929155000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Türk Başkentleri</title>
+  </programme>
+  <programme start="20260929155000 +0300" stop="20260929155500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929155500 +0300" stop="20260929160000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
+  </programme>
+  <programme start="20260929160000 +0300" stop="20260929160500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929160500 +0300" stop="20260929161500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Medeniyetler Geçidi</title>
+  </programme>
+  <programme start="20260929161500 +0300" stop="20260929165000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Gönülaydın</title>
+  </programme>
+  <programme start="20260929165000 +0300" stop="20260929170000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929170000 +0300" stop="20260929170500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929170500 +0300" stop="20260929173500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Küresel Analiz</title>
+  </programme>
+  <programme start="20260929173500 +0300" stop="20260929180500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Nağmeden Nağmeye</title>
+  </programme>
+  <programme start="20260929180500 +0300" stop="20260929185500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Günün Özeti</title>
+  </programme>
+  <programme start="20260929185500 +0300" stop="20260929190000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
+  </programme>
+  <programme start="20260929190000 +0300" stop="20260929192500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929192500 +0300" stop="20260929194500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Türkiye'nin Değerleri</title>
+  </programme>
+  <programme start="20260929194500 +0300" stop="20260929195500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Halk Sazlarından Ezgiler</title>
+  </programme>
+  <programme start="20260929195500 +0300" stop="20260929200000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929200000 +0300" stop="20260929202500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Atalardan Armağan</title>
+  </programme>
+  <programme start="20260929202500 +0300" stop="20260929205500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Şehir ve Modern</title>
+  </programme>
+  <programme start="20260929205500 +0300" stop="20260929210000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929210000 +0300" stop="20260929210500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929210500 +0300" stop="20260929212000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Evvel Zaman Gezgini</title>
+  </programme>
+  <programme start="20260929212000 +0300" stop="20260929212500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929212500 +0300" stop="20260929215500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Mikrofonda Doktor Var</title>
+  </programme>
+  <programme start="20260929215500 +0300" stop="20260929220000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Tanıtım / Kısa Belgesel</title>
+  </programme>
+  <programme start="20260929220000 +0300" stop="20260929230000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Akşamın Adresi</title>
+  </programme>
+  <programme start="20260929230000 +0300" stop="20260929231500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Haberler</title>
+  </programme>
+  <programme start="20260929231500 +0300" stop="20260929233500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Arkası Yarın</title>
+  </programme>
+  <programme start="20260929233500 +0300" stop="20260929235500 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
+    <title lang="tr">Türk Pop Müziği</title>
+  </programme>
+  <programme start="20260929235500 +0300" stop="20260930000000 +0300" channel="trt.radyo.turkiyenin-sesi-radyosu">
     <title lang="tr">Geçiş Müziği (Kısa Dalga Frekans Değişikliği)</title>
   </programme>
 </tv>
